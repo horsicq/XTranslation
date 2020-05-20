@@ -1,0 +1,723 @@
+<!DOCTYPE QPH>
+<QPH language="es_ES">
+<phrase>
+    <source>Binary</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Reload</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Readonly</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Labels</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Go to</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dump</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>ELF</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Entropy</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Process</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Go to address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Invalid</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Hex</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>LE</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>MACH</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>MSDOS</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>NE</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Options</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Scan after open</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save last directory</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Stay on top</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save backup</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Style</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Please restart the application</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>PE</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search from</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>String</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Match case</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Signature</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Endianness</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>char</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>short</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>int</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>int64</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>float</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>uchar</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>ushort</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>uint</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>uint64</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>double</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Begin</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cursor</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search strings</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Create view model</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Section</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Text documents</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save result</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Strings</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Memory map</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Detect</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>packed</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>not packed</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Form</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>msec</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recursive</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Deep Scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot save file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>MainWindow</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Tools</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Ctrl+O</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Ctrl+W</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Ctrl+Q</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>All files</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>It is not a valid PE file!</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot open the file!</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recursive scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Deep scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Heuristic scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Heuristic</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>HEX</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Overlay</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>commands</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>segments</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>sections</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>libraries</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Library</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Segments</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Resources</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Disasm</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Sections</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Calculate</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Selection</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Raw data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save dump</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dump to file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Find</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Find next</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select all</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy as hex</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Read error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Write error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot open file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Documents</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Images</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Export File Name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Maximum</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>ANSI</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unicode</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Filter</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Text files</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>IMAGE_SECTION_HEADER</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unknown</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Header</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Archive record</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Archive</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Certificate</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Compiler</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Converter</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Database</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Debug data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dongle protection</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>DOS extender</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Generic</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Image</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Installer</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Installer data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Joiner</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Linker</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>compressor</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>obfuscator</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Packer</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>PE tool</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Protector</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Protector data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>SFX</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>SFX data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Sign tool</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Source code</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Stub</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Tool</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Directory scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Device scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Result</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Flags</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bytes</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Opcode</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Go to offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Analize</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>To data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Segment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Total</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Status</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Regions</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Byte</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Count</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Virtual address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Relative virtual address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Mode</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Arch</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot add import section</source>
+    <target></target>
+</phrase>
+</QPH>
