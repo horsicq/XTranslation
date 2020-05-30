@@ -1,0 +1,623 @@
+<!DOCTYPE QPH>
+<QPH language="fr_FR">
+<phrase>
+    <source>Reload</source>
+    <target>Recharger</target>
+</phrase>
+<phrase>
+    <source>Readonly</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>About</source>
+    <target>À propos de DIE</target>
+</phrase>
+<phrase>
+    <source>OK</source>
+    <target>OK</target>
+</phrase>
+<phrase>
+    <source>Labels</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Go to</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Close</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Name</source>
+    <target>Nom</target>
+</phrase>
+<phrase>
+    <source>Address</source>
+    <target>Adresse</target>
+</phrase>
+<phrase>
+    <source>Dump</source>
+    <target>Dump</target>
+</phrase>
+<phrase>
+    <source>Cancel</source>
+    <target>Annuler</target>
+</phrase>
+<phrase>
+    <source>Error</source>
+    <target>Erreur</target>
+</phrase>
+<phrase>
+    <source>Entropy</source>
+    <target>Entropie</target>
+</phrase>
+<phrase>
+    <source>Process</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Go to address</source>
+    <target>Aller à l&apos;adresse</target>
+</phrase>
+<phrase>
+    <source>Go to offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Offset</source>
+    <target>Offset</target>
+</phrase>
+<phrase>
+    <source>Invalid</source>
+    <target>Invalide</target>
+</phrase>
+<phrase>
+    <source>Options</source>
+    <target>Options</target>
+</phrase>
+<phrase>
+    <source>Scan after open</source>
+    <target>Scan après ouverture</target>
+</phrase>
+<phrase>
+    <source>Save last directory</source>
+    <target>Sauvegarder le dernier répertoire</target>
+</phrase>
+<phrase>
+    <source>Stay on top</source>
+    <target>Rester au top</target>
+</phrase>
+<phrase>
+    <source>Save backup</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Style</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Information</source>
+    <target>Informations</target>
+</phrase>
+<phrase>
+    <source>Please restart the application</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Search</source>
+    <target>Chercher</target>
+</phrase>
+<phrase>
+    <source>Search from</source>
+    <target>Recherche à partir de</target>
+</phrase>
+<phrase>
+    <source>String</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Match case</source>
+    <target>Cas de correspondance</target>
+</phrase>
+<phrase>
+    <source>Signature</source>
+    <target>Signature</target>
+</phrase>
+<phrase>
+    <source>Value</source>
+    <target>Valeur</target>
+</phrase>
+<phrase>
+    <source>Endianness</source>
+    <target>Endianité</target>
+</phrase>
+<phrase>
+    <source>Begin</source>
+    <target>Commencer</target>
+</phrase>
+<phrase>
+    <source>Cursor</source>
+    <target>Curseur</target>
+</phrase>
+<phrase>
+    <source>Search strings</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Create view model</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Section</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Scan</source>
+    <target>Scanner</target>
+</phrase>
+<phrase>
+    <source>Text documents</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save result</source>
+    <target>Enregistrer le résultat</target>
+</phrase>
+<phrase>
+    <source>Strings</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Memory map</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Detect</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Edit</source>
+    <target>Éditer</target>
+</phrase>
+<phrase>
+    <source>packed</source>
+    <target>emballé</target>
+</phrase>
+<phrase>
+    <source>not packed</source>
+    <target>non emballée</target>
+</phrase>
+<phrase>
+    <source>Clear</source>
+    <target>Clair</target>
+</phrase>
+<phrase>
+    <source>Save</source>
+    <target>Sauvegarder</target>
+</phrase>
+<phrase>
+    <source>msec</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recursive</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Deep Scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot save file</source>
+    <target>Impossible d&apos;enregistrer le fichier</target>
+</phrase>
+<phrase>
+    <source>Type</source>
+    <target>Type</target>
+</phrase>
+<phrase>
+    <source>File</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Tools</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Help</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Open</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Exit</source>
+    <target>Sortie</target>
+</phrase>
+<phrase>
+    <source>Open file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>All files</source>
+    <target>Tous les fichiers</target>
+</phrase>
+<phrase>
+    <source>It is not a valid file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Recursive scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Deep scan</source>
+    <target>Analyse approfondie</target>
+</phrase>
+<phrase>
+    <source>Heuristic scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Heuristic</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Overlay</source>
+    <target>Superposition</target>
+</phrase>
+<phrase>
+    <source>Commands</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Segments</source>
+    <target>Segments</target>
+</phrase>
+<phrase>
+    <source>Sections</source>
+    <target>Sections</target>
+</phrase>
+<phrase>
+    <source>Libraries</source>
+    <target>Bibliothèques</target>
+</phrase>
+<phrase>
+    <source>Library</source>
+    <target>Bibliothèque</target>
+</phrase>
+<phrase>
+    <source>Resources</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Disasm</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Calculate</source>
+    <target>Calculer</target>
+</phrase>
+<phrase>
+    <source>Selection</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Size</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Raw data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save dump</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Dump to file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Find</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Find next</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Select</source>
+    <target>Sélectionnez</target>
+</phrase>
+<phrase>
+    <source>Select all</source>
+    <target>Sélectionner tout</target>
+</phrase>
+<phrase>
+    <source>Copy</source>
+    <target>Copie</target>
+</phrase>
+<phrase>
+    <source>Copy as hex</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Read error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Write error</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Cannot open file</source>
+    <target>Ne peut pas ouvrir le fichier</target>
+</phrase>
+<phrase>
+    <source>Documents</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Images</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Export file name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Maximum</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Filter</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Save file</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Text files</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy size</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Unknown</source>
+    <target>Inconnu</target>
+</phrase>
+<phrase>
+    <source>Header</source>
+    <target>En-tête</target>
+</phrase>
+<phrase>
+    <source>Archive record</source>
+    <target>Enregistrement d&apos;archive</target>
+</phrase>
+<phrase>
+    <source>Archive</source>
+    <target>Archive</target>
+</phrase>
+<phrase>
+    <source>Certificate</source>
+    <target>Certificat</target>
+</phrase>
+<phrase>
+    <source>Compiler</source>
+    <target>Compilateur</target>
+</phrase>
+<phrase>
+    <source>Converter</source>
+    <target>Convertisseur</target>
+</phrase>
+<phrase>
+    <source>Database</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Debug data</source>
+    <target>Données de débogage</target>
+</phrase>
+<phrase>
+    <source>protection</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>extender</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Format</source>
+    <target>Format</target>
+</phrase>
+<phrase>
+    <source>Generic</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Image</source>
+    <target>Image</target>
+</phrase>
+<phrase>
+    <source>Installer</source>
+    <target>Installateur</target>
+</phrase>
+<phrase>
+    <source>Installer data</source>
+    <target>Données de l&apos;installateur</target>
+</phrase>
+<phrase>
+    <source>Joiner</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Linker</source>
+    <target>Linker</target>
+</phrase>
+<phrase>
+    <source>compressor</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>obfuscator</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Packer</source>
+    <target>Packer</target>
+</phrase>
+<phrase>
+    <source>tool</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Protector</source>
+    <target>Protecteur</target>
+</phrase>
+<phrase>
+    <source>Protector data</source>
+    <target>Données sur le protecteur</target>
+</phrase>
+<phrase>
+    <source>data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Sign tool</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Source code</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Stub</source>
+    <target>Stub</target>
+</phrase>
+<phrase>
+    <source>Tool</source>
+    <target>Outil</target>
+</phrase>
+<phrase>
+    <source>Entry point</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Section name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Code section</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Entry point section</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>File scan</source>
+    <target>Analyse des fichiers</target>
+</phrase>
+<phrase>
+    <source>Directory scan</source>
+    <target>Analyse des répertoires</target>
+</phrase>
+<phrase>
+    <source>Device scan</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Result</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Flags</source>
+    <target>Drapeaux</target>
+</phrase>
+<phrase>
+    <source>Label</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Bytes</source>
+    <target>Bytes</target>
+</phrase>
+<phrase>
+    <source>Opcode</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Analyze</source>
+    <target>Analyser</target>
+</phrase>
+<phrase>
+    <source>To data</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Segment</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Total</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Status</source>
+    <target>Statut</target>
+</phrase>
+<phrase>
+    <source>Regions</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Byte</source>
+    <target>Byte</target>
+</phrase>
+<phrase>
+    <source>Count</source>
+    <target>Compte</target>
+</phrase>
+<phrase>
+    <source>File offset</source>
+    <target>Fichier offset</target>
+</phrase>
+<phrase>
+    <source>Virtual address</source>
+    <target>Adresse virtuelle</target>
+</phrase>
+<phrase>
+    <source>Relative virtual address</source>
+    <target>Adresse virtuelle relative</target>
+</phrase>
+<phrase>
+    <source>Mode</source>
+    <target>Mode</target>
+</phrase>
+<phrase>
+    <source>Architecture</source>
+    <target>Architecture</target>
+</phrase>
+</QPH>
