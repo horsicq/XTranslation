@@ -6,7 +6,7 @@
 </phrase>
 <phrase>
     <source>Readonly</source>
-    <target></target>
+    <target>Lecture seulement</target>
 </phrase>
 <phrase>
     <source>About</source>
@@ -18,11 +18,11 @@
 </phrase>
 <phrase>
     <source>Labels</source>
-    <target></target>
+    <target>Étiquettes</target>
 </phrase>
 <phrase>
     <source>Go to</source>
-    <target></target>
+    <target>Aller à</target>
 </phrase>
 <phrase>
     <source>Close</source>
@@ -54,7 +54,7 @@
 </phrase>
 <phrase>
     <source>Process</source>
-    <target></target>
+    <target>Processus</target>
 </phrase>
 <phrase>
     <source>Go to address</source>
@@ -62,7 +62,7 @@
 </phrase>
 <phrase>
     <source>Go to offset</source>
-    <target></target>
+    <target>Aller au décalage</target>
 </phrase>
 <phrase>
     <source>Offset</source>
@@ -90,7 +90,7 @@
 </phrase>
 <phrase>
     <source>Save backup</source>
-    <target></target>
+    <target>Sauvegarder la sauvegarde</target>
 </phrase>
 <phrase>
     <source>Style</source>
@@ -102,7 +102,7 @@
 </phrase>
 <phrase>
     <source>Please restart the application</source>
-    <target></target>
+    <target>Veuillez redémarrer l&apos;application</target>
 </phrase>
 <phrase>
     <source>Search</source>
@@ -142,7 +142,7 @@
 </phrase>
 <phrase>
     <source>Search strings</source>
-    <target></target>
+    <target>Rechercher des chaînes</target>
 </phrase>
 <phrase>
     <source>Create view model</source>
@@ -150,7 +150,7 @@
 </phrase>
 <phrase>
     <source>Section</source>
-    <target></target>
+    <target>Section</target>
 </phrase>
 <phrase>
     <source>Scan</source>
@@ -202,7 +202,7 @@
 </phrase>
 <phrase>
     <source>Recursive</source>
-    <target></target>
+    <target>Récursif</target>
 </phrase>
 <phrase>
     <source>Cannot save file</source>
@@ -222,11 +222,11 @@
 </phrase>
 <phrase>
     <source>Help</source>
-    <target></target>
+    <target>Aidez-moi</target>
 </phrase>
 <phrase>
     <source>Open</source>
-    <target></target>
+    <target>Ouvrir</target>
 </phrase>
 <phrase>
     <source>Exit</source>
@@ -234,7 +234,7 @@
 </phrase>
 <phrase>
     <source>Open file</source>
-    <target></target>
+    <target>Fichier ouvert</target>
 </phrase>
 <phrase>
     <source>All files</source>
@@ -242,7 +242,7 @@
 </phrase>
 <phrase>
     <source>It is not a valid file</source>
-    <target></target>
+    <target>Ce n&apos;est pas un fichier valide</target>
 </phrase>
 <phrase>
     <source>Cannot open file</source>
@@ -250,7 +250,7 @@
 </phrase>
 <phrase>
     <source>Recursive scan</source>
-    <target></target>
+    <target>Balayage récursif</target>
 </phrase>
 <phrase>
     <source>Deep scan</source>
@@ -306,7 +306,7 @@
 </phrase>
 <phrase>
     <source>Size</source>
-    <target></target>
+    <target>Taille</target>
 </phrase>
 <phrase>
     <source>Raw data</source>
@@ -314,7 +314,7 @@
 </phrase>
 <phrase>
     <source>Save dump</source>
-    <target></target>
+    <target>Enregistrer le vidage</target>
 </phrase>
 <phrase>
     <source>Dump to file</source>
@@ -322,7 +322,7 @@
 </phrase>
 <phrase>
     <source>Find</source>
-    <target></target>
+    <target>Trouver</target>
 </phrase>
 <phrase>
     <source>Find next</source>
@@ -346,7 +346,7 @@
 </phrase>
 <phrase>
     <source>Read error</source>
-    <target></target>
+    <target>Erreur de lecture</target>
 </phrase>
 <phrase>
     <source>Write error</source>
@@ -370,7 +370,7 @@
 </phrase>
 <phrase>
     <source>Filter</source>
-    <target></target>
+    <target>Filtre</target>
 </phrase>
 <phrase>
     <source>Save file</source>
@@ -538,7 +538,7 @@
 </phrase>
 <phrase>
     <source>Result</source>
-    <target></target>
+    <target>Résultat</target>
 </phrase>
 <phrase>
     <source>Flags</source>
@@ -554,7 +554,7 @@
 </phrase>
 <phrase>
     <source>Opcode</source>
-    <target></target>
+    <target>Opcode</target>
 </phrase>
 <phrase>
     <source>Analyze</source>
@@ -578,7 +578,7 @@
 </phrase>
 <phrase>
     <source>Regions</source>
-    <target></target>
+    <target>Régions</target>
 </phrase>
 <phrase>
     <source>Byte</source>

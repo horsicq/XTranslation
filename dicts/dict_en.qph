@@ -1,10 +1,6 @@
 <!DOCTYPE QPH>
 <QPH language="en_US">
 <phrase>
-    <source>Binary</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Reload</source>
     <target></target>
 </phrase>
@@ -53,10 +49,6 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>ELF</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Entropy</source>
     <target></target>
 </phrase>
@@ -69,35 +61,15 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>address</source>
+    <source>Go to offset</source>
     <target></target>
 </phrase>
 <phrase>
-    <source>offset</source>
+    <source>Offset</source>
     <target></target>
 </phrase>
 <phrase>
     <source>Invalid</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Hex</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>LE</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>MACH</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>MSDOS</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>NE</source>
     <target></target>
 </phrase>
 <phrase>
@@ -133,10 +105,6 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>PE</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Search</source>
     <target></target>
 </phrase>
@@ -162,46 +130,6 @@
 </phrase>
 <phrase>
     <source>Endianness</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>char</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>short</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>int</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>int64</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>float</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>uchar</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>ushort</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>uint</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>uint64</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>double</source>
     <target></target>
 </phrase>
 <phrase>
@@ -261,10 +189,6 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Form</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Clear</source>
     <target></target>
 </phrase>
@@ -281,7 +205,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Deep Scan</source>
+    <source>Deep scan</source>
     <target></target>
 </phrase>
 <phrase>
@@ -289,15 +213,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Offset</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Type</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>MainWindow</source>
     <target></target>
 </phrase>
 <phrase>
@@ -317,19 +233,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Ctrl+O</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Ctrl+W</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Exit</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Ctrl+Q</source>
     <target></target>
 </phrase>
 <phrase>
@@ -341,19 +245,15 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>It is not a valid PE file!</source>
+    <source>It is not a valid file</source>
     <target></target>
 </phrase>
 <phrase>
-    <source>Cannot open the file!</source>
+    <source>Cannot open file</source>
     <target></target>
 </phrase>
 <phrase>
     <source>Recursive scan</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Deep scan</source>
     <target></target>
 </phrase>
 <phrase>
@@ -365,35 +265,27 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>HEX</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Overlay</source>
     <target></target>
 </phrase>
 <phrase>
-    <source>commands</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>segments</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>sections</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>libraries</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Library</source>
+    <source>Commands</source>
     <target></target>
 </phrase>
 <phrase>
     <source>Segments</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Sections</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Libraries</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Library</source>
     <target></target>
 </phrase>
 <phrase>
@@ -402,10 +294,6 @@
 </phrase>
 <phrase>
     <source>Disasm</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Sections</source>
     <target></target>
 </phrase>
 <phrase>
@@ -465,10 +353,6 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Cannot open file</source>
-    <target></target>
-</phrase>
-<phrase>
     <source>Documents</source>
     <target></target>
 </phrase>
@@ -477,19 +361,11 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Export File Name</source>
+    <source>Export file name</source>
     <target></target>
 </phrase>
 <phrase>
     <source>Maximum</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>ANSI</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Unicode</source>
     <target></target>
 </phrase>
 <phrase>
@@ -505,7 +381,19 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>IMAGE_SECTION_HEADER</source>
+    <source>Copy string</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy address</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy offset</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Copy size</source>
     <target></target>
 </phrase>
 <phrase>
@@ -545,11 +433,11 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Dongle protection</source>
+    <source>protection</source>
     <target></target>
 </phrase>
 <phrase>
-    <source>DOS extender</source>
+    <source>extender</source>
     <target></target>
 </phrase>
 <phrase>
@@ -593,7 +481,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>PE tool</source>
+    <source>Tool</source>
     <target></target>
 </phrase>
 <phrase>
@@ -605,11 +493,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>SFX</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>SFX data</source>
+    <source>data</source>
     <target></target>
 </phrase>
 <phrase>
@@ -625,7 +509,19 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Tool</source>
+    <source>Entry point</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Section name</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Code section</source>
+    <target></target>
+</phrase>
+<phrase>
+    <source>Entry point section</source>
     <target></target>
 </phrase>
 <phrase>
@@ -661,11 +557,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Go to offset</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Analize</source>
+    <source>Analyze</source>
     <target></target>
 </phrase>
 <phrase>
@@ -713,11 +605,7 @@
     <target></target>
 </phrase>
 <phrase>
-    <source>Arch</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Cannot add import section</source>
+    <source>Architecture</source>
     <target></target>
 </phrase>
 </QPH>
