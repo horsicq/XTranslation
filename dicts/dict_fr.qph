@@ -26,7 +26,7 @@
 </phrase>
 <phrase>
     <source>Close</source>
-    <target></target>
+    <target>Fermer</target>
 </phrase>
 <phrase>
     <source>Name</source>
@@ -94,7 +94,7 @@
 </phrase>
 <phrase>
     <source>Style</source>
-    <target></target>
+    <target>Style</target>
 </phrase>
 <phrase>
     <source>Information</source>
@@ -114,7 +114,7 @@
 </phrase>
 <phrase>
     <source>String</source>
-    <target></target>
+    <target>Chaîne</target>
 </phrase>
 <phrase>
     <source>Match case</source>
@@ -146,7 +146,7 @@
 </phrase>
 <phrase>
     <source>Create view model</source>
-    <target></target>
+    <target>Créer un modèle de vue</target>
 </phrase>
 <phrase>
     <source>Section</source>
@@ -158,7 +158,7 @@
 </phrase>
 <phrase>
     <source>Text documents</source>
-    <target></target>
+    <target>Documents texte</target>
 </phrase>
 <phrase>
     <source>Save result</source>
@@ -166,15 +166,15 @@
 </phrase>
 <phrase>
     <source>Strings</source>
-    <target></target>
+    <target>Cordes</target>
 </phrase>
 <phrase>
     <source>Memory map</source>
-    <target></target>
+    <target>Carte mémoire</target>
 </phrase>
 <phrase>
     <source>Detect</source>
-    <target></target>
+    <target>Détecter</target>
 </phrase>
 <phrase>
     <source>Edit</source>
@@ -198,14 +198,10 @@
 </phrase>
 <phrase>
     <source>msec</source>
-    <target></target>
+    <target>msec</target>
 </phrase>
 <phrase>
     <source>Recursive</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Deep Scan</source>
     <target></target>
 </phrase>
 <phrase>
@@ -218,11 +214,11 @@
 </phrase>
 <phrase>
     <source>File</source>
-    <target></target>
+    <target>Fichier</target>
 </phrase>
 <phrase>
     <source>Tools</source>
-    <target></target>
+    <target>Outils</target>
 </phrase>
 <phrase>
     <source>Help</source>
@@ -249,6 +245,10 @@
     <target></target>
 </phrase>
 <phrase>
+    <source>Cannot open file</source>
+    <target>Ne peut pas ouvrir le fichier</target>
+</phrase>
+<phrase>
     <source>Recursive scan</source>
     <target></target>
 </phrase>
@@ -270,7 +270,7 @@
 </phrase>
 <phrase>
     <source>Commands</source>
-    <target></target>
+    <target>Commandes</target>
 </phrase>
 <phrase>
     <source>Segments</source>
@@ -294,7 +294,7 @@
 </phrase>
 <phrase>
     <source>Disasm</source>
-    <target></target>
+    <target>Disasm</target>
 </phrase>
 <phrase>
     <source>Calculate</source>
@@ -318,7 +318,7 @@
 </phrase>
 <phrase>
     <source>Dump to file</source>
-    <target></target>
+    <target>Vider dans un fichier</target>
 </phrase>
 <phrase>
     <source>Find</source>
@@ -342,7 +342,7 @@
 </phrase>
 <phrase>
     <source>Copy as hex</source>
-    <target></target>
+    <target>Copier en hexadécimal</target>
 </phrase>
 <phrase>
     <source>Read error</source>
@@ -350,15 +350,11 @@
 </phrase>
 <phrase>
     <source>Write error</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>Cannot open file</source>
-    <target>Ne peut pas ouvrir le fichier</target>
+    <target>Erreur d&apos;écriture</target>
 </phrase>
 <phrase>
     <source>Documents</source>
-    <target></target>
+    <target>Les documents</target>
 </phrase>
 <phrase>
     <source>Images</source>
@@ -366,11 +362,11 @@
 </phrase>
 <phrase>
     <source>Export file name</source>
-    <target></target>
+    <target>Exporter le nom du fichier</target>
 </phrase>
 <phrase>
     <source>Maximum</source>
-    <target></target>
+    <target>Maximum</target>
 </phrase>
 <phrase>
     <source>Filter</source>
@@ -382,23 +378,23 @@
 </phrase>
 <phrase>
     <source>Text files</source>
-    <target></target>
+    <target>Fichiers texte</target>
 </phrase>
 <phrase>
     <source>Copy string</source>
-    <target></target>
+    <target>Copier la chaîne</target>
 </phrase>
 <phrase>
     <source>Copy address</source>
-    <target></target>
+    <target>Copier l&apos;adresse</target>
 </phrase>
 <phrase>
     <source>Copy offset</source>
-    <target></target>
+    <target>Copie offset</target>
 </phrase>
 <phrase>
     <source>Copy size</source>
-    <target></target>
+    <target>Copier une taille</target>
 </phrase>
 <phrase>
     <source>Unknown</source>
@@ -430,7 +426,7 @@
 </phrase>
 <phrase>
     <source>Database</source>
-    <target></target>
+    <target>Base de données</target>
 </phrase>
 <phrase>
     <source>Debug data</source>
@@ -442,7 +438,7 @@
 </phrase>
 <phrase>
     <source>extender</source>
-    <target></target>
+    <target>extenseur</target>
 </phrase>
 <phrase>
     <source>Format</source>
@@ -474,7 +470,7 @@
 </phrase>
 <phrase>
     <source>compressor</source>
-    <target></target>
+    <target>compresseur</target>
 </phrase>
 <phrase>
     <source>obfuscator</source>
@@ -485,8 +481,8 @@
     <target>Packer</target>
 </phrase>
 <phrase>
-    <source>tool</source>
-    <target></target>
+    <source>Tool</source>
+    <target>Outil</target>
 </phrase>
 <phrase>
     <source>Protector</source>
@@ -498,7 +494,7 @@
 </phrase>
 <phrase>
     <source>data</source>
-    <target></target>
+    <target>Les données</target>
 </phrase>
 <phrase>
     <source>Sign tool</source>
@@ -513,12 +509,8 @@
     <target>Stub</target>
 </phrase>
 <phrase>
-    <source>Tool</source>
-    <target>Outil</target>
-</phrase>
-<phrase>
     <source>Entry point</source>
-    <target></target>
+    <target>Point d&apos;accès</target>
 </phrase>
 <phrase>
     <source>Section name</source>
@@ -526,15 +518,11 @@
 </phrase>
 <phrase>
     <source>Code section</source>
-    <target></target>
+    <target>Section de code</target>
 </phrase>
 <phrase>
     <source>Entry point section</source>
-    <target></target>
-</phrase>
-<phrase>
-    <source>string</source>
-    <target></target>
+    <target>Section du point d&apos;entrée</target>
 </phrase>
 <phrase>
     <source>File scan</source>
@@ -546,7 +534,7 @@
 </phrase>
 <phrase>
     <source>Device scan</source>
-    <target></target>
+    <target>Analyse de l&apos;appareil</target>
 </phrase>
 <phrase>
     <source>Result</source>
@@ -582,7 +570,7 @@
 </phrase>
 <phrase>
     <source>Total</source>
-    <target></target>
+    <target>Total</target>
 </phrase>
 <phrase>
     <source>Status</source>
