@@ -462,3 +462,9 @@ msgstr ""
 
 msgid "Architecture"
 msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Tree"
+msgstr ""
