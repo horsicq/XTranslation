@@ -1,0 +1,471 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: vi_VN\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+
+msgid "Reload"
+msgstr "Tải lại"
+
+msgid "Readonly"
+msgstr "Chỉ đọc"
+
+msgid "About"
+msgstr "Giới thiệu"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Labels"
+msgstr "Nhãn"
+
+msgid "Go to"
+msgstr "Đi tới"
+
+msgid "Close"
+msgstr "Đóng"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Dump"
+msgstr "Kết xuất"
+
+msgid "Cancel"
+msgstr "Hủy"
+
+msgid "Error"
+msgstr "Lỗi"
+
+msgid "Entropy"
+msgstr "Nhiễu loạn"
+
+msgid "Process"
+msgstr "Xử lý"
+
+msgid "Go to address"
+msgstr "Đi tới địa chỉ"
+
+msgid "Go to offset"
+msgstr "Đi tới độ lệch"
+
+msgid "Offset"
+msgstr "Độ lệch"
+
+msgid "Invalid"
+msgstr "Không hợp lệ"
+
+msgid "Options"
+msgstr "Tùy chọn"
+
+msgid "Scan after open"
+msgstr "Quét sau khi mở"
+
+msgid "Save last directory"
+msgstr "Lưu thư mục cuối"
+
+msgid "Stay on top"
+msgstr "Ở trên đầu"
+
+msgid "Save backup"
+msgstr "Lưu sao lưu"
+
+msgid "Style"
+msgstr "Kiểu"
+
+msgid "Information"
+msgstr "Thông tin"
+
+msgid "Please restart the application"
+msgstr "Vui lòng khởi động lại ứng dụng"
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+msgid "Search from"
+msgstr "Tìm kiếm từ"
+
+msgid "String"
+msgstr "Chuỗi"
+
+msgid "Match case"
+msgstr "Trường hợp phù hợp"
+
+msgid "Signature"
+msgstr "Chữ ký"
+
+msgid "Value"
+msgstr "Giá trị"
+
+msgid "Endianness"
+msgstr "Thứ tự các byte"
+
+msgid "Begin"
+msgstr "Bắt đầu"
+
+msgid "Cursor"
+msgstr "Con trỏ"
+
+msgid "Search strings"
+msgstr "Tìm kiếm chuỗi"
+
+msgid "Create view model"
+msgstr "Tạo mẫu  xem"
+
+msgid "Section"
+msgstr "Mục"
+
+msgid "Scan"
+msgstr "Quét"
+
+msgid "Text documents"
+msgstr "Tài liệu văn bản"
+
+msgid "Save result"
+msgstr "Lưu kết quả"
+
+msgid "Strings"
+msgstr "Chuỗi"
+
+msgid "Memory map"
+msgstr "Sơ đồ bộ nhớ"
+
+msgid "Detect"
+msgstr "Phát hiện"
+
+msgid "Edit"
+msgstr "Sửa"
+
+msgid "packed"
+msgstr "nén"
+
+msgid "not packed"
+msgstr "chưa nén"
+
+msgid "Clear"
+msgstr "Xóa"
+
+msgid "Save"
+msgstr "Lưu"
+
+msgid "msec"
+msgstr "mili-giây"
+
+msgid "Recursive"
+msgstr "Đệ quy"
+
+msgid "Deep scan"
+msgstr "Quét sâu"
+
+msgid "Cannot save file"
+msgstr "Không thể lưu tập tin"
+
+msgid "Type"
+msgstr "Loại"
+
+msgid "File"
+msgstr "Tập tin"
+
+msgid "Tools"
+msgstr "Công cụ"
+
+msgid "Help"
+msgstr "Trợ giúp"
+
+msgid "Open"
+msgstr "Mở"
+
+msgid "Exit"
+msgstr "Thoát"
+
+msgid "Open file"
+msgstr "Mở tập tin"
+
+msgid "All files"
+msgstr "Tất cả tập tin"
+
+msgid "It is not a valid file"
+msgstr "Không phải tập tin hợp lệ"
+
+msgid "Cannot open file"
+msgstr "Không thể mở tập tin"
+
+msgid "Recursive scan"
+msgstr "Quét đệ quy"
+
+msgid "Heuristic scan"
+msgstr "Quét phỏng đoán"
+
+msgid "Heuristic"
+msgstr "Phỏng đoán"
+
+msgid "Overlay"
+msgstr "Che phủ"
+
+msgid "Commands"
+msgstr "Lệnh"
+
+msgid "Segments"
+msgstr "Phân khúc"
+
+msgid "Sections"
+msgstr "Mục"
+
+msgid "Libraries"
+msgstr "Thư viện"
+
+msgid "Library"
+msgstr "Thư viện"
+
+msgid "Resources"
+msgstr "Tài nguyên"
+
+msgid "Disasm"
+msgstr "Rối loạn"
+
+msgid "Calculate"
+msgstr "Tính toán"
+
+msgid "Selection"
+msgstr "Lựa chọn"
+
+msgid "Size"
+msgstr "Kích thước"
+
+msgid "Raw data"
+msgstr "Dữ lieu thô"
+
+msgid "Save dump"
+msgstr "Lưu kết xuất"
+
+msgid "Dump to file"
+msgstr "Kết xuất ra tập tin"
+
+msgid "Find"
+msgstr "Tìm kiếm"
+
+msgid "Find next"
+msgstr "Tìm kiếm tiếp theo"
+
+msgid "Select"
+msgstr "Chọn"
+
+msgid "Select all"
+msgstr "Chọn tất cả"
+
+msgid "Copy"
+msgstr "Sao chép"
+
+msgid "Copy as hex"
+msgstr "Sao chép dưới dạng hex"
+
+msgid "Read error"
+msgstr "Đọc lỗi"
+
+msgid "Write error"
+msgstr "Ghi lỗi"
+
+msgid "Documents"
+msgstr "Tài liệu"
+
+msgid "Images"
+msgstr "Hình ảnh"
+
+msgid "Export file name"
+msgstr "Xuất tên tập tin"
+
+msgid "Maximum"
+msgstr "Tối đa"
+
+msgid "Filter"
+msgstr "Bộ lọc"
+
+msgid "Save file"
+msgstr "Lưu tập tin"
+
+msgid "Text files"
+msgstr "Tập tin văn bản"
+
+msgid "Copy string"
+msgstr "Sao chép chuỗi"
+
+msgid "Copy address"
+msgstr "Sao chép địa chỉ"
+
+msgid "Copy offset"
+msgstr "Sao chép độ lệch"
+
+msgid "Copy size"
+msgstr "Sao chép kích thước"
+
+msgid "Unknown"
+msgstr "Không rõ"
+
+msgid "Header"
+msgstr "Tiêu đề"
+
+msgid "Archive record"
+msgstr "Bản ghi lưu trữ"
+
+msgid "Archive"
+msgstr "Lưu trữ"
+
+msgid "Certificate"
+msgstr "Chứng nhận"
+
+msgid "Compiler"
+msgstr "Trình biên dịch"
+
+msgid "Converter"
+msgstr "Bộ chuyển đổi"
+
+msgid "Database"
+msgstr "Cơ sở dữ liệu"
+
+msgid "Debug data"
+msgstr "Gỡ lỗi dữ liệu"
+
+msgid "protection"
+msgstr "bảo vệ"
+
+msgid "extender"
+msgstr "bộ mở rộng"
+
+msgid "Format"
+msgstr "Định dạng"
+
+msgid "Generic"
+msgstr "Chung"
+
+msgid "Image"
+msgstr "Hình ảnh"
+
+msgid "Installer"
+msgstr "Trình cài đặt"
+
+msgid "Installer data"
+msgstr "Dữ liệu trình cài đặt"
+
+msgid "Joiner"
+msgstr "Trình kết hợp"
+
+msgid "Linker"
+msgstr "Trình liên kết"
+
+msgid "compressor"
+msgstr "bộ nén"
+
+msgid "obfuscator"
+msgstr "trình làm rối"
+
+msgid "Packer"
+msgstr "Bộ đóng gói"
+
+msgid "Tool"
+msgstr "Công cụ"
+
+msgid "Protector"
+msgstr "Trình bảo vệ"
+
+msgid "Protector data"
+msgstr "Dữ liệu trình bảo vệ"
+
+msgid "data"
+msgstr "dữ liệu"
+
+msgid "Sign tool"
+msgstr "Công cụ ký"
+
+msgid "Source code"
+msgstr "Mã nguồn"
+
+msgid "Stub"
+msgstr "Nhánh cụt"
+
+msgid "Entry point"
+msgstr "Điểm nhập"
+
+msgid "Section name"
+msgstr "Tên mục"
+
+msgid "Code section"
+msgstr "Mục mã"
+
+msgid "Entry point section"
+msgstr "Mục điểm nhập"
+
+msgid "File scan"
+msgstr "Quét tập tin"
+
+msgid "Directory scan"
+msgstr "Quét thư mục"
+
+msgid "Device scan"
+msgstr "Quét thiết bị"
+
+msgid "Result"
+msgstr "Kết quả"
+
+msgid "Flags"
+msgstr "Cờ"
+
+msgid "Label"
+msgstr "Nhãn"
+
+msgid "Bytes"
+msgstr "Byte"
+
+msgid "Opcode"
+msgstr "Mã vận hành"
+
+msgid "Analyze"
+msgstr "Phân tích"
+
+msgid "To data"
+msgstr "Tới dữ liệu"
+
+msgid "Segment"
+msgstr "Đoạn"
+
+msgid "Total"
+msgstr "Tổng"
+
+msgid "Status"
+msgstr "Trạng thái"
+
+msgid "Regions"
+msgstr "Vùng"
+
+msgid "Byte"
+msgstr "Byte"
+
+msgid "Count"
+msgstr "Đếm"
+
+msgid "File offset"
+msgstr "Độ lệch tập tin"
+
+msgid "Virtual address"
+msgstr "Địa chỉ ảo"
+
+msgid "Relative virtual address"
+msgstr "Địa chỉ ảo tương đối"
+
+msgid "Mode"
+msgstr "Chế độ"
+
+msgid "Architecture"
+msgstr "Kiến trúc"
+
+msgid "Table"
+msgstr "Bảng"
+
+msgid "Tree"
+msgstr "Cây"
