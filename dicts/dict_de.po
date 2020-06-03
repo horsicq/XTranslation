@@ -14,7 +14,7 @@ msgid "Readonly"
 msgstr ""
 
 msgid "About"
-msgstr "Über DIE"
+msgstr "Über"
 
 msgid "OK"
 msgstr "OK"
