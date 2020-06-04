@@ -14,7 +14,7 @@ msgid "Readonly"
 msgstr ""
 
 msgid "About"
-msgstr "Über"
+msgstr "Über DIE"
 
 msgid "OK"
 msgstr "OK"
@@ -462,3 +462,6 @@ msgstr "Modus"
 
 msgid "Architecture"
 msgstr ""
+
+msgid "Language"
+msgstr "Sprache"

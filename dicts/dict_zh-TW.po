@@ -469,3 +469,6 @@ msgstr "表"
 
 msgid "Tree"
 msgstr "樹"
+
+msgid "Language"
+msgstr "語言"
