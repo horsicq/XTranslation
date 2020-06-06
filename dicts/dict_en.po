@@ -55,6 +55,9 @@ msgstr ""
 msgid "Go to offset"
 msgstr ""
 
+msgid "Go to"
+msgstr ""
+
 msgid "Offset"
 msgstr ""
 

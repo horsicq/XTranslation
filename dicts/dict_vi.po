@@ -56,6 +56,9 @@ msgstr "Đi tới địa chỉ"
 msgid "Go to offset"
 msgstr "Đi tới độ lệch"
 
+msgid "Go to"
+msgstr "Đi tới"
+
 msgid "Offset"
 msgstr "Độ lệch"
 
