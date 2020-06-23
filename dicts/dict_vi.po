@@ -6,7 +6,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: vi_VN\n"
 "X-Source-Language: C\n"
-"X-Qt-Contexts: true\n"
 
 msgid "Reload"
 msgstr "Tải lại"
@@ -55,9 +54,6 @@ msgstr "Đi tới địa chỉ"
 
 msgid "Go to offset"
 msgstr "Đi tới độ lệch"
-
-msgid "Go to"
-msgstr "Đi tới"
 
 msgid "Offset"
 msgstr "Độ lệch"

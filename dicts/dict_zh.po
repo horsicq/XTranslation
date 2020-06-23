@@ -6,7 +6,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_CN\n"
 "X-Source-Language: C\n"
-"X-Qt-Contexts: true\n"
 
 msgid "Reload"
 msgstr "重新加载"
@@ -55,9 +54,6 @@ msgstr "进入地址"
 
 msgid "Go to offset"
 msgstr "转到偏移"
-
-msgid "Go to"
-msgstr "去"
 
 msgid "Offset"
 msgstr "偏移"
