@@ -227,7 +227,7 @@ msgid "Resources"
 msgstr "资源"
 
 msgid "Disasm"
-msgstr "灾难"
+msgstr "反汇编"
 
 msgid "Calculate"
 msgstr "计算"
