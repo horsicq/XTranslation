@@ -3,69 +3,69 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: zh_CN\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: fr_FR\n"
 "X-Source-Language: C\n"
 
 msgid "Reload"
-msgstr "重新加载"
+msgstr "Recharger"
 
 msgid "Readonly"
-msgstr "只读"
+msgstr ""
 
 msgid "Signatures"
-msgstr "签名"
+msgstr "Signatures"
 
 msgid "Deep scan"
-msgstr "深度扫描"
+msgstr "Analyse approfondie"
 
 msgid "Log"
-msgstr "日志"
+msgstr "Journal"
 
 msgid "Scan"
-msgstr "扫描"
+msgstr "Scanner"
 
 msgid "Stop"
-msgstr "停止"
+msgstr "Stop"
 
 msgid "msec"
-msgstr "毫秒"
+msgstr ""
 
 msgid "About"
-msgstr "关于"
+msgstr "À propos de DIE"
 
 msgid "Donate"
 msgstr ""
 
 msgid "Thanks"
-msgstr "致谢名单"
+msgstr "Merci"
 
 msgid "Libraries"
-msgstr "库"
+msgstr "Bibliothèques"
 
 msgid "Check updates"
 msgstr ""
 
 msgid "OK"
-msgstr "确定"
+msgstr "OK"
 
 msgid "Disasm"
-msgstr "反汇编"
+msgstr ""
 
 msgid "Close"
-msgstr "关闭"
+msgstr ""
 
 msgid "Labels"
-msgstr "标签"
+msgstr ""
 
 msgid "Go to"
-msgstr "进入"
+msgstr ""
 
 msgid "Name"
-msgstr "姓名"
+msgstr "Nom"
 
 msgid "Address"
-msgstr "地址"
+msgstr "Adresse"
 
 msgid "Opcodes"
 msgstr ""
@@ -83,487 +83,487 @@ msgid "Ref from"
 msgstr ""
 
 msgid "Cancel"
-msgstr "取消"
+msgstr "Annuler"
 
 msgid "Dump"
-msgstr "转储"
+msgstr "Dump"
 
 msgid "Error"
-msgstr "错误"
+msgstr "Erreur"
 
 msgid "Entropy"
-msgstr "信息熵"
+msgstr "Entropie"
 
 msgid "Process"
-msgstr "处理"
+msgstr ""
 
 msgid "Go to address"
-msgstr "进入地址"
+msgstr "Aller à l'adresse"
 
 msgid "Virtual address"
-msgstr "虚拟地址"
+msgstr "Adresse virtuelle"
 
 msgid "Value"
-msgstr "值"
+msgstr "Valeur"
 
 msgid "File offset"
-msgstr "文件偏移"
+msgstr "Fichier offset"
 
 msgid "Relative virtual address"
-msgstr "相关虚拟地址"
+msgstr "Adresse virtuelle relative"
 
 msgid "Invalid"
-msgstr "无效"
+msgstr "Invalide"
 
 msgid "Hash"
 msgstr ""
 
 msgid "Signature"
-msgstr "签名"
+msgstr "Signature"
 
 msgid "Spaces"
-msgstr "空格"
+msgstr "Espaces"
 
 msgid "Upper"
-msgstr "上位"
+msgstr "Haut de page"
 
 msgid "Wildcard"
 msgstr ""
 
 msgid "Copy"
-msgstr "复制"
+msgstr "Copie"
 
 msgid "Info"
-msgstr "信息"
+msgstr "Informations"
 
 msgid "Memory map"
-msgstr "内存映射"
+msgstr ""
 
 msgid "Options"
-msgstr "选项"
+msgstr "Options"
 
 msgid "Save last directory"
-msgstr "保存到上次目录"
+msgstr "Sauvegarder le dernier répertoire"
 
 msgid "Stay on top"
-msgstr "保留在顶端"
+msgstr "Rester au top "
 
 msgid "Save backup"
-msgstr "保存备份"
+msgstr ""
 
 msgid "Scan after open"
-msgstr "打开后扫描"
+msgstr "Scan après ouverture"
 
 msgid "Database"
-msgstr "数据库"
+msgstr ""
 
 msgid "Style"
-msgstr "样式"
+msgstr ""
 
 msgid "Language"
-msgstr "语言"
+msgstr ""
 
 msgid "Register"
-msgstr "注册"
+msgstr "S'inscrire"
 
 msgid "Clear"
-msgstr "清除"
+msgstr "Clair"
 
 msgid "General"
-msgstr "常规"
+msgstr "Général"
 
 msgid "Appearance"
-msgstr "外观"
+msgstr "Apparence"
 
 msgid "Context"
-msgstr "上下文菜单"
+msgstr "Contexte"
 
 msgid "Information"
-msgstr "信息"
+msgstr "Informations"
 
 msgid "Please restart the application"
-msgstr "请重启应用程序"
+msgstr ""
 
 msgid "Open directory"
-msgstr "打开目录"
+msgstr "Répertoire ouvert"
 
 msgid "Search"
-msgstr "搜索"
+msgstr "Chercher"
 
 msgid "Search from"
-msgstr "搜索"
+msgstr "Recherche à partir de"
 
 msgid "String"
-msgstr "字符串"
+msgstr ""
 
 msgid "Match case"
-msgstr "区分大小写"
+msgstr "Cas de correspondance"
 
 msgid "Endianness"
-msgstr "字节序"
+msgstr "Endianité"
 
 msgid "Begin"
-msgstr "开始"
+msgstr "Commencer"
 
 msgid "Cursor"
-msgstr "光标"
+msgstr "Curseur"
 
 msgid "Strings"
-msgstr "字符串"
+msgstr ""
 
 msgid "Search strings"
-msgstr "搜索字符串"
+msgstr ""
 
 msgid "Create view model"
-msgstr "创建视图模型"
+msgstr ""
 
 msgid "Section"
-msgstr "区块"
+msgstr ""
 
 msgid "Bytes"
-msgstr "字节"
+msgstr "Bytes"
 
 msgid "Opcode"
-msgstr "操作码"
+msgstr ""
 
 msgid "New"
-msgstr "新建"
+msgstr "Nouveau"
 
 msgid "Save"
-msgstr "保存"
+msgstr "Sauvegarder"
 
 msgid "Run"
-msgstr "运行"
+msgstr "Run"
 
 msgid "Debug"
-msgstr "调试"
+msgstr "Débogage"
 
 msgid "Read only"
-msgstr "只读"
+msgstr "Lecture seule"
 
 msgid "Show type"
-msgstr "显示类型"
+msgstr "Afficher le type"
 
 msgid "Show version"
-msgstr "显示版本"
+msgstr "Afficher la version"
 
 msgid "Show options"
-msgstr "显示选项"
+msgstr "Afficher les options"
 
 msgid "Clear result"
 msgstr ""
 
 msgid "Save result"
-msgstr "保存结果"
+msgstr "Enregistrer le résultat"
 
 msgid "Text documents"
-msgstr "文本文件"
+msgstr ""
 
 msgid "Detect"
-msgstr "检测"
+msgstr ""
 
 msgid "Edit"
-msgstr "编辑"
+msgstr "Éditer"
 
 msgid "packed"
-msgstr "打包"
+msgstr "emballé"
 
 msgid "not packed"
-msgstr "未打包"
+msgstr "non emballée"
 
 msgid "Recursive"
-msgstr "递归"
+msgstr ""
 
 msgid "Cannot save file"
-msgstr "无法保存文件"
+msgstr ""
 
 msgid "Offset"
-msgstr "偏移"
+msgstr "Offset"
 
 msgid "Type"
-msgstr "类型"
+msgstr "Type"
 
 msgid "Entry point"
-msgstr "入口点"
+msgstr ""
 
 msgid "Base address"
-msgstr "基址"
+msgstr "Adresse de base"
 
 msgid "Overlay"
-msgstr "覆盖"
+msgstr "Superposition"
 
 msgid "Export"
-msgstr "导出"
+msgstr "Exporter"
 
 msgid "Import"
-msgstr "输入表"
+msgstr "Importation"
 
 msgid "Resource"
-msgstr "资源"
+msgstr "Ressource"
 
 msgid "File name"
-msgstr "文件名"
+msgstr "Nom du fichier"
 
 msgid "Exit"
-msgstr "退出"
+msgstr "Sortie"
 
 msgid "File"
-msgstr "文件"
+msgstr ""
 
 msgid "Tools"
-msgstr "工具"
+msgstr ""
 
 msgid "Help"
-msgstr "帮助"
+msgstr ""
 
 msgid "Open"
-msgstr "打开"
+msgstr ""
 
 msgid "Open file"
-msgstr "打开文件"
+msgstr ""
 
 msgid "All files"
-msgstr "所有文件"
+msgstr ""
 
 msgid "It is not a valid file"
-msgstr "不是有效文件"
+msgstr ""
 
 msgid "Cannot open file"
-msgstr "无法打开文件"
+msgstr ""
 
 msgid "Recursive scan"
-msgstr "递归扫描"
+msgstr ""
 
 msgid "Heuristic scan"
-msgstr "启发式扫描"
+msgstr ""
 
 msgid "Heuristic"
-msgstr "启发式"
+msgstr ""
 
 msgid "Commands"
-msgstr "命令"
+msgstr ""
 
 msgid "Segments"
-msgstr "区隔"
+msgstr "Segments"
 
 msgid "Sections"
-msgstr "区块"
+msgstr "Sections"
 
 msgid "Library"
-msgstr "库"
+msgstr "Bibliothèque"
 
 msgid "Resources"
-msgstr "资源"
+msgstr ""
 
 msgid "Calculate"
-msgstr "计算"
+msgstr "Calculer"
 
 msgid "Header"
-msgstr "报头"
+msgstr "En-tête"
 
 msgid "Selection"
-msgstr "选中项"
+msgstr ""
 
 msgid "Size"
-msgstr "尺寸"
+msgstr ""
 
 msgid "Raw data"
-msgstr "原始数据"
+msgstr ""
 
 msgid "Save dump"
-msgstr "保存转储"
+msgstr ""
 
 msgid "Dump to file"
-msgstr "转储到文件"
+msgstr ""
 
 msgid "Find"
-msgstr "查找"
+msgstr ""
 
 msgid "Find next"
-msgstr "查找下一个"
+msgstr ""
 
 msgid "Select"
-msgstr "选择"
+msgstr "Sélectionnez"
 
 msgid "Select all"
-msgstr "全选"
+msgstr "Sélectionner tout"
 
 msgid "Copy as hex"
-msgstr "复制为十六进制"
+msgstr ""
 
 msgid "Read error"
-msgstr "读取错误"
+msgstr ""
 
 msgid "Write error"
-msgstr "写入错误"
+msgstr ""
 
 msgid "Documents"
-msgstr "文件"
+msgstr ""
 
 msgid "Images"
-msgstr "影像"
+msgstr ""
 
 msgid "Export file name"
-msgstr "导出文件名"
+msgstr ""
 
 msgid "Maximum"
-msgstr "最大值"
+msgstr ""
 
 msgid "Filter"
-msgstr "过滤器"
+msgstr ""
 
 msgid "Save file"
-msgstr "保存文件"
+msgstr ""
 
 msgid "Text files"
-msgstr "文本文件"
+msgstr ""
 
 msgid "Copy string"
-msgstr "复制字符串"
+msgstr ""
 
 msgid "Copy address"
-msgstr "复制地址"
+msgstr ""
 
 msgid "Copy offset"
-msgstr "复印偏移"
+msgstr ""
 
 msgid "Copy size"
-msgstr "复印尺寸"
+msgstr ""
 
 msgid "Unknown"
-msgstr "未知"
+msgstr "Inconnu"
 
 msgid "Archive record"
-msgstr "存档记录"
+msgstr ""
 
 msgid "Archive"
-msgstr "存档"
+msgstr "Archive"
 
 msgid "Certificate"
-msgstr "证书"
+msgstr "Certificat"
 
 msgid "Compiler"
-msgstr "编辑器"
+msgstr "Compilateur"
 
 msgid "Converter"
-msgstr "转换器"
+msgstr "Convertisseur"
 
 msgid "Debug data"
-msgstr "调试数据"
+msgstr "Données de débogage"
 
 msgid "protection"
-msgstr "保护"
+msgstr ""
 
 msgid "extender"
-msgstr "扩展器"
+msgstr ""
 
 msgid "Format"
-msgstr "格式"
+msgstr "Format"
 
 msgid "Generic"
-msgstr "通用"
+msgstr ""
 
 msgid "Image"
-msgstr "图片"
+msgstr "Image"
 
 msgid "Installer"
-msgstr "安装程序"
+msgstr "Installateur"
 
 msgid "Installer data"
-msgstr "安装程序数据"
+msgstr "Données de l'installateur"
 
 msgid "Joiner"
-msgstr "合并工具"
+msgstr ""
 
 msgid "Linker"
-msgstr "连接器"
+msgstr "Linker"
 
 msgid "compressor"
-msgstr "压缩软件"
+msgstr ""
 
 msgid "obfuscator"
-msgstr "模糊器"
+msgstr ""
 
 msgid "Packer"
-msgstr "封隔器"
+msgstr "Packer"
 
 msgid "Tool"
-msgstr "工具"
+msgstr "Outil"
 
 msgid "Protector"
-msgstr "保护器"
+msgstr "Protecteur"
 
 msgid "Protector data"
-msgstr "保护器数据"
+msgstr "Données sur le protecteur"
 
 msgid "data"
-msgstr "数据"
+msgstr ""
 
 msgid "Sign tool"
-msgstr "签名工具"
+msgstr ""
 
 msgid "Source code"
-msgstr "源代码"
+msgstr ""
 
 msgid "Stub"
-msgstr "末节区域"
+msgstr "Stub"
 
 msgid "Section name"
-msgstr "分段名称"
+msgstr ""
 
 msgid "Code section"
-msgstr "代码段"
+msgstr ""
 
 msgid "Entry point section"
-msgstr "入口点段"
+msgstr ""
 
 msgid "File scan"
-msgstr "文件扫描"
+msgstr "Analyse des fichiers"
 
 msgid "Directory scan"
-msgstr "目录扫描"
+msgstr "Analyse des répertoires"
 
 msgid "Device scan"
-msgstr "设备扫描"
+msgstr ""
 
 msgid "Result"
-msgstr "结果"
+msgstr ""
 
 msgid "Flags"
-msgstr "标志"
+msgstr "Drapeaux"
 
 msgid "Label"
-msgstr "标签"
+msgstr ""
 
 msgid "Analyze"
-msgstr "分析"
+msgstr ""
 
 msgid "To data"
-msgstr "到数据"
+msgstr ""
 
 msgid "Segment"
-msgstr "段"
+msgstr ""
 
 msgid "Total"
-msgstr "总计"
+msgstr ""
 
 msgid "Status"
-msgstr "状态"
+msgstr "Statut"
 
 msgid "Regions"
-msgstr "区域"
+msgstr ""
 
 msgid "Byte"
-msgstr "字节"
+msgstr "Byte"
 
 msgid "Count"
-msgstr "计数"
+msgstr "Compte"
 
 msgid "Method"
-msgstr "方法"
+msgstr "Méthode"
 
 msgid "Mode"
-msgstr "模式"
+msgstr "Mode"
 
 msgid "Architecture"
-msgstr "架构"
+msgstr ""

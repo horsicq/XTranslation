@@ -5,7 +5,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: en_US\n"
-"X-Source-Language: C\n"
 
 msgid "Reload"
 msgstr ""
@@ -301,9 +300,6 @@ msgstr ""
 msgid "Resource"
 msgstr ""
 
-msgid "Sections"
-msgstr ""
-
 msgid "File name"
 msgstr ""
 
@@ -347,6 +343,9 @@ msgid "Commands"
 msgstr ""
 
 msgid "Segments"
+msgstr ""
+
+msgid "Sections"
 msgstr ""
 
 msgid "Library"
