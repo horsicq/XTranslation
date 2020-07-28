@@ -4,20 +4,56 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: zh_TR\n"
+"X-Language: zh_TW\n"
 "X-Source-Language: C\n"
 
 msgid "Reload"
-msgstr "重新加載"
+msgstr "重新載入"
 
 msgid "Readonly"
 msgstr "只讀"
 
+msgid "Signatures"
+msgstr "簽名"
+
+msgid "Deep scan"
+msgstr "深層掃描"
+
+msgid "Log"
+msgstr "日誌"
+
+msgid "Scan"
+msgstr "掃描"
+
+msgid "Stop"
+msgstr "停止"
+
+msgid "msec"
+msgstr "毫秒"
+
 msgid "About"
 msgstr "關於"
 
+msgid "Donate"
+msgstr ""
+
+msgid "Thanks"
+msgstr "謝謝"
+
+msgid "Libraries"
+msgstr "庫"
+
+msgid "Check updates"
+msgstr ""
+
 msgid "OK"
 msgstr "確定"
+
+msgid "Disasm"
+msgstr "災難"
+
+msgid "Close"
+msgstr "關閉"
 
 msgid "Labels"
 msgstr "標簽"
@@ -25,59 +61,122 @@ msgstr "標簽"
 msgid "Go to"
 msgstr "進入"
 
-msgid "Close"
-msgstr "關閉"
-
 msgid "Name"
 msgstr "姓名"
 
 msgid "Address"
 msgstr "地址"
 
-msgid "Dump"
-msgstr "轉儲"
+msgid "Opcodes"
+msgstr ""
+
+msgid "Calls"
+msgstr ""
+
+msgid "Jumps"
+msgstr ""
+
+msgid "Ref to"
+msgstr ""
+
+msgid "Ref from"
+msgstr ""
 
 msgid "Cancel"
 msgstr "取消"
+
+msgid "Dump"
+msgstr "轉儲"
 
 msgid "Error"
 msgstr "錯誤"
 
 msgid "Entropy"
-msgstr "資訊熵"
+msgstr "熵"
 
 msgid "Process"
 msgstr "處理"
 
 msgid "Go to address"
-msgstr "進入地址"
+msgstr "轉到地址"
 
-msgid "Go to offset"
-msgstr "轉到偏移"
+msgid "Virtual address"
+msgstr "虛擬位址"
 
-msgid "Offset"
-msgstr "偏移"
+msgid "Value"
+msgstr "值"
+
+msgid "File offset"
+msgstr "檔案偏移量"
+
+msgid "Relative virtual address"
+msgstr "相對虛擬位址"
 
 msgid "Invalid"
 msgstr "無效"
 
+msgid "Hash"
+msgstr ""
+
+msgid "Signature"
+msgstr "簽名"
+
+msgid "Spaces"
+msgstr "空格"
+
+msgid "Upper"
+msgstr "上位"
+
+msgid "Wildcard"
+msgstr ""
+
+msgid "Copy"
+msgstr "複製"
+
+msgid "Info"
+msgstr "資訊"
+
+msgid "Memory map"
+msgstr "內存映射"
+
 msgid "Options"
 msgstr "選項"
 
-msgid "Scan after open"
-msgstr "打開後掃描"
-
 msgid "Save last directory"
-msgstr "保存到上次目錄"
+msgstr "保存最後一個路徑"
 
 msgid "Stay on top"
-msgstr "保留在頂端"
+msgstr "始終在最上層"
 
 msgid "Save backup"
 msgstr "保存備份"
 
+msgid "Scan after open"
+msgstr "打開後掃描"
+
+msgid "Database"
+msgstr "資料庫"
+
 msgid "Style"
 msgstr "樣式"
+
+msgid "Language"
+msgstr "語言"
+
+msgid "Register"
+msgstr "註冊"
+
+msgid "Clear"
+msgstr "清除"
+
+msgid "General"
+msgstr "一般"
+
+msgid "Appearance"
+msgstr "外觀"
+
+msgid "Context"
+msgstr "上下文"
 
 msgid "Information"
 msgstr "資訊"
@@ -85,11 +184,14 @@ msgstr "資訊"
 msgid "Please restart the application"
 msgstr "請重啟應用程序"
 
+msgid "Open directory"
+msgstr "打開目錄"
+
 msgid "Search"
-msgstr "搜索"
+msgstr "搜尋"
 
 msgid "Search from"
-msgstr "搜索"
+msgstr "搜尋位置"
 
 msgid "String"
 msgstr "字符串"
@@ -97,20 +199,17 @@ msgstr "字符串"
 msgid "Match case"
 msgstr "區分大小寫"
 
-msgid "Signature"
-msgstr "簽名"
-
-msgid "Value"
-msgstr "值"
-
 msgid "Endianness"
-msgstr "字節序"
+msgstr "位元組順序"
 
 msgid "Begin"
 msgstr "開始"
 
 msgid "Cursor"
-msgstr "光標"
+msgstr "游標"
+
+msgid "Strings"
+msgstr "字符串"
 
 msgid "Search strings"
 msgstr "搜索字符串"
@@ -121,20 +220,44 @@ msgstr "創建視圖模型"
 msgid "Section"
 msgstr "區塊"
 
-msgid "Scan"
-msgstr "掃描"
+msgid "Bytes"
+msgstr "位元組"
 
-msgid "Text documents"
-msgstr "文本檔案"
+msgid "Opcode"
+msgstr "操作碼"
+
+msgid "New"
+msgstr "新建"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Run"
+msgstr "運行"
+
+msgid "Debug"
+msgstr "調試"
+
+msgid "Read only"
+msgstr "唯讀"
+
+msgid "Show type"
+msgstr "顯示類型"
+
+msgid "Show version"
+msgstr "顯示版本"
+
+msgid "Show options"
+msgstr "顯示選項"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Save result"
 msgstr "保存結果"
 
-msgid "Strings"
-msgstr "字符串"
-
-msgid "Memory map"
-msgstr "內存映射"
+msgid "Text documents"
+msgstr "文本檔案"
 
 msgid "Detect"
 msgstr "檢測"
@@ -143,31 +266,46 @@ msgid "Edit"
 msgstr "編輯"
 
 msgid "packed"
-msgstr "打包"
+msgstr "已包裝"
 
 msgid "not packed"
-msgstr "未打包"
-
-msgid "Clear"
-msgstr "清除"
-
-msgid "Save"
-msgstr "保存"
-
-msgid "msec"
-msgstr "毫秒"
+msgstr "未包裝"
 
 msgid "Recursive"
 msgstr "遞歸"
 
-msgid "Deep scan"
-msgstr "深度掃描"
-
 msgid "Cannot save file"
 msgstr "無法保存檔案"
 
+msgid "Offset"
+msgstr "偏移"
+
 msgid "Type"
 msgstr "類型"
+
+msgid "Entry point"
+msgstr "入口點"
+
+msgid "Base address"
+msgstr "基底位址"
+
+msgid "Overlay"
+msgstr "覆蓋"
+
+msgid "Export"
+msgstr "導出"
+
+msgid "Import"
+msgstr "導入"
+
+msgid "Resource"
+msgstr "資源"
+
+msgid "File name"
+msgstr "檔案名"
+
+msgid "Exit"
+msgstr "退出"
 
 msgid "File"
 msgstr "檔案"
@@ -180,9 +318,6 @@ msgstr "幫助"
 
 msgid "Open"
 msgstr "打開"
-
-msgid "Exit"
-msgstr "退出"
 
 msgid "Open file"
 msgstr "打開檔案"
@@ -205,32 +340,26 @@ msgstr "啟發式掃描"
 msgid "Heuristic"
 msgstr "啟發式"
 
-msgid "Overlay"
-msgstr "覆蓋"
-
 msgid "Commands"
 msgstr "命令"
 
 msgid "Segments"
-msgstr "區隔"
+msgstr "片段"
 
 msgid "Sections"
-msgstr "區塊"
-
-msgid "Libraries"
-msgstr "庫"
+msgstr "節"
 
 msgid "Library"
-msgstr "庫"
+msgstr ""
 
 msgid "Resources"
 msgstr "資源"
 
-msgid "Disasm"
-msgstr "災難"
-
 msgid "Calculate"
 msgstr "計算"
+
+msgid "Header"
+msgstr "數據頭"
 
 msgid "Selection"
 msgstr "選中項"
@@ -258,9 +387,6 @@ msgstr "選擇"
 
 msgid "Select all"
 msgstr "全選"
-
-msgid "Copy"
-msgstr "複製"
 
 msgid "Copy as hex"
 msgstr "複製為十六進制"
@@ -305,31 +431,25 @@ msgid "Copy size"
 msgstr "複印尺寸"
 
 msgid "Unknown"
-msgstr "未知"
-
-msgid "Header"
-msgstr "報頭"
+msgstr ""
 
 msgid "Archive record"
 msgstr "存檔記錄"
 
 msgid "Archive"
-msgstr "存檔"
+msgstr ""
 
 msgid "Certificate"
-msgstr "證書"
+msgstr ""
 
 msgid "Compiler"
-msgstr "編輯器"
+msgstr ""
 
 msgid "Converter"
-msgstr "轉換器"
-
-msgid "Database"
-msgstr "資料庫"
+msgstr ""
 
 msgid "Debug data"
-msgstr "調試資料"
+msgstr ""
 
 msgid "protection"
 msgstr "保護"
@@ -338,25 +458,25 @@ msgid "extender"
 msgstr "擴展器"
 
 msgid "Format"
-msgstr "格式"
+msgstr ""
 
 msgid "Generic"
 msgstr "通用"
 
 msgid "Image"
-msgstr "圖片"
+msgstr "圖像"
 
 msgid "Installer"
-msgstr "安裝程序"
+msgstr ""
 
 msgid "Installer data"
-msgstr "安裝程序資料"
+msgstr ""
 
 msgid "Joiner"
 msgstr "合併工具"
 
 msgid "Linker"
-msgstr "連接器"
+msgstr ""
 
 msgid "compressor"
 msgstr "壓縮軟件"
@@ -365,16 +485,16 @@ msgid "obfuscator"
 msgstr "模糊器"
 
 msgid "Packer"
-msgstr "封隔器"
+msgstr ""
 
 msgid "Tool"
-msgstr "工具"
+msgstr ""
 
 msgid "Protector"
-msgstr "保護器"
+msgstr ""
 
 msgid "Protector data"
-msgstr "保護器資料"
+msgstr ""
 
 msgid "data"
 msgstr "資料"
@@ -386,10 +506,7 @@ msgid "Source code"
 msgstr "源代碼"
 
 msgid "Stub"
-msgstr "末節區域"
-
-msgid "Entry point"
-msgstr "入口點"
+msgstr "根"
 
 msgid "Section name"
 msgstr "分段名稱"
@@ -413,16 +530,10 @@ msgid "Result"
 msgstr "結果"
 
 msgid "Flags"
-msgstr "標誌"
+msgstr "標記"
 
 msgid "Label"
 msgstr "標簽"
-
-msgid "Bytes"
-msgstr "字節"
-
-msgid "Opcode"
-msgstr "操作碼"
 
 msgid "Analyze"
 msgstr "分析"
@@ -443,31 +554,16 @@ msgid "Regions"
 msgstr "區域"
 
 msgid "Byte"
-msgstr "字節"
+msgstr "位元組"
 
 msgid "Count"
 msgstr "計數"
 
-msgid "File offset"
-msgstr "檔案偏移"
-
-msgid "Virtual address"
-msgstr "虛擬地址"
-
-msgid "Relative virtual address"
-msgstr "相關虛擬地址"
+msgid "Method"
+msgstr "方法"
 
 msgid "Mode"
 msgstr "模式"
 
 msgid "Architecture"
 msgstr "架構"
-
-msgid "Table"
-msgstr "表"
-
-msgid "Tree"
-msgstr "樹"
-
-msgid "Language"
-msgstr "語言"
