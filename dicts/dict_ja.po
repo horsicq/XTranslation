@@ -567,3 +567,6 @@ msgstr "モード"
 
 msgid "Architecture"
 msgstr ""
+
+msgid "File type"
+msgstr "ファイルの種類"

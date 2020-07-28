@@ -567,3 +567,6 @@ msgstr "Tryb"
 
 msgid "Architecture"
 msgstr ""
+
+msgid "File type"
+msgstr "Typ pliku"

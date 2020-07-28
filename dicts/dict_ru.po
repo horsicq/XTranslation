@@ -567,3 +567,6 @@ msgstr "Режим"
 
 msgid "Architecture"
 msgstr ""
+
+msgid "File type"
+msgstr "Тип файла"

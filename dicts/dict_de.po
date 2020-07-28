@@ -567,3 +567,6 @@ msgstr "Modus"
 
 msgid "Architecture"
 msgstr ""
+
+msgid "File type"
+msgstr "Dateityp"

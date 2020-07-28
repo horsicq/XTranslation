@@ -567,3 +567,6 @@ msgstr "模式"
 
 msgid "Architecture"
 msgstr "架构"
+
+msgid "File type"
+msgstr "文件类型"
