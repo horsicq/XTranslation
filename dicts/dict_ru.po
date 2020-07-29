@@ -3,425 +3,99 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru_RU\n"
 "X-Source-Language: C\n"
-
-msgid "Reload"
-msgstr "Обновить"
-
-msgid "Readonly"
-msgstr ""
-
-msgid "Signatures"
-msgstr "Сигнатуры"
-
-msgid "Deep scan"
-msgstr "Глубокий анализ"
-
-msgid "Log"
-msgstr "Лог"
-
-msgid "Scan"
-msgstr "Сканировать"
-
-msgid "Stop"
-msgstr "Стоп"
-
-msgid "msec"
-msgstr ""
 
 msgid "About"
 msgstr "О программе"
 
-msgid "Donate"
-msgstr ""
-
-msgid "Thanks"
-msgstr "Благодарности"
-
-msgid "Libraries"
-msgstr "Библиотеки"
-
-msgid "Check updates"
-msgstr ""
-
-msgid "OK"
-msgstr "ОК"
-
-msgid "Disasm"
-msgstr ""
-
-msgid "Close"
-msgstr ""
-
-msgid "Labels"
-msgstr ""
-
-msgid "Go to"
-msgstr ""
-
-msgid "Name"
-msgstr "Имя"
-
 msgid "Address"
 msgstr "Адрес"
 
-msgid "Opcodes"
+msgid "All files"
 msgstr ""
 
-msgid "Calls"
+msgid "Analyze"
 msgstr ""
-
-msgid "Jumps"
-msgstr ""
-
-msgid "Ref to"
-msgstr ""
-
-msgid "Ref from"
-msgstr ""
-
-msgid "Cancel"
-msgstr "Отмена"
-
-msgid "Dump"
-msgstr "Дамп"
-
-msgid "Error"
-msgstr "Ошибка"
-
-msgid "Entropy"
-msgstr "Энтропия"
-
-msgid "Process"
-msgstr ""
-
-msgid "Go to address"
-msgstr "Перейти к адресу"
-
-msgid "Virtual address"
-msgstr "Виртуальный адрес"
-
-msgid "Value"
-msgstr "Значение"
-
-msgid "File offset"
-msgstr "Смещение"
-
-msgid "Relative virtual address"
-msgstr "Относительный виртуальный адрес"
-
-msgid "Invalid"
-msgstr "Ошибка"
-
-msgid "Hash"
-msgstr ""
-
-msgid "Signature"
-msgstr "Сигнатура"
-
-msgid "Spaces"
-msgstr "Пробелы"
-
-msgid "Upper"
-msgstr "Верхний регистр"
-
-msgid "Wildcard"
-msgstr ""
-
-msgid "Copy"
-msgstr "Копировать"
-
-msgid "Info"
-msgstr "Информация"
-
-msgid "Memory map"
-msgstr ""
-
-msgid "Options"
-msgstr "Настройки"
-
-msgid "Save last directory"
-msgstr "Сохранить место последнего сканирования"
-
-msgid "Stay on top"
-msgstr "Поверх всех окон"
-
-msgid "Save backup"
-msgstr ""
-
-msgid "Scan after open"
-msgstr "Сразу сканировать"
-
-msgid "Database"
-msgstr ""
-
-msgid "Style"
-msgstr ""
-
-msgid "Language"
-msgstr ""
-
-msgid "Register"
-msgstr "Регистрировать"
-
-msgid "Clear"
-msgstr "Очистить"
-
-msgid "General"
-msgstr "Общие"
 
 msgid "Appearance"
 msgstr "Внешний вид"
 
-msgid "Context"
-msgstr "Контекст"
-
-msgid "Information"
-msgstr "Информация"
-
-msgid "Please restart the application"
+msgid "Architecture"
 msgstr ""
 
-msgid "Open directory"
-msgstr "Открыть папку для сканирования"
-
-msgid "Search"
-msgstr "Поиск"
-
-msgid "Search from"
-msgstr "Поиск с"
-
-msgid "String"
+msgid "Archive"
 msgstr ""
 
-msgid "Match case"
-msgstr "Учитывать регистр"
-
-msgid "Endianness"
-msgstr "Порядок байтов"
-
-msgid "Begin"
-msgstr "Начало"
-
-msgid "Cursor"
-msgstr "Курсор"
-
-msgid "Strings"
-msgstr ""
-
-msgid "Search strings"
-msgstr ""
-
-msgid "Create view model"
-msgstr ""
-
-msgid "Section"
-msgstr ""
-
-msgid "Bytes"
-msgstr "Байты"
-
-msgid "Opcode"
-msgstr ""
-
-msgid "New"
-msgstr "Новая"
-
-msgid "Save"
-msgstr "Сохранить"
-
-msgid "Run"
-msgstr "Запуск"
-
-msgid "Debug"
-msgstr "Отладка"
-
-msgid "Read only"
-msgstr "Только чтение"
-
-msgid "Show type"
-msgstr "Показывать тип"
-
-msgid "Show version"
-msgstr "Показывать версию"
-
-msgid "Show options"
-msgstr "Показывать опции"
-
-msgid "Clear result"
-msgstr ""
-
-msgid "Save result"
-msgstr "Сохранить"
-
-msgid "Text documents"
-msgstr ""
-
-msgid "Detect"
-msgstr ""
-
-msgid "Edit"
-msgstr "Редактировать"
-
-msgid "packed"
-msgstr "сжатый"
-
-msgid "not packed"
-msgstr "не сжатый"
-
-msgid "Recursive"
-msgstr ""
-
-msgid "Cannot save file"
-msgstr ""
-
-msgid "Offset"
-msgstr "Смещение"
-
-msgid "Type"
-msgstr "Тип"
-
-msgid "Entry point"
+msgid "Archive record"
 msgstr ""
 
 msgid "Base address"
 msgstr "Базовый адрес"
 
-msgid "Overlay"
-msgstr "Оверлей"
+msgid "Begin"
+msgstr "Начало"
 
-msgid "Export"
-msgstr "Экспорт"
+msgid "Byte"
+msgstr "Байт"
 
-msgid "Import"
-msgstr "Импорт"
+msgid "Bytes"
+msgstr "Байты"
 
-msgid "Resource"
-msgstr "Ресурсы"
+msgid "Calculate"
+msgstr "Вычислить"
 
-msgid "File name"
-msgstr "Имя файла"
-
-msgid "Exit"
-msgstr "Выход"
-
-msgid "File"
+msgid "Calls"
 msgstr ""
 
-msgid "Tools"
-msgstr ""
-
-msgid "Help"
-msgstr ""
-
-msgid "Open"
-msgstr ""
-
-msgid "Open file"
-msgstr ""
-
-msgid "All files"
-msgstr ""
-
-msgid "It is not a valid file"
-msgstr ""
+msgid "Cancel"
+msgstr "Отмена"
 
 msgid "Cannot open file"
 msgstr ""
 
-msgid "Recursive scan"
+msgid "Cannot save file"
 msgstr ""
 
-msgid "Heuristic scan"
+msgid "Certificate"
 msgstr ""
 
-msgid "Heuristic"
+msgid "Check updates"
+msgstr ""
+
+msgid "Clear"
+msgstr "Очистить"
+
+msgid "Clear result"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Code section"
 msgstr ""
 
 msgid "Commands"
 msgstr ""
 
-msgid "Segments"
-msgstr "Сегменты"
-
-msgid "Sections"
-msgstr "Секции"
-
-msgid "Library"
+msgid "Compiler"
 msgstr ""
 
-msgid "Resources"
+msgid "Context"
+msgstr "Контекст"
+
+msgid "Converter"
 msgstr ""
 
-msgid "Calculate"
-msgstr "Вычислить"
-
-msgid "Header"
-msgstr "Header"
-
-msgid "Selection"
-msgstr ""
-
-msgid "Size"
-msgstr ""
-
-msgid "Raw data"
-msgstr ""
-
-msgid "Save dump"
-msgstr ""
-
-msgid "Dump to file"
-msgstr ""
-
-msgid "Find"
-msgstr ""
-
-msgid "Find next"
-msgstr ""
-
-msgid "Select"
-msgstr "Выбрать"
-
-msgid "Select all"
-msgstr "Выбрать всё"
-
-msgid "Copy as hex"
-msgstr ""
-
-msgid "Read error"
-msgstr ""
-
-msgid "Write error"
-msgstr ""
-
-msgid "Documents"
-msgstr ""
-
-msgid "Images"
-msgstr ""
-
-msgid "Export file name"
-msgstr ""
-
-msgid "Maximum"
-msgstr ""
-
-msgid "Filter"
-msgstr ""
-
-msgid "Save file"
-msgstr ""
-
-msgid "Text files"
-msgstr ""
-
-msgid "Copy string"
-msgstr ""
+msgid "Copy"
+msgstr "Копировать"
 
 msgid "Copy address"
+msgstr ""
+
+msgid "Copy as hex"
 msgstr ""
 
 msgid "Copy offset"
@@ -430,41 +104,149 @@ msgstr ""
 msgid "Copy size"
 msgstr ""
 
-msgid "Unknown"
+msgid "Copy string"
 msgstr ""
 
-msgid "Archive record"
+msgid "Count"
+msgstr "Число"
+
+msgid "Create view model"
 msgstr ""
 
-msgid "Archive"
+msgid "Cursor"
+msgstr "Курсор"
+
+msgid "Database"
 msgstr ""
 
-msgid "Certificate"
-msgstr ""
-
-msgid "Compiler"
-msgstr ""
-
-msgid "Converter"
-msgstr ""
+msgid "Debug"
+msgstr "Отладка"
 
 msgid "Debug data"
 msgstr ""
 
-msgid "protection"
+msgid "Deep scan"
+msgstr "Глубокий анализ"
+
+msgid "Detect"
 msgstr ""
 
-msgid "extender"
+msgid "Device scan"
 msgstr ""
+
+msgid "Directory scan"
+msgstr "Сканирование папки"
+
+msgid "Disasm"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Donate"
+msgstr ""
+
+msgid "Dump"
+msgstr "Дамп"
+
+msgid "Dump to file"
+msgstr ""
+
+msgid "Edit"
+msgstr "Редактировать"
+
+msgid "Endianness"
+msgstr "Порядок байтов"
+
+msgid "Entropy"
+msgstr "Энтропия"
+
+msgid "Entry point"
+msgstr ""
+
+msgid "Entry point section"
+msgstr ""
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Exit"
+msgstr "Выход"
+
+msgid "Export"
+msgstr "Экспорт"
+
+msgid "Export file name"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File name"
+msgstr "Имя файла"
+
+msgid "File offset"
+msgstr "Смещение"
+
+msgid "File scan"
+msgstr "Сканирования файла"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find next"
+msgstr ""
+
+msgid "Flags"
+msgstr "Флаги"
 
 msgid "Format"
 msgstr ""
 
+msgid "General"
+msgstr "Общие"
+
 msgid "Generic"
+msgstr ""
+
+msgid "Go to"
+msgstr ""
+
+msgid "Go to address"
+msgstr "Перейти к адресу"
+
+msgid "Hash"
+msgstr ""
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Help"
+msgstr ""
+
+msgid "Heuristic"
+msgstr ""
+
+msgid "Heuristic scan"
 msgstr ""
 
 msgid "Image"
 msgstr "Образ"
+
+msgid "Images"
+msgstr ""
+
+msgid "Import"
+msgstr "Импорт"
+
+msgid "Info"
+msgstr "Информация"
+
+msgid "Information"
+msgstr "Информация"
 
 msgid "Installer"
 msgstr ""
@@ -472,22 +254,94 @@ msgstr ""
 msgid "Installer data"
 msgstr ""
 
+msgid "Invalid"
+msgstr "Ошибка"
+
+msgid "It is not a valid file"
+msgstr ""
+
 msgid "Joiner"
+msgstr ""
+
+msgid "Jumps"
+msgstr ""
+
+msgid "Label"
+msgstr ""
+
+msgid "Labels"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Libraries"
+msgstr "Библиотеки"
+
+msgid "Library"
 msgstr ""
 
 msgid "Linker"
 msgstr ""
 
-msgid "compressor"
+msgid "Log"
+msgstr "Лог"
+
+msgid "Match case"
+msgstr "Учитывать регистр"
+
+msgid "Maximum"
 msgstr ""
 
-msgid "obfuscator"
+msgid "Memory map"
 msgstr ""
+
+msgid "Method"
+msgstr "метод"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Name"
+msgstr "Имя"
+
+msgid "New"
+msgstr "Новая"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Offset"
+msgstr "Смещение"
+
+msgid "Opcode"
+msgstr ""
+
+msgid "Opcodes"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open directory"
+msgstr "Открыть папку для сканирования"
+
+msgid "Open file"
+msgstr ""
+
+msgid "Options"
+msgstr "Настройки"
+
+msgid "Overlay"
+msgstr "Оверлей"
 
 msgid "Packer"
 msgstr ""
 
-msgid "Tool"
+msgid "Please restart the application"
+msgstr ""
+
+msgid "Process"
 msgstr ""
 
 msgid "Protector"
@@ -496,77 +350,222 @@ msgstr ""
 msgid "Protector data"
 msgstr ""
 
-msgid "data"
+msgid "Raw data"
 msgstr ""
 
-msgid "Sign tool"
+msgid "Read error"
 msgstr ""
 
-msgid "Source code"
+msgid "Read only"
+msgstr "Только чтение"
+
+msgid "Readonly"
 msgstr ""
 
-msgid "Stub"
-msgstr "Stub"
-
-msgid "Section name"
+msgid "Recursive"
 msgstr ""
 
-msgid "Code section"
+msgid "Recursive scan"
 msgstr ""
 
-msgid "Entry point section"
+msgid "Ref from"
 msgstr ""
 
-msgid "File scan"
-msgstr "Сканирования файла"
+msgid "Ref to"
+msgstr ""
 
-msgid "Directory scan"
-msgstr "Сканирование папки"
+msgid "Regions"
+msgstr ""
 
-msgid "Device scan"
+msgid "Register"
+msgstr "Регистрировать"
+
+msgid "Relative virtual address"
+msgstr "Относительный виртуальный адрес"
+
+msgid "Reload"
+msgstr "Обновить"
+
+msgid "Resource"
+msgstr "Ресурсы"
+
+msgid "Resources"
 msgstr ""
 
 msgid "Result"
 msgstr ""
 
-msgid "Flags"
-msgstr "Флаги"
+msgid "Run"
+msgstr "Запуск"
 
-msgid "Label"
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Save backup"
 msgstr ""
 
-msgid "Analyze"
+msgid "Save dump"
 msgstr ""
+
+msgid "Save file"
+msgstr ""
+
+msgid "Save last directory"
+msgstr "Сохранить место последнего сканирования"
+
+msgid "Save result"
+msgstr "Сохранить"
+
+msgid "Scan"
+msgstr "Сканировать"
+
+msgid "Scan after open"
+msgstr "Сразу сканировать"
+
+msgid "Search"
+msgstr "Поиск"
+
+msgid "Search from"
+msgstr "Поиск с"
+
+msgid "Search strings"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Section name"
+msgstr ""
+
+msgid "Sections"
+msgstr "Секции"
+
+msgid "Segment"
+msgstr ""
+
+msgid "Segments"
+msgstr "Сегменты"
+
+msgid "Select"
+msgstr "Выбрать"
+
+msgid "Select all"
+msgstr "Выбрать всё"
+
+msgid "Selection"
+msgstr ""
+
+msgid "Show options"
+msgstr "Показывать опции"
+
+msgid "Show type"
+msgstr "Показывать тип"
+
+msgid "Show version"
+msgstr "Показывать версию"
+
+msgid "Sign tool"
+msgstr ""
+
+msgid "Signature"
+msgstr "Сигнатура"
+
+msgid "Signatures"
+msgstr "Сигнатуры"
+
+msgid "Size"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid "Spaces"
+msgstr "Пробелы"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Stay on top"
+msgstr "Поверх всех окон"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "String"
+msgstr ""
+
+msgid "Strings"
+msgstr ""
+
+msgid "Stub"
+msgstr "Stub"
+
+msgid "Style"
+msgstr ""
+
+msgid "Text documents"
+msgstr ""
+
+msgid "Text files"
+msgstr ""
+
+msgid "Thanks"
+msgstr "Благодарности"
 
 msgid "To data"
 msgstr ""
 
-msgid "Segment"
+msgid "Tool"
+msgstr ""
+
+msgid "Tools"
 msgstr ""
 
 msgid "Total"
 msgstr ""
 
-msgid "Status"
-msgstr "Статус"
+msgid "Type"
+msgstr "Тип"
 
-msgid "Regions"
+msgid "Unknown"
 msgstr ""
 
-msgid "Byte"
-msgstr "Байт"
+msgid "Upper"
+msgstr "Верхний регистр"
 
-msgid "Count"
-msgstr "Число"
+msgid "Value"
+msgstr "Значение"
 
-msgid "Method"
-msgstr "метод"
+msgid "Virtual address"
+msgstr "Виртуальный адрес"
 
-msgid "Mode"
-msgstr "Режим"
-
-msgid "Architecture"
+msgid "Wildcard"
 msgstr ""
 
-msgid "File type"
-msgstr "Тип файла"
+msgid "Write error"
+msgstr ""
+
+msgid "compressor"
+msgstr ""
+
+msgid "data"
+msgstr ""
+
+msgid "extender"
+msgstr ""
+
+msgid "msec"
+msgstr ""
+
+msgid "not packed"
+msgstr "не сжатый"
+
+msgid "obfuscator"
+msgstr ""
+
+msgid "packed"
+msgstr "сжатый"
+
+msgid "protection"
+msgstr ""
+

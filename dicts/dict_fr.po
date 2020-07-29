@@ -7,421 +7,94 @@ msgstr ""
 "X-Language: fr_FR\n"
 "X-Source-Language: C\n"
 
-msgid "Reload"
-msgstr "Recharger"
-
-msgid "Readonly"
-msgstr ""
-
-msgid "Signatures"
-msgstr "Signatures"
-
-msgid "Deep scan"
-msgstr "Analyse approfondie"
-
-msgid "Log"
-msgstr "Journal"
-
-msgid "Scan"
-msgstr "Scanner"
-
-msgid "Stop"
-msgstr "Stop"
-
-msgid "msec"
-msgstr ""
-
 msgid "About"
 msgstr "À propos de DIE"
-
-msgid "Donate"
-msgstr ""
-
-msgid "Thanks"
-msgstr "Merci"
-
-msgid "Libraries"
-msgstr "Bibliothèques"
-
-msgid "Check updates"
-msgstr ""
-
-msgid "OK"
-msgstr "OK"
-
-msgid "Disasm"
-msgstr ""
-
-msgid "Close"
-msgstr ""
-
-msgid "Labels"
-msgstr ""
-
-msgid "Go to"
-msgstr ""
-
-msgid "Name"
-msgstr "Nom"
 
 msgid "Address"
 msgstr "Adresse"
 
-msgid "Opcodes"
+msgid "All files"
 msgstr ""
 
-msgid "Calls"
+msgid "Analyze"
 msgstr ""
-
-msgid "Jumps"
-msgstr ""
-
-msgid "Ref to"
-msgstr ""
-
-msgid "Ref from"
-msgstr ""
-
-msgid "Cancel"
-msgstr "Annuler"
-
-msgid "Dump"
-msgstr "Dump"
-
-msgid "Error"
-msgstr "Erreur"
-
-msgid "Entropy"
-msgstr "Entropie"
-
-msgid "Process"
-msgstr ""
-
-msgid "Go to address"
-msgstr "Aller à l'adresse"
-
-msgid "Virtual address"
-msgstr "Adresse virtuelle"
-
-msgid "Value"
-msgstr "Valeur"
-
-msgid "File offset"
-msgstr "Fichier offset"
-
-msgid "Relative virtual address"
-msgstr "Adresse virtuelle relative"
-
-msgid "Invalid"
-msgstr "Invalide"
-
-msgid "Hash"
-msgstr ""
-
-msgid "Signature"
-msgstr "Signature"
-
-msgid "Spaces"
-msgstr "Espaces"
-
-msgid "Upper"
-msgstr "Haut de page"
-
-msgid "Wildcard"
-msgstr ""
-
-msgid "Copy"
-msgstr "Copie"
-
-msgid "Info"
-msgstr "Informations"
-
-msgid "Memory map"
-msgstr ""
-
-msgid "Options"
-msgstr "Options"
-
-msgid "Save last directory"
-msgstr "Sauvegarder le dernier répertoire"
-
-msgid "Stay on top"
-msgstr "Rester au top "
-
-msgid "Save backup"
-msgstr ""
-
-msgid "Scan after open"
-msgstr "Scan après ouverture"
-
-msgid "Database"
-msgstr ""
-
-msgid "Style"
-msgstr ""
-
-msgid "Language"
-msgstr ""
-
-msgid "Register"
-msgstr "S'inscrire"
-
-msgid "Clear"
-msgstr "Clair"
-
-msgid "General"
-msgstr "Général"
 
 msgid "Appearance"
 msgstr "Apparence"
 
-msgid "Context"
-msgstr "Contexte"
-
-msgid "Information"
-msgstr "Informations"
-
-msgid "Please restart the application"
+msgid "Architecture"
 msgstr ""
 
-msgid "Open directory"
-msgstr "Répertoire ouvert"
+msgid "Archive"
+msgstr "Archive"
 
-msgid "Search"
-msgstr "Chercher"
-
-msgid "Search from"
-msgstr "Recherche à partir de"
-
-msgid "String"
-msgstr ""
-
-msgid "Match case"
-msgstr "Cas de correspondance"
-
-msgid "Endianness"
-msgstr "Endianité"
-
-msgid "Begin"
-msgstr "Commencer"
-
-msgid "Cursor"
-msgstr "Curseur"
-
-msgid "Strings"
-msgstr ""
-
-msgid "Search strings"
-msgstr ""
-
-msgid "Create view model"
-msgstr ""
-
-msgid "Section"
-msgstr ""
-
-msgid "Bytes"
-msgstr "Bytes"
-
-msgid "Opcode"
-msgstr ""
-
-msgid "New"
-msgstr "Nouveau"
-
-msgid "Save"
-msgstr "Sauvegarder"
-
-msgid "Run"
-msgstr "Run"
-
-msgid "Debug"
-msgstr "Débogage"
-
-msgid "Read only"
-msgstr "Lecture seule"
-
-msgid "Show type"
-msgstr "Afficher le type"
-
-msgid "Show version"
-msgstr "Afficher la version"
-
-msgid "Show options"
-msgstr "Afficher les options"
-
-msgid "Clear result"
-msgstr ""
-
-msgid "Save result"
-msgstr "Enregistrer le résultat"
-
-msgid "Text documents"
-msgstr ""
-
-msgid "Detect"
-msgstr ""
-
-msgid "Edit"
-msgstr "Éditer"
-
-msgid "packed"
-msgstr "emballé"
-
-msgid "not packed"
-msgstr "non emballée"
-
-msgid "Recursive"
-msgstr ""
-
-msgid "Cannot save file"
-msgstr ""
-
-msgid "Offset"
-msgstr "Offset"
-
-msgid "Type"
-msgstr "Type"
-
-msgid "Entry point"
+msgid "Archive record"
 msgstr ""
 
 msgid "Base address"
 msgstr "Adresse de base"
 
-msgid "Overlay"
-msgstr "Superposition"
+msgid "Begin"
+msgstr "Commencer"
 
-msgid "Export"
-msgstr "Exporter"
+msgid "Byte"
+msgstr "Byte"
 
-msgid "Import"
-msgstr "Importation"
+msgid "Bytes"
+msgstr "Bytes"
 
-msgid "Resource"
-msgstr "Ressource"
+msgid "Calculate"
+msgstr "Calculer"
 
-msgid "File name"
-msgstr "Nom du fichier"
-
-msgid "Exit"
-msgstr "Sortie"
-
-msgid "File"
+msgid "Calls"
 msgstr ""
 
-msgid "Tools"
-msgstr ""
-
-msgid "Help"
-msgstr ""
-
-msgid "Open"
-msgstr ""
-
-msgid "Open file"
-msgstr ""
-
-msgid "All files"
-msgstr ""
-
-msgid "It is not a valid file"
-msgstr ""
+msgid "Cancel"
+msgstr "Annuler"
 
 msgid "Cannot open file"
 msgstr ""
 
-msgid "Recursive scan"
+msgid "Cannot save file"
 msgstr ""
 
-msgid "Heuristic scan"
+msgid "Certificate"
+msgstr "Certificat"
+
+msgid "Check updates"
 msgstr ""
 
-msgid "Heuristic"
+msgid "Clear"
+msgstr "Clair"
+
+msgid "Clear result"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Code section"
 msgstr ""
 
 msgid "Commands"
 msgstr ""
 
-msgid "Segments"
-msgstr "Segments"
+msgid "Compiler"
+msgstr "Compilateur"
 
-msgid "Sections"
-msgstr "Sections"
+msgid "Context"
+msgstr "Contexte"
 
-msgid "Library"
-msgstr "Bibliothèque"
+msgid "Converter"
+msgstr "Convertisseur"
 
-msgid "Resources"
-msgstr ""
-
-msgid "Calculate"
-msgstr "Calculer"
-
-msgid "Header"
-msgstr "En-tête"
-
-msgid "Selection"
-msgstr ""
-
-msgid "Size"
-msgstr ""
-
-msgid "Raw data"
-msgstr ""
-
-msgid "Save dump"
-msgstr ""
-
-msgid "Dump to file"
-msgstr ""
-
-msgid "Find"
-msgstr ""
-
-msgid "Find next"
-msgstr ""
-
-msgid "Select"
-msgstr "Sélectionnez"
-
-msgid "Select all"
-msgstr "Sélectionner tout"
-
-msgid "Copy as hex"
-msgstr ""
-
-msgid "Read error"
-msgstr ""
-
-msgid "Write error"
-msgstr ""
-
-msgid "Documents"
-msgstr ""
-
-msgid "Images"
-msgstr ""
-
-msgid "Export file name"
-msgstr ""
-
-msgid "Maximum"
-msgstr ""
-
-msgid "Filter"
-msgstr ""
-
-msgid "Save file"
-msgstr ""
-
-msgid "Text files"
-msgstr ""
-
-msgid "Copy string"
-msgstr ""
+msgid "Copy"
+msgstr "Copie"
 
 msgid "Copy address"
+msgstr ""
+
+msgid "Copy as hex"
 msgstr ""
 
 msgid "Copy offset"
@@ -430,41 +103,149 @@ msgstr ""
 msgid "Copy size"
 msgstr ""
 
-msgid "Unknown"
-msgstr "Inconnu"
-
-msgid "Archive record"
+msgid "Copy string"
 msgstr ""
 
-msgid "Archive"
-msgstr "Archive"
+msgid "Count"
+msgstr "Compte"
 
-msgid "Certificate"
-msgstr "Certificat"
+msgid "Create view model"
+msgstr ""
 
-msgid "Compiler"
-msgstr "Compilateur"
+msgid "Cursor"
+msgstr "Curseur"
 
-msgid "Converter"
-msgstr "Convertisseur"
+msgid "Database"
+msgstr ""
+
+msgid "Debug"
+msgstr "Débogage"
 
 msgid "Debug data"
 msgstr "Données de débogage"
 
-msgid "protection"
+msgid "Deep scan"
+msgstr "Analyse approfondie"
+
+msgid "Detect"
 msgstr ""
 
-msgid "extender"
+msgid "Device scan"
 msgstr ""
+
+msgid "Directory scan"
+msgstr "Analyse des répertoires"
+
+msgid "Disasm"
+msgstr ""
+
+msgid "Documents"
+msgstr ""
+
+msgid "Donate"
+msgstr ""
+
+msgid "Dump"
+msgstr "Dump"
+
+msgid "Dump to file"
+msgstr ""
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "Endianness"
+msgstr "Endianité"
+
+msgid "Entropy"
+msgstr "Entropie"
+
+msgid "Entry point"
+msgstr ""
+
+msgid "Entry point section"
+msgstr ""
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "Exit"
+msgstr "Sortie"
+
+msgid "Export"
+msgstr "Exporter"
+
+msgid "Export file name"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "File name"
+msgstr "Nom du fichier"
+
+msgid "File offset"
+msgstr "Fichier offset"
+
+msgid "File scan"
+msgstr "Analyse des fichiers"
+
+msgid "Filter"
+msgstr ""
+
+msgid "Find"
+msgstr ""
+
+msgid "Find next"
+msgstr ""
+
+msgid "Flags"
+msgstr "Drapeaux"
 
 msgid "Format"
 msgstr "Format"
 
+msgid "General"
+msgstr "Général"
+
 msgid "Generic"
+msgstr ""
+
+msgid "Go to"
+msgstr ""
+
+msgid "Go to address"
+msgstr "Aller à l'adresse"
+
+msgid "Hash"
+msgstr ""
+
+msgid "Header"
+msgstr "En-tête"
+
+msgid "Help"
+msgstr ""
+
+msgid "Heuristic"
+msgstr ""
+
+msgid "Heuristic scan"
 msgstr ""
 
 msgid "Image"
 msgstr "Image"
+
+msgid "Images"
+msgstr ""
+
+msgid "Import"
+msgstr "Importation"
+
+msgid "Info"
+msgstr "Informations"
+
+msgid "Information"
+msgstr "Informations"
 
 msgid "Installer"
 msgstr "Installateur"
@@ -472,92 +253,47 @@ msgstr "Installateur"
 msgid "Installer data"
 msgstr "Données de l'installateur"
 
+msgid "Invalid"
+msgstr "Invalide"
+
+msgid "It is not a valid file"
+msgstr ""
+
 msgid "Joiner"
 msgstr ""
 
-msgid "Linker"
-msgstr "Linker"
-
-msgid "compressor"
+msgid "Jumps"
 msgstr ""
-
-msgid "obfuscator"
-msgstr ""
-
-msgid "Packer"
-msgstr "Packer"
-
-msgid "Tool"
-msgstr "Outil"
-
-msgid "Protector"
-msgstr "Protecteur"
-
-msgid "Protector data"
-msgstr "Données sur le protecteur"
-
-msgid "data"
-msgstr ""
-
-msgid "Sign tool"
-msgstr ""
-
-msgid "Source code"
-msgstr ""
-
-msgid "Stub"
-msgstr "Stub"
-
-msgid "Section name"
-msgstr ""
-
-msgid "Code section"
-msgstr ""
-
-msgid "Entry point section"
-msgstr ""
-
-msgid "File scan"
-msgstr "Analyse des fichiers"
-
-msgid "Directory scan"
-msgstr "Analyse des répertoires"
-
-msgid "Device scan"
-msgstr ""
-
-msgid "Result"
-msgstr ""
-
-msgid "Flags"
-msgstr "Drapeaux"
 
 msgid "Label"
 msgstr ""
 
-msgid "Analyze"
+msgid "Labels"
 msgstr ""
 
-msgid "To data"
+msgid "Language"
 msgstr ""
 
-msgid "Segment"
+msgid "Libraries"
+msgstr "Bibliothèques"
+
+msgid "Library"
+msgstr "Bibliothèque"
+
+msgid "Linker"
+msgstr "Linker"
+
+msgid "Log"
+msgstr "Journal"
+
+msgid "Match case"
+msgstr "Cas de correspondance"
+
+msgid "Maximum"
 msgstr ""
 
-msgid "Total"
+msgid "Memory map"
 msgstr ""
-
-msgid "Status"
-msgstr "Statut"
-
-msgid "Regions"
-msgstr ""
-
-msgid "Byte"
-msgstr "Byte"
-
-msgid "Count"
-msgstr "Compte"
 
 msgid "Method"
 msgstr "Méthode"
@@ -565,8 +301,270 @@ msgstr "Méthode"
 msgid "Mode"
 msgstr "Mode"
 
-msgid "Architecture"
+msgid "Name"
+msgstr "Nom"
+
+msgid "New"
+msgstr "Nouveau"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Opcode"
 msgstr ""
 
-msgid "File type"
-msgstr "Type de fichier"
+msgid "Opcodes"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Open directory"
+msgstr "Répertoire ouvert"
+
+msgid "Open file"
+msgstr ""
+
+msgid "Options"
+msgstr "Options"
+
+msgid "Overlay"
+msgstr "Superposition"
+
+msgid "Packer"
+msgstr "Packer"
+
+msgid "Please restart the application"
+msgstr ""
+
+msgid "Process"
+msgstr ""
+
+msgid "Protector"
+msgstr "Protecteur"
+
+msgid "Protector data"
+msgstr "Données sur le protecteur"
+
+msgid "Raw data"
+msgstr ""
+
+msgid "Read error"
+msgstr ""
+
+msgid "Read only"
+msgstr "Lecture seule"
+
+msgid "Readonly"
+msgstr ""
+
+msgid "Recursive"
+msgstr ""
+
+msgid "Recursive scan"
+msgstr ""
+
+msgid "Ref from"
+msgstr ""
+
+msgid "Ref to"
+msgstr ""
+
+msgid "Regions"
+msgstr ""
+
+msgid "Register"
+msgstr "S'inscrire"
+
+msgid "Relative virtual address"
+msgstr "Adresse virtuelle relative"
+
+msgid "Reload"
+msgstr "Recharger"
+
+msgid "Resource"
+msgstr "Ressource"
+
+msgid "Resources"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Run"
+msgstr "Run"
+
+msgid "Save"
+msgstr "Sauvegarder"
+
+msgid "Save backup"
+msgstr ""
+
+msgid "Save dump"
+msgstr ""
+
+msgid "Save file"
+msgstr ""
+
+msgid "Save last directory"
+msgstr "Sauvegarder le dernier répertoire"
+
+msgid "Save result"
+msgstr "Enregistrer le résultat"
+
+msgid "Scan"
+msgstr "Scanner"
+
+msgid "Scan after open"
+msgstr "Scan après ouverture"
+
+msgid "Search"
+msgstr "Chercher"
+
+msgid "Search from"
+msgstr "Recherche à partir de"
+
+msgid "Search strings"
+msgstr ""
+
+msgid "Section"
+msgstr ""
+
+msgid "Section name"
+msgstr ""
+
+msgid "Sections"
+msgstr "Sections"
+
+msgid "Segment"
+msgstr ""
+
+msgid "Segments"
+msgstr "Segments"
+
+msgid "Select"
+msgstr "Sélectionnez"
+
+msgid "Select all"
+msgstr "Sélectionner tout"
+
+msgid "Selection"
+msgstr ""
+
+msgid "Show options"
+msgstr "Afficher les options"
+
+msgid "Show type"
+msgstr "Afficher le type"
+
+msgid "Show version"
+msgstr "Afficher la version"
+
+msgid "Sign tool"
+msgstr ""
+
+msgid "Signature"
+msgstr "Signature"
+
+msgid "Signatures"
+msgstr "Signatures"
+
+msgid "Size"
+msgstr ""
+
+msgid "Source code"
+msgstr ""
+
+msgid "Spaces"
+msgstr "Espaces"
+
+msgid "Status"
+msgstr "Statut"
+
+msgid "Stay on top"
+msgstr "Rester au top "
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "String"
+msgstr ""
+
+msgid "Strings"
+msgstr ""
+
+msgid "Stub"
+msgstr "Stub"
+
+msgid "Style"
+msgstr ""
+
+msgid "Text documents"
+msgstr ""
+
+msgid "Text files"
+msgstr ""
+
+msgid "Thanks"
+msgstr "Merci"
+
+msgid "To data"
+msgstr ""
+
+msgid "Tool"
+msgstr "Outil"
+
+msgid "Tools"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Type"
+msgstr "Type"
+
+msgid "Unknown"
+msgstr "Inconnu"
+
+msgid "Upper"
+msgstr "Haut de page"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Virtual address"
+msgstr "Adresse virtuelle"
+
+msgid "Wildcard"
+msgstr ""
+
+msgid "Write error"
+msgstr ""
+
+msgid "compressor"
+msgstr ""
+
+msgid "data"
+msgstr ""
+
+msgid "extender"
+msgstr ""
+
+msgid "msec"
+msgstr ""
+
+msgid "not packed"
+msgstr "non emballée"
+
+msgid "obfuscator"
+msgstr ""
+
+msgid "packed"
+msgstr "emballé"
+
+msgid "protection"
+msgstr ""
+
