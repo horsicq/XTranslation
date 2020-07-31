@@ -6,9 +6,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: en_US\n"
 
-msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
-msgstr ""
-
 msgid "About"
 msgstr ""
 

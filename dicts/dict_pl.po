@@ -8,9 +8,6 @@ msgstr ""
 "X-Language: pl_PL\n"
 "X-Source-Language: C\n"
 
-msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
-msgstr ""
-
 msgid "About"
 msgstr "O programie"
 

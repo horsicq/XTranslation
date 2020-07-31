@@ -7,9 +7,6 @@ msgstr ""
 "&& n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
 "X-Language: ar_EG\n"
 
-msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
-msgstr ""
-
 msgid "About"
 msgstr ""
 

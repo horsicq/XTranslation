@@ -7,9 +7,6 @@ msgstr ""
 "X-Language: fr_FR\n"
 "X-Source-Language: C\n"
 
-msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
-msgstr ""
-
 msgid "About"
 msgstr "À propos de DIE"
 

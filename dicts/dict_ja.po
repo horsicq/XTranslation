@@ -7,9 +7,6 @@ msgstr ""
 "X-Language: ja_JP\n"
 "X-Source-Language: C\n"
 
-msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
-msgstr ""
-
 msgid "About"
 msgstr "情報"
 
