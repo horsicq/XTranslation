@@ -7,6 +7,9 @@ msgstr ""
 "X-Language: pt_BR\n"
 "X-Source-Language: C\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr "Sobre"
 
@@ -67,9 +70,6 @@ msgstr ""
 msgid "Clear"
 msgstr "Limpar"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr ""
 
@@ -118,10 +118,10 @@ msgstr "Cursor"
 msgid "Database"
 msgstr ""
 
-msgid "Debug"
-msgstr "Debug"
-
 msgid "Debug data"
+msgstr ""
+
+msgid "Debugger"
 msgstr ""
 
 msgid "Deep scan"
@@ -189,6 +189,9 @@ msgstr "Offset do arquivo"
 
 msgid "File scan"
 msgstr "Escanear arquivo"
+
+msgid "File type"
+msgstr "Tipo do arquivos"
 
 msgid "Filter"
 msgstr ""
@@ -286,6 +289,9 @@ msgstr ""
 msgid "Log"
 msgstr "Log"
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr "Match case"
 
@@ -303,9 +309,6 @@ msgstr "Modo"
 
 msgid "Name"
 msgstr "Nome"
-
-msgid "New"
-msgstr "Novo"
 
 msgid "OK"
 msgstr "OK"
@@ -355,9 +358,6 @@ msgstr ""
 msgid "Read error"
 msgstr ""
 
-msgid "Read only"
-msgstr "Apenas leitura"
-
 msgid "Readonly"
 msgstr ""
 
@@ -385,22 +385,19 @@ msgstr "Endereço virtual relativo"
 msgid "Reload"
 msgstr "Recarregar"
 
-msgid "Resource"
-msgstr "Recursos"
-
 msgid "Resources"
 msgstr ""
 
 msgid "Result"
 msgstr ""
 
-msgid "Run"
-msgstr "Executar"
-
 msgid "Save"
 msgstr "Salvar"
 
 msgid "Save backup"
+msgstr ""
+
+msgid "Save diagram"
 msgstr ""
 
 msgid "Save dump"
@@ -453,15 +450,6 @@ msgstr "Selecionar todos"
 
 msgid "Selection"
 msgstr ""
-
-msgid "Show options"
-msgstr "Mostar opções"
-
-msgid "Show type"
-msgstr "Mostar tipo"
-
-msgid "Show version"
-msgstr "Mostar versão"
 
 msgid "Sign tool"
 msgstr ""
@@ -535,6 +523,9 @@ msgstr "Upper"
 msgid "Value"
 msgstr "Valor"
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Endereço virtual"
 
@@ -559,6 +550,9 @@ msgstr ""
 msgid "not packed"
 msgstr "não comprimido"
 
+msgid "ntinfo.re@gmail.com"
+msgstr ""
+
 msgid "obfuscator"
 msgstr ""
 
@@ -567,4 +561,11 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr ""
+
+
+
+
+
+
+
 

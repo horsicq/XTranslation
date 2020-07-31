@@ -8,6 +8,9 @@ msgstr ""
 "X-Language: pl_PL\n"
 "X-Source-Language: C\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr "O programie"
 
@@ -68,9 +71,6 @@ msgstr ""
 msgid "Clear"
 msgstr "Wyczyść"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr ""
 
@@ -119,10 +119,10 @@ msgstr "Kursor"
 msgid "Database"
 msgstr ""
 
-msgid "Debug"
-msgstr "Debugguj"
-
 msgid "Debug data"
+msgstr ""
+
+msgid "Debugger"
 msgstr ""
 
 msgid "Deep scan"
@@ -190,6 +190,9 @@ msgstr "Przesunięcie"
 
 msgid "File scan"
 msgstr "Przetwórz plik"
+
+msgid "File type"
+msgstr "Typ pliku"
 
 msgid "Filter"
 msgstr ""
@@ -287,6 +290,9 @@ msgstr ""
 msgid "Log"
 msgstr "Dziennik"
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr "Uwzględniaj wielkość liter"
 
@@ -304,9 +310,6 @@ msgstr "Tryb"
 
 msgid "Name"
 msgstr "Nazwa"
-
-msgid "New"
-msgstr "Nowy"
 
 msgid "OK"
 msgstr "OK"
@@ -356,9 +359,6 @@ msgstr ""
 msgid "Read error"
 msgstr ""
 
-msgid "Read only"
-msgstr "Tylko do odczytu"
-
 msgid "Readonly"
 msgstr ""
 
@@ -386,22 +386,19 @@ msgstr "Względny adres wirtualny"
 msgid "Reload"
 msgstr "Przeładuj"
 
-msgid "Resource"
-msgstr "Zasoby"
-
 msgid "Resources"
 msgstr ""
 
 msgid "Result"
 msgstr ""
 
-msgid "Run"
-msgstr "Uruchom"
-
 msgid "Save"
 msgstr "Zapisz"
 
 msgid "Save backup"
+msgstr ""
+
+msgid "Save diagram"
 msgstr ""
 
 msgid "Save dump"
@@ -454,15 +451,6 @@ msgstr "Zaznacz wszystko"
 
 msgid "Selection"
 msgstr ""
-
-msgid "Show options"
-msgstr "Pokaż opcje"
-
-msgid "Show type"
-msgstr "Pokaż typ"
-
-msgid "Show version"
-msgstr "Pokaż wersję"
 
 msgid "Sign tool"
 msgstr ""
@@ -536,6 +524,9 @@ msgstr "Wielkie litery"
 msgid "Value"
 msgstr "Wartość"
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Adres wirtualny"
 
@@ -560,6 +551,9 @@ msgstr ""
 msgid "not packed"
 msgstr "nie upakowany"
 
+msgid "ntinfo.re@gmail.com"
+msgstr ""
+
 msgid "obfuscator"
 msgstr ""
 
@@ -568,4 +562,11 @@ msgstr "upakowany"
 
 msgid "protection"
 msgstr ""
+
+
+
+
+
+
+
 

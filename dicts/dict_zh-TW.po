@@ -7,6 +7,9 @@ msgstr ""
 "X-Language: zh_TW\n"
 "X-Source-Language: C\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr "關於"
 
@@ -67,9 +70,6 @@ msgstr ""
 msgid "Clear"
 msgstr "清除"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr "關閉"
 
@@ -118,10 +118,10 @@ msgstr "游標"
 msgid "Database"
 msgstr "資料庫"
 
-msgid "Debug"
-msgstr "調試"
-
 msgid "Debug data"
+msgstr ""
+
+msgid "Debugger"
 msgstr ""
 
 msgid "Deep scan"
@@ -189,6 +189,9 @@ msgstr "檔案偏移量"
 
 msgid "File scan"
 msgstr "檔案掃描"
+
+msgid "File type"
+msgstr "檔案類型"
 
 msgid "Filter"
 msgstr "過濾器"
@@ -286,6 +289,9 @@ msgstr ""
 msgid "Log"
 msgstr "日誌"
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr "區分大小寫"
 
@@ -303,9 +309,6 @@ msgstr "模式"
 
 msgid "Name"
 msgstr "姓名"
-
-msgid "New"
-msgstr "新建"
 
 msgid "OK"
 msgstr "確定"
@@ -355,9 +358,6 @@ msgstr "原始資料"
 msgid "Read error"
 msgstr "讀取錯誤"
 
-msgid "Read only"
-msgstr "唯讀"
-
 msgid "Readonly"
 msgstr "只讀"
 
@@ -385,23 +385,20 @@ msgstr "相對虛擬位址"
 msgid "Reload"
 msgstr "重新載入"
 
-msgid "Resource"
-msgstr "資源"
-
 msgid "Resources"
 msgstr "資源"
 
 msgid "Result"
 msgstr "結果"
 
-msgid "Run"
-msgstr "運行"
-
 msgid "Save"
 msgstr "保存"
 
 msgid "Save backup"
 msgstr "保存備份"
+
+msgid "Save diagram"
+msgstr ""
 
 msgid "Save dump"
 msgstr "保存轉儲"
@@ -453,15 +450,6 @@ msgstr "全選"
 
 msgid "Selection"
 msgstr "選中項"
-
-msgid "Show options"
-msgstr "顯示選項"
-
-msgid "Show type"
-msgstr "顯示類型"
-
-msgid "Show version"
-msgstr "顯示版本"
 
 msgid "Sign tool"
 msgstr "簽名工具"
@@ -535,6 +523,9 @@ msgstr "上位"
 msgid "Value"
 msgstr "值"
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "虛擬位址"
 
@@ -559,6 +550,9 @@ msgstr "毫秒"
 msgid "not packed"
 msgstr "未包裝"
 
+msgid "ntinfo.re@gmail.com"
+msgstr ""
+
 msgid "obfuscator"
 msgstr "模糊器"
 
@@ -567,4 +561,11 @@ msgstr "已包裝"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+
+
+
+
 

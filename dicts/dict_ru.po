@@ -8,6 +8,9 @@ msgstr ""
 "X-Language: ru_RU\n"
 "X-Source-Language: C\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr "О программе"
 
@@ -68,9 +71,6 @@ msgstr ""
 msgid "Clear"
 msgstr "Очистить"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr ""
 
@@ -119,10 +119,10 @@ msgstr "Курсор"
 msgid "Database"
 msgstr ""
 
-msgid "Debug"
-msgstr "Отладка"
-
 msgid "Debug data"
+msgstr ""
+
+msgid "Debugger"
 msgstr ""
 
 msgid "Deep scan"
@@ -190,6 +190,9 @@ msgstr "Смещение"
 
 msgid "File scan"
 msgstr "Сканирования файла"
+
+msgid "File type"
+msgstr "Тип файла"
 
 msgid "Filter"
 msgstr ""
@@ -287,6 +290,9 @@ msgstr ""
 msgid "Log"
 msgstr "Лог"
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr "Учитывать регистр"
 
@@ -304,9 +310,6 @@ msgstr "Режим"
 
 msgid "Name"
 msgstr "Имя"
-
-msgid "New"
-msgstr "Новая"
 
 msgid "OK"
 msgstr "ОК"
@@ -356,9 +359,6 @@ msgstr ""
 msgid "Read error"
 msgstr ""
 
-msgid "Read only"
-msgstr "Только чтение"
-
 msgid "Readonly"
 msgstr ""
 
@@ -386,22 +386,19 @@ msgstr "Относительный виртуальный адрес"
 msgid "Reload"
 msgstr "Обновить"
 
-msgid "Resource"
-msgstr "Ресурсы"
-
 msgid "Resources"
 msgstr ""
 
 msgid "Result"
 msgstr ""
 
-msgid "Run"
-msgstr "Запуск"
-
 msgid "Save"
 msgstr "Сохранить"
 
 msgid "Save backup"
+msgstr ""
+
+msgid "Save diagram"
 msgstr ""
 
 msgid "Save dump"
@@ -454,15 +451,6 @@ msgstr "Выбрать всё"
 
 msgid "Selection"
 msgstr ""
-
-msgid "Show options"
-msgstr "Показывать опции"
-
-msgid "Show type"
-msgstr "Показывать тип"
-
-msgid "Show version"
-msgstr "Показывать версию"
 
 msgid "Sign tool"
 msgstr ""
@@ -536,6 +524,9 @@ msgstr "Верхний регистр"
 msgid "Value"
 msgstr "Значение"
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Виртуальный адрес"
 
@@ -560,6 +551,9 @@ msgstr ""
 msgid "not packed"
 msgstr "не сжатый"
 
+msgid "ntinfo.re@gmail.com"
+msgstr ""
+
 msgid "obfuscator"
 msgstr ""
 
@@ -568,4 +562,11 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr ""
+
+
+
+
+
+
+
 

@@ -6,6 +6,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: es_ES\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr ""
 
@@ -66,9 +69,6 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr ""
 
@@ -117,10 +117,10 @@ msgstr ""
 msgid "Database"
 msgstr ""
 
-msgid "Debug"
+msgid "Debug data"
 msgstr ""
 
-msgid "Debug data"
+msgid "Debugger"
 msgstr ""
 
 msgid "Deep scan"
@@ -187,6 +187,9 @@ msgid "File offset"
 msgstr ""
 
 msgid "File scan"
+msgstr ""
+
+msgid "File type"
 msgstr ""
 
 msgid "Filter"
@@ -285,6 +288,9 @@ msgstr ""
 msgid "Log"
 msgstr ""
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr ""
 
@@ -301,9 +307,6 @@ msgid "Mode"
 msgstr ""
 
 msgid "Name"
-msgstr ""
-
-msgid "New"
 msgstr ""
 
 msgid "OK"
@@ -354,9 +357,6 @@ msgstr ""
 msgid "Read error"
 msgstr ""
 
-msgid "Read only"
-msgstr ""
-
 msgid "Readonly"
 msgstr ""
 
@@ -384,22 +384,19 @@ msgstr ""
 msgid "Reload"
 msgstr ""
 
-msgid "Resource"
-msgstr ""
-
 msgid "Resources"
 msgstr ""
 
 msgid "Result"
 msgstr ""
 
-msgid "Run"
-msgstr ""
-
 msgid "Save"
 msgstr ""
 
 msgid "Save backup"
+msgstr ""
+
+msgid "Save diagram"
 msgstr ""
 
 msgid "Save dump"
@@ -451,15 +448,6 @@ msgid "Select all"
 msgstr ""
 
 msgid "Selection"
-msgstr ""
-
-msgid "Show options"
-msgstr ""
-
-msgid "Show type"
-msgstr ""
-
-msgid "Show version"
 msgstr ""
 
 msgid "Sign tool"
@@ -534,6 +522,9 @@ msgstr ""
 msgid "Value"
 msgstr ""
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr ""
 
@@ -556,6 +547,9 @@ msgid "msec"
 msgstr ""
 
 msgid "not packed"
+msgstr ""
+
+msgid "ntinfo.re@gmail.com"
 msgstr ""
 
 msgid "obfuscator"

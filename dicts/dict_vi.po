@@ -7,6 +7,9 @@ msgstr ""
 "X-Language: vi_VN\n"
 "X-Source-Language: C\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr "Giới thiệu"
 
@@ -67,9 +70,6 @@ msgstr ""
 msgid "Clear"
 msgstr "Xóa"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr "Đóng"
 
@@ -118,10 +118,10 @@ msgstr "Con trỏ"
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
-msgid "Debug"
-msgstr "Gỡ lỗi"
-
 msgid "Debug data"
+msgstr ""
+
+msgid "Debugger"
 msgstr ""
 
 msgid "Deep scan"
@@ -189,6 +189,9 @@ msgstr "Khoảng cách đến đầu tập tin"
 
 msgid "File scan"
 msgstr "Quét tập tin"
+
+msgid "File type"
+msgstr "Loại tập tin"
 
 msgid "Filter"
 msgstr "Bộ lọc"
@@ -286,6 +289,9 @@ msgstr ""
 msgid "Log"
 msgstr "Nhật ký"
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr "Đúng với mẫu"
 
@@ -303,9 +309,6 @@ msgstr "Chế độ"
 
 msgid "Name"
 msgstr "Tên"
-
-msgid "New"
-msgstr "Mới"
 
 msgid "OK"
 msgstr "OK"
@@ -355,9 +358,6 @@ msgstr "Dữ lieu thô"
 msgid "Read error"
 msgstr "Đọc lỗi"
 
-msgid "Read only"
-msgstr "Chỉ đọc"
-
 msgid "Readonly"
 msgstr "Chỉ đọc"
 
@@ -385,23 +385,20 @@ msgstr "Địa chỉ ảo tương đối"
 msgid "Reload"
 msgstr "Tải lại"
 
-msgid "Resource"
-msgstr "Nguồn"
-
 msgid "Resources"
 msgstr "Tài nguyên"
 
 msgid "Result"
 msgstr "Kết quả"
 
-msgid "Run"
-msgstr "Chạy"
-
 msgid "Save"
 msgstr "Lưu"
 
 msgid "Save backup"
 msgstr "Lưu sao lưu"
+
+msgid "Save diagram"
+msgstr ""
 
 msgid "Save dump"
 msgstr "Lưu kết xuất"
@@ -453,15 +450,6 @@ msgstr "Chọn tất cả"
 
 msgid "Selection"
 msgstr "Lựa chọn"
-
-msgid "Show options"
-msgstr "Hiển thị tùy chọn"
-
-msgid "Show type"
-msgstr "Hiển thị loại"
-
-msgid "Show version"
-msgstr "Hiển thị phiên bản"
 
 msgid "Sign tool"
 msgstr "Công cụ ký"
@@ -535,6 +523,9 @@ msgstr "Trên"
 msgid "Value"
 msgstr "Giá trị"
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Địa chỉ ảo"
 
@@ -559,6 +550,9 @@ msgstr "mili-giây"
 msgid "not packed"
 msgstr "không nén"
 
+msgid "ntinfo.re@gmail.com"
+msgstr ""
+
 msgid "obfuscator"
 msgstr "trình làm rối"
 
@@ -567,4 +561,11 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
+
+
+
+
+
+
+
 

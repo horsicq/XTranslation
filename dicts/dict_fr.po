@@ -7,6 +7,9 @@ msgstr ""
 "X-Language: fr_FR\n"
 "X-Source-Language: C\n"
 
+msgid "3DqddVBX9PKqMvNPXZ3gPHBNNRtD9CnmJo"
+msgstr ""
+
 msgid "About"
 msgstr "À propos de DIE"
 
@@ -67,9 +70,6 @@ msgstr ""
 msgid "Clear"
 msgstr "Clair"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr ""
 
@@ -118,11 +118,11 @@ msgstr "Curseur"
 msgid "Database"
 msgstr ""
 
-msgid "Debug"
-msgstr "Débogage"
-
 msgid "Debug data"
 msgstr "Données de débogage"
+
+msgid "Debugger"
+msgstr ""
 
 msgid "Deep scan"
 msgstr "Analyse approfondie"
@@ -189,6 +189,9 @@ msgstr "Fichier offset"
 
 msgid "File scan"
 msgstr "Analyse des fichiers"
+
+msgid "File type"
+msgstr "Type de fichier"
 
 msgid "Filter"
 msgstr ""
@@ -286,6 +289,9 @@ msgstr "Linker"
 msgid "Log"
 msgstr "Journal"
 
+msgid "Manifest"
+msgstr ""
+
 msgid "Match case"
 msgstr "Cas de correspondance"
 
@@ -303,9 +309,6 @@ msgstr "Mode"
 
 msgid "Name"
 msgstr "Nom"
-
-msgid "New"
-msgstr "Nouveau"
 
 msgid "OK"
 msgstr "OK"
@@ -355,9 +358,6 @@ msgstr ""
 msgid "Read error"
 msgstr ""
 
-msgid "Read only"
-msgstr "Lecture seule"
-
 msgid "Readonly"
 msgstr ""
 
@@ -385,22 +385,19 @@ msgstr "Adresse virtuelle relative"
 msgid "Reload"
 msgstr "Recharger"
 
-msgid "Resource"
-msgstr "Ressource"
-
 msgid "Resources"
 msgstr ""
 
 msgid "Result"
 msgstr ""
 
-msgid "Run"
-msgstr "Run"
-
 msgid "Save"
 msgstr "Sauvegarder"
 
 msgid "Save backup"
+msgstr ""
+
+msgid "Save diagram"
 msgstr ""
 
 msgid "Save dump"
@@ -453,15 +450,6 @@ msgstr "Sélectionner tout"
 
 msgid "Selection"
 msgstr ""
-
-msgid "Show options"
-msgstr "Afficher les options"
-
-msgid "Show type"
-msgstr "Afficher le type"
-
-msgid "Show version"
-msgstr "Afficher la version"
 
 msgid "Sign tool"
 msgstr ""
@@ -535,6 +523,9 @@ msgstr "Haut de page"
 msgid "Value"
 msgstr "Valeur"
 
+msgid "Version"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Adresse virtuelle"
 
@@ -559,6 +550,9 @@ msgstr ""
 msgid "not packed"
 msgstr "non emballée"
 
+msgid "ntinfo.re@gmail.com"
+msgstr ""
+
 msgid "obfuscator"
 msgstr ""
 
@@ -567,4 +561,11 @@ msgstr "emballé"
 
 msgid "protection"
 msgstr ""
+
+
+
+
+
+
+
 
