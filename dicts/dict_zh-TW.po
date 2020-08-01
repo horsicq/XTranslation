@@ -287,7 +287,7 @@ msgid "Log"
 msgstr "日誌"
 
 msgid "Manifest"
-msgstr ""
+msgstr "顯示"
 
 msgid "Match case"
 msgstr "區分大小寫"
@@ -395,7 +395,7 @@ msgid "Save backup"
 msgstr "保存備份"
 
 msgid "Save diagram"
-msgstr ""
+msgstr "保存圖表"
 
 msgid "Save dump"
 msgstr "保存轉儲"
@@ -521,7 +521,7 @@ msgid "Value"
 msgstr "值"
 
 msgid "Version"
-msgstr ""
+msgstr "版本"
 
 msgid "Virtual address"
 msgstr "虛擬位址"
@@ -547,9 +547,6 @@ msgstr "毫秒"
 msgid "not packed"
 msgstr "未包裝"
 
-msgid "ntinfo.re@gmail.com"
-msgstr ""
-
 msgid "obfuscator"
 msgstr "模糊器"
 
@@ -558,11 +555,3 @@ msgstr "已包裝"
 
 msgid "protection"
 msgstr "保護"
-
-
-
-
-
-
-
-

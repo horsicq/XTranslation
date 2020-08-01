@@ -287,7 +287,7 @@ msgid "Log"
 msgstr "Log"
 
 msgid "Manifest"
-msgstr ""
+msgstr "Manifest"
 
 msgid "Match case"
 msgstr "Match case"
@@ -395,7 +395,7 @@ msgid "Save backup"
 msgstr ""
 
 msgid "Save diagram"
-msgstr ""
+msgstr "Diagramm speichern"
 
 msgid "Save dump"
 msgstr ""
@@ -521,7 +521,7 @@ msgid "Value"
 msgstr "Werte"
 
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 msgid "Virtual address"
 msgstr "Virtuelle Adresse"
@@ -547,9 +547,6 @@ msgstr ""
 msgid "not packed"
 msgstr "not packed"
 
-msgid "ntinfo.re@gmail.com"
-msgstr ""
-
 msgid "obfuscator"
 msgstr ""
 
@@ -558,11 +555,3 @@ msgstr "packed"
 
 msgid "protection"
 msgstr ""
-
-
-
-
-
-
-
-

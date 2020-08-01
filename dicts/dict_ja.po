@@ -287,7 +287,7 @@ msgid "Log"
 msgstr "ログ"
 
 msgid "Manifest"
-msgstr ""
+msgstr "Manifest"
 
 msgid "Match case"
 msgstr "大文字小文字を区別"
@@ -395,7 +395,7 @@ msgid "Save backup"
 msgstr ""
 
 msgid "Save diagram"
-msgstr ""
+msgstr "グラフを保存"
 
 msgid "Save dump"
 msgstr ""
@@ -521,7 +521,7 @@ msgid "Value"
 msgstr "値"
 
 msgid "Version"
-msgstr ""
+msgstr "バージョン"
 
 msgid "Virtual address"
 msgstr "仮想アドレス"
@@ -547,9 +547,6 @@ msgstr ""
 msgid "not packed"
 msgstr "未パック"
 
-msgid "ntinfo.re@gmail.com"
-msgstr ""
-
 msgid "obfuscator"
 msgstr ""
 
@@ -558,11 +555,3 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr ""
-
-
-
-
-
-
-
-

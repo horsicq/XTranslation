@@ -287,7 +287,7 @@ msgid "Log"
 msgstr "Nhật ký"
 
 msgid "Manifest"
-msgstr ""
+msgstr "Xuất hiện"
 
 msgid "Match case"
 msgstr "Đúng với mẫu"
@@ -395,7 +395,7 @@ msgid "Save backup"
 msgstr "Lưu sao lưu"
 
 msgid "Save diagram"
-msgstr ""
+msgstr "Lưu biểu đồ"
 
 msgid "Save dump"
 msgstr "Lưu kết xuất"
@@ -521,7 +521,7 @@ msgid "Value"
 msgstr "Giá trị"
 
 msgid "Version"
-msgstr ""
+msgstr "Phiên bản"
 
 msgid "Virtual address"
 msgstr "Địa chỉ ảo"
@@ -547,9 +547,6 @@ msgstr "mili-giây"
 msgid "not packed"
 msgstr "không nén"
 
-msgid "ntinfo.re@gmail.com"
-msgstr ""
-
 msgid "obfuscator"
 msgstr "trình làm rối"
 
@@ -558,11 +555,3 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
-
-
-
-
-
-
-
-

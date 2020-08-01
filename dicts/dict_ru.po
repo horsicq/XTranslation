@@ -288,7 +288,7 @@ msgid "Log"
 msgstr "Лог"
 
 msgid "Manifest"
-msgstr ""
+msgstr "Манифест"
 
 msgid "Match case"
 msgstr "Учитывать регистр"
@@ -396,7 +396,7 @@ msgid "Save backup"
 msgstr ""
 
 msgid "Save diagram"
-msgstr ""
+msgstr "Сохранить график"
 
 msgid "Save dump"
 msgstr ""
@@ -522,7 +522,7 @@ msgid "Value"
 msgstr "Значение"
 
 msgid "Version"
-msgstr ""
+msgstr "Версия"
 
 msgid "Virtual address"
 msgstr "Виртуальный адрес"
@@ -548,9 +548,6 @@ msgstr ""
 msgid "not packed"
 msgstr "не сжатый"
 
-msgid "ntinfo.re@gmail.com"
-msgstr ""
-
 msgid "obfuscator"
 msgstr ""
 
@@ -559,11 +556,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr ""
-
-
-
-
-
-
-
-

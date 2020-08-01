@@ -546,9 +546,6 @@ msgstr ""
 msgid "not packed"
 msgstr ""
 
-msgid "ntinfo.re@gmail.com"
-msgstr ""
-
 msgid "obfuscator"
 msgstr ""
 
