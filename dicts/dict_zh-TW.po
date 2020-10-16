@@ -109,6 +109,9 @@ msgstr "計數"
 msgid "Create view model"
 msgstr "創建視圖模型"
 
+msgid "Cryptor"
+msgstr ""
+
 msgid "Cursor"
 msgstr "游標"
 

@@ -115,6 +115,9 @@ msgstr "카운트"
 msgid "Create view model"
 msgstr "보기 모델 만들기"
 
+msgid "Cryptor"
+msgstr ""
+
 msgid "Cursor"
 msgstr "커서"
 

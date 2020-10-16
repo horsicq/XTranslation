@@ -110,6 +110,9 @@ msgstr "Число"
 msgid "Create view model"
 msgstr ""
 
+msgid "Cryptor"
+msgstr ""
+
 msgid "Cursor"
 msgstr "Курсор"
 

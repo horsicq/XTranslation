@@ -109,6 +109,9 @@ msgstr "Đếm"
 msgid "Create view model"
 msgstr "Tạo mẫu  xem"
 
+msgid "Cryptor"
+msgstr ""
+
 msgid "Cursor"
 msgstr "Con trỏ"
 

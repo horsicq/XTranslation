@@ -109,6 +109,9 @@ msgstr "Conteggio"
 msgid "Create view model"
 msgstr "Crea modello vista"
 
+msgid "Cryptor"
+msgstr ""
+
 msgid "Cursor"
 msgstr "Cursore"
 
