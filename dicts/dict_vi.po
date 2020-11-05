@@ -490,6 +490,9 @@ msgstr "Stub"
 msgid "Style"
 msgstr "Kiểu"
 
+msgid "Table"
+msgstr ""
+
 msgid "Text documents"
 msgstr "Tài liệu văn bản"
 
@@ -510,6 +513,9 @@ msgstr "Công cụ"
 
 msgid "Total"
 msgstr "Tổng"
+
+msgid "Tree"
+msgstr ""
 
 msgid "Type"
 msgstr "Loại"

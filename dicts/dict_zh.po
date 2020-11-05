@@ -490,6 +490,9 @@ msgstr "末节区域"
 msgid "Style"
 msgstr "样式"
 
+msgid "Table"
+msgstr ""
+
 msgid "Text documents"
 msgstr "文本文件"
 
@@ -510,6 +513,9 @@ msgstr "工具"
 
 msgid "Total"
 msgstr "总计"
+
+msgid "Tree"
+msgstr ""
 
 msgid "Type"
 msgstr "类型"

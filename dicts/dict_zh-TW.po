@@ -490,6 +490,9 @@ msgstr "根"
 msgid "Style"
 msgstr "樣式"
 
+msgid "Table"
+msgstr ""
+
 msgid "Text documents"
 msgstr "文本檔案"
 
@@ -510,6 +513,9 @@ msgstr "工具"
 
 msgid "Total"
 msgstr "總計"
+
+msgid "Tree"
+msgstr ""
 
 msgid "Type"
 msgstr "類型"

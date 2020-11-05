@@ -496,6 +496,9 @@ msgstr "스텁"
 msgid "Style"
 msgstr "스타일"
 
+msgid "Table"
+msgstr ""
+
 msgid "Text documents"
 msgstr "텍스트 문서"
 
@@ -516,6 +519,9 @@ msgstr "도구"
 
 msgid "Total"
 msgstr "전체"
+
+msgid "Tree"
+msgstr ""
 
 msgid "Type"
 msgstr "유형"

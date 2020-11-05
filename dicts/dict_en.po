@@ -489,6 +489,9 @@ msgstr ""
 msgid "Style"
 msgstr ""
 
+msgid "Table"
+msgstr ""
+
 msgid "Text documents"
 msgstr ""
 
@@ -508,6 +511,9 @@ msgid "Tools"
 msgstr ""
 
 msgid "Total"
+msgstr ""
+
+msgid "Tree"
 msgstr ""
 
 msgid "Type"

@@ -490,6 +490,9 @@ msgstr "Stub"
 msgid "Style"
 msgstr "Stile"
 
+msgid "Table"
+msgstr ""
+
 msgid "Text documents"
 msgstr "Documenti di testo"
 
@@ -510,6 +513,9 @@ msgstr ""
 
 msgid "Total"
 msgstr "Totale"
+
+msgid "Tree"
+msgstr ""
 
 msgid "Type"
 msgstr "Tipo"
