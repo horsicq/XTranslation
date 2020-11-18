@@ -47,7 +47,7 @@ msgid "Calculate"
 msgstr "计算"
 
 msgid "Calls"
-msgstr ""
+msgstr "调用"
 
 msgid "Cancel"
 msgstr "取消"
@@ -62,7 +62,7 @@ msgid "Certificate"
 msgstr "证书"
 
 msgid "Check updates"
-msgstr ""
+msgstr "检查更新"
 
 msgid "Clear"
 msgstr "清除"
@@ -110,7 +110,7 @@ msgid "Create view model"
 msgstr "创建视图模型"
 
 msgid "Cryptor"
-msgstr ""
+msgstr "加密库"
 
 msgid "Cursor"
 msgstr "光标"
@@ -122,7 +122,7 @@ msgid "Debug data"
 msgstr "调试数据"
 
 msgid "Debugger"
-msgstr ""
+msgstr "调试器"
 
 msgid "Deep scan"
 msgstr "深度扫描"
@@ -143,7 +143,7 @@ msgid "Documents"
 msgstr "文件"
 
 msgid "Donate"
-msgstr ""
+msgstr "捐赠"
 
 msgid "Dump"
 msgstr "转储"
@@ -221,7 +221,7 @@ msgid "Go to address"
 msgstr "进入地址"
 
 msgid "Hash"
-msgstr ""
+msgstr "哈希"
 
 msgid "Header"
 msgstr "报头"
@@ -266,7 +266,7 @@ msgid "Joiner"
 msgstr "合并工具"
 
 msgid "Jumps"
-msgstr ""
+msgstr "跳过"
 
 msgid "Label"
 msgstr "标签"
@@ -320,7 +320,7 @@ msgid "Opcode"
 msgstr "操作码"
 
 msgid "Opcodes"
-msgstr ""
+msgstr "操作码"
 
 msgid "Open"
 msgstr "打开"
@@ -368,10 +368,10 @@ msgid "Recursive scan"
 msgstr "递归扫描"
 
 msgid "Ref from"
-msgstr ""
+msgstr "引用至"
 
 msgid "Ref to"
-msgstr ""
+msgstr "引用给"
 
 msgid "Regions"
 msgstr "区域"
@@ -491,7 +491,7 @@ msgid "Style"
 msgstr "样式"
 
 msgid "Table"
-msgstr ""
+msgstr "表格"
 
 msgid "Text documents"
 msgstr "文本文件"
@@ -515,7 +515,7 @@ msgid "Total"
 msgstr "总计"
 
 msgid "Tree"
-msgstr ""
+msgstr "目录"
 
 msgid "Type"
 msgstr "类型"
@@ -536,7 +536,7 @@ msgid "Virtual address"
 msgstr "虚拟地址"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "通配符"
 
 msgid "Write error"
 msgstr "写入错误"
