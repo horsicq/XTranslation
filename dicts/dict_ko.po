@@ -19,6 +19,9 @@ msgstr "정보"
 msgid "Address"
 msgstr "주소"
 
+msgid "All"
+msgstr ""
+
 msgid "All files"
 msgstr "모든 파일"
 

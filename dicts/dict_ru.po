@@ -14,6 +14,9 @@ msgstr "О программе"
 msgid "Address"
 msgstr "Адрес"
 
+msgid "All"
+msgstr ""
+
 msgid "All files"
 msgstr ""
 

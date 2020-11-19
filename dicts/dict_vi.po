@@ -13,6 +13,9 @@ msgstr "Giới thiệu"
 msgid "Address"
 msgstr "Địa chỉ"
 
+msgid "All"
+msgstr ""
+
 msgid "All files"
 msgstr "Tất cả tập tin"
 

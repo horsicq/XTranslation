@@ -13,6 +13,9 @@ msgstr "關於"
 msgid "Address"
 msgstr "地址"
 
+msgid "All"
+msgstr ""
+
 msgid "All files"
 msgstr "所有檔案"
 

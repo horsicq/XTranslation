@@ -13,6 +13,9 @@ msgstr "À propos de DIE"
 msgid "Address"
 msgstr "Adresse"
 
+msgid "All"
+msgstr ""
+
 msgid "All files"
 msgstr ""
 

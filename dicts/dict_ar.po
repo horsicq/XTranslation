@@ -13,6 +13,9 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+msgid "All"
+msgstr ""
+
 msgid "All files"
 msgstr ""
 
