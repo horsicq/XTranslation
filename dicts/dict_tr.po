@@ -1,0 +1,568 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: tr_TR\n"
+
+msgid "About"
+msgstr "Hakkında"
+
+msgid "Address"
+msgstr "Adres"
+
+msgid "All"
+msgstr "Hepsi"
+
+msgid "All files"
+msgstr "Bütün Dosyalar"
+
+msgid "Analyze"
+msgstr "Analiz"
+
+msgid "Appearance"
+msgstr "Görünüm"
+
+msgid "Architecture"
+msgstr "Mimari"
+
+msgid "Archive"
+msgstr "Arşiv"
+
+msgid "Archive record"
+msgstr "Arşiv kayıtları"
+
+msgid "Base address"
+msgstr "Temel adres"
+
+msgid "Begin"
+msgstr "Başla"
+
+msgid "Byte"
+msgstr "Byte"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Calculate"
+msgstr "Hesapla"
+
+msgid "Calls"
+msgstr "Çağır"
+
+msgid "Cancel"
+msgstr "İptal"
+
+msgid "Cannot open file"
+msgstr "Dosya açılmıyor"
+
+msgid "Cannot save file"
+msgstr "Dosya kayıt edilemiyor"
+
+msgid "Certificate"
+msgstr "Sertifika"
+
+msgid "Check updates"
+msgstr "Güncellemeleri kontrol et"
+
+msgid "Clear"
+msgstr "Temizle"
+
+msgid "Close"
+msgstr "Kapat"
+
+msgid "Code section"
+msgstr "Kod seçimi"
+
+msgid "Commands"
+msgstr "Komutlar"
+
+msgid "Compiler"
+msgstr "Derleyici"
+
+msgid "Context"
+msgstr "İçerik"
+
+msgid "Converter"
+msgstr "Çevirici"
+
+msgid "Copy"
+msgstr "Kapyala"
+
+msgid "Copy address"
+msgstr "Adres kopyala"
+
+msgid "Copy as hex"
+msgstr "HEX kopyala"
+
+msgid "Copy offset"
+msgstr "Ofset kopyala"
+
+msgid "Copy size"
+msgstr "Boyut kopyala"
+
+msgid "Copy string"
+msgstr "String kopyala"
+
+msgid "Count"
+msgstr "Say"
+
+msgid "Create view model"
+msgstr "Görünüm modeli oluştur"
+
+msgid "Cryptor"
+msgstr "Cryptor"
+
+msgid "Cursor"
+msgstr "Cursor"
+
+msgid "Database"
+msgstr "Database"
+
+msgid "Debug data"
+msgstr "Debug data"
+
+msgid "Debugger"
+msgstr "Debugger"
+
+msgid "Deep scan"
+msgstr "Derin tarama"
+
+msgid "Detect"
+msgstr "Algıla"
+
+msgid "Device scan"
+msgstr "Cihaz tara"
+
+msgid "Directory scan"
+msgstr "Klasör tara"
+
+msgid "Disasm"
+msgstr "Disasm"
+
+msgid "Documents"
+msgstr "Belgeler"
+
+msgid "Donate"
+msgstr "Bağış yap"
+
+msgid "Dump"
+msgstr "Dump (dök)"
+
+msgid "Dump to file"
+msgstr "Dosyaya dök"
+
+msgid "Edit"
+msgstr "Düzenle"
+
+msgid "Endianness"
+msgstr "Endianness"
+
+msgid "Entropy"
+msgstr "Entropy"
+
+msgid "Entry point"
+msgstr "Entry point"
+
+msgid "Entry point section"
+msgstr "Entry point seçimi"
+
+msgid "Error"
+msgstr "Hata"
+
+msgid "Exit"
+msgstr "Çıkış"
+
+msgid "Export"
+msgstr "Çıkart"
+
+msgid "Export file name"
+msgstr "Çıkartılan dosya adı"
+
+msgid "File"
+msgstr "Dosya"
+
+msgid "File name"
+msgstr "Dosya adı"
+
+msgid "File offset"
+msgstr "Dosya ofseti"
+
+msgid "File scan"
+msgstr "Dosya tarama"
+
+msgid "File type"
+msgstr "Dosya tipi"
+
+msgid "Filter"
+msgstr "Filtre"
+
+msgid "Find"
+msgstr "Bul"
+
+msgid "Find next"
+msgstr "Sonrakini bul"
+
+msgid "Flags"
+msgstr "Bayraklar"
+
+msgid "Format"
+msgstr "Biçim"
+
+msgid "General"
+msgstr "Genel"
+
+msgid "Generic"
+msgstr "Kapsamlı"
+
+msgid "Go to"
+msgstr "Git"
+
+msgid "Go to address"
+msgstr "Adrese git"
+
+msgid "Hash"
+msgstr "Hash"
+
+msgid "Header"
+msgstr "Header"
+
+msgid "Help"
+msgstr "Yardım"
+
+msgid "Heuristic"
+msgstr "Sezgisel"
+
+msgid "Heuristic scan"
+msgstr "Sezgisel tarama"
+
+msgid "Image"
+msgstr "İmaj"
+
+msgid "Images"
+msgstr "İmajlar"
+
+msgid "Import"
+msgstr "İçe al"
+
+msgid "Info"
+msgstr "Bilgi"
+
+msgid "Information"
+msgstr "Bilgilendirme"
+
+msgid "Installer"
+msgstr "Yükleyici"
+
+msgid "Installer data"
+msgstr "Yükleyici verileri"
+
+msgid "Invalid"
+msgstr "Geçersiz"
+
+msgid "It is not a valid file"
+msgstr "Bu geçerli bir dosya değil"
+
+msgid "Joiner"
+msgstr "Ekleyici"
+
+msgid "Jumps"
+msgstr "Sıçrama"
+
+msgid "Label"
+msgstr "Etiket"
+
+msgid "Labels"
+msgstr "Etiketler"
+
+msgid "Language"
+msgstr "Diller"
+
+msgid "Libraries"
+msgstr "Kütüphaneler"
+
+msgid "Library"
+msgstr "Kütüphane"
+
+msgid "Linker"
+msgstr "Bağlayıcı"
+
+msgid "Log"
+msgstr "Log Kayıt"
+
+msgid "Manifest"
+msgstr "Belirgin"
+
+msgid "Match case"
+msgstr "Büyük / küçük harf eşleştir"
+
+msgid "Maximum"
+msgstr "Maksimum"
+
+msgid "Memory map"
+msgstr "Hafıza haritası"
+
+msgid "Method"
+msgstr "Metod"
+
+msgid "Mode"
+msgstr "Mod"
+
+msgid "Name"
+msgstr "İsim"
+
+msgid "OK"
+msgstr "Tamam"
+
+msgid "Offset"
+msgstr "Ofset"
+
+msgid "Opcode"
+msgstr "Opcode"
+
+msgid "Opcodes"
+msgstr "Opcodes"
+
+msgid "Open"
+msgstr "Aç"
+
+msgid "Open directory"
+msgstr "Klasör aç"
+
+msgid "Open file"
+msgstr "Dosya aç"
+
+msgid "Options"
+msgstr "Ayarlar"
+
+msgid "Overlay"
+msgstr "Kaplama"
+
+msgid "Packer"
+msgstr "Paketleyici"
+
+msgid "Please restart the application"
+msgstr "Lütfen uygulamya tekrar başlatın"
+
+msgid "Process"
+msgstr "İşlem"
+
+msgid "Protector"
+msgstr "Koruyucu"
+
+msgid "Protector data"
+msgstr "Koruyucu verisi"
+
+msgid "Raw data"
+msgstr "İşlenmemiş veri"
+
+msgid "Read error"
+msgstr "Okuma hatası"
+
+msgid "Readonly"
+msgstr "Sadece okuma"
+
+msgid "Recursive"
+msgstr "Tekrarlanan"
+
+msgid "Recursive scan"
+msgstr "Tekrarlananları tara"
+
+msgid "Ref from"
+msgstr "Referanstan"
+
+msgid "Ref to"
+msgstr "Referansa"
+
+msgid "Regions"
+msgstr "Bölge"
+
+msgid "Register"
+msgstr "Kayıt"
+
+msgid "Relative virtual address"
+msgstr "İlgili sanal adres"
+
+msgid "Reload"
+msgstr "Tekrar yükle"
+
+msgid "Resources"
+msgstr "Kaynaklar"
+
+msgid "Result"
+msgstr "Sonuç"
+
+msgid "Save"
+msgstr "Kaydet"
+
+msgid "Save backup"
+msgstr "Yedek kayfet"
+
+msgid "Save diagram"
+msgstr "Diyagram kaydet"
+
+msgid "Save dump"
+msgstr "Dump kaydet"
+
+msgid "Save file"
+msgstr "Dosya kaydet"
+
+msgid "Save last directory"
+msgstr "Son klasöre kaydet"
+
+msgid "Save result"
+msgstr "Sonucu kaydet"
+
+msgid "Scan"
+msgstr "Tarama"
+
+msgid "Scan after open"
+msgstr "Açtıktan sonra tara"
+
+msgid "Search"
+msgstr "Ara"
+
+msgid "Search from"
+msgstr "Arama"
+
+msgid "Search strings"
+msgstr "Kelime ara"
+
+msgid "Section"
+msgstr "Seçim"
+
+msgid "Section name"
+msgstr "Seçim adı"
+
+msgid "Sections"
+msgstr "Seçimler"
+
+msgid "Segment"
+msgstr "Segment"
+
+msgid "Segments"
+msgstr "Segmentler"
+
+msgid "Select"
+msgstr "Seç"
+
+msgid "Select all"
+msgstr "Hepsini seç"
+
+msgid "Selection"
+msgstr "Seçilen"
+
+msgid "Sign tool"
+msgstr "İmza aracı"
+
+msgid "Signature"
+msgstr "İmza"
+
+msgid "Signatures"
+msgstr "İmzalar"
+
+msgid "Size"
+msgstr "Boyut"
+
+msgid "Source code"
+msgstr "Kaynak kodu"
+
+msgid "Spaces"
+msgstr "Alanlar"
+
+msgid "Status"
+msgstr "Durum"
+
+msgid "Stay on top"
+msgstr "Üstte tut"
+
+msgid "Stop"
+msgstr "Dur"
+
+msgid "String"
+msgstr "Kelime"
+
+msgid "Strings"
+msgstr "Kelimeler"
+
+msgid "Stub"
+msgstr "Taslak"
+
+msgid "Style"
+msgstr "Stil"
+
+msgid "Table"
+msgstr "Tablo"
+
+msgid "Text documents"
+msgstr "Metin belgeleri"
+
+msgid "Text files"
+msgstr "Metin dosyaları"
+
+msgid "Thanks"
+msgstr "Teşekkürler"
+
+msgid "To data"
+msgstr "veriye"
+
+msgid "Tool"
+msgstr "Araç"
+
+msgid "Tools"
+msgstr "Araçlar"
+
+msgid "Total"
+msgstr "Toplam"
+
+msgid "Tree"
+msgstr "Ağaç"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Unknown"
+msgstr "Bilinmeyen"
+
+msgid "Upper"
+msgstr "Üst"
+
+msgid "Value"
+msgstr "Değer"
+
+msgid "Version"
+msgstr "Versiyon"
+
+msgid "Virtual address"
+msgstr "Sanal adres"
+
+msgid "Wildcard"
+msgstr "Genel arama karakteri"
+
+msgid "Write error"
+msgstr "Yazma hatası"
+
+msgid "compressor"
+msgstr "sıkıştırıcı"
+
+msgid "data"
+msgstr "veri"
+
+msgid "extender"
+msgstr "genişletici"
+
+msgid "msec"
+msgstr "msec"
+
+msgid "not packed"
+msgstr "paketlenmemiş"
+
+msgid "obfuscator"
+msgstr "karıştırıcı"
+
+msgid "packed"
+msgstr "paketlenmiş"
+
+msgid "protection"
+msgstr "koruma"
