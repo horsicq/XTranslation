@@ -8,7 +8,7 @@ msgstr ""
 "X-Source-Language: C\n"
 
 msgid "About"
-msgstr "À propos de DIE"
+msgstr ""
 
 msgid "Address"
 msgstr "Adresse"
