@@ -14,19 +14,19 @@ msgid "Address"
 msgstr "Endereço"
 
 msgid "All"
-msgstr ""
+msgstr "Todos"
 
 msgid "All files"
-msgstr ""
+msgstr "Todos os arquivos"
 
 msgid "Analyze"
-msgstr ""
+msgstr "Analisar"
 
 msgid "Appearance"
-msgstr "Aparencia"
+msgstr "Aparência"
 
 msgid "Architecture"
-msgstr ""
+msgstr "Arquitetura"
 
 msgid "Archive"
 msgstr ""
@@ -50,19 +50,19 @@ msgid "Calculate"
 msgstr "Calcular"
 
 msgid "Calls"
-msgstr ""
+msgstr "Chamadas"
 
 msgid "Cancel"
-msgstr "cancelar"
+msgstr "Cancelar"
 
 msgid "Cannot open file"
-msgstr ""
+msgstr "Impossível abrir arquivo"
 
 msgid "Cannot save file"
-msgstr ""
+msgstr "Impossível salvar arquivo"
 
 msgid "Certificate"
-msgstr ""
+msgstr "Certificado"
 
 msgid "Check updates"
 msgstr ""
@@ -71,13 +71,13 @@ msgid "Clear"
 msgstr "Limpar"
 
 msgid "Close"
-msgstr ""
+msgstr "Fechar"
 
 msgid "Code section"
 msgstr ""
 
 msgid "Commands"
-msgstr ""
+msgstr "Comandos"
 
 msgid "Compiler"
 msgstr ""
@@ -143,10 +143,10 @@ msgid "Disasm"
 msgstr ""
 
 msgid "Documents"
-msgstr ""
+msgstr "Documentos"
 
 msgid "Donate"
-msgstr ""
+msgstr "Doar"
 
 msgid "Dump"
 msgstr "Dump"
@@ -179,10 +179,10 @@ msgid "Export"
 msgstr "Exportar"
 
 msgid "Export file name"
-msgstr ""
+msgstr "Exportar nome do arquivo"
 
 msgid "File"
-msgstr ""
+msgstr "Arquivo"
 
 msgid "File name"
 msgstr "Nome do arquivo"
@@ -194,13 +194,13 @@ msgid "File scan"
 msgstr "Escanear arquivo"
 
 msgid "File type"
-msgstr "Tipo do arquivos"
+msgstr "Tipo do arquivo"
 
 msgid "Filter"
 msgstr ""
 
 msgid "Find"
-msgstr ""
+msgstr "Encontrar"
 
 msgid "Find next"
 msgstr ""
@@ -215,10 +215,10 @@ msgid "General"
 msgstr "General"
 
 msgid "Generic"
-msgstr ""
+msgstr "Genérico"
 
 msgid "Go to"
-msgstr ""
+msgstr "Ir para"
 
 msgid "Go to address"
 msgstr "Ir para endereço"
@@ -230,7 +230,7 @@ msgid "Header"
 msgstr "Header"
 
 msgid "Help"
-msgstr ""
+msgstr "Ajuda"
 
 msgid "Heuristic"
 msgstr ""
@@ -260,10 +260,10 @@ msgid "Installer data"
 msgstr ""
 
 msgid "Invalid"
-msgstr "Invalido"
+msgstr "Inválido"
 
 msgid "It is not a valid file"
-msgstr ""
+msgstr "Não é um arquivo válido"
 
 msgid "Joiner"
 msgstr ""
@@ -278,13 +278,13 @@ msgid "Labels"
 msgstr ""
 
 msgid "Language"
-msgstr ""
+msgstr "Linguagem"
 
 msgid "Libraries"
 msgstr "Bibliotecas"
 
 msgid "Library"
-msgstr ""
+msgstr "Biblioteca"
 
 msgid "Linker"
 msgstr ""
@@ -326,13 +326,13 @@ msgid "Opcodes"
 msgstr ""
 
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 msgid "Open directory"
 msgstr "Abrir diretórios"
 
 msgid "Open file"
-msgstr ""
+msgstr "Abrir arquivo"
 
 msgid "Options"
 msgstr "Opções"
@@ -344,10 +344,10 @@ msgid "Packer"
 msgstr ""
 
 msgid "Please restart the application"
-msgstr ""
+msgstr "Por favor reinicie a aplicação"
 
 msgid "Process"
-msgstr ""
+msgstr "Processo"
 
 msgid "Protector"
 msgstr ""
@@ -365,7 +365,7 @@ msgid "Readonly"
 msgstr ""
 
 msgid "Recursive"
-msgstr ""
+msgstr "Recursivo"
 
 msgid "Recursive scan"
 msgstr ""
@@ -392,13 +392,13 @@ msgid "Resources"
 msgstr ""
 
 msgid "Result"
-msgstr ""
+msgstr "Resultado"
 
 msgid "Save"
 msgstr "Salvar"
 
 msgid "Save backup"
-msgstr ""
+msgstr "Salvar backup"
 
 msgid "Save diagram"
 msgstr "Salvar diagrama"
@@ -407,7 +407,7 @@ msgid "Save dump"
 msgstr ""
 
 msgid "Save file"
-msgstr ""
+msgstr "Salvar arquivo"
 
 msgid "Save last directory"
 msgstr "Salvar último diretório"
@@ -428,10 +428,10 @@ msgid "Search from"
 msgstr "Procurar de"
 
 msgid "Search strings"
-msgstr ""
+msgstr "Procurar strings"
 
 msgid "Section"
-msgstr ""
+msgstr "Seção"
 
 msgid "Section name"
 msgstr ""
@@ -452,22 +452,22 @@ msgid "Select all"
 msgstr "Selecionar todos"
 
 msgid "Selection"
-msgstr ""
+msgstr "Seleção"
 
 msgid "Sign tool"
 msgstr ""
 
 msgid "Signature"
-msgstr "Assiantura"
+msgstr "Assinatura"
 
 msgid "Signatures"
 msgstr "Signatures"
 
 msgid "Size"
-msgstr ""
+msgstr "Tamanho"
 
 msgid "Source code"
-msgstr ""
+msgstr "Código Fonte"
 
 msgid "Spaces"
 msgstr "Spaces"
@@ -500,7 +500,7 @@ msgid "Text documents"
 msgstr ""
 
 msgid "Text files"
-msgstr ""
+msgstr "Arquivos de texto"
 
 msgid "Thanks"
 msgstr "Obrigado"
@@ -509,16 +509,16 @@ msgid "To data"
 msgstr ""
 
 msgid "Tool"
-msgstr ""
+msgstr "Ferramenta"
 
 msgid "Tools"
-msgstr ""
+msgstr "Ferramentas"
 
 msgid "Total"
 msgstr ""
 
 msgid "Tree"
-msgstr ""
+msgstr "Árvore"
 
 msgid "Type"
 msgstr "Tipo"
@@ -566,4 +566,4 @@ msgid "packed"
 msgstr "comprimido"
 
 msgid "protection"
-msgstr ""
+msgstr "proteção"
