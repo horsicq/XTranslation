@@ -16,7 +16,7 @@ msgstr "Dirección"
 
 #: 
 msgid "All"
-msgstr "Todas"
+msgstr "Todos"
 
 #: 
 msgid "All files"
@@ -48,7 +48,7 @@ msgstr "Dirección base"
 
 #: 
 msgid "Begin"
-msgstr "Empezar"
+msgstr "Principio"
 
 #: 
 msgid "Byte"
@@ -88,7 +88,7 @@ msgstr "Revisa actualizaciones"
 
 #: 
 msgid "Clear"
-msgstr "Claro"
+msgstr "Limpiar"
 
 #: 
 msgid "Close"
@@ -136,7 +136,7 @@ msgstr "Copiar tamaño"
 
 #: 
 msgid "Copy string"
-msgstr "Copiar cadena"
+msgstr "Copiar texto"
 
 #: 
 msgid "Count"
@@ -248,7 +248,7 @@ msgstr "Nombre del archivo"
 
 #: 
 msgid "File offset"
-msgstr "Desplazamiento de archivo"
+msgstr "Archivo offset"
 
 #: 
 msgid "File scan"
@@ -416,7 +416,7 @@ msgstr "Nombre"
 
 #: 
 msgid "OK"
-msgstr "Ok"
+msgstr "OK"
 
 #: 
 msgid "Offset"
@@ -432,7 +432,7 @@ msgstr "Opcodes"
 
 #: 
 msgid "Open"
-msgstr "Abierto"
+msgstr "Abrir"
 
 #: 
 msgid "Open directory"
@@ -452,7 +452,7 @@ msgstr "Cubrir"
 
 #: 
 msgid "Packer"
-msgstr "Envasador"
+msgstr "Packer"
 
 #: 
 msgid "Please restart the application"
@@ -472,7 +472,7 @@ msgstr "Datos del protector"
 
 #: 
 msgid "Raw data"
-msgstr "Datos brutos"
+msgstr "Datos Raw"
 
 #: 
 msgid "Read error"
@@ -592,7 +592,7 @@ msgstr "Segmentos"
 
 #: 
 msgid "Select"
-msgstr "Seleccione"
+msgstr "Seleccionar"
 
 #: 
 msgid "Select all"
@@ -640,15 +640,15 @@ msgstr "Detener"
 
 #: 
 msgid "String"
-msgstr "Cuerda"
+msgstr "Texto"
 
 #: 
 msgid "Strings"
-msgstr "Instrumentos de cuerda"
+msgstr "Textos"
 
 #: 
 msgid "Stub"
-msgstr "Talón"
+msgstr "Stub"
 
 #: 
 msgid "Style"
