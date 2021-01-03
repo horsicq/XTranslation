@@ -614,6 +614,9 @@ msgstr "Firma"
 msgid "Signatures"
 msgstr "Firmas"
 
+msgid "Single application"
+msgstr ""
+
 #: 
 msgid "Size"
 msgstr "Tamaño"

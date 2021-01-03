@@ -464,6 +464,9 @@ msgstr "Sygnatura"
 msgid "Signatures"
 msgstr "Sygnatury"
 
+msgid "Single application"
+msgstr "Pojedyncza aplikacja"
+
 msgid "Size"
 msgstr ""
 

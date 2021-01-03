@@ -469,6 +469,9 @@ msgstr "서명"
 msgid "Signatures"
 msgstr "서명"
 
+msgid "Single application"
+msgstr "단일 애플리케이션"
+
 msgid "Size"
 msgstr "크기"
 

@@ -462,6 +462,9 @@ msgstr "İmza"
 msgid "Signatures"
 msgstr "İmzalar"
 
+msgid "Single application"
+msgstr "Tek uygulama"
+
 msgid "Size"
 msgstr "Boyut"
 

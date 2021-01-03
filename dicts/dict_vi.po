@@ -463,6 +463,9 @@ msgstr "Chữ ký"
 msgid "Signatures"
 msgstr "Chữ ký"
 
+msgid "Single application"
+msgstr "Đơn"
+
 msgid "Size"
 msgstr "Kích thước"
 

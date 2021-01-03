@@ -463,6 +463,9 @@ msgstr "簽名"
 msgid "Signatures"
 msgstr "簽名"
 
+msgid "Single application"
+msgstr "單一申請"
+
 msgid "Size"
 msgstr "尺寸"
 

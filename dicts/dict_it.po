@@ -463,6 +463,9 @@ msgstr "Firma"
 msgid "Signatures"
 msgstr "Firme"
 
+msgid "Single application"
+msgstr "Singola applicazione"
+
 msgid "Size"
 msgstr "Dimensioni"
 
