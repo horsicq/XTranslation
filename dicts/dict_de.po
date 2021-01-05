@@ -464,7 +464,7 @@ msgid "Signatures"
 msgstr "Signature"
 
 msgid "Single application"
-msgstr ""
+msgstr "Einzelanwendung"
 
 msgid "Size"
 msgstr ""
