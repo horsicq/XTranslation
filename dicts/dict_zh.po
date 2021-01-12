@@ -14,7 +14,7 @@ msgid "Address"
 msgstr "地址"
 
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 msgid "All files"
 msgstr "所有文件"
@@ -80,7 +80,7 @@ msgid "Commands"
 msgstr "命令"
 
 msgid "Compiler"
-msgstr "编辑器"
+msgstr "编译器"
 
 msgid "Context"
 msgstr "上下文菜单"
@@ -98,10 +98,10 @@ msgid "Copy as hex"
 msgstr "复制为十六进制"
 
 msgid "Copy offset"
-msgstr "复印偏移"
+msgstr "复制偏移"
 
 msgid "Copy size"
-msgstr "复印尺寸"
+msgstr "复制大小"
 
 msgid "Copy string"
 msgstr "复制字符串"
@@ -218,16 +218,16 @@ msgid "Generic"
 msgstr "通用"
 
 msgid "Go to"
-msgstr "进入"
+msgstr "转到"
 
 msgid "Go to address"
-msgstr "进入地址"
+msgstr "转到地址"
 
 msgid "Hash"
 msgstr "哈希"
 
 msgid "Header"
-msgstr "报头"
+msgstr "文件头"
 
 msgid "Help"
 msgstr "帮助"
@@ -245,7 +245,7 @@ msgid "Images"
 msgstr "影像"
 
 msgid "Import"
-msgstr "输入表"
+msgstr "导入表"
 
 msgid "Info"
 msgstr "信息"
@@ -341,7 +341,7 @@ msgid "Overlay"
 msgstr "覆盖"
 
 msgid "Packer"
-msgstr "封隔器"
+msgstr "打包工具"
 
 msgid "Please restart the application"
 msgstr "请重启应用程序"
@@ -434,7 +434,7 @@ msgid "Section"
 msgstr "区块"
 
 msgid "Section name"
-msgstr "分段名称"
+msgstr "区块名称"
 
 msgid "Sections"
 msgstr "区块"
@@ -443,7 +443,7 @@ msgid "Segment"
 msgstr "段"
 
 msgid "Segments"
-msgstr "区隔"
+msgstr "段"
 
 msgid "Select"
 msgstr "选择"
@@ -464,7 +464,7 @@ msgid "Signatures"
 msgstr "签名"
 
 msgid "Single application"
-msgstr "单一申请"
+msgstr "单个应用程序"
 
 msgid "Size"
 msgstr "尺寸"
@@ -479,7 +479,7 @@ msgid "Status"
 msgstr "状态"
 
 msgid "Stay on top"
-msgstr "保留在顶端"
+msgstr "窗口置顶"
 
 msgid "Stop"
 msgstr "停止"
@@ -548,7 +548,7 @@ msgid "Write error"
 msgstr "写入错误"
 
 msgid "compressor"
-msgstr "压缩软件"
+msgstr "压缩器"
 
 msgid "data"
 msgstr "数据"
@@ -563,7 +563,7 @@ msgid "not packed"
 msgstr "未打包"
 
 msgid "obfuscator"
-msgstr "模糊器"
+msgstr "混淆器"
 
 msgid "packed"
 msgstr "打包"
