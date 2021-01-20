@@ -102,6 +102,9 @@ msgstr "Sección de código"
 msgid "Commands"
 msgstr "Comandos"
 
+msgid "Comment"
+msgstr ""
+
 #: 
 msgid "Compiler"
 msgstr "Compilador"

@@ -79,6 +79,9 @@ msgstr "代码段"
 msgid "Commands"
 msgstr "命令"
 
+msgid "Comment"
+msgstr ""
+
 msgid "Compiler"
 msgstr "编译器"
 

@@ -78,6 +78,9 @@ msgstr ""
 msgid "Commands"
 msgstr ""
 
+msgid "Comment"
+msgstr ""
+
 msgid "Compiler"
 msgstr ""
 

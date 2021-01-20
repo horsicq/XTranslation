@@ -85,6 +85,9 @@ msgstr "코드 섹션"
 msgid "Commands"
 msgstr "주석"
 
+msgid "Comment"
+msgstr ""
+
 msgid "Compiler"
 msgstr "컴파일러"
 

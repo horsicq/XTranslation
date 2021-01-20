@@ -78,6 +78,9 @@ msgstr "Kod seçimi"
 msgid "Commands"
 msgstr "Komutlar"
 
+msgid "Comment"
+msgstr ""
+
 msgid "Compiler"
 msgstr "Derleyici"
 

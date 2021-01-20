@@ -79,6 +79,9 @@ msgstr "Mục mã"
 msgid "Commands"
 msgstr "Lệnh"
 
+msgid "Comment"
+msgstr ""
+
 msgid "Compiler"
 msgstr ""
 
