@@ -8,7 +8,7 @@ msgstr ""
 "X-Source-Language: C\n"
 
 msgid "About"
-msgstr "À Propos"
+msgstr "À propos"
 
 msgid "Address"
 msgstr "Adresse"
@@ -41,10 +41,10 @@ msgid "Begin"
 msgstr "Commencer"
 
 msgid "Byte"
-msgstr "Byte"
+msgstr "Octet"
 
 msgid "Bytes"
-msgstr "Bytes"
+msgstr "Octets"
 
 msgid "Calculate"
 msgstr "Calculer"
@@ -65,7 +65,7 @@ msgid "Certificate"
 msgstr "Certificat"
 
 msgid "Check updates"
-msgstr "Vérifier les mise à jour"
+msgstr "Vérifier les mises à jour"
 
 msgid "Clear"
 msgstr "Nettoyer"
@@ -80,7 +80,7 @@ msgid "Commands"
 msgstr "Commandes"
 
 msgid "Comment"
-msgstr ""
+msgstr "Commentaire"
 
 msgid "Compiler"
 msgstr "Compilateur"
@@ -95,10 +95,10 @@ msgid "Copy"
 msgstr "Copier"
 
 msgid "Copy address"
-msgstr "Copier l'addresse"
+msgstr "Copier l'adresse"
 
 msgid "Copy as hex"
-msgstr "Copier au format hexadecimal"
+msgstr "Copier au format hexadécimal"
 
 msgid "Copy offset"
 msgstr "Copier l'offset"
@@ -113,7 +113,7 @@ msgid "Count"
 msgstr "Compte"
 
 msgid "Create view model"
-msgstr "Créee un modele visuelle"
+msgstr "Créer un modèle visuelle"
 
 msgid "Cryptor"
 msgstr "Crypteur"
@@ -122,19 +122,19 @@ msgid "Cursor"
 msgstr "Curseur"
 
 msgid "Database"
-msgstr "Base de donnée"
+msgstr "Base de données"
 
 msgid "Debug data"
 msgstr "Données de débogage"
 
 msgid "Debugger"
-msgstr "Débogger"
+msgstr "Débogueur"
 
 msgid "Deep scan"
 msgstr "Analyse approfondie"
 
 msgid "Detect"
-msgstr "Detecte"
+msgstr "Détecter"
 
 msgid "Device scan"
 msgstr "Scan d'appareils"
@@ -167,10 +167,10 @@ msgid "Entropy"
 msgstr "Entropie"
 
 msgid "Entry point"
-msgstr "Point d'entré"
+msgstr "Point d'entrée"
 
 msgid "Entry point section"
-msgstr "Section du point d'entré"
+msgstr "Section du point d'entrée"
 
 msgid "Error"
 msgstr "Erreur"
@@ -218,7 +218,7 @@ msgid "General"
 msgstr "Général"
 
 msgid "Generic"
-msgstr "Génerique"
+msgstr "Générique"
 
 msgid "Go to"
 msgstr "Aller à"
@@ -239,7 +239,7 @@ msgid "Heuristic"
 msgstr "Heuristique"
 
 msgid "Heuristic scan"
-msgstr "Scan Heuristique"
+msgstr "Analyse heuristique"
 
 msgid "Image"
 msgstr "Image"
@@ -266,7 +266,7 @@ msgid "Invalid"
 msgstr "Invalide"
 
 msgid "It is not a valid file"
-msgstr "Ce n'est pas un fichier valide"
+msgstr "Fichier non valide"
 
 msgid "Joiner"
 msgstr ""
@@ -332,10 +332,10 @@ msgid "Open"
 msgstr "Ouvrir"
 
 msgid "Open directory"
-msgstr "Ouvrir dossier"
+msgstr "Ouvrir un dossier"
 
 msgid "Open file"
-msgstr "Ouvrir fichier"
+msgstr "Ouvrir un fichier"
 
 msgid "Options"
 msgstr "Options"
@@ -359,25 +359,25 @@ msgid "Protector data"
 msgstr "Données sur le protecteur"
 
 msgid "Raw data"
-msgstr "Données Brutes"
+msgstr "Données brutes"
 
 msgid "Read error"
 msgstr "Erreur de lecture"
 
 msgid "Readonly"
-msgstr "Lecture Seulement"
+msgstr "Lecture seulement"
 
 msgid "Recursive"
 msgstr "Récursive"
 
 msgid "Recursive scan"
-msgstr "Analyze Récursive"
+msgstr "Analyse récursive"
 
 msgid "Ref from"
-msgstr "Reference de"
+msgstr "Référence de"
 
 msgid "Ref to"
-msgstr "Reference à"
+msgstr "Référence à"
 
 msgid "Regions"
 msgstr "Régions"
@@ -389,19 +389,19 @@ msgid "Relative virtual address"
 msgstr "Adresse virtuelle relative"
 
 msgid "Reload"
-msgstr "Recharger"
+msgstr "Actualiser"
 
 msgid "Resources"
-msgstr "Resources"
+msgstr "Ressources"
 
 msgid "Result"
-msgstr "Resultats"
+msgstr "Résultats"
 
 msgid "Save"
 msgstr "Sauvegarder"
 
 msgid "Save backup"
-msgstr "Sauvegarder la sauvegarde"
+msgstr "Enregistrer la sauvegarde"
 
 msgid "Save diagram"
 msgstr "Sauvegarder le diagramme"
@@ -485,7 +485,7 @@ msgid "Stay on top"
 msgstr "Rester au dessus"
 
 msgid "Stop"
-msgstr "Stop"
+msgstr "Arrêtez"
 
 msgid "String"
 msgstr "Ligne de texte"
@@ -503,10 +503,10 @@ msgid "Table"
 msgstr "Table"
 
 msgid "Text documents"
-msgstr "Doccuments Texte"
+msgstr "Documents texte"
 
 msgid "Text files"
-msgstr "Fichiers Texte"
+msgstr "Fichiers texte"
 
 msgid "Thanks"
 msgstr "Merci"
@@ -551,25 +551,25 @@ msgid "Write error"
 msgstr "Erreur d'écriture"
 
 msgid "compressor"
-msgstr "Compresseur"
+msgstr "compresseur"
 
 msgid "data"
 msgstr "data"
 
 msgid "extender"
-msgstr "Extenseur"
+msgstr "extenseur"
 
 msgid "msec"
 msgstr "msec"
 
 msgid "not packed"
-msgstr "non emballée"
+msgstr "pas compressé"
 
 msgid "obfuscator"
-msgstr "Obfuscateur"
+msgstr "obfuscateur"
 
 msgid "packed"
-msgstr "emballé"
+msgstr "compressé"
 
 msgid "protection"
 msgstr "protection"
