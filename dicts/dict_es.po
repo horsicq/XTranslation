@@ -246,7 +246,7 @@ msgid "File"
 msgstr "Archivo"
 
 #: 
-msgid "File name"
+msgid "Filename"
 msgstr "Nombre del archivo"
 
 #: 

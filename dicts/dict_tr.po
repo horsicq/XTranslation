@@ -186,7 +186,7 @@ msgstr "Çıkartılan dosya adı"
 msgid "File"
 msgstr "Dosya"
 
-msgid "File name"
+msgid "Filename"
 msgstr "Dosya adı"
 
 msgid "File offset"

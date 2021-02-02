@@ -188,7 +188,7 @@ msgstr ""
 msgid "File"
 msgstr ""
 
-msgid "File name"
+msgid "Filename"
 msgstr "Nazwa pliku"
 
 msgid "File offset"

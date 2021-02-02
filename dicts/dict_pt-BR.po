@@ -187,7 +187,7 @@ msgstr "Exportar nome do arquivo"
 msgid "File"
 msgstr "Arquivo"
 
-msgid "File name"
+msgid "Filename"
 msgstr "Nome do arquivo"
 
 msgid "File offset"

@@ -193,7 +193,7 @@ msgstr "파일 이름 내보내기"
 msgid "File"
 msgstr "파일"
 
-msgid "File name"
+msgid "Filename"
 msgstr "파일 이름"
 
 msgid "File offset"

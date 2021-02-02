@@ -183,7 +183,7 @@ msgstr "יצא לקובץ"
 msgid "File"
 msgstr "קובץ"
 
-msgid "File name"
+msgid "Filename"
 msgstr "שם קובץ"
 
 msgid "File offset"

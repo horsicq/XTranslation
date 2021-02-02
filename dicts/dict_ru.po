@@ -188,7 +188,7 @@ msgstr "Экспорт имени файла"
 msgid "File"
 msgstr "Файл"
 
-msgid "File name"
+msgid "Filename"
 msgstr "Имя файла"
 
 msgid "File offset"
