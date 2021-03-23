@@ -1,20 +1,23 @@
 msgid ""
 msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: ko_KR\n"
 "Project-Id-Version: DIE Korean v1.0\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
 "Last-Translator: Jaehyung Lee <kolanp@gmail.com>\n"
 "Language-Team: Jaehyung Lee; kolanp@gmail.com\n"
 "Language: ko_KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: ko_KR\n"
 "X-Generator: Poedit 2.2\n"
 
 msgid "About"
 msgstr "정보"
+
+msgid "Action"
+msgstr ""
 
 msgid "Address"
 msgstr "주소"
@@ -40,11 +43,17 @@ msgstr "아카이브"
 msgid "Archive record"
 msgstr "아카이브 레코드"
 
+msgid "Automatic"
+msgstr ""
+
 msgid "Base address"
 msgstr "기준 주소"
 
 msgid "Begin"
 msgstr "시작"
+
+msgid "Breakpoint"
+msgstr ""
 
 msgid "Byte"
 msgstr "Byte"
@@ -67,6 +76,9 @@ msgstr "파일을 열 수 없습니다"
 msgid "Cannot save file"
 msgstr "파일을 저장할 수 없습니다"
 
+msgid "Cannot set shortcut"
+msgstr ""
+
 msgid "Certificate"
 msgstr "인증서"
 
@@ -75,6 +87,9 @@ msgstr "업데이트 확인"
 
 msgid "Clear"
 msgstr "지우기"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Close"
 msgstr "닫기"
@@ -106,8 +121,23 @@ msgstr "주소 복사"
 msgid "Copy as hex"
 msgstr "헥사로 복사"
 
+msgid "Copy cursor address"
+msgstr ""
+
+msgid "Copy cursor offset"
+msgstr ""
+
+msgid "Copy filename"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
 msgid "Copy offset"
 msgstr "오프셋 복사"
+
+msgid "Copy signature"
+msgstr ""
 
 msgid "Copy size"
 msgstr "크기 복사"
@@ -130,6 +160,9 @@ msgstr "커서"
 msgid "Database"
 msgstr "데이터베이스"
 
+msgid "Debug"
+msgstr ""
+
 msgid "Debug data"
 msgstr "디버그 데이터"
 
@@ -139,17 +172,23 @@ msgstr "디버거"
 msgid "Deep scan"
 msgstr "정밀 검사"
 
-msgid "Detect"
-msgstr "감지"
+msgid "Demangle"
+msgstr ""
 
 msgid "Device scan"
 msgstr "장치 검색"
+
+msgid "Directory"
+msgstr ""
 
 msgid "Directory scan"
 msgstr "디렉터리 검색"
 
 msgid "Disasm"
 msgstr "Disasm"
+
+msgid "Document"
+msgstr ""
 
 msgid "Documents"
 msgstr "문서"
@@ -193,8 +232,8 @@ msgstr "파일 이름 내보내기"
 msgid "File"
 msgstr "파일"
 
-msgid "Filename"
-msgstr "파일 이름"
+msgid "File name"
+msgstr ""
 
 msgid "File offset"
 msgstr "파일 오프셋"
@@ -204,6 +243,9 @@ msgstr "파일 검색"
 
 msgid "File type"
 msgstr "파일 유형"
+
+msgid "Filename"
+msgstr "파일 이름"
 
 msgid "Filter"
 msgstr "필터"
@@ -216,6 +258,9 @@ msgstr "다음 찾기"
 
 msgid "Flags"
 msgstr "Flags"
+
+msgid "Form"
+msgstr ""
 
 msgid "Format"
 msgstr "형식"
@@ -232,6 +277,15 @@ msgstr "이동"
 msgid "Go to address"
 msgstr "주소로 이동"
 
+msgid "Go to entry point"
+msgstr ""
+
+msgid "Go to offset"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
 msgid "Hash"
 msgstr "해시"
 
@@ -246,6 +300,12 @@ msgstr "휴리스틱"
 
 msgid "Heuristic scan"
 msgstr "휴리스틱 검색"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr ""
 
 msgid "Image"
 msgstr "이미지"
@@ -270,6 +330,9 @@ msgstr "인스톨러 데이터"
 
 msgid "Invalid"
 msgstr "무효함"
+
+msgid "Invalid opcode"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "유효한 파일이 아닙니다"
@@ -322,6 +385,9 @@ msgstr "모드"
 msgid "Name"
 msgstr "이름"
 
+msgid "Nothing found"
+msgstr ""
+
 msgid "OK"
 msgstr "확인"
 
@@ -370,6 +436,9 @@ msgstr "로우 데이터"
 msgid "Read error"
 msgstr "읽기 오류"
 
+msgid "Read only"
+msgstr ""
+
 msgid "Readonly"
 msgstr "읽기 전용"
 
@@ -391,6 +460,9 @@ msgstr "영역"
 msgid "Register"
 msgstr "등록"
 
+msgid "Relative address"
+msgstr ""
+
 msgid "Relative virtual address"
 msgstr "상대적 가상 주소(RVA)"
 
@@ -402,6 +474,9 @@ msgstr "리소스"
 
 msgid "Result"
 msgstr "결과"
+
+msgid "Run"
+msgstr ""
 
 msgid "Save"
 msgstr "저장"
@@ -436,6 +511,9 @@ msgstr "검색"
 msgid "Search from"
 msgstr "다음에서 검색"
 
+msgid "Search signatures"
+msgstr ""
+
 msgid "Search strings"
 msgstr "문자열 검색"
 
@@ -462,6 +540,24 @@ msgstr "모두 선택"
 
 msgid "Selection"
 msgstr "선택"
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "서명 도구"
@@ -490,6 +586,12 @@ msgstr "상태"
 msgid "Stay on top"
 msgstr "항상 위에 놓기"
 
+msgid "Step into"
+msgstr ""
+
+msgid "Step over"
+msgstr ""
+
 msgid "Stop"
 msgstr "중지"
 
@@ -505,7 +607,16 @@ msgstr "스텁"
 msgid "Style"
 msgstr "스타일"
 
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
 msgid "Table"
+msgstr ""
+
+msgid "Text"
 msgstr ""
 
 msgid "Text documents"
@@ -579,3 +690,4 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
+

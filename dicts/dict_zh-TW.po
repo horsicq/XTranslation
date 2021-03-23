@@ -10,6 +10,9 @@ msgstr ""
 msgid "About"
 msgstr "關於"
 
+msgid "Action"
+msgstr ""
+
 msgid "Address"
 msgstr "地址"
 
@@ -34,11 +37,17 @@ msgstr ""
 msgid "Archive record"
 msgstr "存檔記錄"
 
+msgid "Automatic"
+msgstr ""
+
 msgid "Base address"
 msgstr "基底位址"
 
 msgid "Begin"
 msgstr "開始"
+
+msgid "Breakpoint"
+msgstr ""
 
 msgid "Byte"
 msgstr "位元組"
@@ -61,6 +70,9 @@ msgstr "無法打開檔案"
 msgid "Cannot save file"
 msgstr "無法保存檔案"
 
+msgid "Cannot set shortcut"
+msgstr ""
+
 msgid "Certificate"
 msgstr ""
 
@@ -69,6 +81,9 @@ msgstr ""
 
 msgid "Clear"
 msgstr "清除"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Close"
 msgstr "關閉"
@@ -100,8 +115,23 @@ msgstr "複製地址"
 msgid "Copy as hex"
 msgstr "複製為十六進制"
 
+msgid "Copy cursor address"
+msgstr ""
+
+msgid "Copy cursor offset"
+msgstr ""
+
+msgid "Copy filename"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
 msgid "Copy offset"
 msgstr "複印偏移"
+
+msgid "Copy signature"
+msgstr ""
 
 msgid "Copy size"
 msgstr "複印尺寸"
@@ -124,6 +154,9 @@ msgstr "游標"
 msgid "Database"
 msgstr "資料庫"
 
+msgid "Debug"
+msgstr ""
+
 msgid "Debug data"
 msgstr ""
 
@@ -133,17 +166,23 @@ msgstr ""
 msgid "Deep scan"
 msgstr "深層掃描"
 
-msgid "Detect"
-msgstr "檢測"
+msgid "Demangle"
+msgstr ""
 
 msgid "Device scan"
 msgstr "設備掃描"
+
+msgid "Directory"
+msgstr ""
 
 msgid "Directory scan"
 msgstr "目錄掃描"
 
 msgid "Disasm"
 msgstr "災難"
+
+msgid "Document"
+msgstr ""
 
 msgid "Documents"
 msgstr "檔案"
@@ -187,8 +226,8 @@ msgstr "導出檔案名"
 msgid "File"
 msgstr "檔案"
 
-msgid "Filename"
-msgstr "檔案名"
+msgid "File name"
+msgstr ""
 
 msgid "File offset"
 msgstr "檔案偏移量"
@@ -198,6 +237,9 @@ msgstr "檔案掃描"
 
 msgid "File type"
 msgstr "檔案類型"
+
+msgid "Filename"
+msgstr "檔案名"
 
 msgid "Filter"
 msgstr "過濾器"
@@ -210,6 +252,9 @@ msgstr "查找下一個"
 
 msgid "Flags"
 msgstr "標記"
+
+msgid "Form"
+msgstr ""
 
 msgid "Format"
 msgstr ""
@@ -226,6 +271,15 @@ msgstr "進入"
 msgid "Go to address"
 msgstr "轉到地址"
 
+msgid "Go to entry point"
+msgstr ""
+
+msgid "Go to offset"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
 msgid "Hash"
 msgstr ""
 
@@ -240,6 +294,12 @@ msgstr "啟發式"
 
 msgid "Heuristic scan"
 msgstr "啟發式掃描"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr ""
 
 msgid "Image"
 msgstr "圖像"
@@ -264,6 +324,9 @@ msgstr ""
 
 msgid "Invalid"
 msgstr "無效"
+
+msgid "Invalid opcode"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "不是有效檔案"
@@ -316,6 +379,9 @@ msgstr "模式"
 msgid "Name"
 msgstr "姓名"
 
+msgid "Nothing found"
+msgstr ""
+
 msgid "OK"
 msgstr "確定"
 
@@ -364,6 +430,9 @@ msgstr "原始資料"
 msgid "Read error"
 msgstr "讀取錯誤"
 
+msgid "Read only"
+msgstr ""
+
 msgid "Readonly"
 msgstr "只讀"
 
@@ -385,6 +454,9 @@ msgstr "區域"
 msgid "Register"
 msgstr "註冊"
 
+msgid "Relative address"
+msgstr ""
+
 msgid "Relative virtual address"
 msgstr "相對虛擬位址"
 
@@ -396,6 +468,9 @@ msgstr "資源"
 
 msgid "Result"
 msgstr "結果"
+
+msgid "Run"
+msgstr ""
 
 msgid "Save"
 msgstr "保存"
@@ -430,6 +505,9 @@ msgstr "搜尋"
 msgid "Search from"
 msgstr "搜尋位置"
 
+msgid "Search signatures"
+msgstr ""
+
 msgid "Search strings"
 msgstr "搜索字符串"
 
@@ -456,6 +534,24 @@ msgstr "全選"
 
 msgid "Selection"
 msgstr "選中項"
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "簽名工具"
@@ -484,6 +580,12 @@ msgstr "狀態"
 msgid "Stay on top"
 msgstr "始終在最上層"
 
+msgid "Step into"
+msgstr ""
+
+msgid "Step over"
+msgstr ""
+
 msgid "Stop"
 msgstr "停止"
 
@@ -499,7 +601,16 @@ msgstr "根"
 msgid "Style"
 msgstr "樣式"
 
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
 msgid "Table"
+msgstr ""
+
+msgid "Text"
 msgstr ""
 
 msgid "Text documents"
@@ -573,3 +684,4 @@ msgstr "已包裝"
 
 msgid "protection"
 msgstr "保護"
+

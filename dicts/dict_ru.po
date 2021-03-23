@@ -11,6 +11,9 @@ msgstr ""
 msgid "About"
 msgstr "О программе"
 
+msgid "Action"
+msgstr ""
+
 msgid "Address"
 msgstr "Адрес"
 
@@ -35,11 +38,17 @@ msgstr "Архив"
 msgid "Archive record"
 msgstr "Арихвная запись"
 
+msgid "Automatic"
+msgstr ""
+
 msgid "Base address"
 msgstr "Базовый адрес"
 
 msgid "Begin"
 msgstr "Начало"
+
+msgid "Breakpoint"
+msgstr ""
 
 msgid "Byte"
 msgstr "Байт"
@@ -62,6 +71,9 @@ msgstr "Невозможно открыть файл"
 msgid "Cannot save file"
 msgstr "Невозможно сохранить файл"
 
+msgid "Cannot set shortcut"
+msgstr ""
+
 msgid "Certificate"
 msgstr "Сертификат"
 
@@ -70,6 +82,9 @@ msgstr "Проверить обновления"
 
 msgid "Clear"
 msgstr "Очистить"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Close"
 msgstr "Закрыть"
@@ -101,8 +116,23 @@ msgstr "Копировать адрес"
 msgid "Copy as hex"
 msgstr "Копировать как hex"
 
+msgid "Copy cursor address"
+msgstr ""
+
+msgid "Copy cursor offset"
+msgstr ""
+
+msgid "Copy filename"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
 msgid "Copy offset"
 msgstr "Копировать смещение"
+
+msgid "Copy signature"
+msgstr ""
 
 msgid "Copy size"
 msgstr "Сопировать размер"
@@ -125,6 +155,9 @@ msgstr "Курсор"
 msgid "Database"
 msgstr "База данных"
 
+msgid "Debug"
+msgstr ""
+
 msgid "Debug data"
 msgstr "Отладочная информация"
 
@@ -134,17 +167,23 @@ msgstr "Отладчик"
 msgid "Deep scan"
 msgstr "Глубокий анализ"
 
-msgid "Detect"
-msgstr "Определить"
+msgid "Demangle"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Сканирование устройства"
+
+msgid "Directory"
+msgstr ""
 
 msgid "Directory scan"
 msgstr "Сканирование папки"
 
 msgid "Disasm"
 msgstr "Дизассемблировать"
+
+msgid "Document"
+msgstr ""
 
 msgid "Documents"
 msgstr "Документы"
@@ -188,8 +227,8 @@ msgstr "Экспорт имени файла"
 msgid "File"
 msgstr "Файл"
 
-msgid "Filename"
-msgstr "Имя файла"
+msgid "File name"
+msgstr ""
 
 msgid "File offset"
 msgstr "Смещение"
@@ -199,6 +238,9 @@ msgstr "Сканирования файла"
 
 msgid "File type"
 msgstr "Тип файла"
+
+msgid "Filename"
+msgstr "Имя файла"
 
 msgid "Filter"
 msgstr "Фильтр"
@@ -211,6 +253,9 @@ msgstr "Найти далее"
 
 msgid "Flags"
 msgstr "Флаги"
+
+msgid "Form"
+msgstr ""
 
 msgid "Format"
 msgstr "Формат"
@@ -227,6 +272,15 @@ msgstr "Перейти к"
 msgid "Go to address"
 msgstr "Перейти к адресу"
 
+msgid "Go to entry point"
+msgstr ""
+
+msgid "Go to offset"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
 msgid "Hash"
 msgstr "Хэш"
 
@@ -241,6 +295,12 @@ msgstr "Эвристика"
 
 msgid "Heuristic scan"
 msgstr "Эвристическое сканирование"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr ""
 
 msgid "Image"
 msgstr "Образ"
@@ -265,6 +325,9 @@ msgstr "Данные установщика"
 
 msgid "Invalid"
 msgstr "Ошибка"
+
+msgid "Invalid opcode"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "Неверный файл"
@@ -317,6 +380,9 @@ msgstr "Режим"
 msgid "Name"
 msgstr "Имя"
 
+msgid "Nothing found"
+msgstr ""
+
 msgid "OK"
 msgstr "ОК"
 
@@ -365,6 +431,9 @@ msgstr ""
 msgid "Read error"
 msgstr "Ошибка чтения"
 
+msgid "Read only"
+msgstr ""
+
 msgid "Readonly"
 msgstr ""
 
@@ -386,6 +455,9 @@ msgstr "Регионы"
 msgid "Register"
 msgstr "Регистрировать"
 
+msgid "Relative address"
+msgstr ""
+
 msgid "Relative virtual address"
 msgstr "Относительный виртуальный адрес"
 
@@ -397,6 +469,9 @@ msgstr "Ресурсы"
 
 msgid "Result"
 msgstr "Результат"
+
+msgid "Run"
+msgstr ""
 
 msgid "Save"
 msgstr "Сохранить"
@@ -431,6 +506,9 @@ msgstr "Поиск"
 msgid "Search from"
 msgstr "Поиск с"
 
+msgid "Search signatures"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Поиск строк"
 
@@ -457,6 +535,24 @@ msgstr "Выбрать всё"
 
 msgid "Selection"
 msgstr "Выделение"
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr ""
@@ -485,6 +581,12 @@ msgstr "Статус"
 msgid "Stay on top"
 msgstr "Поверх всех окон"
 
+msgid "Step into"
+msgstr ""
+
+msgid "Step over"
+msgstr ""
+
 msgid "Stop"
 msgstr "Стоп"
 
@@ -499,6 +601,18 @@ msgstr "Стаб"
 
 msgid "Style"
 msgstr "Стиль"
+
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
+msgid "Table"
+msgstr ""
+
+msgid "Text"
+msgstr ""
 
 msgid "Text documents"
 msgstr "Текстовые документы"
@@ -520,6 +634,9 @@ msgstr "Инструменты"
 
 msgid "Total"
 msgstr "Всего"
+
+msgid "Tree"
+msgstr ""
 
 msgid "Type"
 msgstr "Тип"
@@ -568,3 +685,4 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
+

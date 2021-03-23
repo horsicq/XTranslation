@@ -10,6 +10,9 @@ msgstr ""
 msgid "About"
 msgstr "Giới thiệu"
 
+msgid "Action"
+msgstr ""
+
 msgid "Address"
 msgstr "Địa chỉ"
 
@@ -34,11 +37,17 @@ msgstr ""
 msgid "Archive record"
 msgstr "Bản ghi lưu trữ"
 
+msgid "Automatic"
+msgstr ""
+
 msgid "Base address"
 msgstr "Địa chỉ gốc"
 
 msgid "Begin"
 msgstr "Bắt đầu"
+
+msgid "Breakpoint"
+msgstr ""
 
 msgid "Byte"
 msgstr "Byte"
@@ -61,6 +70,9 @@ msgstr "Không thể mở tập tin"
 msgid "Cannot save file"
 msgstr "Không thể lưu tập tin"
 
+msgid "Cannot set shortcut"
+msgstr ""
+
 msgid "Certificate"
 msgstr ""
 
@@ -69,6 +81,9 @@ msgstr ""
 
 msgid "Clear"
 msgstr "Xóa"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Close"
 msgstr "Đóng"
@@ -100,8 +115,23 @@ msgstr "Sao chép địa chỉ"
 msgid "Copy as hex"
 msgstr "Sao chép dưới dạng hex"
 
+msgid "Copy cursor address"
+msgstr ""
+
+msgid "Copy cursor offset"
+msgstr ""
+
+msgid "Copy filename"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
 msgid "Copy offset"
 msgstr "Sao chép độ lệch"
+
+msgid "Copy signature"
+msgstr ""
 
 msgid "Copy size"
 msgstr "Sao chép kích thước"
@@ -124,6 +154,9 @@ msgstr "Con trỏ"
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
+msgid "Debug"
+msgstr ""
+
 msgid "Debug data"
 msgstr ""
 
@@ -133,17 +166,23 @@ msgstr ""
 msgid "Deep scan"
 msgstr "Quét sâu"
 
-msgid "Detect"
-msgstr "Phát hiện"
+msgid "Demangle"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Quét thiết bị"
+
+msgid "Directory"
+msgstr ""
 
 msgid "Directory scan"
 msgstr "Quét thư mục"
 
 msgid "Disasm"
 msgstr "Rối loạn"
+
+msgid "Document"
+msgstr ""
 
 msgid "Documents"
 msgstr "Tài liệu"
@@ -187,8 +226,8 @@ msgstr "Xuất tên tập tin"
 msgid "File"
 msgstr "Tập tin"
 
-msgid "Filename"
-msgstr "Tên tập tin"
+msgid "File name"
+msgstr ""
 
 msgid "File offset"
 msgstr "Khoảng cách đến đầu tập tin"
@@ -198,6 +237,9 @@ msgstr "Quét tập tin"
 
 msgid "File type"
 msgstr "Loại tập tin"
+
+msgid "Filename"
+msgstr "Tên tập tin"
 
 msgid "Filter"
 msgstr "Bộ lọc"
@@ -210,6 +252,9 @@ msgstr "Tìm kiếm tiếp theo"
 
 msgid "Flags"
 msgstr "Cờ"
+
+msgid "Form"
+msgstr ""
 
 msgid "Format"
 msgstr ""
@@ -226,6 +271,15 @@ msgstr "Đi tới"
 msgid "Go to address"
 msgstr "Đi tới địa chỉ"
 
+msgid "Go to entry point"
+msgstr ""
+
+msgid "Go to offset"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
 msgid "Hash"
 msgstr ""
 
@@ -240,6 +294,12 @@ msgstr "Phỏng đoán"
 
 msgid "Heuristic scan"
 msgstr "Quét phỏng đoán"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr ""
 
 msgid "Image"
 msgstr "Hình ảnh"
@@ -264,6 +324,9 @@ msgstr ""
 
 msgid "Invalid"
 msgstr "không hợp lệ"
+
+msgid "Invalid opcode"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "Không phải tập tin hợp lệ"
@@ -316,6 +379,9 @@ msgstr "Chế độ"
 msgid "Name"
 msgstr "Tên"
 
+msgid "Nothing found"
+msgstr ""
+
 msgid "OK"
 msgstr "OK"
 
@@ -364,6 +430,9 @@ msgstr "Dữ lieu thô"
 msgid "Read error"
 msgstr "Đọc lỗi"
 
+msgid "Read only"
+msgstr ""
+
 msgid "Readonly"
 msgstr "Chỉ đọc"
 
@@ -385,6 +454,9 @@ msgstr "Vùng"
 msgid "Register"
 msgstr "Đăng ký"
 
+msgid "Relative address"
+msgstr ""
+
 msgid "Relative virtual address"
 msgstr "Địa chỉ ảo tương đối"
 
@@ -396,6 +468,9 @@ msgstr "Tài nguyên"
 
 msgid "Result"
 msgstr "Kết quả"
+
+msgid "Run"
+msgstr ""
 
 msgid "Save"
 msgstr "Lưu"
@@ -430,6 +505,9 @@ msgstr "Tìm kiếm"
 msgid "Search from"
 msgstr "Tìm kiếm từ"
 
+msgid "Search signatures"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Tìm kiếm chuỗi"
 
@@ -456,6 +534,24 @@ msgstr "Chọn tất cả"
 
 msgid "Selection"
 msgstr "Lựa chọn"
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "Công cụ ký"
@@ -484,6 +580,12 @@ msgstr "Trạng thái"
 msgid "Stay on top"
 msgstr "Ở trên đầu"
 
+msgid "Step into"
+msgstr ""
+
+msgid "Step over"
+msgstr ""
+
 msgid "Stop"
 msgstr "Dừng"
 
@@ -499,7 +601,16 @@ msgstr "Stub"
 msgid "Style"
 msgstr "Kiểu"
 
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
 msgid "Table"
+msgstr ""
+
+msgid "Text"
 msgstr ""
 
 msgid "Text documents"
@@ -573,3 +684,4 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
+

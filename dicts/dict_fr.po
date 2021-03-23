@@ -10,6 +10,9 @@ msgstr ""
 msgid "About"
 msgstr "À propos"
 
+msgid "Action"
+msgstr ""
+
 msgid "Address"
 msgstr "Adresse"
 
@@ -34,11 +37,17 @@ msgstr "Archive"
 msgid "Archive record"
 msgstr "Historique de l'archive"
 
+msgid "Automatic"
+msgstr ""
+
 msgid "Base address"
 msgstr "Adresse de base"
 
 msgid "Begin"
 msgstr "Commencer"
+
+msgid "Breakpoint"
+msgstr ""
 
 msgid "Byte"
 msgstr "Octet"
@@ -61,6 +70,9 @@ msgstr "Ne peut pas ouvrir le fichier"
 msgid "Cannot save file"
 msgstr "Ne peut pas sauvegarder le fichier"
 
+msgid "Cannot set shortcut"
+msgstr ""
+
 msgid "Certificate"
 msgstr "Certificat"
 
@@ -69,6 +81,9 @@ msgstr "Vérifier les mises à jour"
 
 msgid "Clear"
 msgstr "Nettoyer"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Close"
 msgstr "Fermer"
@@ -100,8 +115,23 @@ msgstr "Copier l'adresse"
 msgid "Copy as hex"
 msgstr "Copier au format hexadécimal"
 
+msgid "Copy cursor address"
+msgstr ""
+
+msgid "Copy cursor offset"
+msgstr ""
+
+msgid "Copy filename"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
 msgid "Copy offset"
 msgstr "Copier l'offset"
+
+msgid "Copy signature"
+msgstr ""
 
 msgid "Copy size"
 msgstr "Copier la taille"
@@ -124,6 +154,9 @@ msgstr "Curseur"
 msgid "Database"
 msgstr "Base de données"
 
+msgid "Debug"
+msgstr ""
+
 msgid "Debug data"
 msgstr "Données de débogage"
 
@@ -133,17 +166,23 @@ msgstr "Débogueur"
 msgid "Deep scan"
 msgstr "Analyse approfondie"
 
-msgid "Detect"
-msgstr "Détecter"
+msgid "Demangle"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Scan d'appareils"
+
+msgid "Directory"
+msgstr ""
 
 msgid "Directory scan"
 msgstr "Analyse des répertoires"
 
 msgid "Disasm"
 msgstr "Désassembler"
+
+msgid "Document"
+msgstr ""
 
 msgid "Documents"
 msgstr "Documents"
@@ -187,8 +226,8 @@ msgstr "Nom du fichier d'exportation"
 msgid "File"
 msgstr "Fichier"
 
-msgid "Filename"
-msgstr "Nom du fichier"
+msgid "File name"
+msgstr ""
 
 msgid "File offset"
 msgstr "Offset du fichier"
@@ -198,6 +237,9 @@ msgstr "Analyse des fichiers"
 
 msgid "File type"
 msgstr "Type de fichier"
+
+msgid "Filename"
+msgstr "Nom du fichier"
 
 msgid "Filter"
 msgstr "Filtre"
@@ -210,6 +252,9 @@ msgstr "Suivant"
 
 msgid "Flags"
 msgstr "Drapeaux"
+
+msgid "Form"
+msgstr ""
 
 msgid "Format"
 msgstr "Format"
@@ -226,6 +271,15 @@ msgstr "Aller à"
 msgid "Go to address"
 msgstr "Aller à l'adresse"
 
+msgid "Go to entry point"
+msgstr ""
+
+msgid "Go to offset"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
 msgid "Hash"
 msgstr "Hash"
 
@@ -240,6 +294,12 @@ msgstr "Heuristique"
 
 msgid "Heuristic scan"
 msgstr "Analyse heuristique"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr ""
 
 msgid "Image"
 msgstr "Image"
@@ -264,6 +324,9 @@ msgstr "Données de l'installateur"
 
 msgid "Invalid"
 msgstr "Invalide"
+
+msgid "Invalid opcode"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "Fichier non valide"
@@ -316,6 +379,9 @@ msgstr "Mode"
 msgid "Name"
 msgstr "Nom"
 
+msgid "Nothing found"
+msgstr ""
+
 msgid "OK"
 msgstr "OK"
 
@@ -364,6 +430,9 @@ msgstr "Données brutes"
 msgid "Read error"
 msgstr "Erreur de lecture"
 
+msgid "Read only"
+msgstr ""
+
 msgid "Readonly"
 msgstr "Lecture seulement"
 
@@ -385,6 +454,9 @@ msgstr "Régions"
 msgid "Register"
 msgstr "S'inscrire"
 
+msgid "Relative address"
+msgstr ""
+
 msgid "Relative virtual address"
 msgstr "Adresse virtuelle relative"
 
@@ -396,6 +468,9 @@ msgstr "Ressources"
 
 msgid "Result"
 msgstr "Résultats"
+
+msgid "Run"
+msgstr ""
 
 msgid "Save"
 msgstr "Sauvegarder"
@@ -430,6 +505,9 @@ msgstr "Chercher"
 msgid "Search from"
 msgstr "Recherche à partir de"
 
+msgid "Search signatures"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Chercher"
 
@@ -456,6 +534,24 @@ msgstr "Sélectionner tout"
 
 msgid "Selection"
 msgstr "Sélection"
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "Outils de signature"
@@ -484,6 +580,12 @@ msgstr "Statut"
 msgid "Stay on top"
 msgstr "Rester au dessus"
 
+msgid "Step into"
+msgstr ""
+
+msgid "Step over"
+msgstr ""
+
 msgid "Stop"
 msgstr "Arrêtez"
 
@@ -499,8 +601,17 @@ msgstr "Stub"
 msgid "Style"
 msgstr "Style"
 
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
 msgid "Table"
 msgstr "Table"
+
+msgid "Text"
+msgstr ""
 
 msgid "Text documents"
 msgstr "Documents texte"
@@ -573,3 +684,4 @@ msgstr "compressé"
 
 msgid "protection"
 msgstr "protection"
+
