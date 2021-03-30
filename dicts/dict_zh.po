@@ -11,7 +11,7 @@ msgid "About"
 msgstr "关于"
 
 msgid "Action"
-msgstr ""
+msgstr "行为"
 
 msgid "Address"
 msgstr "地址"
@@ -38,7 +38,7 @@ msgid "Archive record"
 msgstr "存档记录"
 
 msgid "Automatic"
-msgstr ""
+msgstr "自动的"
 
 msgid "Base address"
 msgstr "基址"
@@ -47,7 +47,7 @@ msgid "Begin"
 msgstr "开始"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "断点"
 
 msgid "Byte"
 msgstr "字节"
@@ -71,7 +71,7 @@ msgid "Cannot save file"
 msgstr "无法保存文件"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "无法设置快捷键"
 
 msgid "Certificate"
 msgstr "证书"
@@ -83,7 +83,7 @@ msgid "Clear"
 msgstr "清除"
 
 msgid "Clear result"
-msgstr ""
+msgstr "清除结果"
 
 msgid "Close"
 msgstr "关闭"
@@ -95,7 +95,7 @@ msgid "Commands"
 msgstr "命令"
 
 msgid "Comment"
-msgstr ""
+msgstr "注释"
 
 msgid "Compiler"
 msgstr "编译器"
@@ -116,22 +116,22 @@ msgid "Copy as hex"
 msgstr "复制为十六进制"
 
 msgid "Copy cursor address"
-msgstr ""
+msgstr "复制光标地址"
 
 msgid "Copy cursor offset"
-msgstr ""
+msgstr "复制光标偏移"
 
 msgid "Copy filename"
-msgstr ""
+msgstr "复制文件名"
 
 msgid "Copy name"
-msgstr ""
+msgstr "复制名称"
 
 msgid "Copy offset"
 msgstr "复制偏移"
 
 msgid "Copy signature"
-msgstr ""
+msgstr "复制签名"
 
 msgid "Copy size"
 msgstr "复制大小"
@@ -155,7 +155,7 @@ msgid "Database"
 msgstr "数据库"
 
 msgid "Debug"
-msgstr ""
+msgstr "调试"
 
 msgid "Debug data"
 msgstr "调试数据"
@@ -167,13 +167,13 @@ msgid "Deep scan"
 msgstr "深度扫描"
 
 msgid "Demangle"
-msgstr ""
+msgstr "解构"
 
 msgid "Device scan"
 msgstr "设备扫描"
 
 msgid "Directory"
-msgstr ""
+msgstr "目录"
 
 msgid "Directory scan"
 msgstr "目录扫描"
@@ -182,7 +182,7 @@ msgid "Disasm"
 msgstr "反汇编"
 
 msgid "Document"
-msgstr ""
+msgstr "文件"
 
 msgid "Documents"
 msgstr "文件"
@@ -227,7 +227,7 @@ msgid "File"
 msgstr "文件"
 
 msgid "File name"
-msgstr ""
+msgstr "文件名"
 
 msgid "File offset"
 msgstr "文件偏移"
@@ -254,7 +254,7 @@ msgid "Flags"
 msgstr "标志"
 
 msgid "Form"
-msgstr ""
+msgstr "表格"
 
 msgid "Format"
 msgstr "格式"
@@ -272,13 +272,13 @@ msgid "Go to address"
 msgstr "转到地址"
 
 msgid "Go to entry point"
-msgstr ""
+msgstr "转到入口点"
 
 msgid "Go to offset"
-msgstr ""
+msgstr "转到偏移"
 
 msgid "Group"
-msgstr ""
+msgstr "组"
 
 msgid "Hash"
 msgstr "哈希"
@@ -296,10 +296,10 @@ msgid "Heuristic scan"
 msgstr "启发式扫描"
 
 msgid "Hex"
-msgstr ""
+msgstr "十六进制"
 
 msgid "Hex signature"
-msgstr ""
+msgstr "十六进制签名"
 
 msgid "Image"
 msgstr "图片"
@@ -326,7 +326,7 @@ msgid "Invalid"
 msgstr "无效"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "无效的操作码"
 
 msgid "It is not a valid file"
 msgstr "不是有效文件"
@@ -380,7 +380,7 @@ msgid "Name"
 msgstr "姓名"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "没有找到"
 
 msgid "OK"
 msgstr "确定"
@@ -431,7 +431,7 @@ msgid "Read error"
 msgstr "读取错误"
 
 msgid "Read only"
-msgstr ""
+msgstr "只读"
 
 msgid "Readonly"
 msgstr "只读"
@@ -455,7 +455,7 @@ msgid "Register"
 msgstr "注册"
 
 msgid "Relative address"
-msgstr ""
+msgstr "相关地址"
 
 msgid "Relative virtual address"
 msgstr "相关虚拟地址"
@@ -470,7 +470,7 @@ msgid "Result"
 msgstr "结果"
 
 msgid "Run"
-msgstr ""
+msgstr "运行"
 
 msgid "Save"
 msgstr "保存"
@@ -506,7 +506,7 @@ msgid "Search from"
 msgstr "搜索"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "搜索签名"
 
 msgid "Search strings"
 msgstr "搜索字符串"
@@ -536,22 +536,22 @@ msgid "Selection"
 msgstr "选中项"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "快捷键"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "快捷键"
 
 msgid "Show options"
-msgstr ""
+msgstr "显示选项"
 
 msgid "Show type"
-msgstr ""
+msgstr "显示类型"
 
 msgid "Show valid"
-msgstr ""
+msgstr "显示有效"
 
 msgid "Show version"
-msgstr ""
+msgstr "显示版本"
 
 msgid "Sign tool"
 msgstr "签名工具"
@@ -581,10 +581,10 @@ msgid "Stay on top"
 msgstr "窗口置顶"
 
 msgid "Step into"
-msgstr ""
+msgstr "步进"
 
 msgid "Step over"
-msgstr ""
+msgstr "步出"
 
 msgid "Stop"
 msgstr "停止"
@@ -602,16 +602,16 @@ msgid "Style"
 msgstr "样式"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "子目录"
 
 msgid "Symbols"
-msgstr ""
+msgstr "符号"
 
 msgid "Table"
 msgstr "表格"
 
 msgid "Text"
-msgstr ""
+msgstr "文本"
 
 msgid "Text documents"
 msgstr "文本文件"
