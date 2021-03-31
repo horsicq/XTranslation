@@ -11,13 +11,13 @@ msgid "About"
 msgstr "關於"
 
 msgid "Action"
-msgstr ""
+msgstr "行動"
 
 msgid "Address"
 msgstr "地址"
 
 msgid "All"
-msgstr ""
+msgstr "所有"
 
 msgid "All files"
 msgstr "所有檔案"
@@ -32,13 +32,13 @@ msgid "Architecture"
 msgstr "架構"
 
 msgid "Archive"
-msgstr ""
+msgstr "檔案"
 
 msgid "Archive record"
 msgstr "存檔記錄"
 
 msgid "Automatic"
-msgstr ""
+msgstr "自動"
 
 msgid "Base address"
 msgstr "基底位址"
@@ -47,7 +47,7 @@ msgid "Begin"
 msgstr "開始"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "斷點"
 
 msgid "Byte"
 msgstr "位元組"
@@ -59,7 +59,7 @@ msgid "Calculate"
 msgstr "計算"
 
 msgid "Calls"
-msgstr ""
+msgstr "調用"
 
 msgid "Cancel"
 msgstr "取消"
@@ -71,19 +71,19 @@ msgid "Cannot save file"
 msgstr "無法保存檔案"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "無法設置捷徑"
 
 msgid "Certificate"
-msgstr ""
+msgstr "證書"
 
 msgid "Check updates"
-msgstr ""
+msgstr "檢查更新"
 
 msgid "Clear"
 msgstr "清除"
 
 msgid "Clear result"
-msgstr ""
+msgstr "清除結果"
 
 msgid "Close"
 msgstr "關閉"
@@ -95,43 +95,43 @@ msgid "Commands"
 msgstr "命令"
 
 msgid "Comment"
-msgstr ""
+msgstr "註解"
 
 msgid "Compiler"
-msgstr ""
+msgstr "編譯器"
 
 msgid "Context"
 msgstr "上下文"
 
 msgid "Converter"
-msgstr ""
+msgstr "轉換器"
 
 msgid "Copy"
-msgstr "複製"
+msgstr "複印"
 
 msgid "Copy address"
-msgstr "複製地址"
+msgstr "複印地址"
 
 msgid "Copy as hex"
-msgstr "複製為十六進制"
+msgstr "複印為十六進制"
 
 msgid "Copy cursor address"
-msgstr ""
+msgstr "複印光標進制"
 
 msgid "Copy cursor offset"
-msgstr ""
+msgstr "複印光標偏移"
 
 msgid "Copy filename"
-msgstr ""
+msgstr "複印檔案名"
 
 msgid "Copy name"
-msgstr ""
+msgstr "複印名字"
 
 msgid "Copy offset"
 msgstr "複印偏移"
 
 msgid "Copy signature"
-msgstr ""
+msgstr "複印簽名"
 
 msgid "Copy size"
 msgstr "複印尺寸"
@@ -146,7 +146,7 @@ msgid "Create view model"
 msgstr "創建視圖模型"
 
 msgid "Cryptor"
-msgstr ""
+msgstr "加密器"
 
 msgid "Cursor"
 msgstr "游標"
@@ -155,25 +155,25 @@ msgid "Database"
 msgstr "資料庫"
 
 msgid "Debug"
-msgstr ""
+msgstr "調試"
 
 msgid "Debug data"
-msgstr ""
+msgstr "調試數據"
 
 msgid "Debugger"
-msgstr ""
+msgstr "調試器"
 
 msgid "Deep scan"
 msgstr "深層掃描"
 
 msgid "Demangle"
-msgstr ""
+msgstr "解構"
 
 msgid "Device scan"
 msgstr "設備掃描"
 
 msgid "Directory"
-msgstr ""
+msgstr "目錄"
 
 msgid "Directory scan"
 msgstr "目錄掃描"
@@ -182,13 +182,13 @@ msgid "Disasm"
 msgstr "災難"
 
 msgid "Document"
-msgstr ""
+msgstr "檔案"
 
 msgid "Documents"
 msgstr "檔案"
 
 msgid "Donate"
-msgstr ""
+msgstr "捐贈"
 
 msgid "Dump"
 msgstr "轉儲"
@@ -227,7 +227,7 @@ msgid "File"
 msgstr "檔案"
 
 msgid "File name"
-msgstr ""
+msgstr "檔案名"
 
 msgid "File offset"
 msgstr "檔案偏移量"
@@ -254,10 +254,10 @@ msgid "Flags"
 msgstr "標記"
 
 msgid "Form"
-msgstr ""
+msgstr "表單"
 
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 msgid "General"
 msgstr "一般"
@@ -272,16 +272,16 @@ msgid "Go to address"
 msgstr "轉到地址"
 
 msgid "Go to entry point"
-msgstr ""
+msgstr "轉到入口點"
 
 msgid "Go to offset"
-msgstr ""
+msgstr "轉到偏移"
 
 msgid "Group"
-msgstr ""
+msgstr "組"
 
 msgid "Hash"
-msgstr ""
+msgstr "哈希"
 
 msgid "Header"
 msgstr "數據頭"
@@ -296,10 +296,10 @@ msgid "Heuristic scan"
 msgstr "啟發式掃描"
 
 msgid "Hex"
-msgstr ""
+msgstr "十六進制"
 
 msgid "Hex signature"
-msgstr ""
+msgstr "十六進制簽名"
 
 msgid "Image"
 msgstr "圖像"
@@ -317,16 +317,16 @@ msgid "Information"
 msgstr "資訊"
 
 msgid "Installer"
-msgstr ""
+msgstr "安裝程式"
 
 msgid "Installer data"
-msgstr ""
+msgstr "安裝程式數據"
 
 msgid "Invalid"
 msgstr "無效"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "無效的操作碼"
 
 msgid "It is not a valid file"
 msgstr "不是有效檔案"
@@ -335,7 +335,7 @@ msgid "Joiner"
 msgstr "合併工具"
 
 msgid "Jumps"
-msgstr ""
+msgstr "跳過"
 
 msgid "Label"
 msgstr "標簽"
@@ -350,10 +350,10 @@ msgid "Libraries"
 msgstr "庫"
 
 msgid "Library"
-msgstr ""
+msgstr "庫"
 
 msgid "Linker"
-msgstr ""
+msgstr "連接器"
 
 msgid "Log"
 msgstr "日誌"
@@ -380,7 +380,7 @@ msgid "Name"
 msgstr "姓名"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "沒有找到"
 
 msgid "OK"
 msgstr "確定"
@@ -392,7 +392,7 @@ msgid "Opcode"
 msgstr "操作碼"
 
 msgid "Opcodes"
-msgstr ""
+msgstr "操作碼"
 
 msgid "Open"
 msgstr "打開"
@@ -410,7 +410,7 @@ msgid "Overlay"
 msgstr "覆蓋"
 
 msgid "Packer"
-msgstr ""
+msgstr "打包工具"
 
 msgid "Please restart the application"
 msgstr "請重啟應用程序"
@@ -419,10 +419,10 @@ msgid "Process"
 msgstr "處理"
 
 msgid "Protector"
-msgstr ""
+msgstr "保護器"
 
 msgid "Protector data"
-msgstr ""
+msgstr "保護器數據"
 
 msgid "Raw data"
 msgstr "原始資料"
@@ -431,7 +431,7 @@ msgid "Read error"
 msgstr "讀取錯誤"
 
 msgid "Read only"
-msgstr ""
+msgstr "只讀"
 
 msgid "Readonly"
 msgstr "只讀"
@@ -443,10 +443,10 @@ msgid "Recursive scan"
 msgstr "遞歸掃描"
 
 msgid "Ref from"
-msgstr ""
+msgstr "引用到"
 
 msgid "Ref to"
-msgstr ""
+msgstr "引用給"
 
 msgid "Regions"
 msgstr "區域"
@@ -455,7 +455,7 @@ msgid "Register"
 msgstr "註冊"
 
 msgid "Relative address"
-msgstr ""
+msgstr "相對位址"
 
 msgid "Relative virtual address"
 msgstr "相對虛擬位址"
@@ -470,7 +470,7 @@ msgid "Result"
 msgstr "結果"
 
 msgid "Run"
-msgstr ""
+msgstr "運行"
 
 msgid "Save"
 msgstr "保存"
@@ -506,7 +506,7 @@ msgid "Search from"
 msgstr "搜尋位置"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "搜尋簽名"
 
 msgid "Search strings"
 msgstr "搜索字符串"
@@ -536,22 +536,22 @@ msgid "Selection"
 msgstr "選中項"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "捷徑"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "捷徑"
 
 msgid "Show options"
-msgstr ""
+msgstr "顯示選項"
 
 msgid "Show type"
-msgstr ""
+msgstr "顯示類型"
 
 msgid "Show valid"
-msgstr ""
+msgstr "顯示有效"
 
 msgid "Show version"
-msgstr ""
+msgstr "顯示版本"
 
 msgid "Sign tool"
 msgstr "簽名工具"
@@ -581,10 +581,10 @@ msgid "Stay on top"
 msgstr "始終在最上層"
 
 msgid "Step into"
-msgstr ""
+msgstr "步進"
 
 msgid "Step over"
-msgstr ""
+msgstr "步出"
 
 msgid "Stop"
 msgstr "停止"
@@ -602,16 +602,16 @@ msgid "Style"
 msgstr "樣式"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "子目錄"
 
 msgid "Symbols"
-msgstr ""
+msgstr "符號"
 
 msgid "Table"
-msgstr ""
+msgstr "表格"
 
 msgid "Text"
-msgstr ""
+msgstr "文本"
 
 msgid "Text documents"
 msgstr "文本檔案"
@@ -626,7 +626,7 @@ msgid "To data"
 msgstr "到資料"
 
 msgid "Tool"
-msgstr ""
+msgstr "工具"
 
 msgid "Tools"
 msgstr "工具"
@@ -635,13 +635,13 @@ msgid "Total"
 msgstr "總計"
 
 msgid "Tree"
-msgstr ""
+msgstr "樹"
 
 msgid "Type"
 msgstr "類型"
 
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 msgid "Upper"
 msgstr "上位"
@@ -656,7 +656,7 @@ msgid "Virtual address"
 msgstr "虛擬位址"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "通配符"
 
 msgid "Write error"
 msgstr "寫入錯誤"
