@@ -11,34 +11,34 @@ msgid "About"
 msgstr "Über"
 
 msgid "Action"
-msgstr ""
+msgstr "Aktion"
 
 msgid "Address"
 msgstr "Adresse"
 
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 msgid "All files"
-msgstr ""
+msgstr "Alle Dateien"
 
 msgid "Analyze"
-msgstr ""
+msgstr "Analysieren"
 
 msgid "Appearance"
 msgstr "Aussehen"
 
 msgid "Architecture"
-msgstr ""
+msgstr "Architektur"
 
 msgid "Archive"
-msgstr ""
+msgstr "Archiv"
 
 msgid "Archive record"
-msgstr ""
+msgstr "Archivaufzeichnung"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automatisch"
 
 msgid "Base address"
 msgstr "Basisadresse"
@@ -65,19 +65,19 @@ msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Cannot open file"
-msgstr ""
+msgstr "Kann die Datei nicht öffnen"
 
 msgid "Cannot save file"
-msgstr ""
+msgstr "Kann die Datei nicht speichern"
 
 msgid "Cannot set shortcut"
 msgstr ""
 
 msgid "Certificate"
-msgstr ""
+msgstr "Zertifikat"
 
 msgid "Check updates"
-msgstr ""
+msgstr "Auf Updates überprüfen"
 
 msgid "Clear"
 msgstr "Leeren"
@@ -86,7 +86,7 @@ msgid "Clear result"
 msgstr ""
 
 msgid "Close"
-msgstr ""
+msgstr "Schließen"
 
 msgid "Code section"
 msgstr ""
@@ -95,7 +95,7 @@ msgid "Commands"
 msgstr ""
 
 msgid "Comment"
-msgstr ""
+msgstr "Kommentar"
 
 msgid "Compiler"
 msgstr ""
@@ -152,7 +152,7 @@ msgid "Cursor"
 msgstr "Cursor"
 
 msgid "Database"
-msgstr ""
+msgstr "Datenbank"
 
 msgid "Debug"
 msgstr ""
@@ -173,7 +173,7 @@ msgid "Device scan"
 msgstr ""
 
 msgid "Directory"
-msgstr ""
+msgstr "Verzeichnis"
 
 msgid "Directory scan"
 msgstr "Ordner scannen"
@@ -182,13 +182,13 @@ msgid "Disasm"
 msgstr ""
 
 msgid "Document"
-msgstr ""
+msgstr "Dokument"
 
 msgid "Documents"
-msgstr ""
+msgstr "Dokumente"
 
 msgid "Donate"
-msgstr ""
+msgstr "Spenden"
 
 msgid "Dump"
 msgstr "Dump"
@@ -224,7 +224,7 @@ msgid "Export file name"
 msgstr ""
 
 msgid "File"
-msgstr ""
+msgstr "Datei"
 
 msgid "File name"
 msgstr ""
@@ -239,7 +239,7 @@ msgid "File type"
 msgstr "Dateityp"
 
 msgid "Filename"
-msgstr "Dateinamen"
+msgstr "Dateiname"
 
 msgid "Filter"
 msgstr ""
@@ -287,10 +287,10 @@ msgid "Header"
 msgstr "Header"
 
 msgid "Help"
-msgstr ""
+msgstr "Hilfe"
 
 msgid "Heuristic"
-msgstr ""
+msgstr "Heuristik"
 
 msgid "Heuristic scan"
 msgstr ""
@@ -413,10 +413,10 @@ msgid "Packer"
 msgstr ""
 
 msgid "Please restart the application"
-msgstr ""
+msgstr "Bitte die Anwendung neu starten"
 
 msgid "Process"
-msgstr ""
+msgstr "Prozess"
 
 msgid "Protector"
 msgstr ""
@@ -437,7 +437,7 @@ msgid "Readonly"
 msgstr ""
 
 msgid "Recursive"
-msgstr ""
+msgstr "Rekursiv"
 
 msgid "Recursive scan"
 msgstr ""
@@ -467,10 +467,10 @@ msgid "Resources"
 msgstr ""
 
 msgid "Result"
-msgstr ""
+msgstr "Ergebnis"
 
 msgid "Run"
-msgstr ""
+msgstr "Ausführen"
 
 msgid "Save"
 msgstr "Speichern"
@@ -605,10 +605,10 @@ msgid "Subdirectories"
 msgstr ""
 
 msgid "Symbols"
-msgstr ""
+msgstr "Symbole"
 
 msgid "Table"
-msgstr ""
+msgstr "Tabelle"
 
 msgid "Text"
 msgstr ""
@@ -620,7 +620,7 @@ msgid "Text files"
 msgstr ""
 
 msgid "Thanks"
-msgstr "Dank"
+msgstr "Danke"
 
 msgid "To data"
 msgstr ""
@@ -635,13 +635,13 @@ msgid "Total"
 msgstr ""
 
 msgid "Tree"
-msgstr ""
+msgstr "Baum"
 
 msgid "Type"
 msgstr "Typ"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Unbekannt"
 
 msgid "Upper"
 msgstr "Upper"
