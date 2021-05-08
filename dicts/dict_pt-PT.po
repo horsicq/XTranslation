@@ -173,7 +173,7 @@ msgid "Device scan"
 msgstr "Analisar dispositivo"
 
 msgid "Directory"
-msgstr Directório"
+msgstr "Directório"
 
 msgid "Directory scan"
 msgstr "Analisar directório"
