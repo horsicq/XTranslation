@@ -47,9 +47,6 @@ msgstr "Базовый адрес"
 msgid "Begin"
 msgstr "Начало"
 
-msgid "Breakpoint"
-msgstr ""
-
 msgid "Byte"
 msgstr "Байт"
 
@@ -152,6 +149,9 @@ msgstr "Криптор"
 msgid "Cursor"
 msgstr "Курсор"
 
+msgid "Data in code"
+msgstr ""
+
 msgid "Database"
 msgstr "База данных"
 
@@ -221,8 +221,8 @@ msgstr "Выход"
 msgid "Export"
 msgstr "Экспорт"
 
-msgid "Export file name"
-msgstr "Экспорт имени файла"
+msgid "Export File Name"
+msgstr ""
 
 msgid "File"
 msgstr "Файл"
@@ -259,6 +259,9 @@ msgstr ""
 
 msgid "Format"
 msgstr "Формат"
+
+msgid "Functions"
+msgstr ""
 
 msgid "General"
 msgstr "Общие"
@@ -359,6 +362,9 @@ msgstr "Линкер"
 msgid "Log"
 msgstr "Журнал"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Манифест"
 
@@ -404,6 +410,9 @@ msgstr "Открыть папку для сканирования"
 msgid "Open file"
 msgstr "Открыть файл"
 
+msgid "Operation system"
+msgstr ""
+
 msgid "Options"
 msgstr "Настройки"
 
@@ -430,9 +439,6 @@ msgstr ""
 
 msgid "Read error"
 msgstr "Ошибка чтения"
-
-msgid "Read only"
-msgstr ""
 
 msgid "Readonly"
 msgstr ""
@@ -536,6 +542,9 @@ msgstr "Выбрать всё"
 msgid "Selection"
 msgstr "Выделение"
 
+msgid "Set breakpoint"
+msgstr ""
+
 msgid "Shortcut"
 msgstr ""
 
@@ -593,6 +602,9 @@ msgstr "Стоп"
 msgid "String"
 msgstr "Строка"
 
+msgid "String table"
+msgstr ""
+
 msgid "Strings"
 msgstr "Строки"
 
@@ -603,6 +615,9 @@ msgid "Style"
 msgstr "Стиль"
 
 msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbol table"
 msgstr ""
 
 msgid "Symbols"

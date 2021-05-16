@@ -52,9 +52,6 @@ msgstr "기준 주소"
 msgid "Begin"
 msgstr "시작"
 
-msgid "Breakpoint"
-msgstr ""
-
 msgid "Byte"
 msgstr "Byte"
 
@@ -157,6 +154,9 @@ msgstr ""
 msgid "Cursor"
 msgstr "커서"
 
+msgid "Data in code"
+msgstr ""
+
 msgid "Database"
 msgstr "데이터베이스"
 
@@ -226,8 +226,8 @@ msgstr "끝내기"
 msgid "Export"
 msgstr "내보내기"
 
-msgid "Export file name"
-msgstr "파일 이름 내보내기"
+msgid "Export File Name"
+msgstr ""
 
 msgid "File"
 msgstr "파일"
@@ -264,6 +264,9 @@ msgstr ""
 
 msgid "Format"
 msgstr "형식"
+
+msgid "Functions"
+msgstr ""
 
 msgid "General"
 msgstr "일반"
@@ -364,6 +367,9 @@ msgstr "링커"
 msgid "Log"
 msgstr "로그"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifest"
 
@@ -409,6 +415,9 @@ msgstr "디렉터리 열기"
 msgid "Open file"
 msgstr "파일 열기"
 
+msgid "Operation system"
+msgstr ""
+
 msgid "Options"
 msgstr "옵션"
 
@@ -435,9 +444,6 @@ msgstr "로우 데이터"
 
 msgid "Read error"
 msgstr "읽기 오류"
-
-msgid "Read only"
-msgstr ""
 
 msgid "Readonly"
 msgstr "읽기 전용"
@@ -541,6 +547,9 @@ msgstr "모두 선택"
 msgid "Selection"
 msgstr "선택"
 
+msgid "Set breakpoint"
+msgstr ""
+
 msgid "Shortcut"
 msgstr ""
 
@@ -598,6 +607,9 @@ msgstr "중지"
 msgid "String"
 msgstr "문자열"
 
+msgid "String table"
+msgstr ""
+
 msgid "Strings"
 msgstr "문자열"
 
@@ -608,6 +620,9 @@ msgid "Style"
 msgstr "스타일"
 
 msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbol table"
 msgstr ""
 
 msgid "Symbols"

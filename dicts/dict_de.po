@@ -46,9 +46,6 @@ msgstr "Basisadresse"
 msgid "Begin"
 msgstr "Start"
 
-msgid "Breakpoint"
-msgstr "Haltepunkt"
-
 msgid "Byte"
 msgstr "Byte"
 
@@ -151,6 +148,9 @@ msgstr ""
 msgid "Cursor"
 msgstr "Cursor"
 
+msgid "Data in code"
+msgstr ""
+
 msgid "Database"
 msgstr "Datenbank"
 
@@ -220,8 +220,8 @@ msgstr "Beenden"
 msgid "Export"
 msgstr "Export"
 
-msgid "Export file name"
-msgstr "Dateiname exportieren"
+msgid "Export File Name"
+msgstr ""
 
 msgid "File"
 msgstr "Datei"
@@ -257,6 +257,9 @@ msgid "Form"
 msgstr ""
 
 msgid "Format"
+msgstr ""
+
+msgid "Functions"
 msgstr ""
 
 msgid "General"
@@ -358,6 +361,9 @@ msgstr ""
 msgid "Log"
 msgstr "Log"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifest"
 
@@ -403,6 +409,9 @@ msgstr "Ordner öffnen"
 msgid "Open file"
 msgstr "Datei öffnen"
 
+msgid "Operation system"
+msgstr ""
+
 msgid "Options"
 msgstr "Optionen"
 
@@ -429,9 +438,6 @@ msgstr "Rohdaten"
 
 msgid "Read error"
 msgstr "Lesefehler"
-
-msgid "Read only"
-msgstr "Schreibgeschützt"
 
 msgid "Readonly"
 msgstr "Schreibgeschützt"
@@ -535,6 +541,9 @@ msgstr "Alle auswählen"
 msgid "Selection"
 msgstr "Auswahl"
 
+msgid "Set breakpoint"
+msgstr ""
+
 msgid "Shortcut"
 msgstr "Verknüpfung"
 
@@ -592,6 +601,9 @@ msgstr "Stop"
 msgid "String"
 msgstr "String"
 
+msgid "String table"
+msgstr ""
+
 msgid "Strings"
 msgstr "Strings"
 
@@ -603,6 +615,9 @@ msgstr "Stil"
 
 msgid "Subdirectories"
 msgstr "Unterverzeichnisse"
+
+msgid "Symbol table"
+msgstr ""
 
 msgid "Symbols"
 msgstr "Symbole"
@@ -684,3 +699,6 @@ msgstr "Gepackt"
 
 msgid "protection"
 msgstr "Schutz"
+
+
+

@@ -45,9 +45,6 @@ msgstr "Temel adres"
 msgid "Begin"
 msgstr "Başla"
 
-msgid "Breakpoint"
-msgstr ""
-
 msgid "Byte"
 msgstr "Byte"
 
@@ -150,6 +147,9 @@ msgstr "Cryptor"
 msgid "Cursor"
 msgstr "Cursor"
 
+msgid "Data in code"
+msgstr ""
+
 msgid "Database"
 msgstr "Database"
 
@@ -219,8 +219,8 @@ msgstr "Çıkış"
 msgid "Export"
 msgstr "Çıkart"
 
-msgid "Export file name"
-msgstr "Çıkartılan dosya adı"
+msgid "Export File Name"
+msgstr ""
 
 msgid "File"
 msgstr "Dosya"
@@ -257,6 +257,9 @@ msgstr ""
 
 msgid "Format"
 msgstr "Biçim"
+
+msgid "Functions"
+msgstr ""
 
 msgid "General"
 msgstr "Genel"
@@ -357,6 +360,9 @@ msgstr "Bağlayıcı"
 msgid "Log"
 msgstr "Log Kayıt"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Belirgin"
 
@@ -402,6 +408,9 @@ msgstr "Klasör aç"
 msgid "Open file"
 msgstr "Dosya aç"
 
+msgid "Operation system"
+msgstr ""
+
 msgid "Options"
 msgstr "Ayarlar"
 
@@ -428,9 +437,6 @@ msgstr "İşlenmemiş veri"
 
 msgid "Read error"
 msgstr "Okuma hatası"
-
-msgid "Read only"
-msgstr ""
 
 msgid "Readonly"
 msgstr "Sadece okuma"
@@ -534,6 +540,9 @@ msgstr "Hepsini seç"
 msgid "Selection"
 msgstr "Seçilen"
 
+msgid "Set breakpoint"
+msgstr ""
+
 msgid "Shortcut"
 msgstr ""
 
@@ -591,6 +600,9 @@ msgstr "Dur"
 msgid "String"
 msgstr "Kelime"
 
+msgid "String table"
+msgstr ""
+
 msgid "Strings"
 msgstr "Kelimeler"
 
@@ -601,6 +613,9 @@ msgid "Style"
 msgstr "Stil"
 
 msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbol table"
 msgstr ""
 
 msgid "Symbols"

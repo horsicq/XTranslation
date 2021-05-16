@@ -45,9 +45,6 @@ msgstr "כתובת בסיס"
 msgid "Begin"
 msgstr "התחלה"
 
-msgid "Breakpoint"
-msgstr ""
-
 msgid "Byte"
 msgstr "בית"
 
@@ -150,6 +147,9 @@ msgstr "מצפין"
 msgid "Cursor"
 msgstr "סמן"
 
+msgid "Data in code"
+msgstr ""
+
 msgid "Database"
 msgstr "מסד נתונים"
 
@@ -219,8 +219,8 @@ msgstr "יציאה"
 msgid "Export"
 msgstr "יצא"
 
-msgid "Export file name"
-msgstr "יצא לקובץ"
+msgid "Export File Name"
+msgstr ""
 
 msgid "File"
 msgstr "קובץ"
@@ -257,6 +257,9 @@ msgstr ""
 
 msgid "Format"
 msgstr "פורמט"
+
+msgid "Functions"
+msgstr ""
 
 msgid "General"
 msgstr "כללי"
@@ -357,6 +360,9 @@ msgstr "לינקר"
 msgid "Log"
 msgstr "יומן אירועים"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "פרטי מדיניות"
 
@@ -402,6 +408,9 @@ msgstr "פתח תיקייה"
 msgid "Open file"
 msgstr "פתח קובץ"
 
+msgid "Operation system"
+msgstr ""
+
 msgid "Options"
 msgstr "אפשרויות"
 
@@ -428,9 +437,6 @@ msgstr "מידע גולמי"
 
 msgid "Read error"
 msgstr "שגיאת קריאה"
-
-msgid "Read only"
-msgstr ""
 
 msgid "Readonly"
 msgstr "לקריאה בלבד"
@@ -534,6 +540,9 @@ msgstr "בחר הכל"
 msgid "Selection"
 msgstr "בחירה"
 
+msgid "Set breakpoint"
+msgstr ""
+
 msgid "Shortcut"
 msgstr ""
 
@@ -591,6 +600,9 @@ msgstr "עצור"
 msgid "String"
 msgstr "מחרוזת"
 
+msgid "String table"
+msgstr ""
+
 msgid "Strings"
 msgstr "מחרוזות"
 
@@ -601,6 +613,9 @@ msgid "Style"
 msgstr "סגנון"
 
 msgid "Subdirectories"
+msgstr ""
+
+msgid "Symbol table"
 msgstr ""
 
 msgid "Symbols"
