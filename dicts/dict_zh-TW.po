@@ -284,7 +284,7 @@ msgid "Group"
 msgstr "組"
 
 msgid "Hash"
-msgstr "雜湊值 (Hash)"
+msgstr "雜湊值"
 
 msgid "Header"
 msgstr "標頭"
@@ -296,7 +296,7 @@ msgid "Heuristic"
 msgstr "啟發式"
 
 msgid "Heuristic scan"
-msgstr "啟發式掃描 (Heuristic scan)"
+msgstr "啟發式掃描"
 
 msgid "Hex"
 msgstr "十六進制"
@@ -671,7 +671,7 @@ msgid "Virtual address"
 msgstr "虛擬位址"
 
 msgid "Wildcard"
-msgstr "任意符號 (Wildcard)"
+msgstr "任意符號"
 
 msgid "Write error"
 msgstr "寫入錯誤"
