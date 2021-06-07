@@ -7,8 +7,9 @@ msgstr ""
 "X-Language: it_IT\n"
 "X-Source-Language: C\n"
 
+#, fuzzy
 msgid "About"
-msgstr "Informazioni"
+msgstr "Info"
 
 msgid "Action"
 msgstr ""
@@ -50,7 +51,7 @@ msgid "Byte"
 msgstr "Byte"
 
 msgid "Bytes"
-msgstr "Byte"
+msgstr "Bytes"
 
 msgid "Calculate"
 msgstr "Calcola"
@@ -77,7 +78,7 @@ msgid "Check updates"
 msgstr "Controlla aggiornamenti"
 
 msgid "Clear"
-msgstr "Cancella"
+msgstr "Pulisci"
 
 msgid "Clear result"
 msgstr ""
@@ -92,7 +93,7 @@ msgid "Commands"
 msgstr "Comandi"
 
 msgid "Comment"
-msgstr ""
+msgstr "Commento"
 
 msgid "Compiler"
 msgstr "Compilatore"
@@ -155,16 +156,16 @@ msgid "Database"
 msgstr "Base-dati"
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Debug data"
-msgstr "Dati di debug"
+msgstr "Debug data"
 
 msgid "Debugger"
 msgstr "Debugger"
 
 msgid "Deep scan"
-msgstr "Scansione profonda"
+msgstr "Scansione in profondità"
 
 msgid "Demangle"
 msgstr ""
@@ -176,7 +177,7 @@ msgid "Directory"
 msgstr ""
 
 msgid "Directory scan"
-msgstr "Scansione directory"
+msgstr "Scansione cartella"
 
 msgid "Disasm"
 msgstr "Disasm"
@@ -191,7 +192,7 @@ msgid "Donate"
 msgstr "Dona"
 
 msgid "Dump"
-msgstr "Dump"
+msgstr "Scarica"
 
 msgid "Dump to file"
 msgstr "Dump su file"
@@ -200,7 +201,7 @@ msgid "Edit"
 msgstr "Modifica"
 
 msgid "Endianness"
-msgstr "Endianness"
+msgstr "Endianità"
 
 msgid "Entropy"
 msgstr "Entropia"
@@ -227,10 +228,10 @@ msgid "File"
 msgstr ""
 
 msgid "File name"
-msgstr ""
+msgstr "Nomi dei file"
 
 msgid "File offset"
-msgstr "Offset file"
+msgstr "Spostamento file"
 
 msgid "File scan"
 msgstr "Scansione file"
@@ -251,10 +252,10 @@ msgid "Find next"
 msgstr "Trova successivo"
 
 msgid "Flags"
-msgstr "Bandiere"
+msgstr "Segnali"
 
 msgid "Form"
-msgstr ""
+msgstr "Modulo"
 
 msgid "Format"
 msgstr "Formato"
@@ -272,7 +273,7 @@ msgid "Go to"
 msgstr "Vai a"
 
 msgid "Go to address"
-msgstr "Vai a indirizzo"
+msgstr "All'indirizzo"
 
 msgid "Go to entry point"
 msgstr ""
@@ -299,7 +300,7 @@ msgid "Heuristic scan"
 msgstr "Scansione euristica"
 
 msgid "Hex"
-msgstr ""
+msgstr "Esadecimale"
 
 msgid "Hex signature"
 msgstr ""
@@ -320,10 +321,10 @@ msgid "Information"
 msgstr "Informazioni"
 
 msgid "Installer"
-msgstr "Programma di installazione"
+msgstr "Installatore"
 
 msgid "Installer data"
-msgstr "Dati installatore"
+msgstr "Data installatore"
 
 msgid "Invalid"
 msgstr "Non valido"
@@ -356,7 +357,7 @@ msgid "Library"
 msgstr "Libreria"
 
 msgid "Linker"
-msgstr "Collegatore"
+msgstr "Linker"
 
 msgid "Log"
 msgstr "Registro"
@@ -365,10 +366,10 @@ msgid "MainWindow"
 msgstr ""
 
 msgid "Manifest"
-msgstr "Manifest"
+msgstr "Manifesto"
 
 msgid "Match case"
-msgstr "Caso di corrispondenza"
+msgstr "Corrispondenza forma"
 
 msgid "Maximum"
 msgstr "Massimo"
@@ -386,7 +387,7 @@ msgid "Name"
 msgstr "Nome"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "Niente trovato"
 
 msgid "OK"
 msgstr "OK"
@@ -404,7 +405,7 @@ msgid "Open"
 msgstr ""
 
 msgid "Open directory"
-msgstr "Apri directory"
+msgstr "Apri cartella"
 
 msgid "Open file"
 msgstr "Apri file"
@@ -416,10 +417,10 @@ msgid "Options"
 msgstr "Opzioni"
 
 msgid "Overlay"
-msgstr "Copertura"
+msgstr "Sovrapposizione"
 
 msgid "Packer"
-msgstr "Impacchettatore"
+msgstr "Packer"
 
 msgid "Please restart the application"
 msgstr "Riavvia l'applicazione"
@@ -431,7 +432,7 @@ msgid "Protector"
 msgstr "Protettore"
 
 msgid "Protector data"
-msgstr "Dati del protettore"
+msgstr "Protettore dati"
 
 msgid "Raw data"
 msgstr "Dati non elaborati"
@@ -458,10 +459,10 @@ msgid "Regions"
 msgstr "Regioni"
 
 msgid "Register"
-msgstr "Registrati"
+msgstr "Registra"
 
 msgid "Relative address"
-msgstr ""
+msgstr "Indirizzo relativo"
 
 msgid "Relative virtual address"
 msgstr "Indirizzo virtuale relativo"
@@ -476,7 +477,7 @@ msgid "Result"
 msgstr "Risultato"
 
 msgid "Run"
-msgstr ""
+msgstr "Esegui"
 
 msgid "Save"
 msgstr "Salva"
@@ -494,16 +495,16 @@ msgid "Save file"
 msgstr "Salva file"
 
 msgid "Save last directory"
-msgstr "Salva l'ultima directory"
+msgstr "Salva le cartelle recenti"
 
 msgid "Save result"
-msgstr "Salva risultato"
+msgstr "Salva"
 
 msgid "Scan"
 msgstr "Scansione"
 
 msgid "Scan after open"
-msgstr "Scansione dopo apertura"
+msgstr "Scansione dopo l'apertura"
 
 msgid "Search"
 msgstr "Cerca"
@@ -551,16 +552,16 @@ msgid "Shortcuts"
 msgstr ""
 
 msgid "Show options"
-msgstr ""
+msgstr "Opzioni"
 
 msgid "Show type"
-msgstr ""
+msgstr "Mostra tipo"
 
 msgid "Show valid"
 msgstr ""
 
 msgid "Show version"
-msgstr ""
+msgstr "Versione"
 
 msgid "Sign tool"
 msgstr "Strumento firma"
@@ -569,10 +570,10 @@ msgid "Signature"
 msgstr "Firma"
 
 msgid "Signatures"
-msgstr "Firme"
+msgstr "Firma"
 
 msgid "Single application"
-msgstr "Singola applicazione"
+msgstr "Applicazione singola"
 
 msgid "Size"
 msgstr "Dimensioni"
@@ -614,7 +615,7 @@ msgid "Style"
 msgstr "Stile"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "Sottocartelle"
 
 msgid "Symbol table"
 msgstr ""
@@ -626,7 +627,7 @@ msgid "Table"
 msgstr ""
 
 msgid "Text"
-msgstr ""
+msgstr "Testi"
 
 msgid "Text documents"
 msgstr "Documenti di testo"
@@ -662,7 +663,7 @@ msgid "Upper"
 msgstr "Superiore"
 
 msgid "Value"
-msgstr "Valore"
+msgstr "Valori"
 
 msgid "Version"
 msgstr "Versione"
