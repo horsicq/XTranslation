@@ -69,7 +69,7 @@ msgid "Cannot save file"
 msgstr "Невозможно сохранить файл"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "Невозможно создать ссылку"
 
 msgid "Certificate"
 msgstr "Сертификат"
@@ -81,7 +81,7 @@ msgid "Clear"
 msgstr "Очистить"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Очистить результат"
 
 msgid "Close"
 msgstr "Закрыть"
@@ -114,22 +114,22 @@ msgid "Copy as hex"
 msgstr "Копировать как hex"
 
 msgid "Copy cursor address"
-msgstr ""
+msgstr "Копировать текущий адрес"
 
 msgid "Copy cursor offset"
-msgstr ""
+msgstr "Копировать текущее смещение"
 
 msgid "Copy filename"
-msgstr ""
+msgstr "Копировать имя файла"
 
 msgid "Copy name"
-msgstr ""
+msgstr "Копировать имя"
 
 msgid "Copy offset"
 msgstr "Копировать смещение"
 
 msgid "Copy signature"
-msgstr ""
+msgstr "Копировать сигнатуру"
 
 msgid "Copy size"
 msgstr "Сопировать размер"
@@ -144,19 +144,19 @@ msgid "Create view model"
 msgstr ""
 
 msgid "Cryptor"
-msgstr "Криптор"
+msgstr "Шифратор"
 
 msgid "Cursor"
 msgstr "Курсор"
 
 msgid "Data in code"
-msgstr ""
+msgstr "Данные в коде"
 
 msgid "Database"
 msgstr "База данных"
 
 msgid "Debug"
-msgstr ""
+msgstr "Отладка"
 
 msgid "Debug data"
 msgstr "Отладочная информация"
@@ -174,7 +174,7 @@ msgid "Device scan"
 msgstr "Сканирование устройства"
 
 msgid "Directory"
-msgstr ""
+msgstr "Каталог"
 
 msgid "Directory scan"
 msgstr "Сканирование папки"
@@ -183,13 +183,13 @@ msgid "Disasm"
 msgstr "Дизассемблировать"
 
 msgid "Document"
-msgstr ""
+msgstr "Документ"
 
 msgid "Documents"
 msgstr "Документы"
 
 msgid "Donate"
-msgstr ""
+msgstr "Спонсировать"
 
 msgid "Dump"
 msgstr "Дамп"
@@ -222,13 +222,13 @@ msgid "Export"
 msgstr "Экспорт"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "Имя файла экспорта"
 
 msgid "File"
 msgstr "Файл"
 
 msgid "File name"
-msgstr ""
+msgstr "Имя файла"
 
 msgid "File offset"
 msgstr "Смещение"
@@ -255,13 +255,13 @@ msgid "Flags"
 msgstr "Флаги"
 
 msgid "Form"
-msgstr ""
+msgstr "Форма"
 
 msgid "Format"
 msgstr "Формат"
 
 msgid "Functions"
-msgstr ""
+msgstr "Функции"
 
 msgid "General"
 msgstr "Общие"
@@ -276,13 +276,13 @@ msgid "Go to address"
 msgstr "Перейти к адресу"
 
 msgid "Go to entry point"
-msgstr ""
+msgstr "Перейти на точку входа"
 
 msgid "Go to offset"
-msgstr ""
+msgstr "Перейти по смещению"
 
 msgid "Group"
-msgstr ""
+msgstr "Группа"
 
 msgid "Hash"
 msgstr "Хэш"
@@ -330,7 +330,7 @@ msgid "Invalid"
 msgstr "Ошибка"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "Неверный код операции"
 
 msgid "It is not a valid file"
 msgstr "Неверный файл"
@@ -339,7 +339,7 @@ msgid "Joiner"
 msgstr "Джойнер"
 
 msgid "Jumps"
-msgstr ""
+msgstr "Переходы"
 
 msgid "Label"
 msgstr "Метка"
@@ -513,7 +513,7 @@ msgid "Search from"
 msgstr "Поиск с"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "Поиск сигнатур"
 
 msgid "Search strings"
 msgstr "Поиск строк"
@@ -603,7 +603,7 @@ msgid "String"
 msgstr "Строка"
 
 msgid "String table"
-msgstr ""
+msgstr "Таблица строк"
 
 msgid "Strings"
 msgstr "Строки"
@@ -615,19 +615,19 @@ msgid "Style"
 msgstr "Стиль"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "Подкаталоги"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "Таблица символов"
 
 msgid "Symbols"
-msgstr ""
+msgstr "Символы"
 
 msgid "Table"
-msgstr ""
+msgstr "Таблица"
 
 msgid "Text"
-msgstr ""
+msgstr "Текст"
 
 msgid "Text documents"
 msgstr "Текстовые документы"
@@ -639,7 +639,7 @@ msgid "Thanks"
 msgstr "Благодарности"
 
 msgid "To data"
-msgstr ""
+msgstr "К данным"
 
 msgid "Tool"
 msgstr "Инструмент"
@@ -672,7 +672,7 @@ msgid "Virtual address"
 msgstr "Виртуальный адрес"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "Маска"
 
 msgid "Write error"
 msgstr "Ошибка записи"
