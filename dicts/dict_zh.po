@@ -11,7 +11,7 @@ msgid "About"
 msgstr "关于"
 
 msgid "Action"
-msgstr "行为"
+msgstr "处理"
 
 msgid "Address"
 msgstr "地址"
@@ -29,7 +29,7 @@ msgid "Appearance"
 msgstr "外观"
 
 msgid "Architecture"
-msgstr "架构"
+msgstr "体系结构"
 
 msgid "Archive"
 msgstr "存档"
@@ -38,7 +38,7 @@ msgid "Archive record"
 msgstr "存档记录"
 
 msgid "Automatic"
-msgstr "自动的"
+msgstr "自动"
 
 msgid "Base address"
 msgstr "基址"
@@ -149,7 +149,7 @@ msgid "Cursor"
 msgstr "光标"
 
 msgid "Data in code"
-msgstr ""
+msgstr "代码中的数据"
 
 msgid "Database"
 msgstr "数据库"
@@ -167,7 +167,7 @@ msgid "Deep scan"
 msgstr "深度扫描"
 
 msgid "Demangle"
-msgstr "解构"
+msgstr "符号重组"
 
 msgid "Device scan"
 msgstr "设备扫描"
@@ -182,10 +182,10 @@ msgid "Disasm"
 msgstr "反汇编"
 
 msgid "Document"
-msgstr "文件"
+msgstr "文献"
 
 msgid "Documents"
-msgstr "文件"
+msgstr "文档"
 
 msgid "Donate"
 msgstr "捐赠"
@@ -221,7 +221,7 @@ msgid "Export"
 msgstr "导出"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "导出文件名称"
 
 msgid "File"
 msgstr "文件"
@@ -260,7 +260,7 @@ msgid "Format"
 msgstr "格式"
 
 msgid "Functions"
-msgstr ""
+msgstr "函数"
 
 msgid "General"
 msgstr "常规"
@@ -308,7 +308,7 @@ msgid "Image"
 msgstr "图片"
 
 msgid "Images"
-msgstr "影像"
+msgstr "图像"
 
 msgid "Import"
 msgstr "导入表"
@@ -317,7 +317,7 @@ msgid "Info"
 msgstr "信息"
 
 msgid "Information"
-msgstr "信息"
+msgstr "资讯"
 
 msgid "Installer"
 msgstr "安装程序"
@@ -350,19 +350,19 @@ msgid "Language"
 msgstr "语言"
 
 msgid "Libraries"
-msgstr "库"
+msgstr "函数库"
 
 msgid "Library"
 msgstr "库"
 
 msgid "Linker"
-msgstr "连接器"
+msgstr "链接程序"
 
 msgid "Log"
 msgstr "日志"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "主窗口"
 
 msgid "Manifest"
 msgstr "显示"
@@ -383,7 +383,7 @@ msgid "Mode"
 msgstr "模式"
 
 msgid "Name"
-msgstr "姓名"
+msgstr "名称"
 
 msgid "Nothing found"
 msgstr "没有找到"
@@ -395,10 +395,10 @@ msgid "Offset"
 msgstr "偏移"
 
 msgid "Opcode"
-msgstr "操作码"
+msgstr "指令"
 
 msgid "Opcodes"
-msgstr "操作码"
+msgstr "机器码"
 
 msgid "Open"
 msgstr "打开"
@@ -410,7 +410,7 @@ msgid "Open file"
 msgstr "打开文件"
 
 msgid "Operation system"
-msgstr ""
+msgstr "操作系统"
 
 msgid "Options"
 msgstr "选项"
@@ -449,10 +449,10 @@ msgid "Recursive scan"
 msgstr "递归扫描"
 
 msgid "Ref from"
-msgstr "引用至"
+msgstr "参考来源"
 
 msgid "Ref to"
-msgstr "引用给"
+msgstr "请参阅"
 
 msgid "Regions"
 msgstr "区域"
@@ -530,7 +530,7 @@ msgid "Segment"
 msgstr "段"
 
 msgid "Segments"
-msgstr "段"
+msgstr "片段"
 
 msgid "Select"
 msgstr "选择"
@@ -539,10 +539,10 @@ msgid "Select all"
 msgstr "全选"
 
 msgid "Selection"
-msgstr "选中项"
+msgstr "选择器"
 
 msgid "Set breakpoint"
-msgstr ""
+msgstr "设置断点"
 
 msgid "Shortcut"
 msgstr "快捷键"
@@ -569,7 +569,7 @@ msgid "Signature"
 msgstr "签名"
 
 msgid "Signatures"
-msgstr "签名"
+msgstr "鲜明特征"
 
 msgid "Single application"
 msgstr "单个应用程序"
@@ -602,7 +602,7 @@ msgid "String"
 msgstr "字符串"
 
 msgid "String table"
-msgstr ""
+msgstr "字符串表"
 
 msgid "Strings"
 msgstr "字符串"
@@ -617,7 +617,7 @@ msgid "Subdirectories"
 msgstr "子目录"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "符号表"
 
 msgid "Symbols"
 msgstr "符号"
@@ -629,7 +629,7 @@ msgid "Text"
 msgstr "文本"
 
 msgid "Text documents"
-msgstr "文本文件"
+msgstr "文本文档"
 
 msgid "Text files"
 msgstr "文本文件"
@@ -677,7 +677,7 @@ msgid "Write error"
 msgstr "写入错误"
 
 msgid "compressor"
-msgstr "压缩器"
+msgstr "压缩工具"
 
 msgid "data"
 msgstr "数据"
@@ -698,7 +698,6 @@ msgid "packed"
 msgstr "打包"
 
 msgid "protection"
-msgstr "保护"
-
+msgstr "防护"
 
 
