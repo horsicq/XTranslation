@@ -10,7 +10,7 @@ msgid "About"
 msgstr "Acerca de"
 
 msgid "Action"
-msgstr ""
+msgstr "Acción"
 
 msgid "Address"
 msgstr "Dirección"
@@ -37,7 +37,7 @@ msgid "Archive record"
 msgstr "Registro de archivo"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automático"
 
 msgid "Base address"
 msgstr "Dirección base"
@@ -61,25 +61,25 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot open file"
-msgstr "No puede abrir el archivo"
+msgstr "No se puede abrir el archivo"
 
 msgid "Cannot save file"
 msgstr "No se puede guardar el archivo"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "No se puede crear el acceso directo"
 
 msgid "Certificate"
 msgstr "Certificado"
 
 msgid "Check updates"
-msgstr "Revisa actualizaciones"
+msgstr "Comprobar actualizaciones"
 
 msgid "Clear"
 msgstr "Limpiar"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Limpiar resultados"
 
 msgid "Close"
 msgstr "Cerrar"
@@ -91,7 +91,7 @@ msgid "Commands"
 msgstr "Comandos"
 
 msgid "Comment"
-msgstr ""
+msgstr "Comentario"
 
 msgid "Compiler"
 msgstr "Compilador"
@@ -100,7 +100,7 @@ msgid "Context"
 msgstr "Contexto"
 
 msgid "Converter"
-msgstr "Convertidor"
+msgstr "Conversor"
 
 msgid "Copy"
 msgstr "Copiar"
@@ -112,22 +112,22 @@ msgid "Copy as hex"
 msgstr "Copiar como hexadecimal"
 
 msgid "Copy cursor address"
-msgstr ""
+msgstr "Copiar dirección del cursor"
 
 msgid "Copy cursor offset"
-msgstr ""
+msgstr "Copiar desplazamiento del cursor"
 
 msgid "Copy filename"
-msgstr ""
+msgstr "Copiar nombre del archivo"
 
 msgid "Copy name"
-msgstr ""
+msgstr "Copiar nombre"
 
 msgid "Copy offset"
-msgstr "Copiar offset"
+msgstr "Copiar desplazamiento"
 
 msgid "Copy signature"
-msgstr ""
+msgstr "Copiar firma"
 
 msgid "Copy size"
 msgstr "Copiar tamaño"
@@ -142,19 +142,19 @@ msgid "Create view model"
 msgstr "Crear modelo de vista"
 
 msgid "Cryptor"
-msgstr "Criptor"
+msgstr "Encriptador"
 
 msgid "Cursor"
 msgstr "Cursor"
 
 msgid "Data in code"
-msgstr ""
+msgstr "Datos en el código"
 
 msgid "Database"
 msgstr "Base de datos"
 
 msgid "Debug"
-msgstr ""
+msgstr "Depurar"
 
 msgid "Debug data"
 msgstr "Datos de depuración"
@@ -166,22 +166,22 @@ msgid "Deep scan"
 msgstr "Análisis en profundidad"
 
 msgid "Demangle"
-msgstr ""
+msgstr "Demangle"
 
 msgid "Device scan"
 msgstr "Escaneo de dispositivos"
 
 msgid "Directory"
-msgstr ""
+msgstr "Directorio"
 
 msgid "Directory scan"
-msgstr "Escaneo de directorio"
+msgstr "Escanear directorio"
 
 msgid "Disasm"
 msgstr "Desensamblar"
 
 msgid "Document"
-msgstr ""
+msgstr "Documento"
 
 msgid "Documents"
 msgstr "Documentos"
@@ -220,19 +220,19 @@ msgid "Export"
 msgstr "Exportar"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "Exportar nombre de archivo"
 
 msgid "File"
 msgstr "Archivo"
 
 msgid "File name"
-msgstr ""
+msgstr "Nombre de archivo"
 
 msgid "File offset"
-msgstr "Archivo offset"
+msgstr "Desplazamiento en archivo"
 
 msgid "File scan"
-msgstr "Escaneo de archivos"
+msgstr "Escanear archivos"
 
 msgid "File type"
 msgstr "Tipo de archivo"
@@ -253,13 +253,13 @@ msgid "Flags"
 msgstr "Banderas"
 
 msgid "Form"
-msgstr ""
+msgstr "Formulario"
 
 msgid "Format"
 msgstr "Formato"
 
 msgid "Functions"
-msgstr ""
+msgstr "Funciones"
 
 msgid "General"
 msgstr "General"
@@ -268,25 +268,25 @@ msgid "Generic"
 msgstr "Genérico"
 
 msgid "Go to"
-msgstr "Ir"
+msgstr "Ir a"
 
 msgid "Go to address"
 msgstr "Ir a la dirección"
 
 msgid "Go to entry point"
-msgstr ""
+msgstr "Ir al punto de entrada"
 
 msgid "Go to offset"
-msgstr ""
+msgstr "Ir al desplazamiento"
 
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 msgid "Hash"
 msgstr "Hash"
 
 msgid "Header"
-msgstr "Header"
+msgstr "Cabecera"
 
 msgid "Help"
 msgstr "Ayuda"
@@ -298,22 +298,22 @@ msgid "Heuristic scan"
 msgstr "Escaneo heurístico"
 
 msgid "Hex"
-msgstr ""
+msgstr "Hex"
 
 msgid "Hex signature"
-msgstr ""
+msgstr "Firma hexadecimal"
 
 msgid "Image"
 msgstr "Imagen"
 
 msgid "Images"
-msgstr "Imagenes"
+msgstr "Imágenes"
 
 msgid "Import"
 msgstr "Importar"
 
 msgid "Info"
-msgstr "Información"
+msgstr "Info"
 
 msgid "Information"
 msgstr "Información"
@@ -328,10 +328,10 @@ msgid "Invalid"
 msgstr "Inválido"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "Opcode inválido"
 
 msgid "It is not a valid file"
-msgstr "No es un archivo valido"
+msgstr "No es un archivo válido"
 
 msgid "Joiner"
 msgstr "Joiner"
@@ -361,13 +361,13 @@ msgid "Log"
 msgstr "Log"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "MainWindow"
 
 msgid "Manifest"
 msgstr "Manifiesto"
 
 msgid "Match case"
-msgstr "Match case"
+msgstr "Coincidir mayúsculas y minúsculas"
 
 msgid "Maximum"
 msgstr "Máximo"
@@ -385,13 +385,13 @@ msgid "Name"
 msgstr "Nombre"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "No se ha encontrado nada"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "Offset"
-msgstr "Offset"
+msgstr "Desplazamiento"
 
 msgid "Opcode"
 msgstr "Opcode"
@@ -403,13 +403,13 @@ msgid "Open"
 msgstr "Abrir"
 
 msgid "Open directory"
-msgstr "Directorio abierto"
+msgstr "Abrir directorio"
 
 msgid "Open file"
-msgstr "Abrir documento"
+msgstr "Abrir archivo"
 
 msgid "Operation system"
-msgstr ""
+msgstr "Sistema operativo"
 
 msgid "Options"
 msgstr "Opciones"
@@ -418,10 +418,10 @@ msgid "Overlay"
 msgstr "Cubrir"
 
 msgid "Packer"
-msgstr "Packer"
+msgstr "Empaquetar"
 
 msgid "Please restart the application"
-msgstr "Reinicia la aplicación"
+msgstr "Reinicie la aplicación"
 
 msgid "Process"
 msgstr "Proceso"
@@ -433,7 +433,7 @@ msgid "Protector data"
 msgstr "Datos del protector"
 
 msgid "Raw data"
-msgstr "Datos Raw"
+msgstr "Datos raw"
 
 msgid "Read error"
 msgstr "Error de lectura"
@@ -448,19 +448,19 @@ msgid "Recursive scan"
 msgstr "Escaneo recursivo"
 
 msgid "Ref from"
-msgstr "Ref de"
+msgstr "Referencia de"
 
 msgid "Ref to"
-msgstr "Ref a"
+msgstr "Referencia a"
 
 msgid "Regions"
 msgstr "Regiones"
 
 msgid "Register"
-msgstr "Registrarse"
+msgstr "Registro"
 
 msgid "Relative address"
-msgstr ""
+msgstr "Dirección relativa"
 
 msgid "Relative virtual address"
 msgstr "Dirección virtual relativa"
@@ -475,10 +475,10 @@ msgid "Result"
 msgstr "Resultado"
 
 msgid "Run"
-msgstr ""
+msgstr "Ejecutar"
 
 msgid "Save"
-msgstr "Salvar"
+msgstr "Guardar"
 
 msgid "Save backup"
 msgstr "Guardar copia de seguridad"
@@ -490,7 +490,7 @@ msgid "Save dump"
 msgstr "Guardar volcado"
 
 msgid "Save file"
-msgstr "Guardar el archivo"
+msgstr "Guardar archivo"
 
 msgid "Save last directory"
 msgstr "Guardar último directorio"
@@ -511,7 +511,7 @@ msgid "Search from"
 msgstr "Buscar desde"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "Buscar firmas"
 
 msgid "Search strings"
 msgstr "Buscar textos"
@@ -541,25 +541,25 @@ msgid "Selection"
 msgstr "Selección"
 
 msgid "Set breakpoint"
-msgstr ""
+msgstr "Fijar punto de interrupción"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Acceso directo"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "Accesos directos"
 
 msgid "Show options"
-msgstr ""
+msgstr "Mostar opciones"
 
 msgid "Show type"
-msgstr ""
+msgstr "Mostrar tipo"
 
 msgid "Show valid"
-msgstr ""
+msgstr "Mostar válidos"
 
 msgid "Show version"
-msgstr ""
+msgstr "Mostar versión"
 
 msgid "Sign tool"
 msgstr "Herramienta de firmado"
@@ -589,10 +589,10 @@ msgid "Stay on top"
 msgstr "Permanecer por encima"
 
 msgid "Step into"
-msgstr ""
+msgstr "Saltar dentro"
 
 msgid "Step over"
-msgstr ""
+msgstr "Saltar sobre"
 
 msgid "Stop"
 msgstr "Detener"
@@ -601,7 +601,7 @@ msgid "String"
 msgstr "Texto"
 
 msgid "String table"
-msgstr ""
+msgstr "Tabla de textos"
 
 msgid "Strings"
 msgstr "Textos"
@@ -613,19 +613,19 @@ msgid "Style"
 msgstr "Estilo"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "Subdirectorios"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "Tabla de símbolos"
 
 msgid "Symbols"
-msgstr ""
+msgstr "Símbolos"
 
 msgid "Table"
 msgstr "Tabla"
 
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 msgid "Text documents"
 msgstr "Documentos de texto"
@@ -688,14 +688,14 @@ msgid "msec"
 msgstr "mseg"
 
 msgid "not packed"
-msgstr "no empacado"
+msgstr "no empaquetado"
 
 msgid "obfuscator"
 msgstr "ofuscador"
 
 msgid "packed"
-msgstr "comprimido"
+msgstr "empaquetado"
 
 msgid "protection"
-msgstr "proteccion"
+msgstr "protección"
 
