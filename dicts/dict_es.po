@@ -214,7 +214,7 @@ msgid "Error"
 msgstr "Error"
 
 msgid "Exit"
-msgstr "Salida"
+msgstr "Salir"
 
 msgid "Export"
 msgstr "Exportar"
@@ -244,7 +244,7 @@ msgid "Filter"
 msgstr "Filtrar"
 
 msgid "Find"
-msgstr "Encontrar"
+msgstr "Buscar"
 
 msgid "Find next"
 msgstr "Buscar siguiente"
@@ -415,13 +415,13 @@ msgid "Options"
 msgstr "Opciones"
 
 msgid "Overlay"
-msgstr "Cubrir"
+msgstr "Overlay"
 
 msgid "Packer"
 msgstr "Empaquetar"
 
 msgid "Please restart the application"
-msgstr "Reinicie la aplicación"
+msgstr "Por favor, reinicie la aplicación"
 
 msgid "Process"
 msgstr "Proceso"
@@ -544,22 +544,22 @@ msgid "Set breakpoint"
 msgstr "Fijar punto de interrupción"
 
 msgid "Shortcut"
-msgstr "Acceso directo"
+msgstr "Atajo"
 
 msgid "Shortcuts"
-msgstr "Accesos directos"
+msgstr "Atajos"
 
 msgid "Show options"
-msgstr "Mostar opciones"
+msgstr "Ver opciones"
 
 msgid "Show type"
-msgstr "Mostrar tipo"
+msgstr "Ver tipo"
 
 msgid "Show valid"
-msgstr "Mostar válidos"
+msgstr "Ver válidos"
 
 msgid "Show version"
-msgstr "Mostar versión"
+msgstr "Ver versión"
 
 msgid "Sign tool"
 msgstr "Herramienta de firmado"
@@ -589,10 +589,10 @@ msgid "Stay on top"
 msgstr "Permanecer por encima"
 
 msgid "Step into"
-msgstr "Saltar dentro"
+msgstr "Step into"
 
 msgid "Step over"
-msgstr "Saltar sobre"
+msgstr "Step over"
 
 msgid "Stop"
 msgstr "Detener"
