@@ -12,7 +12,7 @@ msgid "About"
 msgstr "О программе"
 
 msgid "Action"
-msgstr ""
+msgstr "Действие"
 
 msgid "Address"
 msgstr "Адрес"
@@ -39,7 +39,7 @@ msgid "Archive record"
 msgstr "Арихвная запись"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматический"
 
 msgid "Base address"
 msgstr "Базовый адрес"
@@ -96,13 +96,13 @@ msgid "Comment"
 msgstr "Комментарий"
 
 msgid "Compiler"
-msgstr ""
+msgstr "Компилятор"
 
 msgid "Context"
 msgstr "Контекст"
 
 msgid "Converter"
-msgstr ""
+msgstr "Конвертер"
 
 msgid "Copy"
 msgstr "Копировать"
@@ -111,7 +111,7 @@ msgid "Copy address"
 msgstr "Копировать адрес"
 
 msgid "Copy as hex"
-msgstr "Копировать как hex"
+msgstr "Копировать как 16-ричное"
 
 msgid "Copy cursor address"
 msgstr "Копировать текущий адрес"
@@ -141,7 +141,7 @@ msgid "Count"
 msgstr "Число"
 
 msgid "Create view model"
-msgstr ""
+msgstr "Создать вид/модель"
 
 msgid "Cryptor"
 msgstr "Шифратор"
@@ -267,7 +267,7 @@ msgid "General"
 msgstr "Общие"
 
 msgid "Generic"
-msgstr ""
+msgstr "Обобщенный"
 
 msgid "Go to"
 msgstr "Перейти к"
@@ -300,10 +300,10 @@ msgid "Heuristic scan"
 msgstr "Эвристическое сканирование"
 
 msgid "Hex"
-msgstr ""
+msgstr "16-ричное"
 
 msgid "Hex signature"
-msgstr ""
+msgstr "16-ричная сигнатура"
 
 msgid "Image"
 msgstr "Образ"
@@ -315,7 +315,7 @@ msgid "Import"
 msgstr "Импорт"
 
 msgid "Info"
-msgstr "Информация"
+msgstr "Инфо"
 
 msgid "Information"
 msgstr "Информация"
@@ -357,7 +357,7 @@ msgid "Library"
 msgstr "Библиотека"
 
 msgid "Linker"
-msgstr "Линкер"
+msgstr "Линковщик"
 
 msgid "Log"
 msgstr "Журнал"
@@ -387,7 +387,7 @@ msgid "Name"
 msgstr "Имя"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "Ничего не найдено"
 
 msgid "OK"
 msgstr "ОК"
@@ -411,7 +411,7 @@ msgid "Open file"
 msgstr "Открыть файл"
 
 msgid "Operation system"
-msgstr ""
+msgstr "Операционная система"
 
 msgid "Options"
 msgstr "Настройки"
@@ -420,7 +420,7 @@ msgid "Overlay"
 msgstr "Оверлей"
 
 msgid "Packer"
-msgstr "Пакер"
+msgstr "Упаковщик"
 
 msgid "Please restart the application"
 msgstr "Пожалуйста перезапустите приложение"
@@ -435,13 +435,13 @@ msgid "Protector data"
 msgstr "Данные протектора"
 
 msgid "Raw data"
-msgstr ""
+msgstr "Сырые данные"
 
 msgid "Read error"
 msgstr "Ошибка чтения"
 
 msgid "Readonly"
-msgstr ""
+msgstr "Только чтение"
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -450,10 +450,10 @@ msgid "Recursive scan"
 msgstr "Рекурсивное сканировние"
 
 msgid "Ref from"
-msgstr ""
+msgstr "Ссылка из"
 
 msgid "Ref to"
-msgstr ""
+msgstr "Ссылка в"
 
 msgid "Regions"
 msgstr "Регионы"
@@ -462,7 +462,7 @@ msgid "Register"
 msgstr "Регистрировать"
 
 msgid "Relative address"
-msgstr ""
+msgstr "Относительный адрес"
 
 msgid "Relative virtual address"
 msgstr "Относительный виртуальный адрес"
@@ -477,7 +477,7 @@ msgid "Result"
 msgstr "Результат"
 
 msgid "Run"
-msgstr ""
+msgstr "Запустить"
 
 msgid "Save"
 msgstr "Сохранить"
@@ -537,13 +537,13 @@ msgid "Select"
 msgstr "Выбрать"
 
 msgid "Select all"
-msgstr "Выбрать всё"
+msgstr "Выбрать все"
 
 msgid "Selection"
 msgstr "Выделение"
 
 msgid "Set breakpoint"
-msgstr ""
+msgstr "Поставить точку останова"
 
 msgid "Shortcut"
 msgstr ""
@@ -552,19 +552,19 @@ msgid "Shortcuts"
 msgstr ""
 
 msgid "Show options"
-msgstr ""
+msgstr "Показать настройки"
 
 msgid "Show type"
-msgstr ""
+msgstr "Показать тип"
 
 msgid "Show valid"
 msgstr ""
 
 msgid "Show version"
-msgstr ""
+msgstr "Показать версию"
 
 msgid "Sign tool"
-msgstr ""
+msgstr "Инструмент подписания"
 
 msgid "Signature"
 msgstr "Сигнатура"
@@ -591,10 +591,10 @@ msgid "Stay on top"
 msgstr "Поверх всех окон"
 
 msgid "Step into"
-msgstr ""
+msgstr "Шаг внутрь"
 
 msgid "Step over"
-msgstr ""
+msgstr "Шаг поверх"
 
 msgid "Stop"
 msgstr "Стоп"
@@ -609,7 +609,7 @@ msgid "Strings"
 msgstr "Строки"
 
 msgid "Stub"
-msgstr "Стаб"
+msgstr "Заглушка"
 
 msgid "Style"
 msgstr "Стиль"
@@ -651,7 +651,7 @@ msgid "Total"
 msgstr "Всего"
 
 msgid "Tree"
-msgstr ""
+msgstr "Дерево"
 
 msgid "Type"
 msgstr "Тип"
@@ -684,13 +684,13 @@ msgid "data"
 msgstr "данные"
 
 msgid "extender"
-msgstr ""
+msgstr "расширение"
 
 msgid "msec"
 msgstr "мс"
 
 msgid "not packed"
-msgstr "не сжатый"
+msgstr "несжатый"
 
 msgid "obfuscator"
 msgstr "обфускатор"
