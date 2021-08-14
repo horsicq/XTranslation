@@ -1,16 +1,13 @@
 msgid ""
 msgstr ""
-"Language: he_IL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: he_IL\n"
 
 msgid "About"
 msgstr "אודות"
-
-msgid "Action"
-msgstr ""
 
 msgid "Address"
 msgstr "כתובת"
@@ -35,9 +32,6 @@ msgstr "ארכיון"
 
 msgid "Archive record"
 msgstr "רשומה"
-
-msgid "Automatic"
-msgstr ""
 
 msgid "Base address"
 msgstr "כתובת בסיס"
@@ -66,9 +60,6 @@ msgstr "לא ניתן לפתוח את הקובץ"
 msgid "Cannot save file"
 msgstr "לא ניתן לשמור את הקובץ"
 
-msgid "Cannot set shortcut"
-msgstr ""
-
 msgid "Certificate"
 msgstr "תעודה"
 
@@ -78,9 +69,6 @@ msgstr "בדוק עדכונים"
 msgid "Clear"
 msgstr "נקה"
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr "סגור"
 
@@ -89,9 +77,6 @@ msgstr "אזור קוד"
 
 msgid "Commands"
 msgstr "פקודות"
-
-msgid "Comment"
-msgstr ""
 
 msgid "Compiler"
 msgstr "מהדר"
@@ -111,23 +96,8 @@ msgstr "העתק כתובת"
 msgid "Copy as hex"
 msgstr "העתק בפורמט הקסה-דצימלי"
 
-msgid "Copy cursor address"
-msgstr ""
-
-msgid "Copy cursor offset"
-msgstr ""
-
-msgid "Copy filename"
-msgstr ""
-
-msgid "Copy name"
-msgstr ""
-
 msgid "Copy offset"
 msgstr "העתק היסט כתובת "
-
-msgid "Copy signature"
-msgstr ""
 
 msgid "Copy size"
 msgstr "העתק גודל"
@@ -147,14 +117,8 @@ msgstr "מצפין"
 msgid "Cursor"
 msgstr "סמן"
 
-msgid "Data in code"
-msgstr ""
-
 msgid "Database"
 msgstr "מסד נתונים"
-
-msgid "Debug"
-msgstr ""
 
 msgid "Debug data"
 msgstr "נתוני מנפה שגיאות"
@@ -165,23 +129,17 @@ msgstr "מנפה שגיאות"
 msgid "Deep scan"
 msgstr "סריקה מתקדמת"
 
-msgid "Demangle"
-msgstr ""
+msgid "Detect"
+msgstr "זהה"
 
 msgid "Device scan"
 msgstr "סריקת התקן"
-
-msgid "Directory"
-msgstr ""
 
 msgid "Directory scan"
 msgstr "סריקת תיקייה"
 
 msgid "Disasm"
 msgstr "פירוק לפקודות"
-
-msgid "Document"
-msgstr ""
 
 msgid "Documents"
 msgstr "מסמכים"
@@ -205,10 +163,10 @@ msgid "Entropy"
 msgstr "אנטרופיה"
 
 msgid "Entry point"
-msgstr "נקודת האנטרופיה"
+msgstr "כתובת תחילת הריצה"
 
 msgid "Entry point section"
-msgstr "אזור נקודת האנטרופיה"
+msgstr "אזור כתובת תחילת הריצה"
 
 msgid "Error"
 msgstr "שגיאה"
@@ -219,14 +177,14 @@ msgstr "יציאה"
 msgid "Export"
 msgstr "יצא"
 
-msgid "Export File Name"
-msgstr ""
+msgid "Export file name"
+msgstr "יצא לקובץ"
 
 msgid "File"
 msgstr "קובץ"
 
 msgid "File name"
-msgstr ""
+msgstr "שם קובץ"
 
 msgid "File offset"
 msgstr "היסט קובץ"
@@ -236,9 +194,6 @@ msgstr "סריקת קובץ"
 
 msgid "File type"
 msgstr "סוג קובץ"
-
-msgid "Filename"
-msgstr "שם קובץ"
 
 msgid "Filter"
 msgstr "סינון"
@@ -252,14 +207,8 @@ msgstr "חפש את הבא"
 msgid "Flags"
 msgstr "דגלים"
 
-msgid "Form"
-msgstr ""
-
 msgid "Format"
 msgstr "פורמט"
-
-msgid "Functions"
-msgstr ""
 
 msgid "General"
 msgstr "כללי"
@@ -273,17 +222,8 @@ msgstr "מעבר אל"
 msgid "Go to address"
 msgstr "מעבר לכתובת"
 
-msgid "Go to entry point"
-msgstr ""
-
-msgid "Go to offset"
-msgstr ""
-
-msgid "Group"
-msgstr ""
-
 msgid "Hash"
-msgstr "פוקנציית גיבוב"
+msgstr "פונקציית גיבוב"
 
 msgid "Header"
 msgstr "כותרת"
@@ -297,12 +237,6 @@ msgstr "היוריסטי"
 msgid "Heuristic scan"
 msgstr "סריקה היוריסטית"
 
-msgid "Hex"
-msgstr ""
-
-msgid "Hex signature"
-msgstr ""
-
 msgid "Image"
 msgstr "תמונה"
 
@@ -310,7 +244,7 @@ msgid "Images"
 msgstr "תמונות"
 
 msgid "Import"
-msgstr "פוקנציות מיובאות"
+msgstr "פונקציות מיובאות"
 
 msgid "Info"
 msgstr "מידע"
@@ -326,9 +260,6 @@ msgstr "מידע קובץ התקנה"
 
 msgid "Invalid"
 msgstr "לא תקין"
-
-msgid "Invalid opcode"
-msgstr ""
 
 msgid "It is not a valid file"
 msgstr "הקובץ אינו תקין"
@@ -360,9 +291,6 @@ msgstr "לינקר"
 msgid "Log"
 msgstr "יומן אירועים"
 
-msgid "MainWindow"
-msgstr ""
-
 msgid "Manifest"
 msgstr "פרטי מדיניות"
 
@@ -384,9 +312,6 @@ msgstr "מצב"
 msgid "Name"
 msgstr "שם"
 
-msgid "Nothing found"
-msgstr ""
-
 msgid "OK"
 msgstr "אישור"
 
@@ -407,9 +332,6 @@ msgstr "פתח תיקייה"
 
 msgid "Open file"
 msgstr "פתח קובץ"
-
-msgid "Operation system"
-msgstr ""
 
 msgid "Options"
 msgstr "אפשרויות"
@@ -459,9 +381,6 @@ msgstr "אזורים"
 msgid "Register"
 msgstr "הרשמה"
 
-msgid "Relative address"
-msgstr ""
-
 msgid "Relative virtual address"
 msgstr "כתובת יחסית"
 
@@ -473,9 +392,6 @@ msgstr "משאבי קובץ"
 
 msgid "Result"
 msgstr "תוצאה"
-
-msgid "Run"
-msgstr ""
 
 msgid "Save"
 msgstr "שמור"
@@ -510,9 +426,6 @@ msgstr "חפש"
 msgid "Search from"
 msgstr "חפש מתוך"
 
-msgid "Search signatures"
-msgstr ""
-
 msgid "Search strings"
 msgstr "חפש מחרוזת"
 
@@ -540,27 +453,6 @@ msgstr "בחר הכל"
 msgid "Selection"
 msgstr "בחירה"
 
-msgid "Set breakpoint"
-msgstr ""
-
-msgid "Shortcut"
-msgstr ""
-
-msgid "Shortcuts"
-msgstr ""
-
-msgid "Show options"
-msgstr ""
-
-msgid "Show type"
-msgstr ""
-
-msgid "Show valid"
-msgstr ""
-
-msgid "Show version"
-msgstr ""
-
 msgid "Sign tool"
 msgstr "כלי חתימה"
 
@@ -569,9 +461,6 @@ msgstr "חתימה"
 
 msgid "Signatures"
 msgstr "חתימות"
-
-msgid "Single application"
-msgstr ""
 
 msgid "Size"
 msgstr "גודל"
@@ -588,20 +477,11 @@ msgstr "סטטוס"
 msgid "Stay on top"
 msgstr "השאר בקידמה"
 
-msgid "Step into"
-msgstr ""
-
-msgid "Step over"
-msgstr ""
-
 msgid "Stop"
 msgstr "עצור"
 
 msgid "String"
 msgstr "מחרוזת"
-
-msgid "String table"
-msgstr ""
 
 msgid "Strings"
 msgstr "מחרוזות"
@@ -612,20 +492,8 @@ msgstr "שגרה"
 msgid "Style"
 msgstr "סגנון"
 
-msgid "Subdirectories"
-msgstr ""
-
-msgid "Symbol table"
-msgstr ""
-
-msgid "Symbols"
-msgstr ""
-
 msgid "Table"
 msgstr "טבלה"
-
-msgid "Text"
-msgstr ""
 
 msgid "Text documents"
 msgstr "מסמכי טקסט"
@@ -698,4 +566,3 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
-
