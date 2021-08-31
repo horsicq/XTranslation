@@ -1,0 +1,574 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Language: id_ID\n"
+
+msgid "About"
+msgstr "Tentang"
+
+msgid "Address"
+msgstr "Alamat"
+
+msgid "All"
+msgstr "Semua"
+
+msgid "All files"
+msgstr "Semua file"
+
+msgid "Analyze"
+msgstr "Analisa"
+
+msgid "Appearance"
+msgstr "Penampilan"
+
+msgid "Architecture"
+msgstr "Arsitektur"
+
+msgid "Archive"
+msgstr "Arsip"
+
+msgid "Archive record"
+msgstr "Catatan arsip"
+
+msgid "Base address"
+msgstr "Alamat dasar"
+
+msgid "Begin"
+msgstr "Mulai"
+
+msgid "Byte"
+msgstr "Byte"
+
+msgid "Bytes"
+msgstr "Bytes"
+
+msgid "Calculate"
+msgstr "Hitung"
+
+msgid "Calls"
+msgstr "Panggil"
+
+msgid "Cancel"
+msgstr "Batal"
+
+msgid "Cannot open file"
+msgstr "Tidak dapat membuka file"
+
+msgid "Cannot save file"
+msgstr "Tidak dapat menyimpan file"
+
+msgid "Certificate"
+msgstr "Sertifikat"
+
+msgid "Check updates"
+msgstr "Periksa pembaruan"
+
+msgid "Clear"
+msgstr "Bersihkan"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid "Code section"
+msgstr "Bagian Kode"
+
+msgid "Commands"
+msgstr "Perintah"
+
+msgid "Comment"
+msgstr "Komentar"
+
+msgid "Compiler"
+msgstr "Penyusun"
+
+msgid "Context"
+msgstr "Konteks"
+
+msgid "Converter"
+msgstr "Konverter"
+
+msgid "Copy"
+msgstr "Salin"
+
+msgid "Copy address"
+msgstr "Salin alamat"
+
+msgid "Copy as hex"
+msgstr "Salin sebagai hex"
+
+msgid "Copy offset"
+msgstr "Salin offset"
+
+msgid "Copy size"
+msgstr "Salin ukuran"
+
+msgid "Copy string"
+msgstr "Salin string"
+
+msgid "Count"
+msgstr "Hitung"
+
+msgid "Create view model"
+msgstr "Buat model tampilan"
+
+msgid "Cryptor"
+msgstr "Kriptor"
+
+msgid "Cursor"
+msgstr "Kursor"
+
+msgid "Database"
+msgstr "Basis data"
+
+msgid "Debug data"
+msgstr "Debug data"
+
+msgid "Debugger"
+msgstr "Debugger"
+
+msgid "Deep scan"
+msgstr "Pemindaian seksama"
+
+msgid "Detect"
+msgstr "Deteksi"
+
+msgid "Device scan"
+msgstr "Pemindaian perangkat"
+
+msgid "Directory scan"
+msgstr "Pemindaian Direktori"
+
+msgid "Disasm"
+msgstr "Mengulik"
+
+msgid "Documents"
+msgstr "Dokumen"
+
+msgid "Donate"
+msgstr "Donasi"
+
+msgid "Dump"
+msgstr "Buang"
+
+msgid "Dump to file"
+msgstr "Buang ke file"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Endianness"
+msgstr "Endianness"
+
+msgid "Entropy"
+msgstr "Entropi"
+
+msgid "Entry point"
+msgstr "Titik masuk"
+
+msgid "Entry point section"
+msgstr "Bagian titik masuk"
+
+msgid "Error"
+msgstr "Kesalahan"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Export"
+msgstr "Ekspor"
+
+msgid "Export file name"
+msgstr "Ekspor nama file"
+
+msgid "File"
+msgstr "File"
+
+msgid "Filename"
+msgstr "Nama file"
+
+msgid "File offset"
+msgstr "Offset file"
+
+msgid "File scan"
+msgstr "Pindai file"
+
+msgid "File type"
+msgstr "Jenis file"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Find"
+msgstr "Temukan"
+
+msgid "Find next"
+msgstr "Temukan selanjutnya"
+
+msgid "Flags"
+msgstr "Tandai"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "General"
+msgstr "Umum"
+
+msgid "Generic"
+msgstr "Generik"
+
+msgid "Go to"
+msgstr "Pergi ke"
+
+msgid "Go to address"
+msgstr "Pergi ke alamat"
+
+msgid "Hash"
+msgstr "Hash"
+
+msgid "Header"
+msgstr "Tajuk"
+
+msgid "Help"
+msgstr "Bantuan"
+
+msgid "Heuristic"
+msgstr "Heuristik"
+
+msgid "Heuristic scan"
+msgstr "Pemindaian Heuristik"
+
+msgid "Image"
+msgstr "Gambar"
+
+msgid "Images"
+msgstr "Gambar"
+
+msgid "Import"
+msgstr "Impor"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Information"
+msgstr "Informasi"
+
+msgid "Installer"
+msgstr "Pemasang"
+
+msgid "Installer data"
+msgstr "Data penginstal"
+
+msgid "Invalid"
+msgstr "Tidak valid"
+
+msgid "It is not a valid file"
+msgstr "Ini bukan file yang valid"
+
+msgid "Joiner"
+msgstr "Penggabung"
+
+msgid "Jumps"
+msgstr "Lompat"
+
+msgid "Label"
+msgstr "Label"
+
+msgid "Labels"
+msgstr "Label"
+
+msgid "Language"
+msgstr "Bahasa"
+
+msgid "Libraries"
+msgstr "Pustaka"
+
+msgid "Library"
+msgstr "Pustaka"
+
+msgid "Linker"
+msgstr "Penghubung"
+
+msgid "Log"
+msgstr "Log"
+
+msgid "Manifest"
+msgstr "Daftar"
+
+msgid "Match case"
+msgstr "Kecocokan kasus"
+
+msgid "Maximum"
+msgstr "Maksimum"
+
+msgid "Memory map"
+msgstr "Peta memori"
+
+msgid "Method"
+msgstr "Metode"
+
+msgid "Mode"
+msgstr "Mode"
+
+msgid "Name"
+msgstr "Nama"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Offset"
+msgstr "Offset"
+
+msgid "Opcode"
+msgstr "Kode operasi"
+
+msgid "Opcodes"
+msgstr "Kode operasi"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Open directory"
+msgstr "Buka direktori"
+
+msgid "Open file"
+msgstr "Buka file"
+
+msgid "Options"
+msgstr "Pilihan"
+
+msgid "Overlay"
+msgstr "Overlay"
+
+msgid "Packer"
+msgstr "Pengepak"
+
+msgid "Please restart the application"
+msgstr "Silahkan mulai ulang aplikasi"
+
+msgid "Process"
+msgstr "Proses"
+
+msgid "Protector"
+msgstr "Pelindung"
+
+msgid "Protector data"
+msgstr "Pelindung data"
+
+msgid "Raw data"
+msgstr "Data mentah"
+
+msgid "Read error"
+msgstr "Kesalahan baca"
+
+msgid "Readonly"
+msgstr "Hanya dibaca"
+
+msgid "Recursive"
+msgstr "Rekursif"
+
+msgid "Recursive scan"
+msgstr "Pemindaian rekursif"
+
+msgid "Ref from"
+msgstr "Formulir ref"
+
+msgid "Ref to"
+msgstr "Ref ke"
+
+msgid "Regions"
+msgstr "Region"
+
+msgid "Register"
+msgstr "Daftar"
+
+msgid "Relative virtual address"
+msgstr "Alamat virtual relatif"
+
+msgid "Reload"
+msgstr "Muat ulang"
+
+msgid "Resources"
+msgstr "Sumber"
+
+msgid "Result"
+msgstr "Hasil"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Save backup"
+msgstr "Simpan cadangan"
+
+msgid "Save diagram"
+msgstr "Simpan diagram"
+
+msgid "Save dump"
+msgstr "Simpan sampah"
+
+msgid "Save file"
+msgstr "Simpan file"
+
+msgid "Save last directory"
+msgstr "Simpan direktori terakhir"
+
+msgid "Save result"
+msgstr "Simpan hasil"
+
+msgid "Scan"
+msgstr "Pindai"
+
+msgid "Scan after open"
+msgstr "Pindai setelah buka"
+
+msgid "Search"
+msgstr "Cari"
+
+msgid "Search from"
+msgstr "Cari dari"
+
+msgid "Search strings"
+msgstr "Cari string"
+
+msgid "Section"
+msgstr "Bagian"
+
+msgid "Section name"
+msgstr "Nama bagian"
+
+msgid "Sections"
+msgstr "Bagian"
+
+msgid "Segment"
+msgstr "Segmen"
+
+msgid "Segments"
+msgstr "Segmen"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "Select all"
+msgstr "Pilih semua"
+
+msgid "Selection"
+msgstr "Pilihan"
+
+msgid "Sign tool"
+msgstr "Alat penanda"
+
+msgid "Signature"
+msgstr "Markah"
+
+msgid "Signatures"
+msgstr "Markah"
+
+msgid "Single application"
+msgstr "Aplikasi tunggal"
+
+msgid "Size"
+msgstr "Ukuran"
+
+msgid "Source code"
+msgstr "Sumber kode"
+
+msgid "Spaces"
+msgstr "Tempat"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Stay on top"
+msgstr "Tetap diatas"
+
+msgid "Stop"
+msgstr "Berhenti"
+
+msgid "String"
+msgstr "String"
+
+msgid "Strings"
+msgstr "String"
+
+msgid "Stub"
+msgstr "Potongan"
+
+msgid "Style"
+msgstr "Gaya"
+
+msgid "Table"
+msgstr "Meja"
+
+msgid "Text documents"
+msgstr "Dokumen teks"
+
+msgid "Text files"
+msgstr "File teks"
+
+msgid "Thanks"
+msgstr "Terimakasih"
+
+msgid "To data"
+msgstr "Ke data"
+
+msgid "Tool"
+msgstr "Alat"
+
+msgid "Tools"
+msgstr "Alat-alat"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Tree"
+msgstr "Pohon"
+
+msgid "Type"
+msgstr "Tipe"
+
+msgid "Unknown"
+msgstr "Tidak diketahui"
+
+msgid "Upper"
+msgstr "Atas"
+
+msgid "Value"
+msgstr "Nilai"
+
+msgid "Version"
+msgstr "Versi"
+
+msgid "Virtual address"
+msgstr "Alamat virtual"
+
+msgid "Wildcard"
+msgstr "Wildcard"
+
+msgid "Write error"
+msgstr "Kesalahan penulisan"
+
+msgid "compressor"
+msgstr "Kompresor"
+
+msgid "data"
+msgstr "data"
+
+msgid "extender"
+msgstr "pemanjang"
+
+msgid "msec"
+msgstr "mdtk"
+
+msgid "not packed"
+msgstr "tidak dikemas"
+
+msgid "obfuscator"
+msgstr "obfuscator"
+
+msgid "packed"
+msgstr "dikemas"
+
+msgid "protection"
+msgstr "proteksi"
