@@ -546,10 +546,10 @@ msgid "Set breakpoint"
 msgstr "Поставить точку останова"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Ссылка"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "Ссылки"
 
 msgid "Show options"
 msgstr "Показать настройки"
