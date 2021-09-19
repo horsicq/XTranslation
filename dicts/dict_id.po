@@ -9,8 +9,17 @@ msgstr ""
 msgid "About"
 msgstr "Tentang"
 
+msgid "Action"
+msgstr ""
+
+msgid "Actions"
+msgstr ""
+
 msgid "Address"
 msgstr "Alamat"
+
+msgid "Algorithm"
+msgstr ""
 
 msgid "All"
 msgstr "Semua"
@@ -33,11 +42,26 @@ msgstr "Arsip"
 msgid "Archive record"
 msgstr "Catatan arsip"
 
+msgid "Attach"
+msgstr ""
+
+msgid "Automatic"
+msgstr ""
+
 msgid "Base address"
 msgstr "Alamat dasar"
 
 msgid "Begin"
 msgstr "Mulai"
+
+msgid "Bind"
+msgstr ""
+
+msgid "Binding"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr ""
 
 msgid "Byte"
 msgstr "Byte"
@@ -45,8 +69,14 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "CPU"
+msgstr ""
+
 msgid "Calculate"
 msgstr "Hitung"
+
+msgid "Call stack"
+msgstr ""
 
 msgid "Calls"
 msgstr "Panggil"
@@ -60,14 +90,23 @@ msgstr "Tidak dapat membuka file"
 msgid "Cannot save file"
 msgstr "Tidak dapat menyimpan file"
 
+msgid "Cannot set shortcut"
+msgstr ""
+
 msgid "Certificate"
 msgstr "Sertifikat"
+
+msgid "Check"
+msgstr ""
 
 msgid "Check updates"
 msgstr "Periksa pembaruan"
 
 msgid "Clear"
 msgstr "Bersihkan"
+
+msgid "Clear result"
+msgstr ""
 
 msgid "Close"
 msgstr "Tutup"
@@ -96,11 +135,29 @@ msgstr "Salin"
 msgid "Copy address"
 msgstr "Salin alamat"
 
+msgid "Copy as"
+msgstr ""
+
 msgid "Copy as hex"
 msgstr "Salin sebagai hex"
 
+msgid "Copy cursor address"
+msgstr ""
+
+msgid "Copy cursor offset"
+msgstr ""
+
+msgid "Copy filename"
+msgstr ""
+
+msgid "Copy name"
+msgstr ""
+
 msgid "Copy offset"
 msgstr "Salin offset"
+
+msgid "Copy signature"
+msgstr ""
 
 msgid "Copy size"
 msgstr "Salin ukuran"
@@ -120,8 +177,14 @@ msgstr "Kriptor"
 msgid "Cursor"
 msgstr "Kursor"
 
+msgid "Data in code"
+msgstr ""
+
 msgid "Database"
 msgstr "Basis data"
+
+msgid "Debug"
+msgstr ""
 
 msgid "Debug data"
 msgstr "Debug data"
@@ -132,17 +195,29 @@ msgstr "Debugger"
 msgid "Deep scan"
 msgstr "Pemindaian seksama"
 
-msgid "Detect"
-msgstr "Deteksi"
+msgid "Default"
+msgstr ""
+
+msgid "Demangle"
+msgstr ""
+
+msgid "Detach"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Pemindaian perangkat"
+
+msgid "Directory"
+msgstr ""
 
 msgid "Directory scan"
 msgstr "Pemindaian Direktori"
 
 msgid "Disasm"
 msgstr "Mengulik"
+
+msgid "Document"
+msgstr ""
 
 msgid "Documents"
 msgstr "Dokumen"
@@ -174,20 +249,26 @@ msgstr "Bagian titik masuk"
 msgid "Error"
 msgstr "Kesalahan"
 
+msgid "Exceptions"
+msgstr ""
+
 msgid "Exit"
 msgstr "Keluar"
 
 msgid "Export"
 msgstr "Ekspor"
 
-msgid "Export file name"
-msgstr "Ekspor nama file"
+msgid "Export File Name"
+msgstr ""
+
+msgid "External references"
+msgstr ""
 
 msgid "File"
 msgstr "File"
 
-msgid "Filename"
-msgstr "Nama file"
+msgid "File name"
+msgstr ""
 
 msgid "File offset"
 msgstr "Offset file"
@@ -197,6 +278,9 @@ msgstr "Pindai file"
 
 msgid "File type"
 msgstr "Jenis file"
+
+msgid "Filename"
+msgstr "Nama file"
 
 msgid "Filter"
 msgstr "Filter"
@@ -210,8 +294,17 @@ msgstr "Temukan selanjutnya"
 msgid "Flags"
 msgstr "Tandai"
 
+msgid "Form"
+msgstr ""
+
 msgid "Format"
 msgstr "Format"
+
+msgid "Functions"
+msgstr ""
+
+msgid "GB"
+msgstr ""
 
 msgid "General"
 msgstr "Umum"
@@ -224,6 +317,18 @@ msgstr "Pergi ke"
 
 msgid "Go to address"
 msgstr "Pergi ke alamat"
+
+msgid "Go to entry point"
+msgstr ""
+
+msgid "Go to offset"
+msgstr ""
+
+msgid "Group"
+msgstr ""
+
+msgid "Handles"
+msgstr ""
 
 msgid "Hash"
 msgstr "Hash"
@@ -240,6 +345,12 @@ msgstr "Heuristik"
 msgid "Heuristic scan"
 msgstr "Pemindaian Heuristik"
 
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr ""
+
 msgid "Image"
 msgstr "Gambar"
 
@@ -248,6 +359,9 @@ msgstr "Gambar"
 
 msgid "Import"
 msgstr "Impor"
+
+msgid "Indirect symbols"
+msgstr ""
 
 msgid "Info"
 msgstr "Info"
@@ -261,8 +375,17 @@ msgstr "Pemasang"
 msgid "Installer data"
 msgstr "Data penginstal"
 
+msgid "Interpreter"
+msgstr ""
+
 msgid "Invalid"
 msgstr "Tidak valid"
+
+msgid "Invalid opcode"
+msgstr ""
+
+msgid "Issuer"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "Ini bukan file yang valid"
@@ -282,17 +405,32 @@ msgstr "Label"
 msgid "Language"
 msgstr "Bahasa"
 
+msgid "Lazy binding"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
 msgid "Libraries"
 msgstr "Pustaka"
 
 msgid "Library"
 msgstr "Pustaka"
 
+msgid "Library name"
+msgstr ""
+
 msgid "Linker"
 msgstr "Penghubung"
 
+msgid "Local relocation"
+msgstr ""
+
 msgid "Log"
 msgstr "Log"
+
+msgid "MB"
+msgstr ""
 
 msgid "Manifest"
 msgstr "Daftar"
@@ -306,14 +444,29 @@ msgstr "Maksimum"
 msgid "Memory map"
 msgstr "Peta memori"
 
+msgid "Memory scan"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
 msgid "Method"
 msgstr "Metode"
 
 msgid "Mode"
 msgstr "Mode"
 
+msgid "Modules"
+msgstr ""
+
+msgid "More info"
+msgstr ""
+
 msgid "Name"
 msgstr "Nama"
+
+msgid "Nothing found"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -336,6 +489,9 @@ msgstr "Buka direktori"
 msgid "Open file"
 msgstr "Buka file"
 
+msgid "Operation system"
+msgstr ""
+
 msgid "Options"
 msgstr "Pilihan"
 
@@ -345,17 +501,29 @@ msgstr "Overlay"
 msgid "Packer"
 msgstr "Pengepak"
 
+msgid "Pause"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "Silahkan mulai ulang aplikasi"
 
 msgid "Process"
 msgstr "Proses"
 
+msgid "Program name"
+msgstr ""
+
+msgid "Programs"
+msgstr ""
+
 msgid "Protector"
 msgstr "Pelindung"
 
 msgid "Protector data"
 msgstr "Pelindung data"
+
+msgid "Publisher"
+msgstr ""
 
 msgid "Raw data"
 msgstr "Data mentah"
@@ -365,6 +533,9 @@ msgstr "Kesalahan baca"
 
 msgid "Readonly"
 msgstr "Hanya dibaca"
+
+msgid "Rebase"
+msgstr ""
 
 msgid "Recursive"
 msgstr "Rekursif"
@@ -384,20 +555,38 @@ msgstr "Region"
 msgid "Register"
 msgstr "Daftar"
 
+msgid "Registers"
+msgstr ""
+
+msgid "Relative address"
+msgstr ""
+
 msgid "Relative virtual address"
 msgstr "Alamat virtual relatif"
 
 msgid "Reload"
 msgstr "Muat ulang"
 
+msgid "Relocs"
+msgstr ""
+
 msgid "Resources"
 msgstr "Sumber"
+
+msgid "Restart"
+msgstr ""
 
 msgid "Result"
 msgstr "Hasil"
 
+msgid "Run"
+msgstr ""
+
 msgid "Save"
 msgstr "Simpan"
+
+msgid "Save As"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Simpan cadangan"
@@ -429,6 +618,9 @@ msgstr "Cari"
 msgid "Search from"
 msgstr "Cari dari"
 
+msgid "Search signatures"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Cari string"
 
@@ -456,6 +648,30 @@ msgstr "Pilih semua"
 msgid "Selection"
 msgstr "Pilihan"
 
+msgid "Serial number"
+msgstr ""
+
+msgid "Shortcut"
+msgstr ""
+
+msgid "Shortcuts"
+msgstr ""
+
+msgid "Show logo"
+msgstr ""
+
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
+msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
+msgstr ""
+
 msgid "Sign tool"
 msgstr "Alat penanda"
 
@@ -471,11 +687,17 @@ msgstr "Aplikasi tunggal"
 msgid "Size"
 msgstr "Ukuran"
 
+msgid "Size of image"
+msgstr ""
+
 msgid "Source code"
 msgstr "Sumber kode"
 
 msgid "Spaces"
 msgstr "Tempat"
+
+msgid "Stack"
+msgstr ""
 
 msgid "Status"
 msgstr "Status"
@@ -483,11 +705,20 @@ msgstr "Status"
 msgid "Stay on top"
 msgstr "Tetap diatas"
 
+msgid "Step into"
+msgstr ""
+
+msgid "Step over"
+msgstr ""
+
 msgid "Stop"
 msgstr "Berhenti"
 
 msgid "String"
 msgstr "String"
+
+msgid "String table"
+msgstr ""
 
 msgid "Strings"
 msgstr "String"
@@ -498,8 +729,29 @@ msgstr "Potongan"
 msgid "Style"
 msgstr "Gaya"
 
+msgid "Subdirectories"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Symbol table"
+msgstr ""
+
+msgid "Symbols"
+msgstr ""
+
+msgid "Syntax"
+msgstr ""
+
 msgid "Table"
 msgstr "Meja"
+
+msgid "Table of contents"
+msgstr ""
+
+msgid "Text"
+msgstr ""
 
 msgid "Text documents"
 msgstr "Dokumen teks"
@@ -510,8 +762,32 @@ msgstr "File teks"
 msgid "Thanks"
 msgstr "Terimakasih"
 
+msgid "The file is not signed"
+msgstr ""
+
+msgid "The file is signed and the signature was verified"
+msgstr ""
+
+msgid "The signature error"
+msgstr ""
+
+msgid "The signature is present, but not trusted"
+msgstr ""
+
+msgid "The signature is present, but specifically disallowed"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Time date stamp"
+msgstr ""
+
 msgid "To data"
 msgstr "Ke data"
+
+msgid "Toggle"
+msgstr ""
 
 msgid "Tool"
 msgstr "Alat"
@@ -540,8 +816,17 @@ msgstr "Nilai"
 msgid "Version"
 msgstr "Versi"
 
+msgid "View"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Alamat virtual"
+
+msgid "Virtual machine"
+msgstr ""
+
+msgid "Weak binding"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "Wildcard"
@@ -558,6 +843,9 @@ msgstr "data"
 msgid "extender"
 msgstr "pemanjang"
 
+msgid "kB"
+msgstr ""
+
 msgid "msec"
 msgstr "mdtk"
 
@@ -572,3 +860,5 @@ msgstr "dikemas"
 
 msgid "protection"
 msgstr "proteksi"
+
+

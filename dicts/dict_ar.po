@@ -13,7 +13,13 @@ msgstr ""
 msgid "Action"
 msgstr ""
 
+msgid "Actions"
+msgstr ""
+
 msgid "Address"
+msgstr ""
+
+msgid "Algorithm"
 msgstr ""
 
 msgid "All"
@@ -37,6 +43,9 @@ msgstr ""
 msgid "Archive record"
 msgstr ""
 
+msgid "Attach"
+msgstr ""
+
 msgid "Automatic"
 msgstr ""
 
@@ -46,13 +55,28 @@ msgstr ""
 msgid "Begin"
 msgstr ""
 
+msgid "Bind"
+msgstr ""
+
+msgid "Binding"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr ""
+
 msgid "Byte"
 msgstr ""
 
 msgid "Bytes"
 msgstr ""
 
+msgid "CPU"
+msgstr ""
+
 msgid "Calculate"
+msgstr ""
+
+msgid "Call stack"
 msgstr ""
 
 msgid "Calls"
@@ -71,6 +95,9 @@ msgid "Cannot set shortcut"
 msgstr ""
 
 msgid "Certificate"
+msgstr ""
+
+msgid "Check"
 msgstr ""
 
 msgid "Check updates"
@@ -107,6 +134,9 @@ msgid "Copy"
 msgstr ""
 
 msgid "Copy address"
+msgstr ""
+
+msgid "Copy as"
 msgstr ""
 
 msgid "Copy as hex"
@@ -166,7 +196,13 @@ msgstr ""
 msgid "Deep scan"
 msgstr ""
 
+msgid "Default"
+msgstr ""
+
 msgid "Demangle"
+msgstr ""
+
+msgid "Detach"
 msgstr ""
 
 msgid "Device scan"
@@ -214,6 +250,9 @@ msgstr ""
 msgid "Error"
 msgstr ""
 
+msgid "Exceptions"
+msgstr ""
+
 msgid "Exit"
 msgstr ""
 
@@ -221,6 +260,9 @@ msgid "Export"
 msgstr ""
 
 msgid "Export File Name"
+msgstr ""
+
+msgid "External references"
 msgstr ""
 
 msgid "File"
@@ -262,6 +304,9 @@ msgstr ""
 msgid "Functions"
 msgstr ""
 
+msgid "GB"
+msgstr ""
+
 msgid "General"
 msgstr ""
 
@@ -281,6 +326,9 @@ msgid "Go to offset"
 msgstr ""
 
 msgid "Group"
+msgstr ""
+
+msgid "Handles"
 msgstr ""
 
 msgid "Hash"
@@ -313,6 +361,9 @@ msgstr ""
 msgid "Import"
 msgstr ""
 
+msgid "Indirect symbols"
+msgstr ""
+
 msgid "Info"
 msgstr ""
 
@@ -325,10 +376,16 @@ msgstr ""
 msgid "Installer data"
 msgstr ""
 
+msgid "Interpreter"
+msgstr ""
+
 msgid "Invalid"
 msgstr ""
 
 msgid "Invalid opcode"
+msgstr ""
+
+msgid "Issuer"
 msgstr ""
 
 msgid "It is not a valid file"
@@ -349,19 +406,31 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+msgid "Lazy binding"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
 msgid "Libraries"
 msgstr ""
 
 msgid "Library"
 msgstr ""
 
+msgid "Library name"
+msgstr ""
+
 msgid "Linker"
+msgstr ""
+
+msgid "Local relocation"
 msgstr ""
 
 msgid "Log"
 msgstr ""
 
-msgid "MainWindow"
+msgid "MB"
 msgstr ""
 
 msgid "Manifest"
@@ -376,10 +445,22 @@ msgstr ""
 msgid "Memory map"
 msgstr ""
 
+msgid "Memory scan"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
 msgid "Method"
 msgstr ""
 
 msgid "Mode"
+msgstr ""
+
+msgid "Modules"
+msgstr ""
+
+msgid "More info"
 msgstr ""
 
 msgid "Name"
@@ -421,16 +502,28 @@ msgstr ""
 msgid "Packer"
 msgstr ""
 
+msgid "Pause"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr ""
 
 msgid "Process"
 msgstr ""
 
+msgid "Program name"
+msgstr ""
+
+msgid "Programs"
+msgstr ""
+
 msgid "Protector"
 msgstr ""
 
 msgid "Protector data"
+msgstr ""
+
+msgid "Publisher"
 msgstr ""
 
 msgid "Raw data"
@@ -440,6 +533,9 @@ msgid "Read error"
 msgstr ""
 
 msgid "Readonly"
+msgstr ""
+
+msgid "Rebase"
 msgstr ""
 
 msgid "Recursive"
@@ -460,6 +556,9 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr ""
 
@@ -469,7 +568,13 @@ msgstr ""
 msgid "Reload"
 msgstr ""
 
+msgid "Relocs"
+msgstr ""
+
 msgid "Resources"
+msgstr ""
+
+msgid "Restart"
 msgstr ""
 
 msgid "Result"
@@ -479,6 +584,9 @@ msgid "Run"
 msgstr ""
 
 msgid "Save"
+msgstr ""
+
+msgid "Save As"
 msgstr ""
 
 msgid "Save backup"
@@ -541,13 +649,16 @@ msgstr ""
 msgid "Selection"
 msgstr ""
 
-msgid "Set breakpoint"
+msgid "Serial number"
 msgstr ""
 
 msgid "Shortcut"
 msgstr ""
 
 msgid "Shortcuts"
+msgstr ""
+
+msgid "Show logo"
 msgstr ""
 
 msgid "Show options"
@@ -577,10 +688,16 @@ msgstr ""
 msgid "Size"
 msgstr ""
 
+msgid "Size of image"
+msgstr ""
+
 msgid "Source code"
 msgstr ""
 
 msgid "Spaces"
+msgstr ""
+
+msgid "Stack"
 msgstr ""
 
 msgid "Status"
@@ -616,13 +733,22 @@ msgstr ""
 msgid "Subdirectories"
 msgstr ""
 
+msgid "Subject"
+msgstr ""
+
 msgid "Symbol table"
 msgstr ""
 
 msgid "Symbols"
 msgstr ""
 
+msgid "Syntax"
+msgstr ""
+
 msgid "Table"
+msgstr ""
+
+msgid "Table of contents"
 msgstr ""
 
 msgid "Text"
@@ -637,7 +763,31 @@ msgstr ""
 msgid "Thanks"
 msgstr ""
 
+msgid "The file is not signed"
+msgstr ""
+
+msgid "The file is signed and the signature was verified"
+msgstr ""
+
+msgid "The signature error"
+msgstr ""
+
+msgid "The signature is present, but not trusted"
+msgstr ""
+
+msgid "The signature is present, but specifically disallowed"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Time date stamp"
+msgstr ""
+
 msgid "To data"
+msgstr ""
+
+msgid "Toggle"
 msgstr ""
 
 msgid "Tool"
@@ -667,7 +817,16 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
+msgid "View"
+msgstr ""
+
 msgid "Virtual address"
+msgstr ""
+
+msgid "Virtual machine"
+msgstr ""
+
+msgid "Weak binding"
 msgstr ""
 
 msgid "Wildcard"
@@ -683,6 +842,9 @@ msgid "data"
 msgstr ""
 
 msgid "extender"
+msgstr ""
+
+msgid "kB"
 msgstr ""
 
 msgid "msec"

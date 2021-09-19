@@ -14,8 +14,14 @@ msgstr "О программе"
 msgid "Action"
 msgstr "Действие"
 
+msgid "Actions"
+msgstr ""
+
 msgid "Address"
 msgstr "Адрес"
+
+msgid "Algorithm"
+msgstr ""
 
 msgid "All"
 msgstr "Все"
@@ -38,6 +44,9 @@ msgstr "Архив"
 msgid "Archive record"
 msgstr "Архивная запись"
 
+msgid "Attach"
+msgstr ""
+
 msgid "Automatic"
 msgstr "Автоматический"
 
@@ -47,14 +56,29 @@ msgstr "Базовый адрес"
 msgid "Begin"
 msgstr "Начало"
 
+msgid "Bind"
+msgstr ""
+
+msgid "Binding"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr ""
+
 msgid "Byte"
 msgstr "Байт"
 
 msgid "Bytes"
 msgstr "Байты"
 
+msgid "CPU"
+msgstr ""
+
 msgid "Calculate"
 msgstr "Вычислить"
+
+msgid "Call stack"
+msgstr ""
 
 msgid "Calls"
 msgstr "Вызовы"
@@ -73,6 +97,9 @@ msgstr "Невозможно создать ссылку"
 
 msgid "Certificate"
 msgstr "Сертификат"
+
+msgid "Check"
+msgstr ""
 
 msgid "Check updates"
 msgstr "Проверить обновления"
@@ -109,6 +136,9 @@ msgstr "Копировать"
 
 msgid "Copy address"
 msgstr "Копировать адрес"
+
+msgid "Copy as"
+msgstr ""
 
 msgid "Copy as hex"
 msgstr "Копировать как 16-ричное"
@@ -167,7 +197,13 @@ msgstr "Отладчик"
 msgid "Deep scan"
 msgstr "Глубокий анализ"
 
+msgid "Default"
+msgstr ""
+
 msgid "Demangle"
+msgstr ""
+
+msgid "Detach"
 msgstr ""
 
 msgid "Device scan"
@@ -215,6 +251,9 @@ msgstr "Секция точки входа"
 msgid "Error"
 msgstr "Ошибка"
 
+msgid "Exceptions"
+msgstr ""
+
 msgid "Exit"
 msgstr "Выход"
 
@@ -223,6 +262,9 @@ msgstr "Экспорт"
 
 msgid "Export File Name"
 msgstr "Имя файла экспорта"
+
+msgid "External references"
+msgstr ""
 
 msgid "File"
 msgstr "Файл"
@@ -263,6 +305,9 @@ msgstr "Формат"
 msgid "Functions"
 msgstr "Функции"
 
+msgid "GB"
+msgstr ""
+
 msgid "General"
 msgstr "Общие"
 
@@ -283,6 +328,9 @@ msgstr "Перейти по смещению"
 
 msgid "Group"
 msgstr "Группа"
+
+msgid "Handles"
+msgstr ""
 
 msgid "Hash"
 msgstr "Хэш"
@@ -314,6 +362,9 @@ msgstr "Образы"
 msgid "Import"
 msgstr "Импорт"
 
+msgid "Indirect symbols"
+msgstr ""
+
 msgid "Info"
 msgstr "Инфо"
 
@@ -326,11 +377,17 @@ msgstr "Установщик"
 msgid "Installer data"
 msgstr "Данные установщика"
 
+msgid "Interpreter"
+msgstr ""
+
 msgid "Invalid"
 msgstr "Ошибка"
 
 msgid "Invalid opcode"
 msgstr "Неверный код операции"
+
+msgid "Issuer"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "Неверный файл"
@@ -350,19 +407,31 @@ msgstr "Метки"
 msgid "Language"
 msgstr "Язык"
 
+msgid "Lazy binding"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
 msgid "Libraries"
 msgstr "Библиотеки"
 
 msgid "Library"
 msgstr "Библиотека"
 
+msgid "Library name"
+msgstr ""
+
 msgid "Linker"
 msgstr "Линковщик"
+
+msgid "Local relocation"
+msgstr ""
 
 msgid "Log"
 msgstr "Журнал"
 
-msgid "MainWindow"
+msgid "MB"
 msgstr ""
 
 msgid "Manifest"
@@ -377,11 +446,23 @@ msgstr "Максимум"
 msgid "Memory map"
 msgstr "Карта памяти"
 
+msgid "Memory scan"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
 msgid "Method"
 msgstr "Метод"
 
 msgid "Mode"
 msgstr "Режим"
+
+msgid "Modules"
+msgstr ""
+
+msgid "More info"
+msgstr ""
 
 msgid "Name"
 msgstr "Имя"
@@ -422,17 +503,29 @@ msgstr "Оверлей"
 msgid "Packer"
 msgstr "Упаковщик"
 
+msgid "Pause"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "Пожалуйста перезапустите приложение"
 
 msgid "Process"
 msgstr "Процесс"
 
+msgid "Program name"
+msgstr ""
+
+msgid "Programs"
+msgstr ""
+
 msgid "Protector"
 msgstr "Протектор"
 
 msgid "Protector data"
 msgstr "Данные протектора"
+
+msgid "Publisher"
+msgstr ""
 
 msgid "Raw data"
 msgstr "Сырые данные"
@@ -442,6 +535,9 @@ msgstr "Ошибка чтения"
 
 msgid "Readonly"
 msgstr "Только чтение"
+
+msgid "Rebase"
+msgstr ""
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -461,6 +557,9 @@ msgstr "Регионы"
 msgid "Register"
 msgstr "Регистрировать"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Относительный адрес"
 
@@ -470,8 +569,14 @@ msgstr "Относительный виртуальный адрес"
 msgid "Reload"
 msgstr "Обновить"
 
+msgid "Relocs"
+msgstr ""
+
 msgid "Resources"
 msgstr "Ресурсы"
+
+msgid "Restart"
+msgstr ""
 
 msgid "Result"
 msgstr "Результат"
@@ -481,6 +586,9 @@ msgstr "Запустить"
 
 msgid "Save"
 msgstr "Сохранить"
+
+msgid "Save As"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Сохранить резервную копию"
@@ -542,14 +650,17 @@ msgstr "Выбрать все"
 msgid "Selection"
 msgstr "Выделение"
 
-msgid "Set breakpoint"
-msgstr "Поставить точку останова"
+msgid "Serial number"
+msgstr ""
 
 msgid "Shortcut"
 msgstr "Ссылка"
 
 msgid "Shortcuts"
 msgstr "Ссылки"
+
+msgid "Show logo"
+msgstr ""
 
 msgid "Show options"
 msgstr "Показать настройки"
@@ -578,11 +689,17 @@ msgstr "Одно приложение"
 msgid "Size"
 msgstr "Размер"
 
+msgid "Size of image"
+msgstr ""
+
 msgid "Source code"
 msgstr "Исходный код"
 
 msgid "Spaces"
 msgstr "Пробелы"
+
+msgid "Stack"
+msgstr ""
 
 msgid "Status"
 msgstr "Статус"
@@ -617,14 +734,23 @@ msgstr "Стиль"
 msgid "Subdirectories"
 msgstr "Подкаталоги"
 
+msgid "Subject"
+msgstr ""
+
 msgid "Symbol table"
 msgstr "Таблица символов"
 
 msgid "Symbols"
 msgstr "Символы"
 
+msgid "Syntax"
+msgstr ""
+
 msgid "Table"
 msgstr "Таблица"
+
+msgid "Table of contents"
+msgstr ""
 
 msgid "Text"
 msgstr "Текст"
@@ -638,8 +764,32 @@ msgstr "Текстовые файлы"
 msgid "Thanks"
 msgstr "Благодарности"
 
+msgid "The file is not signed"
+msgstr ""
+
+msgid "The file is signed and the signature was verified"
+msgstr ""
+
+msgid "The signature error"
+msgstr ""
+
+msgid "The signature is present, but not trusted"
+msgstr ""
+
+msgid "The signature is present, but specifically disallowed"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Time date stamp"
+msgstr ""
+
 msgid "To data"
 msgstr "К данным"
+
+msgid "Toggle"
+msgstr ""
 
 msgid "Tool"
 msgstr "Инструмент"
@@ -668,8 +818,17 @@ msgstr "Значение"
 msgid "Version"
 msgstr "Версия"
 
+msgid "View"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "Виртуальный адрес"
+
+msgid "Virtual machine"
+msgstr ""
+
+msgid "Weak binding"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "Маска"
@@ -685,6 +844,9 @@ msgstr "данные"
 
 msgid "extender"
 msgstr "расширение"
+
+msgid "kB"
+msgstr ""
 
 msgid "msec"
 msgstr "мс"

@@ -13,8 +13,14 @@ msgstr "关于"
 msgid "Action"
 msgstr "处理"
 
+msgid "Actions"
+msgstr ""
+
 msgid "Address"
 msgstr "地址"
+
+msgid "Algorithm"
+msgstr ""
 
 msgid "All"
 msgstr "所有"
@@ -37,6 +43,9 @@ msgstr "存档"
 msgid "Archive record"
 msgstr "存档记录"
 
+msgid "Attach"
+msgstr ""
+
 msgid "Automatic"
 msgstr "自动"
 
@@ -46,14 +55,29 @@ msgstr "基址"
 msgid "Begin"
 msgstr "开始"
 
+msgid "Bind"
+msgstr ""
+
+msgid "Binding"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr ""
+
 msgid "Byte"
 msgstr "字节"
 
 msgid "Bytes"
 msgstr "字节数"
 
+msgid "CPU"
+msgstr ""
+
 msgid "Calculate"
 msgstr "计算"
+
+msgid "Call stack"
+msgstr ""
 
 msgid "Calls"
 msgstr "调用"
@@ -72,6 +96,9 @@ msgstr "无法设置快捷键"
 
 msgid "Certificate"
 msgstr "证书"
+
+msgid "Check"
+msgstr ""
 
 msgid "Check updates"
 msgstr "检查更新"
@@ -108,6 +135,9 @@ msgstr "复制"
 
 msgid "Copy address"
 msgstr "复制地址"
+
+msgid "Copy as"
+msgstr ""
 
 msgid "Copy as hex"
 msgstr "复制为十六进制"
@@ -166,8 +196,14 @@ msgstr "调试器"
 msgid "Deep scan"
 msgstr "深度扫描"
 
+msgid "Default"
+msgstr ""
+
 msgid "Demangle"
 msgstr "符号重组"
+
+msgid "Detach"
+msgstr ""
 
 msgid "Device scan"
 msgstr "设备扫描"
@@ -214,6 +250,9 @@ msgstr "入口点段"
 msgid "Error"
 msgstr "错误"
 
+msgid "Exceptions"
+msgstr ""
+
 msgid "Exit"
 msgstr "退出"
 
@@ -222,6 +261,9 @@ msgstr "导出"
 
 msgid "Export File Name"
 msgstr "导出文件名称"
+
+msgid "External references"
+msgstr ""
 
 msgid "File"
 msgstr "文件"
@@ -262,6 +304,9 @@ msgstr "格式"
 msgid "Functions"
 msgstr "函数"
 
+msgid "GB"
+msgstr ""
+
 msgid "General"
 msgstr "常规"
 
@@ -282,6 +327,9 @@ msgstr "转到偏移"
 
 msgid "Group"
 msgstr "组"
+
+msgid "Handles"
+msgstr ""
 
 msgid "Hash"
 msgstr "哈希"
@@ -313,6 +361,9 @@ msgstr "图像"
 msgid "Import"
 msgstr "导入表"
 
+msgid "Indirect symbols"
+msgstr ""
+
 msgid "Info"
 msgstr "信息"
 
@@ -325,11 +376,17 @@ msgstr "安装程序"
 msgid "Installer data"
 msgstr "安装程序数据"
 
+msgid "Interpreter"
+msgstr ""
+
 msgid "Invalid"
 msgstr "无效"
 
 msgid "Invalid opcode"
 msgstr "无效的操作码"
+
+msgid "Issuer"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr "不是有效文件"
@@ -349,20 +406,32 @@ msgstr "标贴"
 msgid "Language"
 msgstr "语言"
 
+msgid "Lazy binding"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
 msgid "Libraries"
 msgstr "函数库"
 
 msgid "Library"
 msgstr "库"
 
+msgid "Library name"
+msgstr ""
+
 msgid "Linker"
 msgstr "链接程序"
+
+msgid "Local relocation"
+msgstr ""
 
 msgid "Log"
 msgstr "日志"
 
-msgid "MainWindow"
-msgstr "主窗口"
+msgid "MB"
+msgstr ""
 
 msgid "Manifest"
 msgstr "显示"
@@ -376,11 +445,23 @@ msgstr "最大值"
 msgid "Memory map"
 msgstr "内存映射"
 
+msgid "Memory scan"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
 msgid "Method"
 msgstr "方法"
 
 msgid "Mode"
 msgstr "模式"
+
+msgid "Modules"
+msgstr ""
+
+msgid "More info"
+msgstr ""
 
 msgid "Name"
 msgstr "名称"
@@ -421,17 +502,29 @@ msgstr "覆盖"
 msgid "Packer"
 msgstr "打包工具"
 
+msgid "Pause"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "请重启应用程序"
 
 msgid "Process"
 msgstr "处理"
 
+msgid "Program name"
+msgstr ""
+
+msgid "Programs"
+msgstr ""
+
 msgid "Protector"
 msgstr "保护器"
 
 msgid "Protector data"
 msgstr "保护器数据"
+
+msgid "Publisher"
+msgstr ""
 
 msgid "Raw data"
 msgstr "原始数据"
@@ -441,6 +534,9 @@ msgstr "读取错误"
 
 msgid "Readonly"
 msgstr "只读"
+
+msgid "Rebase"
+msgstr ""
 
 msgid "Recursive"
 msgstr "递归"
@@ -460,6 +556,9 @@ msgstr "区域"
 msgid "Register"
 msgstr "注册"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "相关地址"
 
@@ -469,8 +568,14 @@ msgstr "相关虚拟地址"
 msgid "Reload"
 msgstr "重新加载"
 
+msgid "Relocs"
+msgstr ""
+
 msgid "Resources"
 msgstr "资源"
+
+msgid "Restart"
+msgstr ""
 
 msgid "Result"
 msgstr "结果"
@@ -480,6 +585,9 @@ msgstr "运行"
 
 msgid "Save"
 msgstr "保存"
+
+msgid "Save As"
+msgstr ""
 
 msgid "Save backup"
 msgstr "保存备份"
@@ -541,14 +649,17 @@ msgstr "全选"
 msgid "Selection"
 msgstr "选择器"
 
-msgid "Set breakpoint"
-msgstr "设置断点"
+msgid "Serial number"
+msgstr ""
 
 msgid "Shortcut"
 msgstr "快捷键"
 
 msgid "Shortcuts"
 msgstr "快捷指令"
+
+msgid "Show logo"
+msgstr ""
 
 msgid "Show options"
 msgstr "显示选项"
@@ -577,11 +688,17 @@ msgstr "单个应用程序"
 msgid "Size"
 msgstr "大小"
 
+msgid "Size of image"
+msgstr ""
+
 msgid "Source code"
 msgstr "源代码"
 
 msgid "Spaces"
 msgstr "空格"
+
+msgid "Stack"
+msgstr ""
 
 msgid "Status"
 msgstr "状态"
@@ -616,14 +733,23 @@ msgstr "样式"
 msgid "Subdirectories"
 msgstr "子目录"
 
+msgid "Subject"
+msgstr ""
+
 msgid "Symbol table"
 msgstr "符号表"
 
 msgid "Symbols"
 msgstr "符号"
 
+msgid "Syntax"
+msgstr ""
+
 msgid "Table"
 msgstr "表格"
+
+msgid "Table of contents"
+msgstr ""
 
 msgid "Text"
 msgstr "文本"
@@ -637,8 +763,32 @@ msgstr "文本文件"
 msgid "Thanks"
 msgstr "致谢名单"
 
+msgid "The file is not signed"
+msgstr ""
+
+msgid "The file is signed and the signature was verified"
+msgstr ""
+
+msgid "The signature error"
+msgstr ""
+
+msgid "The signature is present, but not trusted"
+msgstr ""
+
+msgid "The signature is present, but specifically disallowed"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Time date stamp"
+msgstr ""
+
 msgid "To data"
 msgstr "到数据"
+
+msgid "Toggle"
+msgstr ""
 
 msgid "Tool"
 msgstr "工具"
@@ -667,8 +817,17 @@ msgstr "值"
 msgid "Version"
 msgstr "版本"
 
+msgid "View"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "虚拟地址"
+
+msgid "Virtual machine"
+msgstr ""
+
+msgid "Weak binding"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "通配符"
@@ -684,6 +843,9 @@ msgstr "数据"
 
 msgid "extender"
 msgstr "扩展器"
+
+msgid "kB"
+msgstr ""
 
 msgid "msec"
 msgstr "毫秒"

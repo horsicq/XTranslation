@@ -13,8 +13,14 @@ msgstr "情報"
 msgid "Action"
 msgstr "動作"
 
+msgid "Actions"
+msgstr ""
+
 msgid "Address"
 msgstr "アドレス"
+
+msgid "Algorithm"
+msgstr ""
 
 msgid "All"
 msgstr "すべて"
@@ -37,6 +43,9 @@ msgstr "アーカイブ"
 msgid "Archive record"
 msgstr "アーカイブ レコード"
 
+msgid "Attach"
+msgstr ""
+
 msgid "Automatic"
 msgstr "自動"
 
@@ -46,14 +55,29 @@ msgstr "基準アドレス"
 msgid "Begin"
 msgstr "先頭"
 
+msgid "Bind"
+msgstr ""
+
+msgid "Binding"
+msgstr ""
+
+msgid "Breakpoints"
+msgstr ""
+
 msgid "Byte"
 msgstr "バイト"
 
 msgid "Bytes"
 msgstr "バイト"
 
+msgid "CPU"
+msgstr ""
+
 msgid "Calculate"
 msgstr "計算"
+
+msgid "Call stack"
+msgstr ""
 
 msgid "Calls"
 msgstr "セル"
@@ -72,6 +96,9 @@ msgstr "ショートカットの設定に失敗"
 
 msgid "Certificate"
 msgstr "証明書"
+
+msgid "Check"
+msgstr ""
 
 msgid "Check updates"
 msgstr "アップデートの確認"
@@ -108,6 +135,9 @@ msgstr "コピー"
 
 msgid "Copy address"
 msgstr "アドレスに移動"
+
+msgid "Copy as"
+msgstr ""
 
 msgid "Copy as hex"
 msgstr "16 進数値でコピー"
@@ -166,8 +196,14 @@ msgstr "デバッガ"
 msgid "Deep scan"
 msgstr "ディープスキャン"
 
+msgid "Default"
+msgstr ""
+
 msgid "Demangle"
 msgstr "デマングル"
+
+msgid "Detach"
+msgstr ""
 
 msgid "Device scan"
 msgstr "デバイスのスキャン"
@@ -214,6 +250,9 @@ msgstr "エントリ ポイントセクション"
 msgid "Error"
 msgstr "エラー"
 
+msgid "Exceptions"
+msgstr ""
+
 msgid "Exit"
 msgstr "終了"
 
@@ -221,6 +260,9 @@ msgid "Export"
 msgstr "エクスポート"
 
 msgid "Export File Name"
+msgstr ""
+
+msgid "External references"
 msgstr ""
 
 msgid "File"
@@ -262,6 +304,9 @@ msgstr "書式"
 msgid "Functions"
 msgstr "関数"
 
+msgid "GB"
+msgstr ""
+
 msgid "General"
 msgstr "一般"
 
@@ -282,6 +327,9 @@ msgstr "オフセット値"
 
 msgid "Group"
 msgstr "グループ"
+
+msgid "Handles"
+msgstr ""
 
 msgid "Hash"
 msgstr "ハッシュ"
@@ -313,6 +361,9 @@ msgstr "イメージ"
 msgid "Import"
 msgstr "インポート"
 
+msgid "Indirect symbols"
+msgstr ""
+
 msgid "Info"
 msgstr "情報"
 
@@ -325,11 +376,17 @@ msgstr "インストーラ"
 msgid "Installer data"
 msgstr "インストーラ データ"
 
+msgid "Interpreter"
+msgstr ""
+
 msgid "Invalid"
 msgstr "無効"
 
 msgid "Invalid opcode"
 msgstr "無効な Opcode"
+
+msgid "Issuer"
+msgstr ""
 
 msgid "It is not a valid file"
 msgstr ""
@@ -349,19 +406,31 @@ msgstr "ラベル"
 msgid "Language"
 msgstr "言語"
 
+msgid "Lazy binding"
+msgstr ""
+
+msgid "Length"
+msgstr ""
+
 msgid "Libraries"
 msgstr "ライブラリ"
 
 msgid "Library"
 msgstr "ライブラリ"
 
+msgid "Library name"
+msgstr ""
+
 msgid "Linker"
 msgstr "リンカ"
+
+msgid "Local relocation"
+msgstr ""
 
 msgid "Log"
 msgstr "ログ"
 
-msgid "MainWindow"
+msgid "MB"
 msgstr ""
 
 msgid "Manifest"
@@ -376,11 +445,23 @@ msgstr "最大"
 msgid "Memory map"
 msgstr "メモリ マップ"
 
+msgid "Memory scan"
+msgstr ""
+
+msgid "Metadata"
+msgstr ""
+
 msgid "Method"
 msgstr "方法"
 
 msgid "Mode"
 msgstr "モード"
+
+msgid "Modules"
+msgstr ""
+
+msgid "More info"
+msgstr ""
 
 msgid "Name"
 msgstr "名前"
@@ -421,17 +502,29 @@ msgstr "オーバーレイ"
 msgid "Packer"
 msgstr "パッカー"
 
+msgid "Pause"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "プログラムを再起動してください"
 
 msgid "Process"
 msgstr "プロセス"
 
+msgid "Program name"
+msgstr ""
+
+msgid "Programs"
+msgstr ""
+
 msgid "Protector"
 msgstr "プロテクタ"
 
 msgid "Protector data"
 msgstr "プロテクタ データ"
+
+msgid "Publisher"
+msgstr ""
 
 msgid "Raw data"
 msgstr "Raw データ"
@@ -441,6 +534,9 @@ msgstr "読み取りエラー"
 
 msgid "Readonly"
 msgstr "読み取り専用"
+
+msgid "Rebase"
+msgstr ""
 
 msgid "Recursive"
 msgstr "再帰的"
@@ -460,6 +556,9 @@ msgstr "地域"
 msgid "Register"
 msgstr "登録"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "相対アドレス"
 
@@ -469,8 +568,14 @@ msgstr "相対仮想ADD"
 msgid "Reload"
 msgstr "再読み込み"
 
+msgid "Relocs"
+msgstr ""
+
 msgid "Resources"
 msgstr "リソース"
+
+msgid "Restart"
+msgstr ""
 
 msgid "Result"
 msgstr "結果"
@@ -480,6 +585,9 @@ msgstr "実行"
 
 msgid "Save"
 msgstr "保存"
+
+msgid "Save As"
+msgstr ""
 
 msgid "Save backup"
 msgstr "バックアップを保存"
@@ -541,14 +649,17 @@ msgstr "すべて選択"
 msgid "Selection"
 msgstr "選択"
 
-msgid "Set breakpoint"
-msgstr "ブレークポイントをセット"
+msgid "Serial number"
+msgstr ""
 
 msgid "Shortcut"
 msgstr "ショートカット"
 
 msgid "Shortcuts"
 msgstr "ショートカット"
+
+msgid "Show logo"
+msgstr ""
 
 msgid "Show options"
 msgstr "オプションを表示"
@@ -577,11 +688,17 @@ msgstr "単一のアプリケーション"
 msgid "Size"
 msgstr "サイズ"
 
+msgid "Size of image"
+msgstr ""
+
 msgid "Source code"
 msgstr "ソース コード"
 
 msgid "Spaces"
 msgstr "スペース"
+
+msgid "Stack"
+msgstr ""
 
 msgid "Status"
 msgstr "ステータス"
@@ -616,14 +733,23 @@ msgstr "スタイル"
 msgid "Subdirectories"
 msgstr ""
 
+msgid "Subject"
+msgstr ""
+
 msgid "Symbol table"
 msgstr "シンボル テーブル"
 
 msgid "Symbols"
 msgstr "シンボル"
 
+msgid "Syntax"
+msgstr ""
+
 msgid "Table"
 msgstr "テーブル"
+
+msgid "Table of contents"
+msgstr ""
 
 msgid "Text"
 msgstr "テキスト"
@@ -637,8 +763,32 @@ msgstr "テキスト ファイル"
 msgid "Thanks"
 msgstr "Thanks"
 
+msgid "The file is not signed"
+msgstr ""
+
+msgid "The file is signed and the signature was verified"
+msgstr ""
+
+msgid "The signature error"
+msgstr ""
+
+msgid "The signature is present, but not trusted"
+msgstr ""
+
+msgid "The signature is present, but specifically disallowed"
+msgstr ""
+
+msgid "Threads"
+msgstr ""
+
+msgid "Time date stamp"
+msgstr ""
+
 msgid "To data"
 msgstr "データへ"
+
+msgid "Toggle"
+msgstr ""
 
 msgid "Tool"
 msgstr "ツール"
@@ -667,8 +817,17 @@ msgstr "値"
 msgid "Version"
 msgstr "バージョン"
 
+msgid "View"
+msgstr ""
+
 msgid "Virtual address"
 msgstr "仮想アドレス"
+
+msgid "Virtual machine"
+msgstr ""
+
+msgid "Weak binding"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "ワイルドカード"
@@ -685,6 +844,9 @@ msgstr "data"
 msgid "extender"
 msgstr "エクステンダ"
 
+msgid "kB"
+msgstr ""
+
 msgid "msec"
 msgstr "ミリ秒"
 
@@ -699,3 +861,4 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
+
