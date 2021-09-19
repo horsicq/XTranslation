@@ -62,6 +62,9 @@ msgstr ""
 msgid "Binding"
 msgstr ""
 
+msgid "Bound import"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr ""
 
@@ -78,6 +81,9 @@ msgid "Calculate"
 msgstr "Вычислить"
 
 msgid "Call stack"
+msgstr ""
+
+msgid "Callbacks"
 msgstr ""
 
 msgid "Calls"
@@ -198,6 +204,9 @@ msgid "Deep scan"
 msgstr "Глубокий анализ"
 
 msgid "Default"
+msgstr ""
+
+msgid "Delay import"
 msgstr ""
 
 msgid "Demangle"
@@ -424,6 +433,9 @@ msgstr ""
 
 msgid "Linker"
 msgstr "Линковщик"
+
+msgid "Load config"
+msgstr ""
 
 msgid "Local relocation"
 msgstr ""
@@ -862,4 +874,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
-

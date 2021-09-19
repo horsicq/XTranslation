@@ -62,6 +62,9 @@ msgstr ""
 msgid "Binding"
 msgstr ""
 
+msgid "Bound import"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr ""
 
@@ -78,6 +81,9 @@ msgid "Calculate"
 msgstr "Oblicz"
 
 msgid "Call stack"
+msgstr ""
+
+msgid "Callbacks"
 msgstr ""
 
 msgid "Calls"
@@ -198,6 +204,9 @@ msgid "Deep scan"
 msgstr "Głębokie skanowanie"
 
 msgid "Default"
+msgstr ""
+
+msgid "Delay import"
 msgstr ""
 
 msgid "Demangle"
@@ -423,6 +432,9 @@ msgid "Library name"
 msgstr ""
 
 msgid "Linker"
+msgstr ""
+
+msgid "Load config"
 msgstr ""
 
 msgid "Local relocation"

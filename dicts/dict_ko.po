@@ -67,6 +67,9 @@ msgstr ""
 msgid "Binding"
 msgstr ""
 
+msgid "Bound import"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr ""
 
@@ -83,6 +86,9 @@ msgid "Calculate"
 msgstr "계산"
 
 msgid "Call stack"
+msgstr ""
+
+msgid "Callbacks"
 msgstr ""
 
 msgid "Calls"
@@ -203,6 +209,9 @@ msgid "Deep scan"
 msgstr "정밀 검사"
 
 msgid "Default"
+msgstr ""
+
+msgid "Delay import"
 msgstr ""
 
 msgid "Demangle"
@@ -429,6 +438,9 @@ msgstr ""
 
 msgid "Linker"
 msgstr "링커"
+
+msgid "Load config"
+msgstr ""
 
 msgid "Local relocation"
 msgstr ""
