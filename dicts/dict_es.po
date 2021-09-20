@@ -13,13 +13,13 @@ msgid "Action"
 msgstr "Acción"
 
 msgid "Actions"
-msgstr ""
+msgstr "Acciones"
 
 msgid "Address"
 msgstr "Dirección"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "Algoritmo"
 
 msgid "All"
 msgstr "Todos"
@@ -43,7 +43,7 @@ msgid "Archive record"
 msgstr "Registro de archivo"
 
 msgid "Attach"
-msgstr ""
+msgstr "Adjuntar"
 
 msgid "Automatic"
 msgstr "Automático"
@@ -55,16 +55,16 @@ msgid "Begin"
 msgstr "Principio"
 
 msgid "Bind"
-msgstr ""
+msgstr "Enlazar"
 
 msgid "Binding"
-msgstr ""
+msgstr "Enlace"
 
 msgid "Bound import"
-msgstr ""
+msgstr "Importación vinculada"
 
 msgid "Breakpoints"
-msgstr ""
+msgstr "Puntos de parada"
 
 msgid "Byte"
 msgstr "Byte"
@@ -73,16 +73,16 @@ msgid "Bytes"
 msgstr "Bytes"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Calculate"
 msgstr "Calcular"
 
 msgid "Call stack"
-msgstr ""
+msgstr "Pila de llamadas"
 
 msgid "Callbacks"
-msgstr ""
+msgstr "Callbacks"
 
 msgid "Calls"
 msgstr "Llamadas"
@@ -97,13 +97,13 @@ msgid "Cannot save file"
 msgstr "No se puede guardar el archivo"
 
 msgid "Cannot set shortcut"
-msgstr "No se puede crear el acceso directo"
+msgstr "No se puede crear el atajo"
 
 msgid "Certificate"
 msgstr "Certificado"
 
 msgid "Check"
-msgstr ""
+msgstr "Comprobar"
 
 msgid "Check updates"
 msgstr "Comprobar actualizaciones"
@@ -142,7 +142,7 @@ msgid "Copy address"
 msgstr "Copiar dirección"
 
 msgid "Copy as"
-msgstr ""
+msgstr "Copiar como"
 
 msgid "Copy as hex"
 msgstr "Copiar como hexadecimal"
@@ -202,16 +202,16 @@ msgid "Deep scan"
 msgstr "Análisis en profundidad"
 
 msgid "Default"
-msgstr ""
+msgstr "Por defecto"
 
 msgid "Delay import"
-msgstr ""
+msgstr "Importación retrasada"
 
 msgid "Demangle"
 msgstr "Demangle"
 
 msgid "Detach"
-msgstr ""
+msgstr "Separar"
 
 msgid "Device scan"
 msgstr "Escaneo de dispositivos"
@@ -259,7 +259,7 @@ msgid "Error"
 msgstr "Error"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "Excepciones"
 
 msgid "Exit"
 msgstr "Salir"
@@ -271,7 +271,7 @@ msgid "Export File Name"
 msgstr "Exportar nombre de archivo"
 
 msgid "External references"
-msgstr ""
+msgstr "Referencias externas"
 
 msgid "File"
 msgstr "Archivo"
@@ -313,7 +313,7 @@ msgid "Functions"
 msgstr "Funciones"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "General"
 msgstr "General"
@@ -337,7 +337,7 @@ msgid "Group"
 msgstr "Grupo"
 
 msgid "Handles"
-msgstr ""
+msgstr "Manipuladores"
 
 msgid "Hash"
 msgstr "Hash"
@@ -370,7 +370,7 @@ msgid "Import"
 msgstr "Importar"
 
 msgid "Indirect symbols"
-msgstr ""
+msgstr "Símbolos indirectos"
 
 msgid "Info"
 msgstr "Info"
@@ -385,7 +385,7 @@ msgid "Installer data"
 msgstr "Datos del instalador"
 
 msgid "Interpreter"
-msgstr ""
+msgstr "Intérprete"
 
 msgid "Invalid"
 msgstr "Inválido"
@@ -394,7 +394,7 @@ msgid "Invalid opcode"
 msgstr "Opcode inválido"
 
 msgid "Issuer"
-msgstr ""
+msgstr "Emisor"
 
 msgid "It is not a valid file"
 msgstr "No es un archivo válido"
@@ -415,34 +415,34 @@ msgid "Language"
 msgstr "Idioma"
 
 msgid "Lazy binding"
-msgstr ""
+msgstr "Enlace tardío"
 
 msgid "Length"
-msgstr ""
+msgstr "Longitud"
 
 msgid "Libraries"
-msgstr "Bibliotecas"
+msgstr "Librerías"
 
 msgid "Library"
-msgstr "Biblioteca"
+msgstr "Librería"
 
 msgid "Library name"
-msgstr ""
+msgstr "Nombre de la librería"
 
 msgid "Linker"
 msgstr "Enlazador"
 
 msgid "Load config"
-msgstr ""
+msgstr "Cargar configuración"
 
 msgid "Local relocation"
-msgstr ""
+msgstr "Relocalización local"
 
 msgid "Log"
 msgstr "Log"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "Manifest"
 msgstr "Manifiesto"
@@ -457,10 +457,10 @@ msgid "Memory map"
 msgstr "Mapa de memoria"
 
 msgid "Memory scan"
-msgstr ""
+msgstr "Escaneo de memoria"
 
 msgid "Metadata"
-msgstr ""
+msgstr "Metadatos"
 
 msgid "Method"
 msgstr "Método"
@@ -469,10 +469,10 @@ msgid "Mode"
 msgstr "Modo"
 
 msgid "Modules"
-msgstr ""
+msgstr "Módulos"
 
 msgid "More info"
-msgstr ""
+msgstr "Más info"
 
 msgid "Name"
 msgstr "Nombre"
@@ -514,7 +514,7 @@ msgid "Packer"
 msgstr "Empaquetar"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pausa"
 
 msgid "Please restart the application"
 msgstr "Por favor, reinicie la aplicación"
@@ -523,10 +523,10 @@ msgid "Process"
 msgstr "Proceso"
 
 msgid "Program name"
-msgstr ""
+msgstr "Nombre del programa"
 
 msgid "Programs"
-msgstr ""
+msgstr "Programas"
 
 msgid "Protector"
 msgstr "Protector"
@@ -535,7 +535,7 @@ msgid "Protector data"
 msgstr "Datos del protector"
 
 msgid "Publisher"
-msgstr ""
+msgstr "Editor"
 
 msgid "Raw data"
 msgstr "Datos raw"
@@ -547,7 +547,7 @@ msgid "Readonly"
 msgstr "Solo lectura"
 
 msgid "Rebase"
-msgstr ""
+msgstr "Rebase"
 
 msgid "Recursive"
 msgstr "Recursivo"
@@ -568,7 +568,7 @@ msgid "Register"
 msgstr "Registro"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registros"
 
 msgid "Relative address"
 msgstr "Dirección relativa"
@@ -580,13 +580,13 @@ msgid "Reload"
 msgstr "Recargar"
 
 msgid "Relocs"
-msgstr ""
+msgstr "Relocalizaciones"
 
 msgid "Resources"
 msgstr "Recursos"
 
 msgid "Restart"
-msgstr ""
+msgstr "Reiniciar"
 
 msgid "Result"
 msgstr "Resultado"
@@ -598,7 +598,7 @@ msgid "Save"
 msgstr "Guardar"
 
 msgid "Save As"
-msgstr ""
+msgstr "Guardar como"
 
 msgid "Save backup"
 msgstr "Guardar copia de seguridad"
@@ -661,7 +661,7 @@ msgid "Selection"
 msgstr "Selección"
 
 msgid "Serial number"
-msgstr ""
+msgstr "Número de serie"
 
 msgid "Shortcut"
 msgstr "Atajo"
@@ -670,7 +670,7 @@ msgid "Shortcuts"
 msgstr "Atajos"
 
 msgid "Show logo"
-msgstr ""
+msgstr "Mostrar logo"
 
 msgid "Show options"
 msgstr "Ver opciones"
@@ -700,7 +700,7 @@ msgid "Size"
 msgstr "Tamaño"
 
 msgid "Size of image"
-msgstr ""
+msgstr "Tamaño de la imagen"
 
 msgid "Source code"
 msgstr "Código fuente"
@@ -709,7 +709,7 @@ msgid "Spaces"
 msgstr "Espacios"
 
 msgid "Stack"
-msgstr ""
+msgstr "Pila"
 
 msgid "Status"
 msgstr "Estado"
@@ -745,7 +745,7 @@ msgid "Subdirectories"
 msgstr "Subdirectorios"
 
 msgid "Subject"
-msgstr ""
+msgstr "Asunto"
 
 msgid "Symbol table"
 msgstr "Tabla de símbolos"
@@ -754,13 +754,13 @@ msgid "Symbols"
 msgstr "Símbolos"
 
 msgid "Syntax"
-msgstr ""
+msgstr "Sintaxis"
 
 msgid "Table"
 msgstr "Tabla"
 
 msgid "Table of contents"
-msgstr ""
+msgstr "Tabla de contenidos"
 
 msgid "Text"
 msgstr "Texto"
@@ -775,31 +775,31 @@ msgid "Thanks"
 msgstr "Gracias"
 
 msgid "The file is not signed"
-msgstr ""
+msgstr "El archivo no está firmado"
 
 msgid "The file is signed and the signature was verified"
-msgstr ""
+msgstr "El archivo está firmado y la firma fue verificada"
 
 msgid "The signature error"
-msgstr ""
+msgstr "Error de firma"
 
 msgid "The signature is present, but not trusted"
-msgstr ""
+msgstr "La firma está presente pero no es fiable"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr ""
+msgstr "La firma está presente pero ha sido prohibida especificamente"
 
 msgid "Threads"
-msgstr ""
+msgstr "Hilos"
 
 msgid "Time date stamp"
-msgstr ""
+msgstr "Marca de fecha y hora"
 
 msgid "To data"
 msgstr "A los datos"
 
 msgid "Toggle"
-msgstr ""
+msgstr "Alternar"
 
 msgid "Tool"
 msgstr "Herramienta"
@@ -829,16 +829,16 @@ msgid "Version"
 msgstr "Versión"
 
 msgid "View"
-msgstr ""
+msgstr "Vista"
 
 msgid "Virtual address"
 msgstr "Dirección virtual"
 
 msgid "Virtual machine"
-msgstr ""
+msgstr "Máquina virtual"
 
 msgid "Weak binding"
-msgstr ""
+msgstr "Enlazado débil"
 
 msgid "Wildcard"
 msgstr "Comodín"
@@ -856,7 +856,7 @@ msgid "extender"
 msgstr "extensor"
 
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 msgid "msec"
 msgstr "mseg"
