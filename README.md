@@ -20,10 +20,10 @@ Languages:
 * Japanese <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ja.po"> <img src="https://gitlocalize.com/repo/4736/ja/badge.svg" /> </a>
 * Korean <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ko.po"> <img src="https://gitlocalize.com/repo/4736/ko/badge.svg" /> </a>
 * Polish <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pl.po"> <img src="https://gitlocalize.com/repo/4736/pl/badge.svg" /> </a>
-* Portuguese <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pt-PT.po"> <img src="https://gitlocalize.com/repo/4736/pt-PT/badge.svg" /> </a>
+* Portuguese <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pt-PT.po"> <img src="https://gitlocalize.com/repo/4736/pt/badge.svg" /> </a>
 * Portuguese, Brazil <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pt-BR.po"> <img src="https://gitlocalize.com/repo/4736/pt-BR/badge.svg" /> </a>
 * Russian <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ru.po"> <img src="https://gitlocalize.com/repo/4736/ru/badge.svg" /> </a>
 * Turkish <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_tr.po"> <img src="https://gitlocalize.com/repo/4736/tr/badge.svg" /> </a>
 * Vietnamese <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_vi.po"> <img src="https://gitlocalize.com/repo/4736/vi/badge.svg" /> </a>
-* Chinese <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_cn.po"> <img src="https://gitlocalize.com/repo/4736/cn/badge.svg" /> </a>
+* Chinese <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh.po"> <img src="https://gitlocalize.com/repo/4736/zh/badge.svg" /> </a>
 * Chinese, Taiwan <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh-TW.po"> <img src="https://gitlocalize.com/repo/4736/zh-TW/badge.svg" /> </a>
