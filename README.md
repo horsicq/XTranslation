@@ -8,8 +8,6 @@ Translation for:
 * XPEViewer: https://github.com/horsicq/XPEViewer
 * XMACHOViewer: https://github.com/horsicq/XMACHOViewer
 
-Languages:
-
 | Language | % |
 | --- | --- |
 | Arabic               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ar.po"> <img src="https://gitlocalize.com/repo/4736/ar/badge.svg" /> </a> |
@@ -29,3 +27,5 @@ Languages:
 | Vietnamese           | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_vi.po"> <img src="https://gitlocalize.com/repo/4736/vi/badge.svg" /> </a> |
 | Chinese              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh.po"> <img src="https://gitlocalize.com/repo/4736/zh/badge.svg" /> </a> |
 | Chinese, Taiwan      | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh-TW.po"> <img src="https://gitlocalize.com/repo/4736/zh-TW/badge.svg" /> </a> |
+
+Thank you to all the people who already contributed!
