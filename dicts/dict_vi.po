@@ -5,25 +5,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: vi_VN\n"
-"X-Source-Language: C\n"
 
 msgid "About"
 msgstr "Giới thiệu"
 
 msgid "Action"
-msgstr ""
+msgstr "Hoạt động"
 
 msgid "Actions"
-msgstr ""
+msgstr "Hành động"
 
 msgid "Address"
 msgstr "Địa chỉ"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "Thuật toán"
 
 msgid "All"
-msgstr ""
+msgstr "Tất cả các"
 
 msgid "All files"
 msgstr "Tất cả tập tin"
@@ -38,16 +37,16 @@ msgid "Architecture"
 msgstr "Kiến trúc"
 
 msgid "Archive"
-msgstr ""
+msgstr "Lưu trữ"
 
 msgid "Archive record"
 msgstr "Bản ghi lưu trữ"
 
 msgid "Attach"
-msgstr ""
+msgstr "Gắn"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Tự động"
 
 msgid "Base address"
 msgstr "Địa chỉ gốc"
@@ -56,16 +55,16 @@ msgid "Begin"
 msgstr "Bắt đầu"
 
 msgid "Bind"
-msgstr ""
+msgstr "Trói buộc"
 
 msgid "Binding"
-msgstr ""
+msgstr "Ràng buộc"
 
 msgid "Bound import"
-msgstr ""
+msgstr "Nhập khẩu ràng buộc"
 
 msgid "Breakpoints"
-msgstr ""
+msgstr "Điểm ngắt"
 
 msgid "Byte"
 msgstr "Byte"
@@ -74,19 +73,19 @@ msgid "Bytes"
 msgstr "Byte"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Calculate"
 msgstr "Tính toán"
 
 msgid "Call stack"
-msgstr ""
+msgstr "Ngăn xếp cuộc gọi"
 
 msgid "Callbacks"
-msgstr ""
+msgstr "Gọi lại"
 
 msgid "Calls"
-msgstr ""
+msgstr "Cuộc gọi"
 
 msgid "Cancel"
 msgstr "Hủy"
@@ -98,22 +97,22 @@ msgid "Cannot save file"
 msgstr "Không thể lưu tập tin"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "Không thể đặt phím tắt"
 
 msgid "Certificate"
-msgstr ""
+msgstr "Giấy chứng nhận"
 
 msgid "Check"
-msgstr ""
+msgstr "Đánh dấu"
 
 msgid "Check updates"
-msgstr ""
+msgstr "Kiểm tra cập nhật"
 
 msgid "Clear"
 msgstr "Xóa"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Kết quả rõ ràng"
 
 msgid "Close"
 msgstr "Đóng"
@@ -125,16 +124,16 @@ msgid "Commands"
 msgstr "Lệnh"
 
 msgid "Comment"
-msgstr ""
+msgstr "Bình luận"
 
 msgid "Compiler"
-msgstr ""
+msgstr "Trình biên dịch"
 
 msgid "Context"
 msgstr "Ngữ cảnh"
 
 msgid "Converter"
-msgstr ""
+msgstr "Bộ chuyển đổi"
 
 msgid "Copy"
 msgstr "Sao chép"
@@ -143,28 +142,28 @@ msgid "Copy address"
 msgstr "Sao chép địa chỉ"
 
 msgid "Copy as"
-msgstr ""
+msgstr "Sao chép dưới dạng"
 
 msgid "Copy as hex"
 msgstr "Sao chép dưới dạng hex"
 
 msgid "Copy cursor address"
-msgstr ""
+msgstr "Sao chép địa chỉ con trỏ"
 
 msgid "Copy cursor offset"
-msgstr ""
+msgstr "Sao chép bù đắp con trỏ"
 
 msgid "Copy filename"
-msgstr ""
+msgstr "Sao chép tên tệp"
 
 msgid "Copy name"
-msgstr ""
+msgstr "Sao chép tên"
 
 msgid "Copy offset"
 msgstr "Sao chép độ lệch"
 
 msgid "Copy signature"
-msgstr ""
+msgstr "Sao chép chữ ký"
 
 msgid "Copy size"
 msgstr "Sao chép kích thước"
@@ -179,46 +178,46 @@ msgid "Create view model"
 msgstr "Tạo mẫu  xem"
 
 msgid "Cryptor"
-msgstr ""
+msgstr "Cryptor"
 
 msgid "Cursor"
 msgstr "Con trỏ"
 
 msgid "Data in code"
-msgstr ""
+msgstr "Dữ liệu trong mã"
 
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
 msgid "Debug"
-msgstr ""
+msgstr "Gỡ lỗi"
 
 msgid "Debug data"
-msgstr ""
+msgstr "Gỡ lỗi dữ liệu"
 
 msgid "Debugger"
-msgstr ""
+msgstr "Trình gỡ lỗi"
 
 msgid "Deep scan"
 msgstr "Quét sâu"
 
 msgid "Default"
-msgstr ""
+msgstr "Vỡ nợ"
 
 msgid "Delay import"
-msgstr ""
+msgstr "Nhập chậm"
 
 msgid "Demangle"
-msgstr ""
+msgstr "Gỡ rối"
 
 msgid "Detach"
-msgstr ""
+msgstr "Tách ra"
 
 msgid "Device scan"
 msgstr "Quét thiết bị"
 
 msgid "Directory"
-msgstr ""
+msgstr "Danh mục"
 
 msgid "Directory scan"
 msgstr "Quét thư mục"
@@ -227,13 +226,13 @@ msgid "Disasm"
 msgstr "Rối loạn"
 
 msgid "Document"
-msgstr ""
+msgstr "Tài liệu"
 
 msgid "Documents"
 msgstr "Tài liệu"
 
 msgid "Donate"
-msgstr ""
+msgstr "Quyên tặng"
 
 msgid "Dump"
 msgstr "Kết xuất"
@@ -260,7 +259,7 @@ msgid "Error"
 msgstr "Lỗi"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "Ngoại lệ"
 
 msgid "Exit"
 msgstr "Thoát"
@@ -269,16 +268,16 @@ msgid "Export"
 msgstr "Trích xuất"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "Xuất tên tệp"
 
 msgid "External references"
-msgstr ""
+msgstr "Tài liệu tham khảo bên ngoài"
 
 msgid "File"
 msgstr "Tập tin"
 
 msgid "File name"
-msgstr ""
+msgstr "Tên tệp"
 
 msgid "File offset"
 msgstr "Khoảng cách đến đầu tập tin"
@@ -305,16 +304,16 @@ msgid "Flags"
 msgstr "Cờ"
 
 msgid "Form"
-msgstr ""
+msgstr "Mẫu đơn"
 
 msgid "Format"
-msgstr ""
+msgstr "Sự sắp xếp"
 
 msgid "Functions"
-msgstr ""
+msgstr "Chức năng"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "General"
 msgstr "Chung"
@@ -329,19 +328,19 @@ msgid "Go to address"
 msgstr "Đi tới địa chỉ"
 
 msgid "Go to entry point"
-msgstr ""
+msgstr "Đi đến điểm nhập cảnh"
 
 msgid "Go to offset"
-msgstr ""
+msgstr "Đi đến bù đắp"
 
 msgid "Group"
-msgstr ""
+msgstr "Tập đoàn"
 
 msgid "Handles"
-msgstr ""
+msgstr "Xử lý"
 
 msgid "Hash"
-msgstr ""
+msgstr "Băm"
 
 msgid "Header"
 msgstr "Tiêu đề"
@@ -356,10 +355,10 @@ msgid "Heuristic scan"
 msgstr "Quét phỏng đoán"
 
 msgid "Hex"
-msgstr ""
+msgstr "Hex"
 
 msgid "Hex signature"
-msgstr ""
+msgstr "Chữ ký hex"
 
 msgid "Image"
 msgstr "Hình ảnh"
@@ -371,7 +370,7 @@ msgid "Import"
 msgstr "Nhập"
 
 msgid "Indirect symbols"
-msgstr ""
+msgstr "Ký hiệu gián tiếp"
 
 msgid "Info"
 msgstr "Thông tin"
@@ -380,22 +379,22 @@ msgid "Information"
 msgstr "Thông tin"
 
 msgid "Installer"
-msgstr ""
+msgstr "Trình cài đặt"
 
 msgid "Installer data"
-msgstr ""
+msgstr "Dữ liệu trình cài đặt"
 
 msgid "Interpreter"
-msgstr ""
+msgstr "Thông dịch viên"
 
 msgid "Invalid"
 msgstr "không hợp lệ"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "Opcode không hợp lệ"
 
 msgid "Issuer"
-msgstr ""
+msgstr "Người phát hành"
 
 msgid "It is not a valid file"
 msgstr "Không phải tập tin hợp lệ"
@@ -404,7 +403,7 @@ msgid "Joiner"
 msgstr "Trình kết hợp"
 
 msgid "Jumps"
-msgstr ""
+msgstr "Nhảy"
 
 msgid "Label"
 msgstr "Nhãn"
@@ -416,34 +415,34 @@ msgid "Language"
 msgstr "Ngôn ngữ"
 
 msgid "Lazy binding"
-msgstr ""
+msgstr "Ràng buộc lười biếng"
 
 msgid "Length"
-msgstr ""
+msgstr "Chiều dài"
 
 msgid "Libraries"
 msgstr "Thư viện"
 
 msgid "Library"
-msgstr ""
+msgstr "Thư viện"
 
 msgid "Library name"
-msgstr ""
+msgstr "Tên thư viện"
 
 msgid "Linker"
-msgstr ""
+msgstr "Người liên kết"
 
 msgid "Load config"
-msgstr ""
+msgstr "Tải cấu hình"
 
 msgid "Local relocation"
-msgstr ""
+msgstr "Di dời địa phương"
 
 msgid "Log"
 msgstr "Nhật ký"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "Manifest"
 msgstr "Xuất hiện"
@@ -458,10 +457,10 @@ msgid "Memory map"
 msgstr "Sơ đồ bộ nhớ"
 
 msgid "Memory scan"
-msgstr ""
+msgstr "Quét bộ nhớ"
 
 msgid "Metadata"
-msgstr ""
+msgstr "metadata"
 
 msgid "Method"
 msgstr "phương pháp"
@@ -470,16 +469,16 @@ msgid "Mode"
 msgstr "Chế độ"
 
 msgid "Modules"
-msgstr ""
+msgstr "Mô-đun"
 
 msgid "More info"
-msgstr ""
+msgstr "Thêm thông tin"
 
 msgid "Name"
 msgstr "Tên"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "Không kết quả"
 
 msgid "OK"
 msgstr "OK"
@@ -491,7 +490,7 @@ msgid "Opcode"
 msgstr "Mã vận hành"
 
 msgid "Opcodes"
-msgstr ""
+msgstr "Opcodes"
 
 msgid "Open"
 msgstr "Mở"
@@ -503,7 +502,7 @@ msgid "Open file"
 msgstr "Mở tập tin"
 
 msgid "Operation system"
-msgstr ""
+msgstr "Hệ điêu hanh"
 
 msgid "Options"
 msgstr "Tùy chọn"
@@ -512,10 +511,10 @@ msgid "Overlay"
 msgstr "Xếp chồng"
 
 msgid "Packer"
-msgstr ""
+msgstr "Người đóng gói"
 
 msgid "Pause"
-msgstr ""
+msgstr "Tạm ngừng"
 
 msgid "Please restart the application"
 msgstr "Vui lòng khởi động lại ứng dụng"
@@ -524,19 +523,19 @@ msgid "Process"
 msgstr "Xử lý"
 
 msgid "Program name"
-msgstr ""
+msgstr "Tên chương trình"
 
 msgid "Programs"
-msgstr ""
+msgstr "Các chương trình"
 
 msgid "Protector"
-msgstr ""
+msgstr "Người bảo vệ"
 
 msgid "Protector data"
-msgstr ""
+msgstr "Dữ liệu người bảo vệ"
 
 msgid "Publisher"
-msgstr ""
+msgstr "Nhà xuất bản"
 
 msgid "Raw data"
 msgstr "Dữ lieu thô"
@@ -548,7 +547,7 @@ msgid "Readonly"
 msgstr "Chỉ đọc"
 
 msgid "Rebase"
-msgstr ""
+msgstr "Rebase"
 
 msgid "Recursive"
 msgstr "Đệ quy"
@@ -557,10 +556,10 @@ msgid "Recursive scan"
 msgstr "Quét đệ quy"
 
 msgid "Ref from"
-msgstr ""
+msgstr "Tham khảo từ"
 
 msgid "Ref to"
-msgstr ""
+msgstr "Tham khảo"
 
 msgid "Regions"
 msgstr "Vùng"
@@ -569,10 +568,10 @@ msgid "Register"
 msgstr "Đăng ký"
 
 msgid "Registers"
-msgstr ""
+msgstr "Đăng ký"
 
 msgid "Relative address"
-msgstr ""
+msgstr "Địa chỉ tương đối"
 
 msgid "Relative virtual address"
 msgstr "Địa chỉ ảo tương đối"
@@ -581,25 +580,25 @@ msgid "Reload"
 msgstr "Tải lại"
 
 msgid "Relocs"
-msgstr ""
+msgstr "Relocs"
 
 msgid "Resources"
 msgstr "Tài nguyên"
 
 msgid "Restart"
-msgstr ""
+msgstr "Khởi động lại"
 
 msgid "Result"
 msgstr "Kết quả"
 
 msgid "Run"
-msgstr ""
+msgstr "Chạy"
 
 msgid "Save"
 msgstr "Lưu"
 
 msgid "Save As"
-msgstr ""
+msgstr "Lưu thành"
 
 msgid "Save backup"
 msgstr "Lưu sao lưu"
@@ -632,7 +631,7 @@ msgid "Search from"
 msgstr "Tìm kiếm từ"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "Tìm kiếm chữ ký"
 
 msgid "Search strings"
 msgstr "Tìm kiếm chuỗi"
@@ -662,28 +661,28 @@ msgid "Selection"
 msgstr "Lựa chọn"
 
 msgid "Serial number"
-msgstr ""
+msgstr "Số seri"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Đường tắt"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "Các phím tắt"
 
 msgid "Show logo"
-msgstr ""
+msgstr "Hiển thị biểu trưng"
 
 msgid "Show options"
-msgstr ""
+msgstr "Hiển thị các tùy chọn"
 
 msgid "Show type"
-msgstr ""
+msgstr "Hiển thị loại"
 
 msgid "Show valid"
-msgstr ""
+msgstr "Hiển thị hợp lệ"
 
 msgid "Show version"
-msgstr ""
+msgstr "Hiển thị phiên bản"
 
 msgid "Sign tool"
 msgstr "Công cụ ký"
@@ -701,7 +700,7 @@ msgid "Size"
 msgstr "Kích thước"
 
 msgid "Size of image"
-msgstr ""
+msgstr "Kích thước của hình ảnh"
 
 msgid "Source code"
 msgstr "Mã nguồn"
@@ -710,7 +709,7 @@ msgid "Spaces"
 msgstr "Khoảng trống"
 
 msgid "Stack"
-msgstr ""
+msgstr "Cây rơm"
 
 msgid "Status"
 msgstr "Trạng thái"
@@ -719,10 +718,10 @@ msgid "Stay on top"
 msgstr "Ở trên đầu"
 
 msgid "Step into"
-msgstr ""
+msgstr "Bước vào"
 
 msgid "Step over"
-msgstr ""
+msgstr "Bước qua"
 
 msgid "Stop"
 msgstr "Dừng"
@@ -731,7 +730,7 @@ msgid "String"
 msgstr "Chuỗi"
 
 msgid "String table"
-msgstr ""
+msgstr "Bảng chuỗi"
 
 msgid "Strings"
 msgstr "Chuỗi"
@@ -743,28 +742,28 @@ msgid "Style"
 msgstr "Kiểu"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "Thư mục con"
 
 msgid "Subject"
-msgstr ""
+msgstr "Chủ thể"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "Bảng ký hiệu"
 
 msgid "Symbols"
-msgstr ""
+msgstr "Ký hiệu"
 
 msgid "Syntax"
-msgstr ""
+msgstr "Cú pháp"
 
 msgid "Table"
-msgstr ""
+msgstr "Bàn"
 
 msgid "Table of contents"
-msgstr ""
+msgstr "Mục lục"
 
 msgid "Text"
-msgstr ""
+msgstr "Chữ"
 
 msgid "Text documents"
 msgstr "Tài liệu văn bản"
@@ -776,34 +775,34 @@ msgid "Thanks"
 msgstr "Cảm ơn"
 
 msgid "The file is not signed"
-msgstr ""
+msgstr "Tệp không được ký"
 
 msgid "The file is signed and the signature was verified"
-msgstr ""
+msgstr "Tệp đã được ký và chữ ký đã được xác minh"
 
 msgid "The signature error"
-msgstr ""
+msgstr "Lỗi chữ ký"
 
 msgid "The signature is present, but not trusted"
-msgstr ""
+msgstr "Chữ ký hiện có, nhưng không đáng tin cậy"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr ""
+msgstr "Chữ ký hiện có, nhưng đặc biệt không được phép"
 
 msgid "Threads"
-msgstr ""
+msgstr "Chủ đề"
 
 msgid "Time date stamp"
-msgstr ""
+msgstr "Dấu ngày tháng"
 
 msgid "To data"
 msgstr "Tới dữ liệu"
 
 msgid "Toggle"
-msgstr ""
+msgstr "Chuyển đổi"
 
 msgid "Tool"
-msgstr ""
+msgstr "Dụng cụ"
 
 msgid "Tools"
 msgstr "Công cụ"
@@ -812,13 +811,13 @@ msgid "Total"
 msgstr "Tổng"
 
 msgid "Tree"
-msgstr ""
+msgstr "Cây"
 
 msgid "Type"
 msgstr "Loại"
 
 msgid "Unknown"
-msgstr ""
+msgstr "không xác định"
 
 msgid "Upper"
 msgstr "Trên"
@@ -830,19 +829,19 @@ msgid "Version"
 msgstr "Phiên bản"
 
 msgid "View"
-msgstr ""
+msgstr "Quan điểm"
 
 msgid "Virtual address"
 msgstr "Địa chỉ ảo"
 
 msgid "Virtual machine"
-msgstr ""
+msgstr "Máy ảo"
 
 msgid "Weak binding"
-msgstr ""
+msgstr "Ràng buộc yếu"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "Ký tự đại diện"
 
 msgid "Write error"
 msgstr "Ghi lỗi"
@@ -857,7 +856,7 @@ msgid "extender"
 msgstr "bộ mở rộng"
 
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 msgid "msec"
 msgstr "mili-giây"
