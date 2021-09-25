@@ -5,7 +5,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_TW\n"
-"X-Source-Language: C\n"
 
 msgid "About"
 msgstr "關於"
@@ -14,13 +13,13 @@ msgid "Action"
 msgstr "行動"
 
 msgid "Actions"
-msgstr ""
+msgstr "行動"
 
 msgid "Address"
 msgstr "位址"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "算法"
 
 msgid "All"
 msgstr "所有"
@@ -44,7 +43,7 @@ msgid "Archive record"
 msgstr "存檔記錄"
 
 msgid "Attach"
-msgstr ""
+msgstr "附"
 
 msgid "Automatic"
 msgstr "自動"
@@ -56,16 +55,16 @@ msgid "Begin"
 msgstr "開始"
 
 msgid "Bind"
-msgstr ""
+msgstr "綁定"
 
 msgid "Binding"
-msgstr ""
+msgstr "捆綁"
 
 msgid "Bound import"
-msgstr ""
+msgstr "綁定導入"
 
 msgid "Breakpoints"
-msgstr ""
+msgstr "斷點"
 
 msgid "Byte"
 msgstr "位元組"
@@ -74,19 +73,19 @@ msgid "Bytes"
 msgstr "位元組"
 
 msgid "CPU"
-msgstr ""
+msgstr "中央處理器"
 
 msgid "Calculate"
 msgstr "計算"
 
 msgid "Call stack"
-msgstr ""
+msgstr "調用棧"
 
 msgid "Callbacks"
-msgstr ""
+msgstr "回調"
 
 msgid "Calls"
-msgstr ""
+msgstr "通話"
 
 msgid "Cancel"
 msgstr "取消"
@@ -101,10 +100,10 @@ msgid "Cannot set shortcut"
 msgstr "無法設置捷徑"
 
 msgid "Certificate"
-msgstr ""
+msgstr "證書"
 
 msgid "Check"
-msgstr ""
+msgstr "查看"
 
 msgid "Check updates"
 msgstr "檢查更新"
@@ -128,13 +127,13 @@ msgid "Comment"
 msgstr "註解"
 
 msgid "Compiler"
-msgstr ""
+msgstr "編譯器"
 
 msgid "Context"
 msgstr "選單關聯"
 
 msgid "Converter"
-msgstr ""
+msgstr "轉換器"
 
 msgid "Copy"
 msgstr "複製"
@@ -143,7 +142,7 @@ msgid "Copy address"
 msgstr "複製位址"
 
 msgid "Copy as"
-msgstr ""
+msgstr "複製為"
 
 msgid "Copy as hex"
 msgstr "複製為十六進制"
@@ -179,13 +178,13 @@ msgid "Create view model"
 msgstr "建立視圖模型"
 
 msgid "Cryptor"
-msgstr ""
+msgstr "加密器"
 
 msgid "Cursor"
 msgstr "目前位址"
 
 msgid "Data in code"
-msgstr ""
+msgstr "代碼中的數據"
 
 msgid "Database"
 msgstr "資料庫"
@@ -194,7 +193,7 @@ msgid "Debug"
 msgstr "除錯"
 
 msgid "Debug data"
-msgstr ""
+msgstr "調試數據"
 
 msgid "Debugger"
 msgstr "除錯器"
@@ -203,16 +202,16 @@ msgid "Deep scan"
 msgstr "深層掃描"
 
 msgid "Default"
-msgstr ""
+msgstr "默認"
 
 msgid "Delay import"
-msgstr ""
+msgstr "延遲導入"
 
 msgid "Demangle"
 msgstr "解構"
 
 msgid "Detach"
-msgstr ""
+msgstr "分離"
 
 msgid "Device scan"
 msgstr "裝置掃描"
@@ -260,19 +259,19 @@ msgid "Error"
 msgstr "錯誤"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "例外"
 
 msgid "Exit"
 msgstr "退出"
 
 msgid "Export"
-msgstr ""
+msgstr "出口"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "導出文件名"
 
 msgid "External references"
-msgstr ""
+msgstr "外部參考"
 
 msgid "File"
 msgstr "檔案"
@@ -308,13 +307,13 @@ msgid "Form"
 msgstr "表單"
 
 msgid "Format"
-msgstr ""
+msgstr "格式"
 
 msgid "Functions"
-msgstr ""
+msgstr "職能"
 
 msgid "GB"
-msgstr ""
+msgstr "國標"
 
 msgid "General"
 msgstr "一般"
@@ -338,7 +337,7 @@ msgid "Group"
 msgstr "組"
 
 msgid "Handles"
-msgstr ""
+msgstr "把手"
 
 msgid "Hash"
 msgstr "雜湊值"
@@ -368,10 +367,10 @@ msgid "Images"
 msgstr "影像"
 
 msgid "Import"
-msgstr ""
+msgstr "進口"
 
 msgid "Indirect symbols"
-msgstr ""
+msgstr "間接符號"
 
 msgid "Info"
 msgstr "資訊"
@@ -380,13 +379,13 @@ msgid "Information"
 msgstr "資訊"
 
 msgid "Installer"
-msgstr ""
+msgstr "安裝程序"
 
 msgid "Installer data"
-msgstr ""
+msgstr "安裝人員數據"
 
 msgid "Interpreter"
-msgstr ""
+msgstr "口譯員"
 
 msgid "Invalid"
 msgstr "無效"
@@ -395,7 +394,7 @@ msgid "Invalid opcode"
 msgstr "無效"
 
 msgid "Issuer"
-msgstr ""
+msgstr "發行人"
 
 msgid "It is not a valid file"
 msgstr "不是有效檔案"
@@ -416,10 +415,10 @@ msgid "Language"
 msgstr "語言"
 
 msgid "Lazy binding"
-msgstr ""
+msgstr "懶惰綁定"
 
 msgid "Length"
-msgstr ""
+msgstr "長度"
 
 msgid "Libraries"
 msgstr "函示庫"
@@ -428,22 +427,22 @@ msgid "Library"
 msgstr "函示庫"
 
 msgid "Library name"
-msgstr ""
+msgstr "圖書館名稱"
 
 msgid "Linker"
-msgstr ""
+msgstr "鏈接器"
 
 msgid "Load config"
-msgstr ""
+msgstr "加載配置"
 
 msgid "Local relocation"
-msgstr ""
+msgstr "本地搬遷"
 
 msgid "Log"
 msgstr "日誌"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "Manifest"
 msgstr "資訊"
@@ -458,10 +457,10 @@ msgid "Memory map"
 msgstr "記憶體區塊"
 
 msgid "Memory scan"
-msgstr ""
+msgstr "內存掃描"
 
 msgid "Metadata"
-msgstr ""
+msgstr "元數據"
 
 msgid "Method"
 msgstr "方法"
@@ -470,10 +469,10 @@ msgid "Mode"
 msgstr "模式"
 
 msgid "Modules"
-msgstr ""
+msgstr "模塊"
 
 msgid "More info"
-msgstr ""
+msgstr "更多信息"
 
 msgid "Name"
 msgstr "名稱"
@@ -488,10 +487,10 @@ msgid "Offset"
 msgstr "偏移"
 
 msgid "Opcode"
-msgstr ""
+msgstr "操作碼"
 
 msgid "Opcodes"
-msgstr ""
+msgstr "操作碼"
 
 msgid "Open"
 msgstr "開啟"
@@ -503,19 +502,19 @@ msgid "Open file"
 msgstr "打開檔案"
 
 msgid "Operation system"
-msgstr ""
+msgstr "操作系統"
 
 msgid "Options"
 msgstr "選項"
 
 msgid "Overlay"
-msgstr ""
+msgstr "覆蓋"
 
 msgid "Packer"
-msgstr ""
+msgstr "封隔器"
 
 msgid "Pause"
-msgstr ""
+msgstr "暫停"
 
 msgid "Please restart the application"
 msgstr "請重啟應用程式"
@@ -524,19 +523,19 @@ msgid "Process"
 msgstr "處理"
 
 msgid "Program name"
-msgstr ""
+msgstr "程序名稱"
 
 msgid "Programs"
-msgstr ""
+msgstr "程式"
 
 msgid "Protector"
-msgstr ""
+msgstr "保護者"
 
 msgid "Protector data"
-msgstr ""
+msgstr "保護者數據"
 
 msgid "Publisher"
-msgstr ""
+msgstr "出版商"
 
 msgid "Raw data"
 msgstr "原始資料"
@@ -548,7 +547,7 @@ msgid "Readonly"
 msgstr "唯讀"
 
 msgid "Rebase"
-msgstr ""
+msgstr "變基"
 
 msgid "Recursive"
 msgstr "遞迴"
@@ -569,7 +568,7 @@ msgid "Register"
 msgstr "註冊"
 
 msgid "Registers"
-msgstr ""
+msgstr "寄存器"
 
 msgid "Relative address"
 msgstr "相對位址"
@@ -581,13 +580,13 @@ msgid "Reload"
 msgstr "重新載入"
 
 msgid "Relocs"
-msgstr ""
+msgstr "重新定位"
 
 msgid "Resources"
 msgstr "資源"
 
 msgid "Restart"
-msgstr ""
+msgstr "重新開始"
 
 msgid "Result"
 msgstr "結果"
@@ -599,7 +598,7 @@ msgid "Save"
 msgstr "保存"
 
 msgid "Save As"
-msgstr ""
+msgstr "另存為"
 
 msgid "Save backup"
 msgstr "保存備份"
@@ -638,19 +637,19 @@ msgid "Search strings"
 msgstr "搜索字串"
 
 msgid "Section"
-msgstr ""
+msgstr "部分"
 
 msgid "Section name"
 msgstr "分段名稱"
 
 msgid "Sections"
-msgstr ""
+msgstr "部分"
 
 msgid "Segment"
-msgstr ""
+msgstr "部分"
 
 msgid "Segments"
-msgstr ""
+msgstr "細分市場"
 
 msgid "Select"
 msgstr "選擇"
@@ -662,7 +661,7 @@ msgid "Selection"
 msgstr "選擇"
 
 msgid "Serial number"
-msgstr ""
+msgstr "序列號"
 
 msgid "Shortcut"
 msgstr "捷徑"
@@ -671,7 +670,7 @@ msgid "Shortcuts"
 msgstr "捷徑"
 
 msgid "Show logo"
-msgstr ""
+msgstr "顯示徽標"
 
 msgid "Show options"
 msgstr "選項"
@@ -701,7 +700,7 @@ msgid "Size"
 msgstr "大小"
 
 msgid "Size of image"
-msgstr ""
+msgstr "圖片尺寸"
 
 msgid "Source code"
 msgstr "源代碼"
@@ -710,7 +709,7 @@ msgid "Spaces"
 msgstr "空格"
 
 msgid "Stack"
-msgstr ""
+msgstr "堆"
 
 msgid "Status"
 msgstr "狀態"
@@ -731,7 +730,7 @@ msgid "String"
 msgstr "字串"
 
 msgid "String table"
-msgstr ""
+msgstr "字符串表"
 
 msgid "Strings"
 msgstr "字串"
@@ -746,22 +745,22 @@ msgid "Subdirectories"
 msgstr "子目錄"
 
 msgid "Subject"
-msgstr ""
+msgstr "主題"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "符號表"
 
 msgid "Symbols"
-msgstr ""
+msgstr "符號"
 
 msgid "Syntax"
-msgstr ""
+msgstr "句法"
 
 msgid "Table"
 msgstr "表格"
 
 msgid "Table of contents"
-msgstr ""
+msgstr "目錄"
 
 msgid "Text"
 msgstr "文字"
@@ -776,34 +775,34 @@ msgid "Thanks"
 msgstr "特別感謝"
 
 msgid "The file is not signed"
-msgstr ""
+msgstr "該文件未簽名"
 
 msgid "The file is signed and the signature was verified"
-msgstr ""
+msgstr "文件已簽名並已驗證簽名"
 
 msgid "The signature error"
-msgstr ""
+msgstr "簽名錯誤"
 
 msgid "The signature is present, but not trusted"
-msgstr ""
+msgstr "簽名存在，但不受信任"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr ""
+msgstr "簽名存在，但明確不允許"
 
 msgid "Threads"
-msgstr ""
+msgstr "線程"
 
 msgid "Time date stamp"
-msgstr ""
+msgstr "時間日期戳"
 
 msgid "To data"
 msgstr "到資料"
 
 msgid "Toggle"
-msgstr ""
+msgstr "切換"
 
 msgid "Tool"
-msgstr ""
+msgstr "工具"
 
 msgid "Tools"
 msgstr "工具"
@@ -818,7 +817,7 @@ msgid "Type"
 msgstr "類型"
 
 msgid "Unknown"
-msgstr ""
+msgstr "未知"
 
 msgid "Upper"
 msgstr "大寫"
@@ -830,16 +829,16 @@ msgid "Version"
 msgstr "版本"
 
 msgid "View"
-msgstr ""
+msgstr "看法"
 
 msgid "Virtual address"
 msgstr "虛擬位址"
 
 msgid "Virtual machine"
-msgstr ""
+msgstr "虛擬機"
 
 msgid "Weak binding"
-msgstr ""
+msgstr "弱綁定"
 
 msgid "Wildcard"
 msgstr "任意符號"
@@ -857,7 +856,7 @@ msgid "extender"
 msgstr "擴展器"
 
 msgid "kB"
-msgstr ""
+msgstr "千字節"
 
 msgid "msec"
 msgstr "毫秒"
