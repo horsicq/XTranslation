@@ -7,6 +7,7 @@ Translation for:
 * XELFViewer: https://github.com/horsicq/XELFViewer
 * XPEViewer: https://github.com/horsicq/XPEViewer
 * XMACHOViewer: https://github.com/horsicq/XMACHOViewer
+* PDBRipper: https://github.com/horsicq/PDBRipper
 
 | Language | % |
 | --- | --- |
