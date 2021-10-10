@@ -7,6 +7,18 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru_RU\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "О программе"
 
@@ -34,6 +46,9 @@ msgstr "Анализировать"
 msgid "Appearance"
 msgstr "Внешний вид"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "Архитектура"
 
@@ -60,6 +75,12 @@ msgstr "Связывать"
 
 msgid "Binding"
 msgstr "Привязка"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "Связанный импорт"
@@ -129,6 +150,9 @@ msgstr "Комментарий"
 
 msgid "Compiler"
 msgstr "Компилятор"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "Контекст"
@@ -234,6 +258,9 @@ msgstr "Документы"
 
 msgid "Donate"
 msgstr "Спонсировать"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "Дамп"
@@ -370,6 +397,9 @@ msgstr "Образы"
 msgid "Import"
 msgstr "Импорт"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "Косвенные символы"
 
@@ -454,6 +484,9 @@ msgstr "Учитывать регистр"
 msgid "Maximum"
 msgstr "Максимум"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "Карта памяти"
 
@@ -520,6 +553,9 @@ msgstr "Пауза"
 msgid "Please restart the application"
 msgstr "Пожалуйста перезапустите приложение"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "Процесс"
 
@@ -562,6 +598,9 @@ msgstr "Ссылка из"
 msgid "Ref to"
 msgstr "Ссылка в"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "Регионы"
 
@@ -594,6 +633,9 @@ msgstr "Результат"
 
 msgid "Run"
 msgstr "Запустить"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "Сохранить"
@@ -736,6 +778,9 @@ msgstr "Таблица строк"
 msgid "Strings"
 msgstr "Строки"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "Заглушка"
 
@@ -831,6 +876,9 @@ msgstr "Версия"
 
 msgid "View"
 msgstr "Вид"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "Виртуальный адрес"

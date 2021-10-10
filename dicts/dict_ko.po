@@ -6,6 +6,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: ko_KR\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "정보"
 
@@ -33,6 +45,9 @@ msgstr "분석"
 msgid "Appearance"
 msgstr "모양"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "아키텍처"
 
@@ -59,6 +74,12 @@ msgstr "묶다"
 
 msgid "Binding"
 msgstr "제본"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "바인딩된 가져오기"
@@ -128,6 +149,9 @@ msgstr "논평"
 
 msgid "Compiler"
 msgstr "컴파일러"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "컨텍스트 메뉴"
@@ -233,6 +257,9 @@ msgstr "문서"
 
 msgid "Donate"
 msgstr "기부"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "덤프"
@@ -369,6 +396,9 @@ msgstr "이미지"
 msgid "Import"
 msgstr "가져오기"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "간접 기호"
 
@@ -453,6 +483,9 @@ msgstr "대소 문자 구분"
 msgid "Maximum"
 msgstr "최대"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "메모리 맵"
 
@@ -519,6 +552,9 @@ msgstr "정지시키다"
 msgid "Please restart the application"
 msgstr "프로그램을 재시작하세요"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "프로세스"
 
@@ -561,6 +597,9 @@ msgstr "다음에서 참조"
 msgid "Ref to"
 msgstr "다음으로 참조"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "영역"
 
@@ -593,6 +632,9 @@ msgstr "결과"
 
 msgid "Run"
 msgstr "운영"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "저장"
@@ -735,6 +777,9 @@ msgstr "문자열 테이블"
 msgid "Strings"
 msgstr "문자열"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "스텁"
 
@@ -830,6 +875,9 @@ msgstr "버전"
 
 msgid "View"
 msgstr "보다"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "가상 주소"

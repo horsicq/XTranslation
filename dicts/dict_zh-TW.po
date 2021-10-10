@@ -6,6 +6,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_TW\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "關於"
 
@@ -33,6 +45,9 @@ msgstr "分析"
 msgid "Appearance"
 msgstr "外觀"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "架構"
 
@@ -59,6 +74,12 @@ msgstr "綁定"
 
 msgid "Binding"
 msgstr "捆綁"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "綁定導入"
@@ -128,6 +149,9 @@ msgstr "註解"
 
 msgid "Compiler"
 msgstr "編譯器"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "選單關聯"
@@ -233,6 +257,9 @@ msgstr "檔案"
 
 msgid "Donate"
 msgstr "贊助"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "轉存"
@@ -369,6 +396,9 @@ msgstr "影像"
 msgid "Import"
 msgstr "進口"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "間接符號"
 
@@ -453,6 +483,9 @@ msgstr "區分大小寫"
 msgid "Maximum"
 msgstr "最大值"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "記憶體區塊"
 
@@ -519,6 +552,9 @@ msgstr "暫停"
 msgid "Please restart the application"
 msgstr "請重啟應用程式"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "處理"
 
@@ -561,6 +597,9 @@ msgstr "從何堤及"
 msgid "Ref to"
 msgstr "提及於"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "區域"
 
@@ -593,6 +632,9 @@ msgstr "結果"
 
 msgid "Run"
 msgstr "執行"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "保存"
@@ -735,6 +777,9 @@ msgstr "字符串表"
 msgid "Strings"
 msgstr "字串"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "根"
 
@@ -830,6 +875,9 @@ msgstr "版本"
 
 msgid "View"
 msgstr "看法"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "虛擬位址"

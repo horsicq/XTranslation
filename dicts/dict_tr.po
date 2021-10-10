@@ -6,6 +6,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: tr_TR\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "Hakkında"
 
@@ -33,6 +45,9 @@ msgstr "Analiz"
 msgid "Appearance"
 msgstr "Görünüm"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "Mimari"
 
@@ -59,6 +74,12 @@ msgstr "bağla"
 
 msgid "Binding"
 msgstr "bağlama"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "Bağlı içe aktarma"
@@ -128,6 +149,9 @@ msgstr "Yorum Yap"
 
 msgid "Compiler"
 msgstr "Derleyici"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "İçerik"
@@ -233,6 +257,9 @@ msgstr "Belgeler"
 
 msgid "Donate"
 msgstr "Bağış yap"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "Dump (dök)"
@@ -369,6 +396,9 @@ msgstr "İmajlar"
 msgid "Import"
 msgstr "İçe al"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "Dolaylı semboller"
 
@@ -453,6 +483,9 @@ msgstr "Büyük / küçük harf eşleştir"
 msgid "Maximum"
 msgstr "Maksimum"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "Hafıza haritası"
 
@@ -519,6 +552,9 @@ msgstr "Duraklat"
 msgid "Please restart the application"
 msgstr "Lütfen uygulamya tekrar başlatın"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "İşlem"
 
@@ -561,6 +597,9 @@ msgstr "Referanstan"
 msgid "Ref to"
 msgstr "Referansa"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "Bölge"
 
@@ -593,6 +632,9 @@ msgstr "Sonuç"
 
 msgid "Run"
 msgstr "Çalıştırmak"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "Kaydet"
@@ -735,6 +777,9 @@ msgstr "dize tablosu"
 msgid "Strings"
 msgstr "Kelimeler"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "Taslak"
 
@@ -830,6 +875,9 @@ msgstr "Versiyon"
 
 msgid "View"
 msgstr "görüş"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "Sanal adres"

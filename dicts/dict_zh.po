@@ -6,6 +6,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_CN\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "关于"
 
@@ -33,6 +45,9 @@ msgstr "分析"
 msgid "Appearance"
 msgstr "外观"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "体系结构"
 
@@ -59,6 +74,12 @@ msgstr "绑定"
 
 msgid "Binding"
 msgstr "捆绑"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "绑定导入"
@@ -128,6 +149,9 @@ msgstr "注释"
 
 msgid "Compiler"
 msgstr "编译器"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "上下文"
@@ -233,6 +257,9 @@ msgstr "文档"
 
 msgid "Donate"
 msgstr "捐赠"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "转储"
@@ -369,6 +396,9 @@ msgstr "图像"
 msgid "Import"
 msgstr "导入表"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "间接符号"
 
@@ -453,6 +483,9 @@ msgstr "区分大小写"
 msgid "Maximum"
 msgstr "最大值"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "内存映射"
 
@@ -519,6 +552,9 @@ msgstr "暂停"
 msgid "Please restart the application"
 msgstr "请重启应用程序"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "处理"
 
@@ -561,6 +597,9 @@ msgstr "参考来源"
 msgid "Ref to"
 msgstr "请参阅"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "区域"
 
@@ -593,6 +632,9 @@ msgstr "结果"
 
 msgid "Run"
 msgstr "运行"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "保存"
@@ -735,6 +777,9 @@ msgstr "字符串表"
 msgid "Strings"
 msgstr "字符串"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "末节区域"
 
@@ -830,6 +875,9 @@ msgstr "版本"
 
 msgid "View"
 msgstr "看法"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "虚拟地址"

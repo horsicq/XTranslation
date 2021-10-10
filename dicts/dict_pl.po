@@ -7,6 +7,18 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Language: pl_PL\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "O programie"
 
@@ -34,6 +46,9 @@ msgstr "Analizować"
 msgid "Appearance"
 msgstr "Interfejs"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "Architektura"
 
@@ -60,6 +75,12 @@ msgstr "Wiązać"
 
 msgid "Binding"
 msgstr "Wiążący"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "Związany import"
@@ -129,6 +150,9 @@ msgstr "Komentarz"
 
 msgid "Compiler"
 msgstr "Kompilator"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "Menu systemu"
@@ -234,6 +258,9 @@ msgstr "Dokumenty"
 
 msgid "Donate"
 msgstr "Podarować"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "Zrzut"
@@ -370,6 +397,9 @@ msgstr "Obrazy"
 msgid "Import"
 msgstr "Import"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "Symbole pośrednie"
 
@@ -454,6 +484,9 @@ msgstr "Uwzględniaj wielkość liter"
 msgid "Maximum"
 msgstr "Maksymalny"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "Mapa pamięci"
 
@@ -520,6 +553,9 @@ msgstr "Pauza"
 msgid "Please restart the application"
 msgstr "Uruchom ponownie aplikację"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "Proces"
 
@@ -562,6 +598,9 @@ msgstr "Odniesienie z"
 msgid "Ref to"
 msgstr "Odnieś się do"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "Regiony"
 
@@ -594,6 +633,9 @@ msgstr "Wynik"
 
 msgid "Run"
 msgstr "Biegać"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "Zapisz"
@@ -736,6 +778,9 @@ msgstr "Tabela ciągów"
 msgid "Strings"
 msgstr "Smyczki"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "Pień"
 
@@ -831,6 +876,9 @@ msgstr "Wersja"
 
 msgid "View"
 msgstr "Pogląd"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "Adres wirtualny"

@@ -7,6 +7,18 @@ msgstr ""
 "&& n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
 "X-Language: ar_EG\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "عن"
 
@@ -34,6 +46,9 @@ msgstr "حلل"
 msgid "Appearance"
 msgstr "مظهر خارجي"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "هندسة معمارية"
 
@@ -60,6 +75,12 @@ msgstr "ربط"
 
 msgid "Binding"
 msgstr "ربط"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "استيراد منضم"
@@ -129,6 +150,9 @@ msgstr "تعليق"
 
 msgid "Compiler"
 msgstr "مترجم"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "مفهوم"
@@ -234,6 +258,9 @@ msgstr "وثائق"
 
 msgid "Donate"
 msgstr "يتبرع"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "أحمق"
@@ -370,6 +397,9 @@ msgstr "الصور"
 msgid "Import"
 msgstr "يستورد"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "الرموز غير المباشرة"
 
@@ -454,6 +484,9 @@ msgstr "حالة مباراة"
 msgid "Maximum"
 msgstr "أقصى"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "خريطة الذاكرة"
 
@@ -520,6 +553,9 @@ msgstr "يوقف"
 msgid "Please restart the application"
 msgstr "الرجاء إعادة تشغيل التطبيق"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "معالجة"
 
@@ -562,6 +598,9 @@ msgstr "المرجع من"
 msgid "Ref to"
 msgstr "المرجع"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "المناطق"
 
@@ -594,6 +633,9 @@ msgstr "نتيجة"
 
 msgid "Run"
 msgstr "يركض"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "يحفظ"
@@ -736,6 +778,9 @@ msgstr "جدول سلسلة"
 msgid "Strings"
 msgstr "سلاسل"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "كعب"
 
@@ -831,6 +876,9 @@ msgstr "إصدار"
 
 msgid "View"
 msgstr "رأي"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "عنوان افتراضي"

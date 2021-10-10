@@ -6,6 +6,18 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: id_ID\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "Tentang"
 
@@ -33,6 +45,9 @@ msgstr "Analisa"
 msgid "Appearance"
 msgstr "Penampilan"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "Arsitektur"
 
@@ -59,6 +74,12 @@ msgstr "Mengikat"
 
 msgid "Binding"
 msgstr "Mengikat"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "Impor terikat"
@@ -128,6 +149,9 @@ msgstr "Komentar"
 
 msgid "Compiler"
 msgstr "Penyusun"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "Konteks"
@@ -233,6 +257,9 @@ msgstr "Dokumen"
 
 msgid "Donate"
 msgstr "Donasi"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "Buang"
@@ -369,6 +396,9 @@ msgstr "Gambar"
 msgid "Import"
 msgstr "Impor"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "Simbol tidak langsung"
 
@@ -453,6 +483,9 @@ msgstr "Kecocokan kasus"
 msgid "Maximum"
 msgstr "Maksimum"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "Peta memori"
 
@@ -519,6 +552,9 @@ msgstr "Berhenti sebentar"
 msgid "Please restart the application"
 msgstr "Silahkan mulai ulang aplikasi"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "Proses"
 
@@ -561,6 +597,9 @@ msgstr "Formulir ref"
 msgid "Ref to"
 msgstr "Ref ke"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "Region"
 
@@ -593,6 +632,9 @@ msgstr "Hasil"
 
 msgid "Run"
 msgstr "Lari"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "Simpan"
@@ -735,6 +777,9 @@ msgstr "tabel string"
 msgid "Strings"
 msgstr "String"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "Potongan"
 
@@ -830,6 +875,9 @@ msgstr "Versi"
 
 msgid "View"
 msgstr "Melihat"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "Alamat virtual"

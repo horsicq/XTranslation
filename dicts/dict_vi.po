@@ -6,6 +6,18 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: vi_VN\n"
 
+msgid "16-bit"
+msgstr ""
+
+msgid "32-bit"
+msgstr ""
+
+msgid "64-bit"
+msgstr ""
+
+msgid "8-bit"
+msgstr ""
+
 msgid "About"
 msgstr "Giới thiệu"
 
@@ -33,6 +45,9 @@ msgstr "Phân tích"
 msgid "Appearance"
 msgstr "Giao diện"
 
+msgid "Application"
+msgstr ""
+
 msgid "Architecture"
 msgstr "Kiến trúc"
 
@@ -59,6 +74,12 @@ msgstr "Trói buộc"
 
 msgid "Binding"
 msgstr "Ràng buộc"
+
+msgid "Boot application"
+msgstr ""
+
+msgid "Boot service driver"
+msgstr ""
 
 msgid "Bound import"
 msgstr "Nhập khẩu ràng buộc"
@@ -128,6 +149,9 @@ msgstr "Bình luận"
 
 msgid "Compiler"
 msgstr "Trình biên dịch"
+
+msgid "Console"
+msgstr ""
 
 msgid "Context"
 msgstr "Ngữ cảnh"
@@ -233,6 +257,9 @@ msgstr "Tài liệu"
 
 msgid "Donate"
 msgstr "Quyên tặng"
+
+msgid "Driver"
+msgstr ""
 
 msgid "Dump"
 msgstr "Kết xuất"
@@ -369,6 +396,9 @@ msgstr "Hình ảnh"
 msgid "Import"
 msgstr "Nhập"
 
+msgid "Import hash"
+msgstr ""
+
 msgid "Indirect symbols"
 msgstr "Ký hiệu gián tiếp"
 
@@ -453,6 +483,9 @@ msgstr "Đúng với mẫu"
 msgid "Maximum"
 msgstr "Tối đa"
 
+msgid "Memory"
+msgstr ""
+
 msgid "Memory map"
 msgstr "Sơ đồ bộ nhớ"
 
@@ -519,6 +552,9 @@ msgstr "Tạm ngừng"
 msgid "Please restart the application"
 msgstr "Vui lòng khởi động lại ứng dụng"
 
+msgid "Print"
+msgstr ""
+
 msgid "Process"
 msgstr "Xử lý"
 
@@ -561,6 +597,9 @@ msgstr "Tham khảo từ"
 msgid "Ref to"
 msgstr "Tham khảo"
 
+msgid "Region"
+msgstr ""
+
 msgid "Regions"
 msgstr "Vùng"
 
@@ -593,6 +632,9 @@ msgstr "Kết quả"
 
 msgid "Run"
 msgstr "Chạy"
+
+msgid "Runtime driver"
+msgstr ""
 
 msgid "Save"
 msgstr "Lưu"
@@ -735,6 +777,9 @@ msgstr "Bảng chuỗi"
 msgid "Strings"
 msgstr "Chuỗi"
 
+msgid "Structs"
+msgstr ""
+
 msgid "Stub"
 msgstr "Stub"
 
@@ -830,6 +875,9 @@ msgstr "Phiên bản"
 
 msgid "View"
 msgstr "Quan điểm"
+
+msgid "Viewer"
+msgstr ""
 
 msgid "Virtual address"
 msgstr "Địa chỉ ảo"
