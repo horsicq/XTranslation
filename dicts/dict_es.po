@@ -7,16 +7,16 @@ msgstr ""
 "X-Language: es_ES\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16 bits"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32 bits"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64 bits"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8 bits"
 
 msgid "About"
 msgstr "Acerca de"
@@ -28,7 +28,7 @@ msgid "Actions"
 msgstr "Acciones"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "Agregar alineación"
 
 msgid "Address"
 msgstr "Dirección"
@@ -49,7 +49,7 @@ msgid "Appearance"
 msgstr "Apariencia"
 
 msgid "Application"
-msgstr ""
+msgstr "Solicitud"
 
 msgid "Architecture"
 msgstr "Arquitectura"
@@ -61,7 +61,7 @@ msgid "Archive record"
 msgstr "Registro de archivo"
 
 msgid "Array"
-msgstr ""
+msgstr "Formación"
 
 msgid "Attach"
 msgstr "Adjuntar"
@@ -82,10 +82,10 @@ msgid "Binding"
 msgstr "Enlace"
 
 msgid "Boot application"
-msgstr ""
+msgstr "Aplicación de arranque"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "Controlador de servicio de arranque"
 
 msgid "Bound import"
 msgstr "Importación vinculada"
@@ -118,28 +118,28 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "No se puede obtener la edad de PDB"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "No se puede obtener el nombre de PDB"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "No se pueden cargar datos desde PDB"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "No se puede cargar el archivo"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "No se puede cargar la biblioteca de msdia"
 
 msgid "Cannot open file"
 msgstr "No se puede abrir el archivo"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "No se puede abrir la sesión"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "No se puede leer la memoria en la dirección"
 
 msgid "Cannot save file"
 msgstr "No se puede guardar el archivo"
@@ -178,7 +178,7 @@ msgid "Compiler"
 msgstr "Compilador"
 
 msgid "Console"
-msgstr ""
+msgstr "Consola"
 
 msgid "Context"
 msgstr "Contexto"
@@ -262,7 +262,7 @@ msgid "Demangle"
 msgstr "Demangle"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependencias"
 
 msgid "Detach"
 msgstr "Separar"
@@ -289,7 +289,7 @@ msgid "Donate"
 msgstr "Donar"
 
 msgid "Driver"
-msgstr ""
+msgstr "Conductor"
 
 msgid "Dump"
 msgstr "Volcar"
@@ -328,7 +328,7 @@ msgid "Export File Name"
 msgstr "Exportar nombre de archivo"
 
 msgid "Export type"
-msgstr ""
+msgstr "Tipo de exportación"
 
 msgid "External references"
 msgstr "Referencias externas"
@@ -343,7 +343,7 @@ msgid "File offset"
 msgstr "Desplazamiento en archivo"
 
 msgid "File saved"
-msgstr ""
+msgstr "Archivo guardado"
 
 msgid "File scan"
 msgstr "Escanear archivos"
@@ -355,7 +355,7 @@ msgid "Filename"
 msgstr "Nombre del archivo"
 
 msgid "Files"
-msgstr ""
+msgstr "Archivos"
 
 msgid "Filter"
 msgstr "Filtrar"
@@ -367,10 +367,10 @@ msgid "Find next"
 msgstr "Buscar siguiente"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "Corregir compensaciones"
 
 msgid "Fix types"
-msgstr ""
+msgstr "Tipos de arreglos"
 
 msgid "Flags"
 msgstr "Banderas"
@@ -394,7 +394,7 @@ msgid "Generic"
 msgstr "Genérico"
 
 msgid "Get element"
-msgstr ""
+msgstr "Obtener elemento"
 
 msgid "Go to"
 msgstr "Ir a"
@@ -445,7 +445,7 @@ msgid "Import"
 msgstr "Importar"
 
 msgid "Import hash"
-msgstr ""
+msgstr "Importar hash"
 
 msgid "Indirect symbols"
 msgstr "Símbolos indirectos"
@@ -523,7 +523,7 @@ msgid "MB"
 msgstr "MB"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "Ventana principal"
 
 msgid "Manifest"
 msgstr "Manifiesto"
@@ -535,7 +535,7 @@ msgid "Maximum"
 msgstr "Máximo"
 
 msgid "Memory"
-msgstr ""
+msgstr "Memoria"
 
 msgid "Memory map"
 msgstr "Mapa de memoria"
@@ -562,7 +562,7 @@ msgid "Name"
 msgstr "Nombre"
 
 msgid "No"
-msgstr ""
+msgstr "No"
 
 msgid "Nothing found"
 msgstr "No se ha encontrado nada"
@@ -607,19 +607,19 @@ msgid "Please restart the application"
 msgstr "Por favor, reinicie la aplicación"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "Ejecute el programa como administrador"
 
 msgid "Pointer"
-msgstr ""
+msgstr "Puntero"
 
 msgid "Print"
-msgstr ""
+msgstr "Impresión"
 
 msgid "Process"
 msgstr "Proceso"
 
 msgid "Processes"
-msgstr ""
+msgstr "Procesos"
 
 msgid "Program name"
 msgstr "Nombre del programa"
@@ -634,13 +634,13 @@ msgid "Protector data"
 msgstr "Datos del protector"
 
 msgid "Prototype"
-msgstr ""
+msgstr "Prototipo"
 
 msgid "Publisher"
 msgstr "Editor"
 
 msgid "Quit"
-msgstr ""
+msgstr "Dejar"
 
 msgid "Raw data"
 msgstr "Datos raw"
@@ -667,7 +667,7 @@ msgid "Ref to"
 msgstr "Referencia a"
 
 msgid "Region"
-msgstr ""
+msgstr "Región"
 
 msgid "Regions"
 msgstr "Regiones"
@@ -703,7 +703,7 @@ msgid "Run"
 msgstr "Ejecutar"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "Controlador de tiempo de ejecución"
 
 msgid "Save"
 msgstr "Guardar"
@@ -781,7 +781,7 @@ msgid "Shortcuts"
 msgstr "Atajos"
 
 msgid "Show comments"
-msgstr ""
+msgstr "Mostrar comentarios"
 
 msgid "Show logo"
 msgstr "Mostrar logo"
@@ -817,10 +817,10 @@ msgid "Size of image"
 msgstr "Tamaño de la imagen"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "Ordenar elementos"
 
 msgid "Sort type"
-msgstr ""
+msgstr "Tipo de clasificación"
 
 msgid "Source code"
 msgstr "Código fuente"
@@ -856,10 +856,10 @@ msgid "Strings"
 msgstr "Textos"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "Estructura y uniones"
 
 msgid "Structs"
-msgstr ""
+msgstr "Estructuras"
 
 msgid "Stub"
 msgstr "Stub"
@@ -874,7 +874,7 @@ msgid "Subject"
 msgstr "Asunto"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Símbolo"
 
 msgid "Symbol table"
 msgstr "Tabla de símbolos"
@@ -955,7 +955,7 @@ msgid "Value"
 msgstr "Valor"
 
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 msgid "Version"
 msgstr "Versión"
@@ -964,7 +964,7 @@ msgid "View"
 msgstr "Vista"
 
 msgid "Viewer"
-msgstr ""
+msgstr "Espectador"
 
 msgid "Virtual address"
 msgstr "Dirección virtual"
