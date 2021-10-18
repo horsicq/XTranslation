@@ -7,16 +7,16 @@ msgstr ""
 "X-Language: ko_KR\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16비트"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32비트"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64비트"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8비트"
 
 msgid "About"
 msgstr "정보"
@@ -28,7 +28,7 @@ msgid "Actions"
 msgstr "행위"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "정렬 추가"
 
 msgid "Address"
 msgstr "주소"
@@ -49,7 +49,7 @@ msgid "Appearance"
 msgstr "모양"
 
 msgid "Application"
-msgstr ""
+msgstr "애플리케이션"
 
 msgid "Architecture"
 msgstr "아키텍처"
@@ -61,7 +61,7 @@ msgid "Archive record"
 msgstr "아카이브 레코드"
 
 msgid "Array"
-msgstr ""
+msgstr "정렬"
 
 msgid "Attach"
 msgstr "붙이다"
@@ -82,10 +82,10 @@ msgid "Binding"
 msgstr "제본"
 
 msgid "Boot application"
-msgstr ""
+msgstr "부팅 응용 프로그램"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "부팅 서비스 드라이버"
 
 msgid "Bound import"
 msgstr "바인딩된 가져오기"
@@ -118,28 +118,28 @@ msgid "Cancel"
 msgstr "취소"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "PDB 연령을 가져올 수 없습니다."
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "PDB 이름을 가져올 수 없습니다."
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "PDB에서 데이터를 로드할 수 없습니다."
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "파일을 로드할 수 없습니다"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "msdia 라이브러리를 로드할 수 없습니다."
 
 msgid "Cannot open file"
 msgstr "파일을 열 수 없습니다"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "세션을 열 수 없습니다"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "주소에서 메모리를 읽을 수 없습니다."
 
 msgid "Cannot save file"
 msgstr "파일을 저장할 수 없습니다"
@@ -178,7 +178,7 @@ msgid "Compiler"
 msgstr "컴파일러"
 
 msgid "Console"
-msgstr ""
+msgstr "콘솔"
 
 msgid "Context"
 msgstr "컨텍스트 메뉴"
@@ -262,7 +262,7 @@ msgid "Demangle"
 msgstr "디망글"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "종속성"
 
 msgid "Detach"
 msgstr "분리하다"
@@ -289,7 +289,7 @@ msgid "Donate"
 msgstr "기부"
 
 msgid "Driver"
-msgstr ""
+msgstr "운전사"
 
 msgid "Dump"
 msgstr "덤프"
@@ -328,7 +328,7 @@ msgid "Export File Name"
 msgstr "내보내기 파일 이름"
 
 msgid "Export type"
-msgstr ""
+msgstr "내보내기 유형"
 
 msgid "External references"
 msgstr "외부 참조"
@@ -343,7 +343,7 @@ msgid "File offset"
 msgstr "파일 오프셋"
 
 msgid "File saved"
-msgstr ""
+msgstr "파일이 저장됨"
 
 msgid "File scan"
 msgstr "파일 검색"
@@ -355,7 +355,7 @@ msgid "Filename"
 msgstr "파일 이름"
 
 msgid "Files"
-msgstr ""
+msgstr "파일"
 
 msgid "Filter"
 msgstr "필터"
@@ -367,10 +367,10 @@ msgid "Find next"
 msgstr "다음 찾기"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "오프셋 수정"
 
 msgid "Fix types"
-msgstr ""
+msgstr "유형 수정"
 
 msgid "Flags"
 msgstr "Flags"
@@ -394,7 +394,7 @@ msgid "Generic"
 msgstr "일반"
 
 msgid "Get element"
-msgstr ""
+msgstr "요소 가져오기"
 
 msgid "Go to"
 msgstr "이동"
@@ -445,7 +445,7 @@ msgid "Import"
 msgstr "가져오기"
 
 msgid "Import hash"
-msgstr ""
+msgstr "해시 가져오기"
 
 msgid "Indirect symbols"
 msgstr "간접 기호"
@@ -523,7 +523,7 @@ msgid "MB"
 msgstr "메가바이트"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "메인 윈도우"
 
 msgid "Manifest"
 msgstr "Manifest"
@@ -535,7 +535,7 @@ msgid "Maximum"
 msgstr "최대"
 
 msgid "Memory"
-msgstr ""
+msgstr "메모리"
 
 msgid "Memory map"
 msgstr "메모리 맵"
@@ -562,7 +562,7 @@ msgid "Name"
 msgstr "이름"
 
 msgid "No"
-msgstr ""
+msgstr "아니요"
 
 msgid "Nothing found"
 msgstr "아무것도 찾을 수 없음"
@@ -607,19 +607,19 @@ msgid "Please restart the application"
 msgstr "프로그램을 재시작하세요"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "프로그램을 관리자로 실행하십시오"
 
 msgid "Pointer"
-msgstr ""
+msgstr "바늘"
 
 msgid "Print"
-msgstr ""
+msgstr "인쇄"
 
 msgid "Process"
 msgstr "프로세스"
 
 msgid "Processes"
-msgstr ""
+msgstr "프로세스"
 
 msgid "Program name"
 msgstr "프로그램 이름"
@@ -634,13 +634,13 @@ msgid "Protector data"
 msgstr "프로텍터 데이터"
 
 msgid "Prototype"
-msgstr ""
+msgstr "원기"
 
 msgid "Publisher"
 msgstr "발행자"
 
 msgid "Quit"
-msgstr ""
+msgstr "그만두 다"
 
 msgid "Raw data"
 msgstr "로우 데이터"
@@ -667,7 +667,7 @@ msgid "Ref to"
 msgstr "다음으로 참조"
 
 msgid "Region"
-msgstr ""
+msgstr "지역"
 
 msgid "Regions"
 msgstr "영역"
@@ -703,7 +703,7 @@ msgid "Run"
 msgstr "운영"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "런타임 드라이버"
 
 msgid "Save"
 msgstr "저장"
@@ -781,7 +781,7 @@ msgid "Shortcuts"
 msgstr "바로가기"
 
 msgid "Show comments"
-msgstr ""
+msgstr "댓글 표시"
 
 msgid "Show logo"
 msgstr "로고 표시"
@@ -817,10 +817,10 @@ msgid "Size of image"
 msgstr "이미지 크기"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "요소 정렬"
 
 msgid "Sort type"
-msgstr ""
+msgstr "정렬 유형"
 
 msgid "Source code"
 msgstr "소스 코드"
@@ -856,10 +856,10 @@ msgid "Strings"
 msgstr "문자열"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "구조체와 공용체"
 
 msgid "Structs"
-msgstr ""
+msgstr "구조체"
 
 msgid "Stub"
 msgstr "스텁"
@@ -874,7 +874,7 @@ msgid "Subject"
 msgstr "주제"
 
 msgid "Symbol"
-msgstr ""
+msgstr "상징"
 
 msgid "Symbol table"
 msgstr "기호 테이블"
@@ -955,7 +955,7 @@ msgid "Value"
 msgstr "값"
 
 msgid "Variable"
-msgstr ""
+msgstr "변하기 쉬운"
 
 msgid "Version"
 msgstr "버전"
@@ -964,7 +964,7 @@ msgid "View"
 msgstr "보다"
 
 msgid "Viewer"
-msgstr ""
+msgstr "뷰어"
 
 msgid "Virtual address"
 msgstr "가상 주소"

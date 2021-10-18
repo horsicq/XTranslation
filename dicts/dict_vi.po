@@ -7,16 +7,16 @@ msgstr ""
 "X-Language: vi_VN\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16-bit"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32-bit"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64-bit"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8 bit"
 
 msgid "About"
 msgstr "Giới thiệu"
@@ -28,7 +28,7 @@ msgid "Actions"
 msgstr "Hành động"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "Thêm căn chỉnh"
 
 msgid "Address"
 msgstr "Địa chỉ"
@@ -49,7 +49,7 @@ msgid "Appearance"
 msgstr "Giao diện"
 
 msgid "Application"
-msgstr ""
+msgstr "Ứng dụng"
 
 msgid "Architecture"
 msgstr "Kiến trúc"
@@ -61,7 +61,7 @@ msgid "Archive record"
 msgstr "Bản ghi lưu trữ"
 
 msgid "Array"
-msgstr ""
+msgstr "Mảng"
 
 msgid "Attach"
 msgstr "Gắn"
@@ -82,10 +82,10 @@ msgid "Binding"
 msgstr "Ràng buộc"
 
 msgid "Boot application"
-msgstr ""
+msgstr "Khởi động ứng dụng"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "Khởi động trình điều khiển dịch vụ"
 
 msgid "Bound import"
 msgstr "Nhập khẩu ràng buộc"
@@ -118,28 +118,28 @@ msgid "Cancel"
 msgstr "Hủy"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "Không thể nhận PDB tuổi"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "Không thể lấy tên PDB"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "Không thể tải dữ liệu từ PDB"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "Không thể tải tệp"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "Không thể tải thư viện msdia"
 
 msgid "Cannot open file"
 msgstr "Không thể mở tập tin"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "Không thể mở phiên"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "Không thể đọc bộ nhớ tại địa chỉ"
 
 msgid "Cannot save file"
 msgstr "Không thể lưu tập tin"
@@ -178,7 +178,7 @@ msgid "Compiler"
 msgstr "Trình biên dịch"
 
 msgid "Console"
-msgstr ""
+msgstr "Bảng điều khiển"
 
 msgid "Context"
 msgstr "Ngữ cảnh"
@@ -262,7 +262,7 @@ msgid "Demangle"
 msgstr "Gỡ rối"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "Sự phụ thuộc"
 
 msgid "Detach"
 msgstr "Tách ra"
@@ -289,7 +289,7 @@ msgid "Donate"
 msgstr "Quyên tặng"
 
 msgid "Driver"
-msgstr ""
+msgstr "Người lái xe"
 
 msgid "Dump"
 msgstr "Kết xuất"
@@ -328,7 +328,7 @@ msgid "Export File Name"
 msgstr "Xuất tên tệp"
 
 msgid "Export type"
-msgstr ""
+msgstr "Loại xuất khẩu"
 
 msgid "External references"
 msgstr "Tài liệu tham khảo bên ngoài"
@@ -343,7 +343,7 @@ msgid "File offset"
 msgstr "Khoảng cách đến đầu tập tin"
 
 msgid "File saved"
-msgstr ""
+msgstr "Tệp đã được lưu"
 
 msgid "File scan"
 msgstr "Quét tập tin"
@@ -355,7 +355,7 @@ msgid "Filename"
 msgstr "Tên tập tin"
 
 msgid "Files"
-msgstr ""
+msgstr "Các tập tin"
 
 msgid "Filter"
 msgstr "Bộ lọc"
@@ -367,10 +367,10 @@ msgid "Find next"
 msgstr "Tìm kiếm tiếp theo"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "Sửa lỗi"
 
 msgid "Fix types"
-msgstr ""
+msgstr "Sửa chữa các loại"
 
 msgid "Flags"
 msgstr "Cờ"
@@ -394,7 +394,7 @@ msgid "Generic"
 msgstr "Chung"
 
 msgid "Get element"
-msgstr ""
+msgstr "Nhận phần tử"
 
 msgid "Go to"
 msgstr "Đi tới"
@@ -445,7 +445,7 @@ msgid "Import"
 msgstr "Nhập"
 
 msgid "Import hash"
-msgstr ""
+msgstr "Nhập hàm băm"
 
 msgid "Indirect symbols"
 msgstr "Ký hiệu gián tiếp"
@@ -523,7 +523,7 @@ msgid "MB"
 msgstr "MB"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "Cửa sổ chính"
 
 msgid "Manifest"
 msgstr "Xuất hiện"
@@ -535,7 +535,7 @@ msgid "Maximum"
 msgstr "Tối đa"
 
 msgid "Memory"
-msgstr ""
+msgstr "Kỉ niệm"
 
 msgid "Memory map"
 msgstr "Sơ đồ bộ nhớ"
@@ -562,7 +562,7 @@ msgid "Name"
 msgstr "Tên"
 
 msgid "No"
-msgstr ""
+msgstr "Không"
 
 msgid "Nothing found"
 msgstr "Không kết quả"
@@ -607,19 +607,19 @@ msgid "Please restart the application"
 msgstr "Vui lòng khởi động lại ứng dụng"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "Vui lòng chạy chương trình với tư cách quản trị viên"
 
 msgid "Pointer"
-msgstr ""
+msgstr "Con trỏ"
 
 msgid "Print"
-msgstr ""
+msgstr "In"
 
 msgid "Process"
 msgstr "Xử lý"
 
 msgid "Processes"
-msgstr ""
+msgstr "Quy trình"
 
 msgid "Program name"
 msgstr "Tên chương trình"
@@ -634,13 +634,13 @@ msgid "Protector data"
 msgstr "Dữ liệu người bảo vệ"
 
 msgid "Prototype"
-msgstr ""
+msgstr "Nguyên mẫu"
 
 msgid "Publisher"
 msgstr "Nhà xuất bản"
 
 msgid "Quit"
-msgstr ""
+msgstr "Từ bỏ"
 
 msgid "Raw data"
 msgstr "Dữ lieu thô"
@@ -667,7 +667,7 @@ msgid "Ref to"
 msgstr "Tham khảo"
 
 msgid "Region"
-msgstr ""
+msgstr "Khu vực"
 
 msgid "Regions"
 msgstr "Vùng"
@@ -703,7 +703,7 @@ msgid "Run"
 msgstr "Chạy"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "Trình điều khiển thời gian chạy"
 
 msgid "Save"
 msgstr "Lưu"
@@ -781,7 +781,7 @@ msgid "Shortcuts"
 msgstr "Các phím tắt"
 
 msgid "Show comments"
-msgstr ""
+msgstr "Hiển thị bình luận"
 
 msgid "Show logo"
 msgstr "Hiển thị biểu trưng"
@@ -817,10 +817,10 @@ msgid "Size of image"
 msgstr "Kích thước của hình ảnh"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "Sắp xếp các phần tử"
 
 msgid "Sort type"
-msgstr ""
+msgstr "Sắp xếp loại"
 
 msgid "Source code"
 msgstr "Mã nguồn"
@@ -856,10 +856,10 @@ msgid "Strings"
 msgstr "Chuỗi"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "Cơ cấu và công đoàn"
 
 msgid "Structs"
-msgstr ""
+msgstr "Cấu trúc"
 
 msgid "Stub"
 msgstr "Stub"
@@ -874,7 +874,7 @@ msgid "Subject"
 msgstr "Chủ thể"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Biểu tượng"
 
 msgid "Symbol table"
 msgstr "Bảng ký hiệu"
@@ -955,7 +955,7 @@ msgid "Value"
 msgstr "Giá trị"
 
 msgid "Variable"
-msgstr ""
+msgstr "Biến đổi"
 
 msgid "Version"
 msgstr "Phiên bản"
@@ -964,7 +964,7 @@ msgid "View"
 msgstr "Quan điểm"
 
 msgid "Viewer"
-msgstr ""
+msgstr "Người xem"
 
 msgid "Virtual address"
 msgstr "Địa chỉ ảo"

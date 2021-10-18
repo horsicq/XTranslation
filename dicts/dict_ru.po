@@ -8,16 +8,16 @@ msgstr ""
 "X-Language: ru_RU\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16 бит"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32-битный"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64-битный"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8-битный"
 
 msgid "About"
 msgstr "О программе"
@@ -29,7 +29,7 @@ msgid "Actions"
 msgstr "Действия"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "Добавить выравнивание"
 
 msgid "Address"
 msgstr "Адрес"
@@ -50,7 +50,7 @@ msgid "Appearance"
 msgstr "Внешний вид"
 
 msgid "Application"
-msgstr ""
+msgstr "заявка"
 
 msgid "Architecture"
 msgstr "Архитектура"
@@ -62,7 +62,7 @@ msgid "Archive record"
 msgstr "Архивная запись"
 
 msgid "Array"
-msgstr ""
+msgstr "Множество"
 
 msgid "Attach"
 msgstr "Прикреплять"
@@ -83,10 +83,10 @@ msgid "Binding"
 msgstr "Привязка"
 
 msgid "Boot application"
-msgstr ""
+msgstr "Загрузочное приложение"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "Драйвер службы загрузки"
 
 msgid "Bound import"
 msgstr "Связанный импорт"
@@ -119,28 +119,28 @@ msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "Не удается получить возраст PDB"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "Не удается получить имя PDB"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "Не удается загрузить данные из PDB"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "Невозможно загрузить файл"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "Не удается загрузить библиотеку msdia"
 
 msgid "Cannot open file"
 msgstr "Невозможно открыть файл"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "Невозможно открыть сеанс"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "Невозможно прочитать память по адресу"
 
 msgid "Cannot save file"
 msgstr "Невозможно сохранить файл"
@@ -179,7 +179,7 @@ msgid "Compiler"
 msgstr "Компилятор"
 
 msgid "Console"
-msgstr ""
+msgstr "Консоль"
 
 msgid "Context"
 msgstr "Контекст"
@@ -263,7 +263,7 @@ msgid "Demangle"
 msgstr "Demangle"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "Зависимости"
 
 msgid "Detach"
 msgstr "Отсоединить"
@@ -290,7 +290,7 @@ msgid "Donate"
 msgstr "Спонсировать"
 
 msgid "Driver"
-msgstr ""
+msgstr "Водитель"
 
 msgid "Dump"
 msgstr "Дамп"
@@ -329,7 +329,7 @@ msgid "Export File Name"
 msgstr "Имя файла экспорта"
 
 msgid "Export type"
-msgstr ""
+msgstr "Тип экспорта"
 
 msgid "External references"
 msgstr "Внешние ссылки"
@@ -344,7 +344,7 @@ msgid "File offset"
 msgstr "Смещение"
 
 msgid "File saved"
-msgstr ""
+msgstr "Файл сохранен"
 
 msgid "File scan"
 msgstr "Сканирования файла"
@@ -356,7 +356,7 @@ msgid "Filename"
 msgstr "Имя файла"
 
 msgid "Files"
-msgstr ""
+msgstr "Файлы"
 
 msgid "Filter"
 msgstr "Фильтр"
@@ -368,10 +368,10 @@ msgid "Find next"
 msgstr "Найти далее"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "Исправить смещения"
 
 msgid "Fix types"
-msgstr ""
+msgstr "Типы исправлений"
 
 msgid "Flags"
 msgstr "Флаги"
@@ -395,7 +395,7 @@ msgid "Generic"
 msgstr "Обобщенный"
 
 msgid "Get element"
-msgstr ""
+msgstr "Получить элемент"
 
 msgid "Go to"
 msgstr "Перейти к"
@@ -446,7 +446,7 @@ msgid "Import"
 msgstr "Импорт"
 
 msgid "Import hash"
-msgstr ""
+msgstr "Импортировать хеш"
 
 msgid "Indirect symbols"
 msgstr "Косвенные символы"
@@ -524,7 +524,7 @@ msgid "MB"
 msgstr "МБ"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "MainWindow"
 
 msgid "Manifest"
 msgstr "Манифест"
@@ -536,7 +536,7 @@ msgid "Maximum"
 msgstr "Максимум"
 
 msgid "Memory"
-msgstr ""
+msgstr "объем памяти"
 
 msgid "Memory map"
 msgstr "Карта памяти"
@@ -563,7 +563,7 @@ msgid "Name"
 msgstr "Имя"
 
 msgid "No"
-msgstr ""
+msgstr "Нет"
 
 msgid "Nothing found"
 msgstr "Ничего не найдено"
@@ -608,19 +608,19 @@ msgid "Please restart the application"
 msgstr "Пожалуйста перезапустите приложение"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "Пожалуйста, запустите программу от имени администратора"
 
 msgid "Pointer"
-msgstr ""
+msgstr "Указатель"
 
 msgid "Print"
-msgstr ""
+msgstr "Распечатать"
 
 msgid "Process"
 msgstr "Процесс"
 
 msgid "Processes"
-msgstr ""
+msgstr "Процессы"
 
 msgid "Program name"
 msgstr "Название программы"
@@ -635,13 +635,13 @@ msgid "Protector data"
 msgstr "Данные протектора"
 
 msgid "Prototype"
-msgstr ""
+msgstr "Прототип"
 
 msgid "Publisher"
 msgstr "Издатель"
 
 msgid "Quit"
-msgstr ""
+msgstr "Покидать"
 
 msgid "Raw data"
 msgstr "Сырые данные"
@@ -668,7 +668,7 @@ msgid "Ref to"
 msgstr "Ссылка в"
 
 msgid "Region"
-msgstr ""
+msgstr "Область"
 
 msgid "Regions"
 msgstr "Регионы"
@@ -704,7 +704,7 @@ msgid "Run"
 msgstr "Запустить"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "Драйвер времени выполнения"
 
 msgid "Save"
 msgstr "Сохранить"
@@ -782,7 +782,7 @@ msgid "Shortcuts"
 msgstr "Ссылки"
 
 msgid "Show comments"
-msgstr ""
+msgstr "Показать комментарии"
 
 msgid "Show logo"
 msgstr "Показать логотип"
@@ -818,10 +818,10 @@ msgid "Size of image"
 msgstr "Размер изображения"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "Сортировать элементы"
 
 msgid "Sort type"
-msgstr ""
+msgstr "Тип сортировки"
 
 msgid "Source code"
 msgstr "Исходный код"
@@ -857,10 +857,10 @@ msgid "Strings"
 msgstr "Строки"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "Структура и союзы"
 
 msgid "Structs"
-msgstr ""
+msgstr "Структуры"
 
 msgid "Stub"
 msgstr "Заглушка"
@@ -875,7 +875,7 @@ msgid "Subject"
 msgstr "Тема"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Условное обозначение"
 
 msgid "Symbol table"
 msgstr "Таблица символов"
@@ -956,7 +956,7 @@ msgid "Value"
 msgstr "Значение"
 
 msgid "Variable"
-msgstr ""
+msgstr "Переменная"
 
 msgid "Version"
 msgstr "Версия"
@@ -965,7 +965,7 @@ msgid "View"
 msgstr "Вид"
 
 msgid "Viewer"
-msgstr ""
+msgstr "Зритель"
 
 msgid "Virtual address"
 msgstr "Виртуальный адрес"
