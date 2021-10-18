@@ -27,6 +27,9 @@ msgstr "Eylem"
 msgid "Actions"
 msgstr "Hareketler"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "Adres"
 
@@ -56,6 +59,9 @@ msgstr "Arşiv"
 
 msgid "Archive record"
 msgstr "Arşiv kayıtları"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "Eklemek"
@@ -111,8 +117,29 @@ msgstr "Çağır"
 msgid "Cancel"
 msgstr "İptal"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "Dosya açılmıyor"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "Dosya kayıt edilemiyor"
@@ -234,6 +261,9 @@ msgstr "Gecikmeli içe aktarma"
 msgid "Demangle"
 msgstr "parçalamak"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "ayır"
 
@@ -297,6 +327,9 @@ msgstr "Çıkart"
 msgid "Export File Name"
 msgstr "Dosya Adını Dışa Aktar"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "Dış referanslar"
 
@@ -309,6 +342,9 @@ msgstr "Dosya adı"
 msgid "File offset"
 msgstr "Dosya ofseti"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "Dosya tarama"
 
@@ -318,6 +354,9 @@ msgstr "Dosya tipi"
 msgid "Filename"
 msgstr "Dosya adı"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "Filtre"
 
@@ -326,6 +365,12 @@ msgstr "Bul"
 
 msgid "Find next"
 msgstr "Sonrakini bul"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "Bayraklar"
@@ -347,6 +392,9 @@ msgstr "Genel"
 
 msgid "Generic"
 msgstr "Kapsamlı"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "Git"
@@ -474,6 +522,9 @@ msgstr "Log Kayıt"
 msgid "MB"
 msgstr "MB"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Belirgin"
 
@@ -509,6 +560,9 @@ msgstr "Daha fazla bilgi"
 
 msgid "Name"
 msgstr "İsim"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Hiçbirşey Bulunamadı"
@@ -552,11 +606,20 @@ msgstr "Duraklat"
 msgid "Please restart the application"
 msgstr "Lütfen uygulamya tekrar başlatın"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "İşlem"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "Program adı"
@@ -570,8 +633,14 @@ msgstr "Koruyucu"
 msgid "Protector data"
 msgstr "Koruyucu verisi"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "Yayımcı"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "İşlenmemiş veri"
@@ -711,6 +780,9 @@ msgstr "Kısayol"
 msgid "Shortcuts"
 msgstr "Kısayollar"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Logoyu göster"
 
@@ -743,6 +815,12 @@ msgstr "Boyut"
 
 msgid "Size of image"
 msgstr "Resmin boyutu"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "Kaynak kodu"
@@ -777,6 +855,9 @@ msgstr "dize tablosu"
 msgid "Strings"
 msgstr "Kelimeler"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -791,6 +872,9 @@ msgstr "alt dizinler"
 
 msgid "Subject"
 msgstr "Ders"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "Sembol tablosu"
@@ -869,6 +953,9 @@ msgstr "Üst"
 
 msgid "Value"
 msgstr "Değer"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "Versiyon"

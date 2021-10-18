@@ -27,6 +27,9 @@ msgstr "Hoạt động"
 msgid "Actions"
 msgstr "Hành động"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "Địa chỉ"
 
@@ -56,6 +59,9 @@ msgstr "Lưu trữ"
 
 msgid "Archive record"
 msgstr "Bản ghi lưu trữ"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "Gắn"
@@ -111,8 +117,29 @@ msgstr "Cuộc gọi"
 msgid "Cancel"
 msgstr "Hủy"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "Không thể mở tập tin"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "Không thể lưu tập tin"
@@ -234,6 +261,9 @@ msgstr "Nhập chậm"
 msgid "Demangle"
 msgstr "Gỡ rối"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "Tách ra"
 
@@ -297,6 +327,9 @@ msgstr "Trích xuất"
 msgid "Export File Name"
 msgstr "Xuất tên tệp"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "Tài liệu tham khảo bên ngoài"
 
@@ -309,6 +342,9 @@ msgstr "Tên tệp"
 msgid "File offset"
 msgstr "Khoảng cách đến đầu tập tin"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "Quét tập tin"
 
@@ -318,6 +354,9 @@ msgstr "Loại tập tin"
 msgid "Filename"
 msgstr "Tên tập tin"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "Bộ lọc"
 
@@ -326,6 +365,12 @@ msgstr "Tìm kiếm"
 
 msgid "Find next"
 msgstr "Tìm kiếm tiếp theo"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "Cờ"
@@ -347,6 +392,9 @@ msgstr "Chung"
 
 msgid "Generic"
 msgstr "Chung"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "Đi tới"
@@ -474,6 +522,9 @@ msgstr "Nhật ký"
 msgid "MB"
 msgstr "MB"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Xuất hiện"
 
@@ -509,6 +560,9 @@ msgstr "Thêm thông tin"
 
 msgid "Name"
 msgstr "Tên"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Không kết quả"
@@ -552,11 +606,20 @@ msgstr "Tạm ngừng"
 msgid "Please restart the application"
 msgstr "Vui lòng khởi động lại ứng dụng"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "Xử lý"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "Tên chương trình"
@@ -570,8 +633,14 @@ msgstr "Người bảo vệ"
 msgid "Protector data"
 msgstr "Dữ liệu người bảo vệ"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "Nhà xuất bản"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "Dữ lieu thô"
@@ -711,6 +780,9 @@ msgstr "Đường tắt"
 msgid "Shortcuts"
 msgstr "Các phím tắt"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Hiển thị biểu trưng"
 
@@ -743,6 +815,12 @@ msgstr "Kích thước"
 
 msgid "Size of image"
 msgstr "Kích thước của hình ảnh"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "Mã nguồn"
@@ -777,6 +855,9 @@ msgstr "Bảng chuỗi"
 msgid "Strings"
 msgstr "Chuỗi"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -791,6 +872,9 @@ msgstr "Thư mục con"
 
 msgid "Subject"
 msgstr "Chủ thể"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "Bảng ký hiệu"
@@ -869,6 +953,9 @@ msgstr "Trên"
 
 msgid "Value"
 msgstr "Giá trị"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "Phiên bản"

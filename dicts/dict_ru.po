@@ -28,6 +28,9 @@ msgstr "Действие"
 msgid "Actions"
 msgstr "Действия"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "Адрес"
 
@@ -57,6 +60,9 @@ msgstr "Архив"
 
 msgid "Archive record"
 msgstr "Архивная запись"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "Прикреплять"
@@ -112,8 +118,29 @@ msgstr "Вызовы"
 msgid "Cancel"
 msgstr "Отмена"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "Невозможно открыть файл"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "Невозможно сохранить файл"
@@ -235,6 +262,9 @@ msgstr "Отложить импорт"
 msgid "Demangle"
 msgstr "Demangle"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "Отсоединить"
 
@@ -298,6 +328,9 @@ msgstr "Экспорт"
 msgid "Export File Name"
 msgstr "Имя файла экспорта"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "Внешние ссылки"
 
@@ -310,6 +343,9 @@ msgstr "Имя файла"
 msgid "File offset"
 msgstr "Смещение"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "Сканирования файла"
 
@@ -319,6 +355,9 @@ msgstr "Тип файла"
 msgid "Filename"
 msgstr "Имя файла"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "Фильтр"
 
@@ -327,6 +366,12 @@ msgstr "Поиск"
 
 msgid "Find next"
 msgstr "Найти далее"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "Флаги"
@@ -348,6 +393,9 @@ msgstr "Общие"
 
 msgid "Generic"
 msgstr "Обобщенный"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "Перейти к"
@@ -475,6 +523,9 @@ msgstr "Журнал"
 msgid "MB"
 msgstr "МБ"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Манифест"
 
@@ -510,6 +561,9 @@ msgstr "Больше информации"
 
 msgid "Name"
 msgstr "Имя"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Ничего не найдено"
@@ -553,11 +607,20 @@ msgstr "Пауза"
 msgid "Please restart the application"
 msgstr "Пожалуйста перезапустите приложение"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "Процесс"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "Название программы"
@@ -571,8 +634,14 @@ msgstr "Протектор"
 msgid "Protector data"
 msgstr "Данные протектора"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "Издатель"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "Сырые данные"
@@ -712,6 +781,9 @@ msgstr "Ссылка"
 msgid "Shortcuts"
 msgstr "Ссылки"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Показать логотип"
 
@@ -744,6 +816,12 @@ msgstr "Размер"
 
 msgid "Size of image"
 msgstr "Размер изображения"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "Исходный код"
@@ -778,6 +856,9 @@ msgstr "Таблица строк"
 msgid "Strings"
 msgstr "Строки"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -792,6 +873,9 @@ msgstr "Подкаталоги"
 
 msgid "Subject"
 msgstr "Тема"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "Таблица символов"
@@ -870,6 +954,9 @@ msgstr "Верхний регистр"
 
 msgid "Value"
 msgstr "Значение"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "Версия"

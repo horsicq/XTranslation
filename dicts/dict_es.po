@@ -27,6 +27,9 @@ msgstr "Acción"
 msgid "Actions"
 msgstr "Acciones"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "Dirección"
 
@@ -56,6 +59,9 @@ msgstr "Archivo"
 
 msgid "Archive record"
 msgstr "Registro de archivo"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "Adjuntar"
@@ -111,8 +117,29 @@ msgstr "Llamadas"
 msgid "Cancel"
 msgstr "Cancelar"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "No se puede abrir el archivo"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "No se puede guardar el archivo"
@@ -234,6 +261,9 @@ msgstr "Importación retrasada"
 msgid "Demangle"
 msgstr "Demangle"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "Separar"
 
@@ -297,6 +327,9 @@ msgstr "Exportar"
 msgid "Export File Name"
 msgstr "Exportar nombre de archivo"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "Referencias externas"
 
@@ -309,6 +342,9 @@ msgstr "Nombre de archivo"
 msgid "File offset"
 msgstr "Desplazamiento en archivo"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "Escanear archivos"
 
@@ -318,6 +354,9 @@ msgstr "Tipo de archivo"
 msgid "Filename"
 msgstr "Nombre del archivo"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "Filtrar"
 
@@ -326,6 +365,12 @@ msgstr "Buscar"
 
 msgid "Find next"
 msgstr "Buscar siguiente"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "Banderas"
@@ -347,6 +392,9 @@ msgstr "General"
 
 msgid "Generic"
 msgstr "Genérico"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "Ir a"
@@ -474,6 +522,9 @@ msgstr "Log"
 msgid "MB"
 msgstr "MB"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifiesto"
 
@@ -509,6 +560,9 @@ msgstr "Más info"
 
 msgid "Name"
 msgstr "Nombre"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "No se ha encontrado nada"
@@ -552,11 +606,20 @@ msgstr "Pausa"
 msgid "Please restart the application"
 msgstr "Por favor, reinicie la aplicación"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "Proceso"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "Nombre del programa"
@@ -570,8 +633,14 @@ msgstr "Protector"
 msgid "Protector data"
 msgstr "Datos del protector"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "Editor"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "Datos raw"
@@ -711,6 +780,9 @@ msgstr "Atajo"
 msgid "Shortcuts"
 msgstr "Atajos"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Mostrar logo"
 
@@ -743,6 +815,12 @@ msgstr "Tamaño"
 
 msgid "Size of image"
 msgstr "Tamaño de la imagen"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "Código fuente"
@@ -777,6 +855,9 @@ msgstr "Tabla de textos"
 msgid "Strings"
 msgstr "Textos"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -791,6 +872,9 @@ msgstr "Subdirectorios"
 
 msgid "Subject"
 msgstr "Asunto"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "Tabla de símbolos"
@@ -869,6 +953,9 @@ msgstr "Superior"
 
 msgid "Value"
 msgstr "Valor"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "Versión"

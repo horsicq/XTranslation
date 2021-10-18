@@ -28,6 +28,9 @@ msgstr "عمل"
 msgid "Actions"
 msgstr "أجراءات"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "عنوان"
 
@@ -57,6 +60,9 @@ msgstr "أرشيف"
 
 msgid "Archive record"
 msgstr "سجل الأرشيف"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "يربط"
@@ -112,8 +118,29 @@ msgstr "المكالمات"
 msgid "Cancel"
 msgstr "يلغي"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "لا يمكن فتح ملف"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "لا يمكن حفظ الملف"
@@ -235,6 +262,9 @@ msgstr "تأجيل الاستيراد"
 msgid "Demangle"
 msgstr "شطب"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "فصل"
 
@@ -298,6 +328,9 @@ msgstr "يصدر"
 msgid "Export File Name"
 msgstr "تصدير اسم الملف"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "المراجع الخارجية"
 
@@ -310,6 +343,9 @@ msgstr "اسم الملف"
 msgid "File offset"
 msgstr "إزاحة الملف"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "مسح الملف"
 
@@ -319,6 +355,9 @@ msgstr "نوع الملف"
 msgid "Filename"
 msgstr "اسم الملف"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "منقي"
 
@@ -327,6 +366,12 @@ msgstr "تجد"
 
 msgid "Find next"
 msgstr "بحث عن التالي"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "أعلام"
@@ -348,6 +393,9 @@ msgstr "عام"
 
 msgid "Generic"
 msgstr "نوعي"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "اذهب إلى"
@@ -475,6 +523,9 @@ msgstr "سجل"
 msgid "MB"
 msgstr "ميغا بايت"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "يظهر"
 
@@ -510,6 +561,9 @@ msgstr "مزيد من المعلومات"
 
 msgid "Name"
 msgstr "اسم"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "لم يتم العثور على شيء"
@@ -553,11 +607,20 @@ msgstr "يوقف"
 msgid "Please restart the application"
 msgstr "الرجاء إعادة تشغيل التطبيق"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "معالجة"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "إسم البرنامج"
@@ -571,8 +634,14 @@ msgstr "حامية"
 msgid "Protector data"
 msgstr "بيانات الحامي"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "الناشر"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "مسودة بيانات"
@@ -712,6 +781,9 @@ msgstr "الاختصار"
 msgid "Shortcuts"
 msgstr "الاختصارات"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "إظهار الشعار"
 
@@ -744,6 +816,12 @@ msgstr "مقاس"
 
 msgid "Size of image"
 msgstr "حجم الصورة"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "مصدر الرمز"
@@ -778,6 +856,9 @@ msgstr "جدول سلسلة"
 msgid "Strings"
 msgstr "سلاسل"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -792,6 +873,9 @@ msgstr "الدلائل الفرعية"
 
 msgid "Subject"
 msgstr "موضوعات"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "جدول الرموز"
@@ -870,6 +954,9 @@ msgstr "العلوي"
 
 msgid "Value"
 msgstr "قيمة"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "إصدار"

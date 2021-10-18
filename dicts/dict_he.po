@@ -27,6 +27,9 @@ msgstr "פעולה"
 msgid "Actions"
 msgstr "פעולות"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "כתובת"
 
@@ -56,6 +59,9 @@ msgstr "ארכיון"
 
 msgid "Archive record"
 msgstr "רשומה"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "לְצַרֵף"
@@ -111,8 +117,29 @@ msgstr "קריאות"
 msgid "Cancel"
 msgstr "בטל"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "לא ניתן לפתוח את הקובץ"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "לא ניתן לשמור את הקובץ"
@@ -234,6 +261,9 @@ msgstr "עיכוב ביבוא"
 msgid "Demangle"
 msgstr "להסיר"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "לנתק"
 
@@ -297,6 +327,9 @@ msgstr "יצא"
 msgid "Export File Name"
 msgstr "ייצא שם קובץ"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "הפניות חיצוניות"
 
@@ -309,6 +342,9 @@ msgstr "שם קובץ"
 msgid "File offset"
 msgstr "היסט קובץ"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "סריקת קובץ"
 
@@ -318,6 +354,9 @@ msgstr "סוג קובץ"
 msgid "Filename"
 msgstr "שם קובץ"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "סינון"
 
@@ -326,6 +365,12 @@ msgstr "חפש"
 
 msgid "Find next"
 msgstr "חפש את הבא"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "דגלים"
@@ -347,6 +392,9 @@ msgstr "כללי"
 
 msgid "Generic"
 msgstr "כללי"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "מעבר אל"
@@ -474,6 +522,9 @@ msgstr "יומן אירועים"
 msgid "MB"
 msgstr "MB"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "פרטי מדיניות"
 
@@ -509,6 +560,9 @@ msgstr "עוד מידע"
 
 msgid "Name"
 msgstr "שם"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "שום דבר לא נמצא"
@@ -552,11 +606,20 @@ msgstr "הַפסָקָה"
 msgid "Please restart the application"
 msgstr "אנא הפעל את התוכנית מחדש"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "תהליך"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "שם התוכנית"
@@ -570,8 +633,14 @@ msgstr "תוכנת הגנה"
 msgid "Protector data"
 msgstr "מידע תוכנת הגנה"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "מוֹצִיא לָאוֹר"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "מידע גולמי"
@@ -711,6 +780,9 @@ msgstr "קיצור"
 msgid "Shortcuts"
 msgstr "קיצורי דרך"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "הצג לוגו"
 
@@ -743,6 +815,12 @@ msgstr "גודל"
 
 msgid "Size of image"
 msgstr "גודל התמונה"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "קוד מקור"
@@ -777,6 +855,9 @@ msgstr "שולחן מחרוזת"
 msgid "Strings"
 msgstr "מחרוזות"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -791,6 +872,9 @@ msgstr "ספריות משנה"
 
 msgid "Subject"
 msgstr "נושא"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "טבלת סמלים"
@@ -869,6 +953,9 @@ msgstr "עליון"
 
 msgid "Value"
 msgstr "ערך"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "גרסה"

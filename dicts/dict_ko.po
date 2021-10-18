@@ -27,6 +27,9 @@ msgstr "동작"
 msgid "Actions"
 msgstr "행위"
 
+msgid "Add alignment"
+msgstr ""
+
 msgid "Address"
 msgstr "주소"
 
@@ -56,6 +59,9 @@ msgstr "아카이브"
 
 msgid "Archive record"
 msgstr "아카이브 레코드"
+
+msgid "Array"
+msgstr ""
 
 msgid "Attach"
 msgstr "붙이다"
@@ -111,8 +117,29 @@ msgstr "호출"
 msgid "Cancel"
 msgstr "취소"
 
+msgid "Cannot get PDB age"
+msgstr ""
+
+msgid "Cannot get PDB name"
+msgstr ""
+
+msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load file"
+msgstr ""
+
+msgid "Cannot load msdia library"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "파일을 열 수 없습니다"
+
+msgid "Cannot open session"
+msgstr ""
+
+msgid "Cannot read memory at address"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "파일을 저장할 수 없습니다"
@@ -234,6 +261,9 @@ msgstr "가져오기 지연"
 msgid "Demangle"
 msgstr "디망글"
 
+msgid "Dependencies"
+msgstr ""
+
 msgid "Detach"
 msgstr "분리하다"
 
@@ -297,6 +327,9 @@ msgstr "내보내기"
 msgid "Export File Name"
 msgstr "내보내기 파일 이름"
 
+msgid "Export type"
+msgstr ""
+
 msgid "External references"
 msgstr "외부 참조"
 
@@ -309,6 +342,9 @@ msgstr "파일 이름"
 msgid "File offset"
 msgstr "파일 오프셋"
 
+msgid "File saved"
+msgstr ""
+
 msgid "File scan"
 msgstr "파일 검색"
 
@@ -318,6 +354,9 @@ msgstr "파일 유형"
 msgid "Filename"
 msgstr "파일 이름"
 
+msgid "Files"
+msgstr ""
+
 msgid "Filter"
 msgstr "필터"
 
@@ -326,6 +365,12 @@ msgstr "찾기"
 
 msgid "Find next"
 msgstr "다음 찾기"
+
+msgid "Fix offsets"
+msgstr ""
+
+msgid "Fix types"
+msgstr ""
 
 msgid "Flags"
 msgstr "Flags"
@@ -347,6 +392,9 @@ msgstr "일반"
 
 msgid "Generic"
 msgstr "일반"
+
+msgid "Get element"
+msgstr ""
 
 msgid "Go to"
 msgstr "이동"
@@ -474,6 +522,9 @@ msgstr "로그"
 msgid "MB"
 msgstr "메가바이트"
 
+msgid "MainWindow"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifest"
 
@@ -509,6 +560,9 @@ msgstr "더 많은 정보"
 
 msgid "Name"
 msgstr "이름"
+
+msgid "No"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "아무것도 찾을 수 없음"
@@ -552,11 +606,20 @@ msgstr "정지시키다"
 msgid "Please restart the application"
 msgstr "프로그램을 재시작하세요"
 
+msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Pointer"
+msgstr ""
+
 msgid "Print"
 msgstr ""
 
 msgid "Process"
 msgstr "프로세스"
+
+msgid "Processes"
+msgstr ""
 
 msgid "Program name"
 msgstr "프로그램 이름"
@@ -570,8 +633,14 @@ msgstr "프로텍터"
 msgid "Protector data"
 msgstr "프로텍터 데이터"
 
+msgid "Prototype"
+msgstr ""
+
 msgid "Publisher"
 msgstr "발행자"
+
+msgid "Quit"
+msgstr ""
 
 msgid "Raw data"
 msgstr "로우 데이터"
@@ -711,6 +780,9 @@ msgstr "지름길"
 msgid "Shortcuts"
 msgstr "바로가기"
 
+msgid "Show comments"
+msgstr ""
+
 msgid "Show logo"
 msgstr "로고 표시"
 
@@ -743,6 +815,12 @@ msgstr "크기"
 
 msgid "Size of image"
 msgstr "이미지 크기"
+
+msgid "Sort elements"
+msgstr ""
+
+msgid "Sort type"
+msgstr ""
 
 msgid "Source code"
 msgstr "소스 코드"
@@ -777,6 +855,9 @@ msgstr "문자열 테이블"
 msgid "Strings"
 msgstr "문자열"
 
+msgid "Struct and unions"
+msgstr ""
+
 msgid "Structs"
 msgstr ""
 
@@ -791,6 +872,9 @@ msgstr "하위 디렉토리"
 
 msgid "Subject"
 msgstr "주제"
+
+msgid "Symbol"
+msgstr ""
 
 msgid "Symbol table"
 msgstr "기호 테이블"
@@ -869,6 +953,9 @@ msgstr "위쪽"
 
 msgid "Value"
 msgstr "값"
+
+msgid "Variable"
+msgstr ""
 
 msgid "Version"
 msgstr "버전"
