@@ -8,16 +8,16 @@ msgstr ""
 "X-Language: ar_EG\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16 بت"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32 بت"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64 بت"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8 بت"
 
 msgid "About"
 msgstr "عن"
@@ -29,7 +29,7 @@ msgid "Actions"
 msgstr "أجراءات"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "أضف المحاذاة"
 
 msgid "Address"
 msgstr "عنوان"
@@ -50,7 +50,7 @@ msgid "Appearance"
 msgstr "مظهر خارجي"
 
 msgid "Application"
-msgstr ""
+msgstr "تطبيق"
 
 msgid "Architecture"
 msgstr "هندسة معمارية"
@@ -62,7 +62,7 @@ msgid "Archive record"
 msgstr "سجل الأرشيف"
 
 msgid "Array"
-msgstr ""
+msgstr "مجموعة مصفوفة"
 
 msgid "Attach"
 msgstr "يربط"
@@ -83,10 +83,10 @@ msgid "Binding"
 msgstr "ربط"
 
 msgid "Boot application"
-msgstr ""
+msgstr "تطبيق التمهيد"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "سائق خدمة التمهيد"
 
 msgid "Bound import"
 msgstr "استيراد منضم"
@@ -119,28 +119,28 @@ msgid "Cancel"
 msgstr "يلغي"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "لا يمكن الحصول على عمر PDB"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "لا يمكن الحصول على اسم PDB"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "لا يمكن تحميل البيانات من PDB"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "لا يمكنني تحميل الملف"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "لا يمكن تحميل مكتبة msdia"
 
 msgid "Cannot open file"
 msgstr "لا يمكن فتح ملف"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "لا يمكن فتح الجلسة"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "لا يمكن قراءة الذاكرة على العنوان"
 
 msgid "Cannot save file"
 msgstr "لا يمكن حفظ الملف"
@@ -179,7 +179,7 @@ msgid "Compiler"
 msgstr "مترجم"
 
 msgid "Console"
-msgstr ""
+msgstr "وحدة التحكم"
 
 msgid "Context"
 msgstr "مفهوم"
@@ -263,7 +263,7 @@ msgid "Demangle"
 msgstr "شطب"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "التبعيات"
 
 msgid "Detach"
 msgstr "فصل"
@@ -290,7 +290,7 @@ msgid "Donate"
 msgstr "يتبرع"
 
 msgid "Driver"
-msgstr ""
+msgstr "سائق"
 
 msgid "Dump"
 msgstr "أحمق"
@@ -329,7 +329,7 @@ msgid "Export File Name"
 msgstr "تصدير اسم الملف"
 
 msgid "Export type"
-msgstr ""
+msgstr "نوع التصدير"
 
 msgid "External references"
 msgstr "المراجع الخارجية"
@@ -344,7 +344,7 @@ msgid "File offset"
 msgstr "إزاحة الملف"
 
 msgid "File saved"
-msgstr ""
+msgstr "تم حفظ الملف"
 
 msgid "File scan"
 msgstr "مسح الملف"
@@ -356,7 +356,7 @@ msgid "Filename"
 msgstr "اسم الملف"
 
 msgid "Files"
-msgstr ""
+msgstr "الملفات"
 
 msgid "Filter"
 msgstr "منقي"
@@ -368,10 +368,10 @@ msgid "Find next"
 msgstr "بحث عن التالي"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "أصلح التعويضات"
 
 msgid "Fix types"
-msgstr ""
+msgstr "أنواع الإصلاح"
 
 msgid "Flags"
 msgstr "أعلام"
@@ -395,7 +395,7 @@ msgid "Generic"
 msgstr "نوعي"
 
 msgid "Get element"
-msgstr ""
+msgstr "احصل على العنصر"
 
 msgid "Go to"
 msgstr "اذهب إلى"
@@ -446,7 +446,7 @@ msgid "Import"
 msgstr "يستورد"
 
 msgid "Import hash"
-msgstr ""
+msgstr "استيراد تجزئة"
 
 msgid "Indirect symbols"
 msgstr "الرموز غير المباشرة"
@@ -524,7 +524,7 @@ msgid "MB"
 msgstr "ميغا بايت"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "النافذة الرئيسية"
 
 msgid "Manifest"
 msgstr "يظهر"
@@ -536,7 +536,7 @@ msgid "Maximum"
 msgstr "أقصى"
 
 msgid "Memory"
-msgstr ""
+msgstr "ذاكرة"
 
 msgid "Memory map"
 msgstr "خريطة الذاكرة"
@@ -563,7 +563,7 @@ msgid "Name"
 msgstr "اسم"
 
 msgid "No"
-msgstr ""
+msgstr "لا"
 
 msgid "Nothing found"
 msgstr "لم يتم العثور على شيء"
@@ -608,19 +608,19 @@ msgid "Please restart the application"
 msgstr "الرجاء إعادة تشغيل التطبيق"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "يرجى تشغيل البرنامج كمسؤول"
 
 msgid "Pointer"
-msgstr ""
+msgstr "المؤشر"
 
 msgid "Print"
-msgstr ""
+msgstr "مطبعة"
 
 msgid "Process"
 msgstr "معالجة"
 
 msgid "Processes"
-msgstr ""
+msgstr "العمليات"
 
 msgid "Program name"
 msgstr "إسم البرنامج"
@@ -635,13 +635,13 @@ msgid "Protector data"
 msgstr "بيانات الحامي"
 
 msgid "Prototype"
-msgstr ""
+msgstr "النموذج المبدئي"
 
 msgid "Publisher"
 msgstr "الناشر"
 
 msgid "Quit"
-msgstr ""
+msgstr "استقال"
 
 msgid "Raw data"
 msgstr "مسودة بيانات"
@@ -668,7 +668,7 @@ msgid "Ref to"
 msgstr "المرجع"
 
 msgid "Region"
-msgstr ""
+msgstr "منطقة"
 
 msgid "Regions"
 msgstr "المناطق"
@@ -704,7 +704,7 @@ msgid "Run"
 msgstr "يركض"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "سائق وقت التشغيل"
 
 msgid "Save"
 msgstr "يحفظ"
@@ -782,7 +782,7 @@ msgid "Shortcuts"
 msgstr "الاختصارات"
 
 msgid "Show comments"
-msgstr ""
+msgstr "إظهار التعليقات"
 
 msgid "Show logo"
 msgstr "إظهار الشعار"
@@ -818,10 +818,10 @@ msgid "Size of image"
 msgstr "حجم الصورة"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "فرز العناصر"
 
 msgid "Sort type"
-msgstr ""
+msgstr "نوع الفرز"
 
 msgid "Source code"
 msgstr "مصدر الرمز"
@@ -857,10 +857,10 @@ msgid "Strings"
 msgstr "سلاسل"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "الهيكل والنقابات"
 
 msgid "Structs"
-msgstr ""
+msgstr "الهياكل"
 
 msgid "Stub"
 msgstr "كعب"
@@ -875,7 +875,7 @@ msgid "Subject"
 msgstr "موضوعات"
 
 msgid "Symbol"
-msgstr ""
+msgstr "رمز"
 
 msgid "Symbol table"
 msgstr "جدول الرموز"
@@ -956,7 +956,7 @@ msgid "Value"
 msgstr "قيمة"
 
 msgid "Variable"
-msgstr ""
+msgstr "عامل"
 
 msgid "Version"
 msgstr "إصدار"
@@ -965,7 +965,7 @@ msgid "View"
 msgstr "رأي"
 
 msgid "Viewer"
-msgstr ""
+msgstr "مشاهد"
 
 msgid "Virtual address"
 msgstr "عنوان افتراضي"

@@ -7,16 +7,16 @@ msgstr ""
 "X-Language: zh_TW\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16 位"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32位"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64 位"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8 位"
 
 msgid "About"
 msgstr "關於"
@@ -28,7 +28,7 @@ msgid "Actions"
 msgstr "行動"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "添加對齊"
 
 msgid "Address"
 msgstr "位址"
@@ -49,7 +49,7 @@ msgid "Appearance"
 msgstr "外觀"
 
 msgid "Application"
-msgstr ""
+msgstr "應用"
 
 msgid "Architecture"
 msgstr "架構"
@@ -61,7 +61,7 @@ msgid "Archive record"
 msgstr "存檔記錄"
 
 msgid "Array"
-msgstr ""
+msgstr "大批"
 
 msgid "Attach"
 msgstr "附"
@@ -82,10 +82,10 @@ msgid "Binding"
 msgstr "捆綁"
 
 msgid "Boot application"
-msgstr ""
+msgstr "啟動應用程序"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "引導服務驅動程序"
 
 msgid "Bound import"
 msgstr "綁定導入"
@@ -118,28 +118,28 @@ msgid "Cancel"
 msgstr "取消"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "無法獲取 PDB 年齡"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "無法獲取 PDB 名稱"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "無法從 PDB 加載數據"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "無法加載文件"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "無法加載 msdia 庫"
 
 msgid "Cannot open file"
 msgstr "無法打開檔案"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "無法打開會話"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "無法讀取地址處的內存"
 
 msgid "Cannot save file"
 msgstr "無法保存檔案"
@@ -178,7 +178,7 @@ msgid "Compiler"
 msgstr "編譯器"
 
 msgid "Console"
-msgstr ""
+msgstr "安慰"
 
 msgid "Context"
 msgstr "選單關聯"
@@ -262,7 +262,7 @@ msgid "Demangle"
 msgstr "解構"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "依賴關係"
 
 msgid "Detach"
 msgstr "分離"
@@ -289,7 +289,7 @@ msgid "Donate"
 msgstr "贊助"
 
 msgid "Driver"
-msgstr ""
+msgstr "司機"
 
 msgid "Dump"
 msgstr "轉存"
@@ -328,7 +328,7 @@ msgid "Export File Name"
 msgstr "導出文件名"
 
 msgid "Export type"
-msgstr ""
+msgstr "出口類型"
 
 msgid "External references"
 msgstr "外部參考"
@@ -343,7 +343,7 @@ msgid "File offset"
 msgstr "檔案偏移量"
 
 msgid "File saved"
-msgstr ""
+msgstr "文件已保存"
 
 msgid "File scan"
 msgstr "檔案掃描"
@@ -355,7 +355,7 @@ msgid "Filename"
 msgstr "檔案名"
 
 msgid "Files"
-msgstr ""
+msgstr "文件"
 
 msgid "Filter"
 msgstr "過濾"
@@ -367,10 +367,10 @@ msgid "Find next"
 msgstr "搜尋下一個"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "修復偏移"
 
 msgid "Fix types"
-msgstr ""
+msgstr "修復類型"
 
 msgid "Flags"
 msgstr "標記"
@@ -394,7 +394,7 @@ msgid "Generic"
 msgstr "通用"
 
 msgid "Get element"
-msgstr ""
+msgstr "獲取元素"
 
 msgid "Go to"
 msgstr "跳至"
@@ -445,7 +445,7 @@ msgid "Import"
 msgstr "進口"
 
 msgid "Import hash"
-msgstr ""
+msgstr "導入哈希"
 
 msgid "Indirect symbols"
 msgstr "間接符號"
@@ -523,7 +523,7 @@ msgid "MB"
 msgstr "MB"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "主窗口"
 
 msgid "Manifest"
 msgstr "資訊"
@@ -535,7 +535,7 @@ msgid "Maximum"
 msgstr "最大值"
 
 msgid "Memory"
-msgstr ""
+msgstr "記憶"
 
 msgid "Memory map"
 msgstr "記憶體區塊"
@@ -562,7 +562,7 @@ msgid "Name"
 msgstr "名稱"
 
 msgid "No"
-msgstr ""
+msgstr "不"
 
 msgid "Nothing found"
 msgstr "沒有找到"
@@ -607,19 +607,19 @@ msgid "Please restart the application"
 msgstr "請重啟應用程式"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "請以管理員身份運行程序"
 
 msgid "Pointer"
-msgstr ""
+msgstr "指針"
 
 msgid "Print"
-msgstr ""
+msgstr "打印"
 
 msgid "Process"
 msgstr "處理"
 
 msgid "Processes"
-msgstr ""
+msgstr "流程"
 
 msgid "Program name"
 msgstr "程序名稱"
@@ -634,13 +634,13 @@ msgid "Protector data"
 msgstr "保護者數據"
 
 msgid "Prototype"
-msgstr ""
+msgstr "原型"
 
 msgid "Publisher"
 msgstr "出版商"
 
 msgid "Quit"
-msgstr ""
+msgstr "退出"
 
 msgid "Raw data"
 msgstr "原始資料"
@@ -667,7 +667,7 @@ msgid "Ref to"
 msgstr "提及於"
 
 msgid "Region"
-msgstr ""
+msgstr "地區"
 
 msgid "Regions"
 msgstr "區域"
@@ -703,7 +703,7 @@ msgid "Run"
 msgstr "執行"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "運行時驅動程序"
 
 msgid "Save"
 msgstr "保存"
@@ -781,7 +781,7 @@ msgid "Shortcuts"
 msgstr "捷徑"
 
 msgid "Show comments"
-msgstr ""
+msgstr "顯示評論"
 
 msgid "Show logo"
 msgstr "顯示徽標"
@@ -817,10 +817,10 @@ msgid "Size of image"
 msgstr "圖片尺寸"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "排序元素"
 
 msgid "Sort type"
-msgstr ""
+msgstr "排序類型"
 
 msgid "Source code"
 msgstr "源代碼"
@@ -856,10 +856,10 @@ msgid "Strings"
 msgstr "字串"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "結構體和工會"
 
 msgid "Structs"
-msgstr ""
+msgstr "結構"
 
 msgid "Stub"
 msgstr "根"
@@ -874,7 +874,7 @@ msgid "Subject"
 msgstr "主題"
 
 msgid "Symbol"
-msgstr ""
+msgstr "象徵"
 
 msgid "Symbol table"
 msgstr "符號表"
@@ -955,7 +955,7 @@ msgid "Value"
 msgstr "值"
 
 msgid "Variable"
-msgstr ""
+msgstr "多變的"
 
 msgid "Version"
 msgstr "版本"
@@ -964,7 +964,7 @@ msgid "View"
 msgstr "看法"
 
 msgid "Viewer"
-msgstr ""
+msgstr "查看器"
 
 msgid "Virtual address"
 msgstr "虛擬位址"
