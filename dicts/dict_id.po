@@ -7,16 +7,16 @@ msgstr ""
 "X-Language: id_ID\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16-bit"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32-bit"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64-bit"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8-bit"
 
 msgid "About"
 msgstr "Tentang"
@@ -28,7 +28,7 @@ msgid "Actions"
 msgstr "tindakan"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "Tambahkan perataan"
 
 msgid "Address"
 msgstr "Alamat"
@@ -49,7 +49,7 @@ msgid "Appearance"
 msgstr "Penampilan"
 
 msgid "Application"
-msgstr ""
+msgstr "Aplikasi"
 
 msgid "Architecture"
 msgstr "Arsitektur"
@@ -61,7 +61,7 @@ msgid "Archive record"
 msgstr "Catatan arsip"
 
 msgid "Array"
-msgstr ""
+msgstr "Himpunan"
 
 msgid "Attach"
 msgstr "Menempel"
@@ -82,10 +82,10 @@ msgid "Binding"
 msgstr "Mengikat"
 
 msgid "Boot application"
-msgstr ""
+msgstr "Aplikasi booting"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "Driver layanan boot"
 
 msgid "Bound import"
 msgstr "Impor terikat"
@@ -118,28 +118,28 @@ msgid "Cancel"
 msgstr "Batal"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "Tidak bisa mendapatkan usia PDB"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "Tidak bisa mendapatkan nama PDB"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "Tidak dapat memuat data dari PDB"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "Tidak dapat memuat file"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "Tidak dapat memuat perpustakaan msdia"
 
 msgid "Cannot open file"
 msgstr "Tidak dapat membuka file"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "Tidak dapat membuka sesi"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "Tidak dapat membaca memori di alamat"
 
 msgid "Cannot save file"
 msgstr "Tidak dapat menyimpan file"
@@ -178,7 +178,7 @@ msgid "Compiler"
 msgstr "Penyusun"
 
 msgid "Console"
-msgstr ""
+msgstr "Menghibur"
 
 msgid "Context"
 msgstr "Konteks"
@@ -262,7 +262,7 @@ msgid "Demangle"
 msgstr "Demangle"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "Ketergantungan"
 
 msgid "Detach"
 msgstr "Melepaskan"
@@ -289,7 +289,7 @@ msgid "Donate"
 msgstr "Donasi"
 
 msgid "Driver"
-msgstr ""
+msgstr "Pengemudi"
 
 msgid "Dump"
 msgstr "Buang"
@@ -328,7 +328,7 @@ msgid "Export File Name"
 msgstr "Ekspor Nama File"
 
 msgid "Export type"
-msgstr ""
+msgstr "Jenis ekspor"
 
 msgid "External references"
 msgstr "Referensi eksternal"
@@ -343,7 +343,7 @@ msgid "File offset"
 msgstr "Offset file"
 
 msgid "File saved"
-msgstr ""
+msgstr "File disimpan"
 
 msgid "File scan"
 msgstr "Pindai file"
@@ -355,7 +355,7 @@ msgid "Filename"
 msgstr "Nama file"
 
 msgid "Files"
-msgstr ""
+msgstr "File"
 
 msgid "Filter"
 msgstr "Filter"
@@ -367,10 +367,10 @@ msgid "Find next"
 msgstr "Temukan selanjutnya"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "Perbaiki offset"
 
 msgid "Fix types"
-msgstr ""
+msgstr "Perbaiki jenis"
 
 msgid "Flags"
 msgstr "Tandai"
@@ -394,7 +394,7 @@ msgid "Generic"
 msgstr "Generik"
 
 msgid "Get element"
-msgstr ""
+msgstr "Dapatkan elemen"
 
 msgid "Go to"
 msgstr "Pergi ke"
@@ -445,7 +445,7 @@ msgid "Import"
 msgstr "Impor"
 
 msgid "Import hash"
-msgstr ""
+msgstr "Impor hash"
 
 msgid "Indirect symbols"
 msgstr "Simbol tidak langsung"
@@ -523,7 +523,7 @@ msgid "MB"
 msgstr "MB"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "Jendela utama"
 
 msgid "Manifest"
 msgstr "Daftar"
@@ -535,7 +535,7 @@ msgid "Maximum"
 msgstr "Maksimum"
 
 msgid "Memory"
-msgstr ""
+msgstr "Penyimpanan"
 
 msgid "Memory map"
 msgstr "Peta memori"
@@ -562,7 +562,7 @@ msgid "Name"
 msgstr "Nama"
 
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 msgid "Nothing found"
 msgstr "Tidak ada yang ditemukan"
@@ -607,19 +607,19 @@ msgid "Please restart the application"
 msgstr "Silahkan mulai ulang aplikasi"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "Silakan jalankan program sebagai administrator"
 
 msgid "Pointer"
-msgstr ""
+msgstr "penunjuk"
 
 msgid "Print"
-msgstr ""
+msgstr "Mencetak"
 
 msgid "Process"
 msgstr "Proses"
 
 msgid "Processes"
-msgstr ""
+msgstr "Proses"
 
 msgid "Program name"
 msgstr "Nama program"
@@ -634,13 +634,13 @@ msgid "Protector data"
 msgstr "Pelindung data"
 
 msgid "Prototype"
-msgstr ""
+msgstr "Prototipe"
 
 msgid "Publisher"
 msgstr "Penerbit"
 
 msgid "Quit"
-msgstr ""
+msgstr "Berhenti"
 
 msgid "Raw data"
 msgstr "Data mentah"
@@ -667,7 +667,7 @@ msgid "Ref to"
 msgstr "Ref ke"
 
 msgid "Region"
-msgstr ""
+msgstr "Wilayah"
 
 msgid "Regions"
 msgstr "Region"
@@ -703,7 +703,7 @@ msgid "Run"
 msgstr "Lari"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "Pengemudi runtime"
 
 msgid "Save"
 msgstr "Simpan"
@@ -781,7 +781,7 @@ msgid "Shortcuts"
 msgstr "Jalan pintas"
 
 msgid "Show comments"
-msgstr ""
+msgstr "Tampilkan komentar"
 
 msgid "Show logo"
 msgstr "Tampilkan logo"
@@ -817,10 +817,10 @@ msgid "Size of image"
 msgstr "Ukuran gambar"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "Urutkan elemen"
 
 msgid "Sort type"
-msgstr ""
+msgstr "Jenis pengurutan"
 
 msgid "Source code"
 msgstr "Sumber kode"
@@ -856,10 +856,10 @@ msgid "Strings"
 msgstr "String"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "Struktur dan serikat pekerja"
 
 msgid "Structs"
-msgstr ""
+msgstr "Struktur"
 
 msgid "Stub"
 msgstr "Potongan"
@@ -874,7 +874,7 @@ msgid "Subject"
 msgstr "Subjek"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Simbol"
 
 msgid "Symbol table"
 msgstr "Tabel simbol"
@@ -955,7 +955,7 @@ msgid "Value"
 msgstr "Nilai"
 
 msgid "Variable"
-msgstr ""
+msgstr "Variabel"
 
 msgid "Version"
 msgstr "Versi"
@@ -964,7 +964,7 @@ msgid "View"
 msgstr "Melihat"
 
 msgid "Viewer"
-msgstr ""
+msgstr "Penonton"
 
 msgid "Virtual address"
 msgstr "Alamat virtual"

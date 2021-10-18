@@ -7,16 +7,16 @@ msgstr ""
 "X-Language: ja_JP\n"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16ビット"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32ビット"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64ビット"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8ビット"
 
 msgid "About"
 msgstr "情報"
@@ -28,7 +28,7 @@ msgid "Actions"
 msgstr "行動"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "配置を追加"
 
 msgid "Address"
 msgstr "アドレス"
@@ -49,7 +49,7 @@ msgid "Appearance"
 msgstr "外観"
 
 msgid "Application"
-msgstr ""
+msgstr "応用"
 
 msgid "Architecture"
 msgstr "アーキテクチャ"
@@ -61,7 +61,7 @@ msgid "Archive record"
 msgstr "アーカイブ レコード"
 
 msgid "Array"
-msgstr ""
+msgstr "配列"
 
 msgid "Attach"
 msgstr "添付"
@@ -82,10 +82,10 @@ msgid "Binding"
 msgstr "バインディング"
 
 msgid "Boot application"
-msgstr ""
+msgstr "ブートアプリケーション"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "ブートサービスドライバー"
 
 msgid "Bound import"
 msgstr "バインドされたインポート"
@@ -118,28 +118,28 @@ msgid "Cancel"
 msgstr "キャンセル"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "PDBの年齢を取得できません"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "PDB名を取得できません"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "PDBからデータを読み込めません"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "ファイルを読み込めません"
 
 msgid "Cannot load msdia library"
-msgstr ""
+msgstr "msdiaライブラリを読み込めません"
 
 msgid "Cannot open file"
 msgstr "ファイルを開けません"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "セッションを開くことができません"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "アドレスのメモリを読み取れません"
 
 msgid "Cannot save file"
 msgstr "ファイルを保存できません"
@@ -178,7 +178,7 @@ msgid "Compiler"
 msgstr "コンパイラ"
 
 msgid "Console"
-msgstr ""
+msgstr "コンソール"
 
 msgid "Context"
 msgstr "コンテキスト"
@@ -262,7 +262,7 @@ msgid "Demangle"
 msgstr "デマングル"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "依存関係"
 
 msgid "Detach"
 msgstr "デタッチ"
@@ -289,7 +289,7 @@ msgid "Donate"
 msgstr "寄付"
 
 msgid "Driver"
-msgstr ""
+msgstr "運転者"
 
 msgid "Dump"
 msgstr "ダンプ"
@@ -328,7 +328,7 @@ msgid "Export File Name"
 msgstr "ファイル名のエクスポート"
 
 msgid "Export type"
-msgstr ""
+msgstr "エクスポートタイプ"
 
 msgid "External references"
 msgstr "外部参照"
@@ -343,7 +343,7 @@ msgid "File offset"
 msgstr "オフセット値"
 
 msgid "File saved"
-msgstr ""
+msgstr "保存されたファイル"
 
 msgid "File scan"
 msgstr "ファイル スキャン"
@@ -355,7 +355,7 @@ msgid "Filename"
 msgstr "ファイル名"
 
 msgid "Files"
-msgstr ""
+msgstr "ファイル"
 
 msgid "Filter"
 msgstr "フィルター"
@@ -367,10 +367,10 @@ msgid "Find next"
 msgstr "次を検索"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "オフセットを修正"
 
 msgid "Fix types"
-msgstr ""
+msgstr "タイプを修正"
 
 msgid "Flags"
 msgstr "フラグ"
@@ -394,7 +394,7 @@ msgid "Generic"
 msgstr "汎用"
 
 msgid "Get element"
-msgstr ""
+msgstr "要素を取得"
 
 msgid "Go to"
 msgstr "移動"
@@ -445,7 +445,7 @@ msgid "Import"
 msgstr "インポート"
 
 msgid "Import hash"
-msgstr ""
+msgstr "ハッシュをインポートする"
 
 msgid "Indirect symbols"
 msgstr "間接記号"
@@ -523,7 +523,7 @@ msgid "MB"
 msgstr "MB"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "MainWindow"
 
 msgid "Manifest"
 msgstr "Manifest"
@@ -535,7 +535,7 @@ msgid "Maximum"
 msgstr "最大"
 
 msgid "Memory"
-msgstr ""
+msgstr "メモリー"
 
 msgid "Memory map"
 msgstr "メモリ マップ"
@@ -562,7 +562,7 @@ msgid "Name"
 msgstr "名前"
 
 msgid "No"
-msgstr ""
+msgstr "番号"
 
 msgid "Nothing found"
 msgstr "見つかりません"
@@ -607,19 +607,19 @@ msgid "Please restart the application"
 msgstr "プログラムを再起動してください"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "管理者としてプログラムを実行してください"
 
 msgid "Pointer"
-msgstr ""
+msgstr "ポインタ"
 
 msgid "Print"
-msgstr ""
+msgstr "印刷"
 
 msgid "Process"
 msgstr "プロセス"
 
 msgid "Processes"
-msgstr ""
+msgstr "プロセス"
 
 msgid "Program name"
 msgstr "プログラム名"
@@ -634,13 +634,13 @@ msgid "Protector data"
 msgstr "プロテクタ データ"
 
 msgid "Prototype"
-msgstr ""
+msgstr "プロトタイプ"
 
 msgid "Publisher"
 msgstr "出版社"
 
 msgid "Quit"
-msgstr ""
+msgstr "終了する"
 
 msgid "Raw data"
 msgstr "Raw データ"
@@ -667,7 +667,7 @@ msgid "Ref to"
 msgstr "へ参照"
 
 msgid "Region"
-msgstr ""
+msgstr "領域"
 
 msgid "Regions"
 msgstr "地域"
@@ -703,7 +703,7 @@ msgid "Run"
 msgstr "実行"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "ランタイムドライバー"
 
 msgid "Save"
 msgstr "保存"
@@ -781,7 +781,7 @@ msgid "Shortcuts"
 msgstr "ショートカット"
 
 msgid "Show comments"
-msgstr ""
+msgstr "コメントを表示"
 
 msgid "Show logo"
 msgstr "ロゴを表示する"
@@ -817,10 +817,10 @@ msgid "Size of image"
 msgstr "画像のサイズ"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "要素を並べ替える"
 
 msgid "Sort type"
-msgstr ""
+msgstr "ソートタイプ"
 
 msgid "Source code"
 msgstr "ソース コード"
@@ -856,10 +856,10 @@ msgid "Strings"
 msgstr "文字列"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "構造体と共用体"
 
 msgid "Structs"
-msgstr ""
+msgstr "構造体"
 
 msgid "Stub"
 msgstr "Stub"
@@ -874,7 +874,7 @@ msgid "Subject"
 msgstr "主題"
 
 msgid "Symbol"
-msgstr ""
+msgstr "シンボル"
 
 msgid "Symbol table"
 msgstr "シンボル テーブル"
@@ -955,7 +955,7 @@ msgid "Value"
 msgstr "値"
 
 msgid "Variable"
-msgstr ""
+msgstr "変数"
 
 msgid "Version"
 msgstr "バージョン"
@@ -964,7 +964,7 @@ msgid "View"
 msgstr "意見"
 
 msgid "Viewer"
-msgstr ""
+msgstr "ビューア"
 
 msgid "Virtual address"
 msgstr "仮想アドレス"
