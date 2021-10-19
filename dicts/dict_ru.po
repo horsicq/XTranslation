@@ -50,7 +50,7 @@ msgid "Appearance"
 msgstr "Внешний вид"
 
 msgid "Application"
-msgstr "заявка"
+msgstr "Приложение"
 
 msgid "Architecture"
 msgstr "Архитектура"
@@ -167,7 +167,7 @@ msgid "Close"
 msgstr "Закрыть"
 
 msgid "Code section"
-msgstr "Секция"
+msgstr "Секция кода"
 
 msgid "Commands"
 msgstr "Команды"
@@ -227,10 +227,10 @@ msgid "Count"
 msgstr "Число"
 
 msgid "Create view model"
-msgstr "Создать вид/модель"
+msgstr "Создать модель вида"
 
 msgid "Cryptor"
-msgstr "Шифратор"
+msgstr "Криптор"
 
 msgid "Cursor"
 msgstr "Курсор"
@@ -287,7 +287,7 @@ msgid "Documents"
 msgstr "Документы"
 
 msgid "Donate"
-msgstr "Спонсировать"
+msgstr "Донат"
 
 msgid "Driver"
 msgstr "Водитель"
@@ -341,13 +341,13 @@ msgid "File name"
 msgstr "Имя файла"
 
 msgid "File offset"
-msgstr "Смещение"
+msgstr "Смещение в файле"
 
 msgid "File saved"
 msgstr "Файл сохранен"
 
 msgid "File scan"
-msgstr "Сканирования файла"
+msgstr "Сканирование файла"
 
 msgid "File type"
 msgstr "Тип файла"
@@ -413,13 +413,13 @@ msgid "Group"
 msgstr "Группа"
 
 msgid "Handles"
-msgstr "Ручки"
+msgstr "Хэндлы"
 
 msgid "Hash"
 msgstr "Хэш"
 
 msgid "Header"
-msgstr "Header"
+msgstr "Заголовок"
 
 msgid "Help"
 msgstr "Справка"
@@ -437,16 +437,16 @@ msgid "Hex signature"
 msgstr "16-ричная сигнатура"
 
 msgid "Image"
-msgstr "Образ"
+msgstr "Рисунок"
 
 msgid "Images"
-msgstr "Образы"
+msgstr "Рисунки"
 
 msgid "Import"
 msgstr "Импорт"
 
 msgid "Import hash"
-msgstr "Импортировать хеш"
+msgstr "Хэш импорта"
 
 msgid "Indirect symbols"
 msgstr "Косвенные символы"
@@ -464,10 +464,10 @@ msgid "Installer data"
 msgstr "Данные установщика"
 
 msgid "Interpreter"
-msgstr "Устный переводчик"
+msgstr "Интерпретатор"
 
 msgid "Invalid"
-msgstr "Ошибка"
+msgstr "Неверный"
 
 msgid "Invalid opcode"
 msgstr "Неверный код операции"
@@ -512,10 +512,10 @@ msgid "Linker"
 msgstr "Линковщик"
 
 msgid "Load config"
-msgstr "Загрузить конфигурацию"
+msgstr "Загрузочная конфигурация"
 
 msgid "Local relocation"
-msgstr "Местный переезд"
+msgstr "Локальное перемещение"
 
 msgid "Log"
 msgstr "Журнал"
@@ -536,7 +536,7 @@ msgid "Maximum"
 msgstr "Максимум"
 
 msgid "Memory"
-msgstr "объем памяти"
+msgstr "Память"
 
 msgid "Memory map"
 msgstr "Карта памяти"
@@ -776,10 +776,10 @@ msgid "Serial number"
 msgstr "Серийный номер"
 
 msgid "Shortcut"
-msgstr "Ссылка"
+msgstr "Сочетание клавиш"
 
 msgid "Shortcuts"
-msgstr "Ссылки"
+msgstr "Сочетания клавиш"
 
 msgid "Show comments"
 msgstr "Показать комментарии"
@@ -794,7 +794,7 @@ msgid "Show type"
 msgstr "Показать тип"
 
 msgid "Show valid"
-msgstr "Показать действительный"
+msgstr "Показать правильно"
 
 msgid "Show version"
 msgstr "Показать версию"
@@ -830,7 +830,7 @@ msgid "Spaces"
 msgstr "Пробелы"
 
 msgid "Stack"
-msgstr "Куча"
+msgstr "Стэк"
 
 msgid "Status"
 msgstr "Статус"
@@ -857,7 +857,7 @@ msgid "Strings"
 msgstr "Строки"
 
 msgid "Struct and unions"
-msgstr "Структура и союзы"
+msgstr "Структура и юнионы"
 
 msgid "Structs"
 msgstr "Структуры"
@@ -875,7 +875,7 @@ msgid "Subject"
 msgstr "Тема"
 
 msgid "Symbol"
-msgstr "Условное обозначение"
+msgstr "Символ"
 
 msgid "Symbol table"
 msgstr "Таблица символов"
@@ -890,7 +890,7 @@ msgid "Table"
 msgstr "Таблица"
 
 msgid "Table of contents"
-msgstr "Оглавление"
+msgstr "Таблица с содержимым"
 
 msgid "Text"
 msgstr "Текст"
@@ -965,7 +965,7 @@ msgid "View"
 msgstr "Вид"
 
 msgid "Viewer"
-msgstr "Зритель"
+msgstr "Просмотрщик"
 
 msgid "Virtual address"
 msgstr "Виртуальный адрес"
