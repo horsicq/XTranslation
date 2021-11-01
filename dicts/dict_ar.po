@@ -290,7 +290,7 @@ msgid "Donate"
 msgstr "يتبرع"
 
 msgid "Driver"
-msgstr "سائق"
+msgstr "سائق" 
 
 msgid "Dump"
 msgstr "أحمق"
