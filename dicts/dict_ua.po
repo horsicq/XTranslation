@@ -1,0 +1,1009 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Language: uk_UA\n"
+
+msgid "16-bit"
+msgstr "16-бітний"
+
+msgid "32-bit"
+msgstr "32-бітний"
+
+msgid "64-bit"
+msgstr "64-бітний"
+
+msgid "8-bit"
+msgstr "8-бітний"
+
+msgid "About"
+msgstr "Про програму"
+
+msgid "Action"
+msgstr "Дія"
+
+msgid "Actions"
+msgstr "Дії"
+
+msgid "Add alignment"
+msgstr "Додати вирівнювання"
+
+msgid "Address"
+msgstr "Адреса"
+
+msgid "Algorithm"
+msgstr "Алгоритм"
+
+msgid "All"
+msgstr "Усе"
+
+msgid "All files"
+msgstr "Усі файли"
+
+msgid "Analyze"
+msgstr "Аналізувати"
+
+msgid "Appearance"
+msgstr "Зовнішній вигляд"
+
+msgid "Application"
+msgstr "Програма"
+
+msgid "Architecture"
+msgstr "Архітектура"
+
+msgid "Archive"
+msgstr "Архів"
+
+msgid "Archive record"
+msgstr "Архівний запис"
+
+msgid "Array"
+msgstr "Масив"
+
+msgid "Attach"
+msgstr "Прикріпити"
+
+msgid "Automatic"
+msgstr "Автоматичний"
+
+msgid "Base address"
+msgstr "Базова адреса"
+
+msgid "Begin"
+msgstr "Початок"
+
+msgid "Bind"
+msgstr "Зв'язувати"
+
+msgid "Binding"
+msgstr "Прив'язка"
+
+msgid "Boot application"
+msgstr "Загрузочна програма"
+
+msgid "Boot service driver"
+msgstr "Драйвер служби завантаження"
+
+msgid "Bound import"
+msgstr "Зв'язаний імпорт"
+
+msgid "Breakpoints"
+msgstr "Точки зупинки"
+
+msgid "Byte"
+msgstr "Байт"
+
+msgid "Bytes"
+msgstr "Байти"
+
+msgid "CPU"
+msgstr "Процесор"
+
+msgid "Calculate"
+msgstr "Обрахувати"
+
+msgid "Call stack"
+msgstr "Стек викликів"
+
+msgid "Callbacks"
+msgstr "Зворотні виклики"
+
+msgid "Calls"
+msgstr "Виклики"
+
+msgid "Cancel"
+msgstr "Відміна"
+
+msgid "Cannot get PDB age"
+msgstr "Не вдається отримати вік PDB"
+
+msgid "Cannot get PDB name"
+msgstr "Не вдається отримати ім'я PDB"
+
+msgid "Cannot load data from PDB"
+msgstr "Не вдається завантажити дані із PDB"
+
+msgid "Cannot load file"
+msgstr "Неможливо завантажити файл"
+
+msgid "Cannot load msdia library"
+msgstr "Не вдається завантажити бібліотеку msdia"
+
+msgid "Cannot open file"
+msgstr "Неможливо відкрити файл"
+
+msgid "Cannot open session"
+msgstr "Неможливо відкрити сесію"
+
+msgid "Cannot read memory at address"
+msgstr "Неможливо прочитать пам'ять по адресі"
+
+msgid "Cannot save file"
+msgstr "Неможливо зберегти файл"
+
+msgid "Cannot set shortcut"
+msgstr "Неможливо створити посилання"
+
+msgid "Certificate"
+msgstr "Сертифікат"
+
+msgid "Check"
+msgstr "Перевірити"
+
+msgid "Check updates"
+msgstr "Перевірити оновлення"
+
+msgid "Clear"
+msgstr "Очистити"
+
+msgid "Clear result"
+msgstr "Очистити результат"
+
+msgid "Close"
+msgstr "Закрити"
+
+msgid "Code section"
+msgstr "Секція коду"
+
+msgid "Commands"
+msgstr "Команди"
+
+msgid "Comment"
+msgstr "Коментарій"
+
+msgid "Compiler"
+msgstr "Компілятор"
+
+msgid "Console"
+msgstr "Консоль"
+
+msgid "Context"
+msgstr "Контекст"
+
+msgid "Converter"
+msgstr "Конвертор"
+
+msgid "Copy"
+msgstr "Копіювати"
+
+msgid "Copy address"
+msgstr "Копіювати адресу"
+
+msgid "Copy as"
+msgstr "Копіювати як"
+
+msgid "Copy as hex"
+msgstr "Копіювати як 16-кове"
+
+msgid "Copy cursor address"
+msgstr "Копіювати поточну адресу"
+
+msgid "Copy cursor offset"
+msgstr "Копіювати поточне зміщення"
+
+msgid "Copy filename"
+msgstr "Копіювати ім'я файлу"
+
+msgid "Copy name"
+msgstr "Копіювати ім'я"
+
+msgid "Copy offset"
+msgstr "Копіювати зміщення"
+
+msgid "Copy signature"
+msgstr "Копіювати сігнатуру"
+
+msgid "Copy size"
+msgstr "Копіювати розмір"
+
+msgid "Copy string"
+msgstr "Копіювати стрічку"
+
+msgid "Count"
+msgstr "Кількість"
+
+msgid "Create view model"
+msgstr "Стоврити модель виду"
+
+msgid "Cryptor"
+msgstr "Криптор"
+
+msgid "Cursor"
+msgstr "Курсор"
+
+msgid "Data in code"
+msgstr "Дані в коді"
+
+msgid "Database"
+msgstr "База даних"
+
+msgid "Debug"
+msgstr "Відладка"
+
+msgid "Debug data"
+msgstr "Відладочна інформація"
+
+msgid "Debugger"
+msgstr "Відладчик"
+
+msgid "Deep scan"
+msgstr "Глибокий аналіз"
+
+msgid "Default"
+msgstr "По замовчуванню"
+
+msgid "Delay import"
+msgstr "Відкладений імпорт"
+
+msgid "Demangle"
+msgstr ""
+
+msgid "Dependencies"
+msgstr "Залежності"
+
+msgid "Detach"
+msgstr "Від'єднати"
+
+msgid "Device scan"
+msgstr "Сканувати пристрій"
+
+msgid "Directory"
+msgstr "Каталог"
+
+msgid "Directory scan"
+msgstr "Сканування каталогу"
+
+msgid "Disasm"
+msgstr "Дизасемблювати"
+
+msgid "Document"
+msgstr "Документ"
+
+msgid "Documents"
+msgstr "Документи"
+
+msgid "Donate"
+msgstr "Донат"
+
+msgid "Driver"
+msgstr "Драйвер"
+
+msgid "Dump"
+msgstr "Дамп"
+
+msgid "Dump to file"
+msgstr "Дамп у файл"
+
+msgid "Edit"
+msgstr "Редагувати"
+
+msgid "Endianness"
+msgstr "Порядок байтів"
+
+msgid "Entropy"
+msgstr "Ентропія"
+
+msgid "Entry point"
+msgstr "Точка входу"
+
+msgid "Entry point section"
+msgstr "Секція точки входу"
+
+msgid "Error"
+msgstr "Помилка"
+
+msgid "Exceptions"
+msgstr "Виключення"
+
+msgid "Exit"
+msgstr "Вихід"
+
+msgid "Export"
+msgstr "Експорт"
+
+msgid "Export File Name"
+msgstr "Назва файлу експорту"
+
+msgid "Export type"
+msgstr "Тип экспорту"
+
+msgid "External references"
+msgstr "Зовнішні посилання"
+
+msgid "File"
+msgstr "Файл"
+
+msgid "File name"
+msgstr "Ім'я файлу"
+
+msgid "File offset"
+msgstr "Зміщення у файлі"
+
+msgid "File saved"
+msgstr "Файл збережено"
+
+msgid "File scan"
+msgstr "Сканування файлу"
+
+msgid "File type"
+msgstr "Тип файлу"
+
+msgid "Filename"
+msgstr "Ім'я файлу"
+
+msgid "Files"
+msgstr "Файли"
+
+msgid "Filter"
+msgstr "Фільтр"
+
+msgid "Find"
+msgstr "Пошук"
+
+msgid "Find next"
+msgstr "Знайти далі"
+
+msgid "Fix offsets"
+msgstr "Фіксувати зміщення"
+
+msgid "Fix types"
+msgstr "Фіксувати типи"
+
+msgid "Flags"
+msgstr "Прапорці"
+
+msgid "Form"
+msgstr "Форма"
+
+msgid "Format"
+msgstr "Формат"
+
+msgid "Functions"
+msgstr "Функції"
+
+msgid "GB"
+msgstr "ГБ"
+
+msgid "General"
+msgstr "Спільне"
+
+msgid "Generic"
+msgstr "Узагальнене"
+
+msgid "Get element"
+msgstr "Отримати елемент"
+
+msgid "Go to"
+msgstr "Перейти до"
+
+msgid "Go to address"
+msgstr "Перейти до адреси"
+
+msgid "Go to entry point"
+msgstr "Перейти на точку входу"
+
+msgid "Go to offset"
+msgstr "Перейти по зміщенню"
+
+msgid "Group"
+msgstr "Група"
+
+msgid "Handles"
+msgstr ""
+
+msgid "Hash"
+msgstr "Хеш"
+
+msgid "Header"
+msgstr "Заголовок"
+
+msgid "Help"
+msgstr "Допомога"
+
+msgid "Heuristic"
+msgstr "Еврістика"
+
+msgid "Heuristic scan"
+msgstr "Еврістичне сканування"
+
+msgid "Hex"
+msgstr ""
+
+msgid "Hex signature"
+msgstr "16-кова сігнатура"
+
+msgid "Image"
+msgstr "Малюнок"
+
+msgid "Images"
+msgstr "Малюнки"
+
+msgid "Import"
+msgstr "Імпорт"
+
+msgid "Import hash"
+msgstr "Хеш імпорту"
+
+msgid "Indirect symbols"
+msgstr "Непрямі символи"
+
+msgid "Info"
+msgstr "Інфо"
+
+msgid "Information"
+msgstr "Інформація"
+
+msgid "Installer"
+msgstr "Інсталятор"
+
+msgid "Installer data"
+msgstr "Дані інсталятора"
+
+msgid "Interpreter"
+msgstr "Інтерпретатор"
+
+msgid "Invalid"
+msgstr "Невірний"
+
+msgid "Invalid opcode"
+msgstr "Невірний опкод"
+
+msgid "Issuer"
+msgstr "Видавач"
+
+msgid "It is not a valid file"
+msgstr "Невірний файл"
+
+msgid "Joiner"
+msgstr "Джойнер"
+
+msgid "Jumps"
+msgstr "Переходи"
+
+msgid "Label"
+msgstr "Мітка"
+
+msgid "Labels"
+msgstr "Мітки"
+
+msgid "Language"
+msgstr "Мова"
+
+msgid "Lazy binding"
+msgstr "Лінива прив'язка"
+
+msgid "Length"
+msgstr "Довжина"
+
+msgid "Libraries"
+msgstr "Бібліотеки"
+
+msgid "Library"
+msgstr "Бібліотека"
+
+msgid "Library name"
+msgstr "Назва бібліотеки"
+
+msgid "Linker"
+msgstr "Лінкер"
+
+msgid "Load config"
+msgstr "Завантажувана конфігурація"
+
+msgid "Local relocation"
+msgstr "Локальна релокація"
+
+msgid "Log"
+msgstr "Журнал"
+
+msgid "MB"
+msgstr "МБ"
+
+msgid "MainWindow"
+msgstr ""
+
+msgid "Manifest"
+msgstr "Маніфест"
+
+msgid "Match case"
+msgstr "Враховувати регістр"
+
+msgid "Maximum"
+msgstr "Максимум"
+
+msgid "Memory"
+msgstr "Пам'ять"
+
+msgid "Memory map"
+msgstr "Карта пам'яті"
+
+msgid "Memory scan"
+msgstr "Сканування пам'яті"
+
+msgid "Metadata"
+msgstr "Метадані"
+
+msgid "Method"
+msgstr "Метод"
+
+msgid "Mode"
+msgstr "Режим"
+
+msgid "Modules"
+msgstr "Модулі"
+
+msgid "More info"
+msgstr "Більше інфо"
+
+msgid "Name"
+msgstr "Ім'я"
+
+msgid "No"
+msgstr "Ні"
+
+msgid "Nothing found"
+msgstr "Нічого не знайдено"
+
+msgid "OK"
+msgstr ""
+
+msgid "Offset"
+msgstr "Зміщення"
+
+msgid "Opcode"
+msgstr "Опкод"
+
+msgid "Opcodes"
+msgstr "Опкоди"
+
+msgid "Open"
+msgstr "Відкрити"
+
+msgid "Open directory"
+msgstr "Відкрити папку для сканування"
+
+msgid "Open file"
+msgstr "Відкрити файл"
+
+msgid "Operation system"
+msgstr "Операційна система"
+
+msgid "Options"
+msgstr "Налаштування"
+
+msgid "Overlay"
+msgstr "Оверлей"
+
+msgid "Packer"
+msgstr "Пакувальник"
+
+msgid "Pause"
+msgstr "Пауза"
+
+msgid "Please restart the application"
+msgstr "Прошу перезавантажити програму"
+
+msgid "Please run the program as an administrator"
+msgstr "Прошу запустити програму від імені адміністратора"
+
+msgid "Pointer"
+msgstr "Вказівник"
+
+msgid "Print"
+msgstr "Друкувати"
+
+msgid "Process"
+msgstr "Процес"
+
+msgid "Processes"
+msgstr "Процеси"
+
+msgid "Program name"
+msgstr "Назва програми"
+
+msgid "Programs"
+msgstr "Програми"
+
+msgid "Protector"
+msgstr "Протектор"
+
+msgid "Protector data"
+msgstr "Дані протектора"
+
+msgid "Prototype"
+msgstr "Прототип"
+
+msgid "Publisher"
+msgstr "Видавець"
+
+msgid "Quit"
+msgstr "Вийти"
+
+msgid "Raw data"
+msgstr "Сирі дані"
+
+msgid "Read error"
+msgstr "Помилка читання"
+
+msgid "Readonly"
+msgstr "Лише читання"
+
+msgid "Rebase"
+msgstr ""
+
+msgid "Recursive"
+msgstr "Рекурсивно"
+
+msgid "Recursive scan"
+msgstr "Рекурсивне сканування"
+
+msgid "Ref from"
+msgstr "Посилання із"
+
+msgid "Ref to"
+msgstr "Посилання до"
+
+msgid "Region"
+msgstr "Регіон"
+
+msgid "Regions"
+msgstr "Регіони"
+
+msgid "Register"
+msgstr "Реєструвати"
+
+msgid "Registers"
+msgstr "Регістри"
+
+msgid "Relative address"
+msgstr "Відносна адреса"
+
+msgid "Relative virtual address"
+msgstr "Відносна віртуальна адреса"
+
+msgid "Reload"
+msgstr "Оновити"
+
+msgid "Relocs"
+msgstr "Релоки"
+
+msgid "Resources"
+msgstr "Ресурси"
+
+msgid "Restart"
+msgstr "Рестарт"
+
+msgid "Result"
+msgstr "Результат"
+
+msgid "Run"
+msgstr "Запустити"
+
+msgid "Runtime driver"
+msgstr "Драйвер часу виконання"
+
+msgid "Save"
+msgstr "Зберегти"
+
+msgid "Save As"
+msgstr "Зберегти як"
+
+msgid "Save backup"
+msgstr "Зберегти резервну копію"
+
+msgid "Save diagram"
+msgstr "Зберегти графік"
+
+msgid "Save dump"
+msgstr "Зберегти дамп"
+
+msgid "Save file"
+msgstr "Зберегти файл"
+
+msgid "Save last directory"
+msgstr "Зберегти місце останнього сканування"
+
+msgid "Save result"
+msgstr "Зберегти результат"
+
+msgid "Scan"
+msgstr "Сканувати"
+
+msgid "Scan after open"
+msgstr "Сканувати одразу"
+
+msgid "Search"
+msgstr "Пошук"
+
+msgid "Search from"
+msgstr "Пошук з"
+
+msgid "Search signatures"
+msgstr "Пошук сігнатур"
+
+msgid "Search strings"
+msgstr "Пошук стрічок"
+
+msgid "Section"
+msgstr "Секція"
+
+msgid "Section name"
+msgstr "Назва секції"
+
+msgid "Sections"
+msgstr "Секції"
+
+msgid "Segment"
+msgstr "Сегмент"
+
+msgid "Segments"
+msgstr "Сегменти"
+
+msgid "Select"
+msgstr "Вибрати"
+
+msgid "Select all"
+msgstr "Вибрати все"
+
+msgid "Selection"
+msgstr "Виділення"
+
+msgid "Serial number"
+msgstr "Серійний номер"
+
+msgid "Shortcut"
+msgstr "Комбінація кнопок"
+
+msgid "Shortcuts"
+msgstr "Комбінації кнопок"
+
+msgid "Show comments"
+msgstr "Показати коментарі"
+
+msgid "Show logo"
+msgstr "Показати логотип"
+
+msgid "Show options"
+msgstr "Показати налаштування"
+
+msgid "Show type"
+msgstr "Показати тип"
+
+msgid "Show valid"
+msgstr "Показати вірні"
+
+msgid "Show version"
+msgstr "Показати версію"
+
+msgid "Sign tool"
+msgstr "Інструмент підпису"
+
+msgid "Signature"
+msgstr "Сігнатура"
+
+msgid "Signatures"
+msgstr "Сігнатури"
+
+msgid "Single application"
+msgstr "Лише 1 екземпляр"
+
+msgid "Size"
+msgstr "Розмір"
+
+msgid "Size of image"
+msgstr "Розмір образу"
+
+msgid "Sort elements"
+msgstr "Сортувати елементи"
+
+msgid "Sort type"
+msgstr "Тип сортування"
+
+msgid "Source code"
+msgstr "Джерельний код"
+
+msgid "Spaces"
+msgstr "Прогалини"
+
+msgid "Stack"
+msgstr "Стек"
+
+msgid "Status"
+msgstr "Статус"
+
+msgid "Stay on top"
+msgstr "Поверх усіх вікон"
+
+msgid "Step into"
+msgstr "Крок всередину"
+
+msgid "Step over"
+msgstr "Крок поверх"
+
+msgid "Stop"
+msgstr "Стоп"
+
+msgid "String"
+msgstr "Стрічка"
+
+msgid "String table"
+msgstr "Таблиця стрічок"
+
+msgid "Strings"
+msgstr "Стрічки"
+
+msgid "Struct and unions"
+msgstr "Структури та об'єднання"
+
+msgid "Structs"
+msgstr "Структури"
+
+msgid "Stub"
+msgstr "Заглушка"
+
+msgid "Style"
+msgstr "Стиль"
+
+msgid "Subdirectories"
+msgstr "Підкаталоги"
+
+msgid "Subject"
+msgstr "Тема"
+
+msgid "Symbol"
+msgstr "Символ"
+
+msgid "Symbol table"
+msgstr "Таблиця символів"
+
+msgid "Symbols"
+msgstr "Символи"
+
+msgid "Syntax"
+msgstr "Синтаксис"
+
+msgid "Table"
+msgstr "Таблиця"
+
+msgid "Table of contents"
+msgstr "Зміст"
+
+msgid "Text"
+msgstr "Текст"
+
+msgid "Text documents"
+msgstr "Текстові документи"
+
+msgid "Text files"
+msgstr "Текстові файли"
+
+msgid "Thanks"
+msgstr "Подяки"
+
+msgid "The file is not signed"
+msgstr "Файл не підписаний"
+
+msgid "The file is signed and the signature was verified"
+msgstr "Файл підписаний, підпис верифіковано"
+
+msgid "The signature error"
+msgstr "Помилка підпису"
+
+msgid "The signature is present, but not trusted"
+msgstr "Підпис присутній, але не довірений"
+
+msgid "The signature is present, but specifically disallowed"
+msgstr "Підпис присутній, але спеціально заборонений"
+
+msgid "Threads"
+msgstr "Потоки"
+
+msgid "Time date stamp"
+msgstr "Відмітка дати й часу"
+
+msgid "To data"
+msgstr "До даних"
+
+msgid "Toggle"
+msgstr "Перемикати"
+
+msgid "Tool"
+msgstr "Інструмент"
+
+msgid "Tools"
+msgstr "Інструменти"
+
+msgid "Total"
+msgstr "Усього"
+
+msgid "Tree"
+msgstr "Дерево"
+
+msgid "Type"
+msgstr "Тип"
+
+msgid "Unknown"
+msgstr "Невідомо"
+
+msgid "Upper"
+msgstr "Верхній регістр"
+
+msgid "Value"
+msgstr "Значення"
+
+msgid "Variable"
+msgstr "Змінна"
+
+msgid "Version"
+msgstr "Версія"
+
+msgid "View"
+msgstr "Вид"
+
+msgid "Viewer"
+msgstr "Переглядач"
+
+msgid "Virtual address"
+msgstr "Віртуальна адреса"
+
+msgid "Virtual machine"
+msgstr "Віртуальна машина"
+
+msgid "Weak binding"
+msgstr "Слабке зв'язування"
+
+msgid "Wildcard"
+msgstr "Маска"
+
+msgid "Write error"
+msgstr "Помилка запису"
+
+msgid "compressor"
+msgstr "Пакувальник"
+
+msgid "data"
+msgstr "дані"
+
+msgid "extender"
+msgstr "розширення"
+
+msgid "kB"
+msgstr "КБ"
+
+msgid "msec"
+msgstr "мсек"
+
+msgid "not packed"
+msgstr "непакований"
+
+msgid "obfuscator"
+msgstr "обфускатор"
+
+msgid "packed"
+msgstr "пакований"
+
+msgid "protection"
+msgstr "захист"
