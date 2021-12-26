@@ -27,6 +27,7 @@ Translation for:
 | Russian              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ru.po"> <img src="https://gitlocalize.com/repo/4736/ru/badge.svg" /> </a> |
 | Turkish              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_tr.po"> <img src="https://gitlocalize.com/repo/4736/tr/badge.svg" /> </a> |
 | Vietnamese           | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_vi.po"> <img src="https://gitlocalize.com/repo/4736/vi/badge.svg" /> </a> |
+| Ukrainian           	| <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_uk.po"> <img src="https://gitlocalize.com/repo/4736/uk/badge.svg" /> </a> |
 | Chinese              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh.po"> <img src="https://gitlocalize.com/repo/4736/zh/badge.svg" /> </a> |
 | Chinese, Taiwan      | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh-TW.po"> <img src="https://gitlocalize.com/repo/4736/zh-TW/badge.svg" /> </a> |
 
