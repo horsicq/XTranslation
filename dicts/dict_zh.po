@@ -5,12 +5,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_CN\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Shiao Qu <shiaoqur@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"X-Generator: Poedit 2.4.2\n"
 
 msgid "16-bit"
 msgstr "16 位"
 
 msgid "32-bit"
-msgstr "32位"
+msgstr "32 位"
 
 msgid "64-bit"
 msgstr "64 位"
@@ -178,7 +185,7 @@ msgid "Compiler"
 msgstr "编译器"
 
 msgid "Console"
-msgstr "安慰"
+msgstr "控制台"
 
 msgid "Context"
 msgstr "上下文"
@@ -385,7 +392,7 @@ msgid "Functions"
 msgstr "函数"
 
 msgid "GB"
-msgstr "国标"
+msgstr "GB"
 
 msgid "General"
 msgstr "常规"
@@ -412,7 +419,7 @@ msgid "Group"
 msgstr "组"
 
 msgid "Handles"
-msgstr "把手"
+msgstr "句柄"
 
 msgid "Hash"
 msgstr "哈希"
@@ -436,10 +443,10 @@ msgid "Hex signature"
 msgstr "十六进制签名"
 
 msgid "Image"
-msgstr "图片"
+msgstr "镜像"
 
 msgid "Images"
-msgstr "图像"
+msgstr "镜像"
 
 msgid "Import"
 msgstr "导入表"
@@ -454,7 +461,7 @@ msgid "Info"
 msgstr "信息"
 
 msgid "Information"
-msgstr "资讯"
+msgstr "信息"
 
 msgid "Installer"
 msgstr "安装程序"
@@ -463,7 +470,7 @@ msgid "Installer data"
 msgstr "安装程序数据"
 
 msgid "Interpreter"
-msgstr "口译员"
+msgstr "解释器"
 
 msgid "Invalid"
 msgstr "无效"
@@ -505,7 +512,7 @@ msgid "Library"
 msgstr "库"
 
 msgid "Library name"
-msgstr "图书馆名称"
+msgstr "库名称"
 
 msgid "Linker"
 msgstr "链接程序"
@@ -514,7 +521,7 @@ msgid "Load config"
 msgstr "加载配置"
 
 msgid "Local relocation"
-msgstr "本地搬迁"
+msgstr "局部重定位"
 
 msgid "Log"
 msgstr "日志"
@@ -535,7 +542,7 @@ msgid "Maximum"
 msgstr "最大值"
 
 msgid "Memory"
-msgstr "记忆"
+msgstr "内存"
 
 msgid "Memory map"
 msgstr "内存映射"
@@ -562,7 +569,7 @@ msgid "Name"
 msgstr "名称"
 
 msgid "No"
-msgstr "不"
+msgstr "否"
 
 msgid "Nothing found"
 msgstr "没有找到"
@@ -574,7 +581,7 @@ msgid "Offset"
 msgstr "偏移"
 
 msgid "Opcode"
-msgstr "指令"
+msgstr "机器码"
 
 msgid "Opcodes"
 msgstr "机器码"
@@ -616,16 +623,16 @@ msgid "Print"
 msgstr "打印"
 
 msgid "Process"
-msgstr "处理"
+msgstr "进程"
 
 msgid "Processes"
-msgstr "流程"
+msgstr "进程"
 
 msgid "Program name"
-msgstr "节目名称"
+msgstr "程序名称"
 
 msgid "Programs"
-msgstr "程式"
+msgstr "程序"
 
 msgid "Protector"
 msgstr "保护器"
@@ -661,28 +668,28 @@ msgid "Recursive scan"
 msgstr "递归扫描"
 
 msgid "Ref from"
-msgstr "参考来源"
+msgstr "引用于"
 
 msgid "Ref to"
-msgstr "请参阅"
+msgstr "引用至"
 
 msgid "Region"
-msgstr "地区"
+msgstr "区域"
 
 msgid "Regions"
 msgstr "区域"
 
 msgid "Register"
-msgstr "注册"
+msgstr "寄存器"
 
 msgid "Registers"
 msgstr "寄存器"
 
 msgid "Relative address"
-msgstr "相关地址"
+msgstr "相对地址(RA)"
 
 msgid "Relative virtual address"
-msgstr "相关虚拟地址"
+msgstr "相对虚拟地址(RVA)"
 
 msgid "Reload"
 msgstr "重新加载"
@@ -748,19 +755,19 @@ msgid "Search strings"
 msgstr "搜索字符串"
 
 msgid "Section"
-msgstr "区块"
+msgstr "节"
 
 msgid "Section name"
-msgstr "区块名称"
+msgstr "节名称"
 
 msgid "Sections"
-msgstr "区块"
+msgstr "节"
 
 msgid "Segment"
 msgstr "段"
 
 msgid "Segments"
-msgstr "片段"
+msgstr "段"
 
 msgid "Select"
 msgstr "选择"
@@ -769,7 +776,7 @@ msgid "Select all"
 msgstr "全选"
 
 msgid "Selection"
-msgstr "选择器"
+msgstr "选区"
 
 msgid "Serial number"
 msgstr "序列号"
@@ -778,7 +785,7 @@ msgid "Shortcut"
 msgstr "快捷键"
 
 msgid "Shortcuts"
-msgstr "快捷指令"
+msgstr "快捷键"
 
 msgid "Show comments"
 msgstr "显示评论"
@@ -793,7 +800,7 @@ msgid "Show type"
 msgstr "显示类型"
 
 msgid "Show valid"
-msgstr "显示有效"
+msgstr "显示有效项"
 
 msgid "Show version"
 msgstr "显示版本"
@@ -805,7 +812,7 @@ msgid "Signature"
 msgstr "签名"
 
 msgid "Signatures"
-msgstr "鲜明特征"
+msgstr "签名"
 
 msgid "Single application"
 msgstr "单个应用程序"
@@ -814,7 +821,7 @@ msgid "Size"
 msgstr "大小"
 
 msgid "Size of image"
-msgstr "图片尺寸"
+msgstr "镜像大小"
 
 msgid "Sort elements"
 msgstr "排序元素"
@@ -829,7 +836,7 @@ msgid "Spaces"
 msgstr "空格"
 
 msgid "Stack"
-msgstr "堆"
+msgstr "栈"
 
 msgid "Status"
 msgstr "状态"
@@ -856,13 +863,13 @@ msgid "Strings"
 msgstr "字符串"
 
 msgid "Struct and unions"
-msgstr "结构体和工会"
+msgstr "结构体和共用体"
 
 msgid "Structs"
 msgstr "结构"
 
 msgid "Stub"
-msgstr "末节区域"
+msgstr "桩"
 
 msgid "Style"
 msgstr "样式"
@@ -874,7 +881,7 @@ msgid "Subject"
 msgstr "主题"
 
 msgid "Symbol"
-msgstr "象征"
+msgstr "符号"
 
 msgid "Symbol table"
 msgstr "符号表"
@@ -904,10 +911,10 @@ msgid "Thanks"
 msgstr "致谢名单"
 
 msgid "The file is not signed"
-msgstr "该文件未签名"
+msgstr "该文件未被签名"
 
 msgid "The file is signed and the signature was verified"
-msgstr "文件已签名并已验证签名"
+msgstr "该文件已被签名并且签名已被验证"
 
 msgid "The signature error"
 msgstr "签名错误"
@@ -916,7 +923,7 @@ msgid "The signature is present, but not trusted"
 msgstr "签名存在，但不受信任"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "签名存在，但明确不允许"
+msgstr "签名存在，但已被显式禁用"
 
 msgid "Threads"
 msgstr "线程"
@@ -955,13 +962,13 @@ msgid "Value"
 msgstr "值"
 
 msgid "Variable"
-msgstr "多变的"
+msgstr "变量"
 
 msgid "Version"
 msgstr "版本"
 
 msgid "View"
-msgstr "看法"
+msgstr "查看"
 
 msgid "Viewer"
 msgstr "查看器"
@@ -991,19 +998,19 @@ msgid "extender"
 msgstr "扩展器"
 
 msgid "kB"
-msgstr "千字节"
+msgstr "kB"
 
 msgid "msec"
 msgstr "毫秒"
 
 msgid "not packed"
-msgstr "未打包"
+msgstr "未加壳"
 
 msgid "obfuscator"
 msgstr "混淆器"
 
 msgid "packed"
-msgstr "打包"
+msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
