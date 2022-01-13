@@ -1,10 +1,13 @@
 msgid ""
 msgstr ""
+"Language: he_IL\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"Language: he_IL\n"
+
+msgid "128-bit"
+msgstr ""
 
 msgid "16-bit"
 msgstr "16 סיביות"
@@ -30,6 +33,9 @@ msgstr "פעולות"
 msgid "Add alignment"
 msgstr "הוסף יישור"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "כתובת"
 
@@ -42,6 +48,9 @@ msgstr "הכל"
 msgid "All files"
 msgstr "כל הקבצים"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "אבחן"
 
@@ -50,6 +59,9 @@ msgstr "מראה"
 
 msgid "Application"
 msgstr "יישום"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "ארכיטקטורה"
@@ -93,6 +105,9 @@ msgstr "יבוא כבול"
 msgid "Breakpoints"
 msgstr "נקודות שבירה"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "בית"
 
@@ -125,6 +140,9 @@ msgstr "לא ניתן לקבל שם PDB"
 
 msgid "Cannot load data from PDB"
 msgstr "לא ניתן לטעון נתונים מ- PDB"
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "לא ניתן לטעון קובץ"
@@ -234,6 +252,9 @@ msgstr "מצפין"
 msgid "Cursor"
 msgstr "סמן"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "נתונים בקוד"
 
@@ -299,6 +320,9 @@ msgstr "יצא כקובץ הרצה לקובץ"
 
 msgid "Edit"
 msgstr "עריכה"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "סוג סיומת"
@@ -375,6 +399,9 @@ msgstr "תקן סוגים"
 msgid "Flags"
 msgstr "דגלים"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "טופס"
 
@@ -386,9 +413,6 @@ msgstr "פונקציות"
 
 msgid "GB"
 msgstr "GB"
-
-msgid "General"
-msgstr "כללי"
 
 msgid "Generic"
 msgstr "כללי"
@@ -570,6 +594,9 @@ msgstr "שום דבר לא נמצא"
 msgid "OK"
 msgstr "אישור"
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "היסט"
 
@@ -603,6 +630,9 @@ msgstr "דוחס"
 msgid "Pause"
 msgstr "הַפסָקָה"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "אנא הפעל את התוכנית מחדש"
 
@@ -626,6 +656,9 @@ msgstr "שם התוכנית"
 
 msgid "Programs"
 msgstr "תוכניות"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "תוכנת הגנה"
@@ -672,9 +705,6 @@ msgstr "אזור"
 msgid "Regions"
 msgstr "אזורים"
 
-msgid "Register"
-msgstr "הרשמה"
-
 msgid "Registers"
 msgstr "רושמים"
 
@@ -689,6 +719,9 @@ msgstr "טען מחדש"
 
 msgid "Relocs"
 msgstr "עוברת דירה מחדש"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "משאבי קובץ"
@@ -735,6 +768,9 @@ msgstr "סרוק"
 msgid "Scan after open"
 msgstr "סרוק לאחר הפתיחה"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "חפש"
 
@@ -779,6 +815,9 @@ msgstr "קיצור"
 
 msgid "Shortcuts"
 msgstr "קיצורי דרך"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "הצג הערות"
@@ -921,6 +960,9 @@ msgstr "החתימה קיימת, אך אסורה במיוחד"
 msgid "Threads"
 msgstr "שרשורים"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "חותמת תאריך זמן"
 
@@ -975,6 +1017,9 @@ msgstr "מכונה וירטואלית"
 msgid "Weak binding"
 msgstr "כריכה חלשה"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "Wildcard"
 
@@ -1007,3 +1052,5 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
+
+

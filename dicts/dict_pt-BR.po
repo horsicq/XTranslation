@@ -6,6 +6,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: pt_BR\n"
 
+msgid "128-bit"
+msgstr ""
+
 msgid "16-bit"
 msgstr "16 bits"
 
@@ -30,6 +33,9 @@ msgstr "Ações"
 msgid "Add alignment"
 msgstr "Adicionar alinhamento"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "Endereço"
 
@@ -42,6 +48,9 @@ msgstr "Todos"
 msgid "All files"
 msgstr "Todos os arquivos"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analisar"
 
@@ -50,6 +59,9 @@ msgstr "Aparência"
 
 msgid "Application"
 msgstr "Aplicativo"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "Arquitetura"
@@ -93,6 +105,9 @@ msgstr "Importação vinculada"
 msgid "Breakpoints"
 msgstr "Breakpoints"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "Byte"
 
@@ -125,6 +140,9 @@ msgstr "Não é possível obter o nome do PDB"
 
 msgid "Cannot load data from PDB"
 msgstr "Não é possível carregar dados do PDB"
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Não pode carregar o arquivo"
@@ -234,6 +252,9 @@ msgstr "Criptor"
 msgid "Cursor"
 msgstr "Cursor"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "Dados no código"
 
@@ -299,6 +320,9 @@ msgstr "Despejar para arquivo"
 
 msgid "Edit"
 msgstr "Editar"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -375,6 +399,9 @@ msgstr "Tipos de correção"
 msgid "Flags"
 msgstr "Flags"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "Forma"
 
@@ -386,9 +413,6 @@ msgstr "Funções"
 
 msgid "GB"
 msgstr "GB"
-
-msgid "General"
-msgstr "General"
 
 msgid "Generic"
 msgstr "Genérico"
@@ -570,6 +594,9 @@ msgstr "Nada encontrado"
 msgid "OK"
 msgstr "OK"
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "Offset"
 
@@ -603,6 +630,9 @@ msgstr "Empacotador"
 msgid "Pause"
 msgstr "Pausa"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "Por favor reinicie a aplicação"
 
@@ -626,6 +656,9 @@ msgstr "Nome do programa"
 
 msgid "Programs"
 msgstr "Programas"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "Protetor"
@@ -672,9 +705,6 @@ msgstr "Região"
 msgid "Regions"
 msgstr "Regiões"
 
-msgid "Register"
-msgstr "Registrar"
-
 msgid "Registers"
 msgstr "Registros"
 
@@ -689,6 +719,9 @@ msgstr "Recarregar"
 
 msgid "Relocs"
 msgstr "Relocs"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "Recursos"
@@ -735,6 +768,9 @@ msgstr "Scan"
 msgid "Scan after open"
 msgstr "Escanear depois de aberto"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "Procurar"
 
@@ -779,6 +815,9 @@ msgstr "Atalho"
 
 msgid "Shortcuts"
 msgstr "Atalhos"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "Mostrar comentários"
@@ -921,6 +960,9 @@ msgstr "A assinatura está presente, mas não é permitida especificamente"
 msgid "Threads"
 msgstr "Tópicos"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "Carimbo de data e hora"
 
@@ -975,6 +1017,9 @@ msgstr "Máquina virtual"
 msgid "Weak binding"
 msgstr "Ligação fraca"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "Curinga"
 
@@ -1007,3 +1052,5 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "proteção"
+
+

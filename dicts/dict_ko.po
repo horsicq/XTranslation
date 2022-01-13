@@ -6,6 +6,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: ko_KR\n"
 
+msgid "128-bit"
+msgstr ""
+
 msgid "16-bit"
 msgstr "16비트"
 
@@ -30,6 +33,9 @@ msgstr "행위"
 msgid "Add alignment"
 msgstr "정렬 추가"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "주소"
 
@@ -42,6 +48,9 @@ msgstr "모두"
 msgid "All files"
 msgstr "모든 파일"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "분석"
 
@@ -50,6 +59,9 @@ msgstr "모양"
 
 msgid "Application"
 msgstr "애플리케이션"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "아키텍처"
@@ -93,6 +105,9 @@ msgstr "바인딩된 가져오기"
 msgid "Breakpoints"
 msgstr "중단점"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "Byte"
 
@@ -125,6 +140,9 @@ msgstr "PDB 이름을 가져올 수 없습니다."
 
 msgid "Cannot load data from PDB"
 msgstr "PDB에서 데이터를 로드할 수 없습니다."
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "파일을 로드할 수 없습니다"
@@ -234,6 +252,9 @@ msgstr "크립터"
 msgid "Cursor"
 msgstr "커서"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "코드의 데이터"
 
@@ -299,6 +320,9 @@ msgstr "파일로 덤프"
 
 msgid "Edit"
 msgstr "편집"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "엔디언"
@@ -375,6 +399,9 @@ msgstr "유형 수정"
 msgid "Flags"
 msgstr "Flags"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "형태"
 
@@ -386,9 +413,6 @@ msgstr "기능"
 
 msgid "GB"
 msgstr "GB"
-
-msgid "General"
-msgstr "일반"
 
 msgid "Generic"
 msgstr "일반"
@@ -570,6 +594,9 @@ msgstr "아무것도 찾을 수 없음"
 msgid "OK"
 msgstr "확인"
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "오프셋"
 
@@ -603,6 +630,9 @@ msgstr "패커"
 msgid "Pause"
 msgstr "정지시키다"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "프로그램을 재시작하세요"
 
@@ -626,6 +656,9 @@ msgstr "프로그램 이름"
 
 msgid "Programs"
 msgstr "프로그램들"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "프로텍터"
@@ -672,9 +705,6 @@ msgstr "지역"
 msgid "Regions"
 msgstr "영역"
 
-msgid "Register"
-msgstr "등록"
-
 msgid "Registers"
 msgstr "레지스터"
 
@@ -689,6 +719,9 @@ msgstr "재호출"
 
 msgid "Relocs"
 msgstr "재록"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "리소스"
@@ -735,6 +768,9 @@ msgstr "검색"
 msgid "Scan after open"
 msgstr "열기 후 검색"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "검색"
 
@@ -779,6 +815,9 @@ msgstr "지름길"
 
 msgid "Shortcuts"
 msgstr "바로가기"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "댓글 표시"
@@ -921,6 +960,9 @@ msgstr "서명이 있지만 특별히 허용되지 않음"
 msgid "Threads"
 msgstr "스레드"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "시간 날짜 스탬프"
 
@@ -975,6 +1017,9 @@ msgstr "가상 기기"
 msgid "Weak binding"
 msgstr "약한 바인딩"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "와일드카드"
 
@@ -1007,3 +1052,5 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
+
+

@@ -6,6 +6,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: zh_TW\n"
 
+msgid "128-bit"
+msgstr ""
+
 msgid "16-bit"
 msgstr "16 位"
 
@@ -30,6 +33,9 @@ msgstr "行動"
 msgid "Add alignment"
 msgstr "添加對齊"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "位址"
 
@@ -42,6 +48,9 @@ msgstr "所有"
 msgid "All files"
 msgstr "所有檔案"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "分析"
 
@@ -50,6 +59,9 @@ msgstr "外觀"
 
 msgid "Application"
 msgstr "應用"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "架構"
@@ -93,6 +105,9 @@ msgstr "綁定導入"
 msgid "Breakpoints"
 msgstr "斷點"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "位元組"
 
@@ -125,6 +140,9 @@ msgstr "無法獲取 PDB 名稱"
 
 msgid "Cannot load data from PDB"
 msgstr "無法從 PDB 加載數據"
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "無法加載文件"
@@ -234,6 +252,9 @@ msgstr "加密器"
 msgid "Cursor"
 msgstr "目前位址"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "代碼中的數據"
 
@@ -299,6 +320,9 @@ msgstr "轉存到檔案"
 
 msgid "Edit"
 msgstr "編輯"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "位元組順序"
@@ -375,6 +399,9 @@ msgstr "修復類型"
 msgid "Flags"
 msgstr "標記"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "表單"
 
@@ -386,9 +413,6 @@ msgstr "職能"
 
 msgid "GB"
 msgstr "國標"
-
-msgid "General"
-msgstr "一般"
 
 msgid "Generic"
 msgstr "通用"
@@ -570,6 +594,9 @@ msgstr "沒有找到"
 msgid "OK"
 msgstr "確定"
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "偏移"
 
@@ -603,6 +630,9 @@ msgstr "封隔器"
 msgid "Pause"
 msgstr "暫停"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "請重啟應用程式"
 
@@ -626,6 +656,9 @@ msgstr "程序名稱"
 
 msgid "Programs"
 msgstr "程式"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "保護者"
@@ -672,9 +705,6 @@ msgstr "地區"
 msgid "Regions"
 msgstr "區域"
 
-msgid "Register"
-msgstr "註冊"
-
 msgid "Registers"
 msgstr "寄存器"
 
@@ -689,6 +719,9 @@ msgstr "重新載入"
 
 msgid "Relocs"
 msgstr "重新定位"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "資源"
@@ -735,6 +768,9 @@ msgstr "掃描"
 msgid "Scan after open"
 msgstr "打開後掃描"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "搜尋"
 
@@ -779,6 +815,9 @@ msgstr "捷徑"
 
 msgid "Shortcuts"
 msgstr "捷徑"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "顯示評論"
@@ -921,6 +960,9 @@ msgstr "簽名存在，但明確不允許"
 msgid "Threads"
 msgstr "線程"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "時間日期戳"
 
@@ -975,6 +1017,9 @@ msgstr "虛擬機"
 msgid "Weak binding"
 msgstr "弱綁定"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "任意符號"
 
@@ -1007,3 +1052,5 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
+
+

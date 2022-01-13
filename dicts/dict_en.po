@@ -6,6 +6,9 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: en_US\n"
 
+msgid "128-bit"
+msgstr ""
+
 msgid "16-bit"
 msgstr ""
 
@@ -30,6 +33,9 @@ msgstr ""
 msgid "Add alignment"
 msgstr ""
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr ""
 
@@ -42,6 +48,9 @@ msgstr ""
 msgid "All files"
 msgstr ""
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr ""
 
@@ -49,6 +58,9 @@ msgid "Appearance"
 msgstr ""
 
 msgid "Application"
+msgstr ""
+
+msgid "Arch"
 msgstr ""
 
 msgid "Architecture"
@@ -93,6 +105,9 @@ msgstr ""
 msgid "Breakpoints"
 msgstr ""
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr ""
 
@@ -124,6 +139,9 @@ msgid "Cannot get PDB name"
 msgstr ""
 
 msgid "Cannot load data from PDB"
+msgstr ""
+
+msgid "Cannot load database"
 msgstr ""
 
 msgid "Cannot load file"
@@ -234,6 +252,9 @@ msgstr ""
 msgid "Cursor"
 msgstr ""
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr ""
 
@@ -298,6 +319,9 @@ msgid "Dump to file"
 msgstr ""
 
 msgid "Edit"
+msgstr ""
+
+msgid "Elapsed"
 msgstr ""
 
 msgid "Endianness"
@@ -375,6 +399,9 @@ msgstr ""
 msgid "Flags"
 msgstr ""
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr ""
 
@@ -385,9 +412,6 @@ msgid "Functions"
 msgstr ""
 
 msgid "GB"
-msgstr ""
-
-msgid "General"
 msgstr ""
 
 msgid "Generic"
@@ -570,6 +594,9 @@ msgstr ""
 msgid "OK"
 msgstr ""
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr ""
 
@@ -603,6 +630,9 @@ msgstr ""
 msgid "Pause"
 msgstr ""
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr ""
 
@@ -625,6 +655,9 @@ msgid "Program name"
 msgstr ""
 
 msgid "Programs"
+msgstr ""
+
+msgid "Protection"
 msgstr ""
 
 msgid "Protector"
@@ -672,9 +705,6 @@ msgstr ""
 msgid "Regions"
 msgstr ""
 
-msgid "Register"
-msgstr ""
-
 msgid "Registers"
 msgstr ""
 
@@ -688,6 +718,9 @@ msgid "Reload"
 msgstr ""
 
 msgid "Relocs"
+msgstr ""
+
+msgid "Resource"
 msgstr ""
 
 msgid "Resources"
@@ -735,6 +768,9 @@ msgstr ""
 msgid "Scan after open"
 msgstr ""
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr ""
 
@@ -778,6 +814,9 @@ msgid "Shortcut"
 msgstr ""
 
 msgid "Shortcuts"
+msgstr ""
+
+msgid "Show"
 msgstr ""
 
 msgid "Show comments"
@@ -921,6 +960,9 @@ msgstr ""
 msgid "Threads"
 msgstr ""
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr ""
 
@@ -973,6 +1015,9 @@ msgid "Virtual machine"
 msgstr ""
 
 msgid "Weak binding"
+msgstr ""
+
+msgid "Website"
 msgstr ""
 
 msgid "Wildcard"

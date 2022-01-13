@@ -6,6 +6,9 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Language: ja_JP\n"
 
+msgid "128-bit"
+msgstr ""
+
 msgid "16-bit"
 msgstr "16ビット"
 
@@ -30,6 +33,9 @@ msgstr "行動"
 msgid "Add alignment"
 msgstr "配置を追加"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "アドレス"
 
@@ -42,6 +48,9 @@ msgstr "すべて"
 msgid "All files"
 msgstr "すべてのファイル"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "分析"
 
@@ -50,6 +59,9 @@ msgstr "外観"
 
 msgid "Application"
 msgstr "応用"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "アーキテクチャ"
@@ -93,6 +105,9 @@ msgstr "バインドされたインポート"
 msgid "Breakpoints"
 msgstr "ブレークポイント"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "バイト"
 
@@ -125,6 +140,9 @@ msgstr "PDB名を取得できません"
 
 msgid "Cannot load data from PDB"
 msgstr "PDBからデータを読み込めません"
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "ファイルを読み込めません"
@@ -234,6 +252,9 @@ msgstr "暗号化"
 msgid "Cursor"
 msgstr "カーソル"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "コードのデータ"
 
@@ -299,6 +320,9 @@ msgstr "ファイルにダンプ"
 
 msgid "Edit"
 msgstr "編集"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "エンディアン"
@@ -375,6 +399,9 @@ msgstr "タイプを修正"
 msgid "Flags"
 msgstr "フラグ"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "フォーム"
 
@@ -386,9 +413,6 @@ msgstr "関数"
 
 msgid "GB"
 msgstr "GB"
-
-msgid "General"
-msgstr "一般"
 
 msgid "Generic"
 msgstr "汎用"
@@ -570,6 +594,9 @@ msgstr "見つかりません"
 msgid "OK"
 msgstr "OK"
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "オフセット"
 
@@ -603,6 +630,9 @@ msgstr "パッカー"
 msgid "Pause"
 msgstr "一時停止"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "プログラムを再起動してください"
 
@@ -626,6 +656,9 @@ msgstr "プログラム名"
 
 msgid "Programs"
 msgstr "プログラム"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "プロテクタ"
@@ -672,9 +705,6 @@ msgstr "領域"
 msgid "Regions"
 msgstr "地域"
 
-msgid "Register"
-msgstr "登録"
-
 msgid "Registers"
 msgstr "レジスター"
 
@@ -689,6 +719,9 @@ msgstr "再読み込み"
 
 msgid "Relocs"
 msgstr "再配置"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "リソース"
@@ -735,6 +768,9 @@ msgstr "スキャン"
 msgid "Scan after open"
 msgstr "開いてすぐにスキャンを開始"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "検索"
 
@@ -779,6 +815,9 @@ msgstr "ショートカット"
 
 msgid "Shortcuts"
 msgstr "ショートカット"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "コメントを表示"
@@ -921,6 +960,9 @@ msgstr "署名は存在しますが、特に許可されていません"
 msgid "Threads"
 msgstr "スレッド"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "日付スタンプ"
 
@@ -975,6 +1017,9 @@ msgstr "仮想マシン"
 msgid "Weak binding"
 msgstr "弱い結合"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "ワイルドカード"
 
@@ -1007,3 +1052,5 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
+
+

@@ -3,8 +3,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
+
+msgid "128-bit"
+msgstr ""
 
 msgid "16-bit"
 msgstr "16-бітний"
@@ -30,6 +34,9 @@ msgstr "Дії"
 msgid "Add alignment"
 msgstr "Додати вирівнювання"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "Адреса"
 
@@ -42,6 +49,9 @@ msgstr "Усе"
 msgid "All files"
 msgstr "Усі файли"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Аналізувати"
 
@@ -50,6 +60,9 @@ msgstr "Зовнішній вигляд"
 
 msgid "Application"
 msgstr "Програма"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "Архітектура"
@@ -93,6 +106,9 @@ msgstr "Зв'язаний імпорт"
 msgid "Breakpoints"
 msgstr "Точки зупинки"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "Байт"
 
@@ -125,6 +141,9 @@ msgstr "Не вдається отримати ім'я PDB"
 
 msgid "Cannot load data from PDB"
 msgstr "Не вдається завантажити дані із PDB"
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Неможливо завантажити файл"
@@ -234,6 +253,9 @@ msgstr "Криптор"
 msgid "Cursor"
 msgstr "Курсор"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "Дані в коді"
 
@@ -299,6 +321,9 @@ msgstr "Дамп у файл"
 
 msgid "Edit"
 msgstr "Редагувати"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Порядок байтів"
@@ -375,6 +400,9 @@ msgstr "Фіксувати типи"
 msgid "Flags"
 msgstr "Прапорці"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "Форма"
 
@@ -386,9 +414,6 @@ msgstr "Функції"
 
 msgid "GB"
 msgstr "ГБ"
-
-msgid "General"
-msgstr "Спільне"
 
 msgid "Generic"
 msgstr "Узагальнене"
@@ -570,6 +595,9 @@ msgstr "Нічого не знайдено"
 msgid "OK"
 msgstr ""
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "Зміщення"
 
@@ -603,6 +631,9 @@ msgstr "Пакувальник"
 msgid "Pause"
 msgstr "Пауза"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "Прошу перезавантажити програму"
 
@@ -626,6 +657,9 @@ msgstr "Назва програми"
 
 msgid "Programs"
 msgstr "Програми"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "Протектор"
@@ -672,9 +706,6 @@ msgstr "Регіон"
 msgid "Regions"
 msgstr "Регіони"
 
-msgid "Register"
-msgstr "Реєструвати"
-
 msgid "Registers"
 msgstr "Регістри"
 
@@ -689,6 +720,9 @@ msgstr "Оновити"
 
 msgid "Relocs"
 msgstr "Релоки"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "Ресурси"
@@ -735,6 +769,9 @@ msgstr "Сканувати"
 msgid "Scan after open"
 msgstr "Сканувати одразу"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "Пошук"
 
@@ -779,6 +816,9 @@ msgstr "Комбінація кнопок"
 
 msgid "Shortcuts"
 msgstr "Комбінації кнопок"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "Показати коментарі"
@@ -921,6 +961,9 @@ msgstr "Підпис присутній, але спеціально забор�
 msgid "Threads"
 msgstr "Потоки"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "Відмітка дати й часу"
 
@@ -975,6 +1018,9 @@ msgstr "Віртуальна машина"
 msgid "Weak binding"
 msgstr "Слабке зв'язування"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "Маска"
 
@@ -1007,3 +1053,5 @@ msgstr "пакований"
 
 msgid "protection"
 msgstr "захист"
+
+

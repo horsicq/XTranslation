@@ -7,6 +7,9 @@ msgstr ""
 "&& n%100<=10) ? 3 : n%100>=11 ? 4 : 5);\n"
 "X-Language: ar_EG\n"
 
+msgid "128-bit"
+msgstr ""
+
 msgid "16-bit"
 msgstr "16 بت"
 
@@ -31,6 +34,9 @@ msgstr "أجراءات"
 msgid "Add alignment"
 msgstr "أضف المحاذاة"
 
+msgid "Add to context menu"
+msgstr ""
+
 msgid "Address"
 msgstr "عنوان"
 
@@ -43,6 +49,9 @@ msgstr "الجميع"
 msgid "All files"
 msgstr "كل الملفات"
 
+msgid "All types"
+msgstr ""
+
 msgid "Analyze"
 msgstr "حلل"
 
@@ -51,6 +60,9 @@ msgstr "مظهر خارجي"
 
 msgid "Application"
 msgstr "تطبيق"
+
+msgid "Arch"
+msgstr ""
 
 msgid "Architecture"
 msgstr "هندسة معمارية"
@@ -94,6 +106,9 @@ msgstr "استيراد منضم"
 msgid "Breakpoints"
 msgstr "نقاط التوقف"
 
+msgid "Bugreports"
+msgstr ""
+
 msgid "Byte"
 msgstr "بايت"
 
@@ -126,6 +141,9 @@ msgstr "لا يمكن الحصول على اسم PDB"
 
 msgid "Cannot load data from PDB"
 msgstr "لا يمكن تحميل البيانات من PDB"
+
+msgid "Cannot load database"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
@@ -235,6 +253,9 @@ msgstr "كريبتور"
 msgid "Cursor"
 msgstr "المؤشر"
 
+msgid "Data"
+msgstr ""
+
 msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
 
@@ -290,7 +311,7 @@ msgid "Donate"
 msgstr "يتبرع"
 
 msgid "Driver"
-msgstr "سائق" 
+msgstr "سائق"
 
 msgid "Dump"
 msgstr "أحمق"
@@ -300,6 +321,9 @@ msgstr "تفريغ إلى ملف"
 
 msgid "Edit"
 msgstr "يحرر"
+
+msgid "Elapsed"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -376,6 +400,9 @@ msgstr "أنواع الإصلاح"
 msgid "Flags"
 msgstr "أعلام"
 
+msgid "Font"
+msgstr ""
+
 msgid "Form"
 msgstr "استمارة"
 
@@ -387,9 +414,6 @@ msgstr "المهام"
 
 msgid "GB"
 msgstr "غيغابايت"
-
-msgid "General"
-msgstr "عام"
 
 msgid "Generic"
 msgstr "نوعي"
@@ -571,6 +595,9 @@ msgstr "لم يتم العثور على شيء"
 msgid "OK"
 msgstr "نعم"
 
+msgid "Object"
+msgstr ""
+
 msgid "Offset"
 msgstr "عوض"
 
@@ -604,6 +631,9 @@ msgstr "باكر"
 msgid "Pause"
 msgstr "يوقف"
 
+msgid "Player"
+msgstr ""
+
 msgid "Please restart the application"
 msgstr "الرجاء إعادة تشغيل التطبيق"
 
@@ -627,6 +657,9 @@ msgstr "إسم البرنامج"
 
 msgid "Programs"
 msgstr "البرامج"
+
+msgid "Protection"
+msgstr ""
 
 msgid "Protector"
 msgstr "حامية"
@@ -673,9 +706,6 @@ msgstr "منطقة"
 msgid "Regions"
 msgstr "المناطق"
 
-msgid "Register"
-msgstr "يسجل"
-
 msgid "Registers"
 msgstr "السجلات"
 
@@ -690,6 +720,9 @@ msgstr "إعادة تحميل"
 
 msgid "Relocs"
 msgstr "ينتقل"
+
+msgid "Resource"
+msgstr ""
 
 msgid "Resources"
 msgstr "موارد"
@@ -736,6 +769,9 @@ msgstr "مسح"
 msgid "Scan after open"
 msgstr "مسح بعد الفتح"
 
+msgid "Script"
+msgstr ""
+
 msgid "Search"
 msgstr "بحث"
 
@@ -780,6 +816,9 @@ msgstr "الاختصار"
 
 msgid "Shortcuts"
 msgstr "الاختصارات"
+
+msgid "Show"
+msgstr ""
 
 msgid "Show comments"
 msgstr "إظهار التعليقات"
@@ -922,6 +961,9 @@ msgstr "التوقيع موجود ، لكنه غير مسموح به على وج
 msgid "Threads"
 msgstr "الخيوط"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "طابع تاريخ الوقت"
 
@@ -976,6 +1018,9 @@ msgstr "آلة افتراضية"
 msgid "Weak binding"
 msgstr "ربط ضعيف"
 
+msgid "Website"
+msgstr ""
+
 msgid "Wildcard"
 msgstr "البدل"
 
@@ -1008,3 +1053,5 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
+
+
