@@ -8,7 +8,7 @@ msgstr ""
 "X-Language: ar_EG\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128 بت"
 
 msgid "16-bit"
 msgstr "16 بت"
@@ -35,7 +35,7 @@ msgid "Add alignment"
 msgstr "أضف المحاذاة"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "أضف إلى قائمة السياق"
 
 msgid "Address"
 msgstr "عنوان"
@@ -50,7 +50,7 @@ msgid "All files"
 msgstr "كل الملفات"
 
 msgid "All types"
-msgstr ""
+msgstr "كل الانواع"
 
 msgid "Analyze"
 msgstr "حلل"
@@ -62,7 +62,7 @@ msgid "Application"
 msgstr "تطبيق"
 
 msgid "Arch"
-msgstr ""
+msgstr "قوس"
 
 msgid "Architecture"
 msgstr "هندسة معمارية"
@@ -107,7 +107,7 @@ msgid "Breakpoints"
 msgstr "نقاط التوقف"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "تقارير الأخطاء"
 
 msgid "Byte"
 msgstr "بايت"
@@ -143,7 +143,7 @@ msgid "Cannot load data from PDB"
 msgstr "لا يمكن تحميل البيانات من PDB"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "لا يمكن تحميل قاعدة البيانات"
 
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
@@ -254,7 +254,7 @@ msgid "Cursor"
 msgstr "المؤشر"
 
 msgid "Data"
-msgstr ""
+msgstr "البيانات"
 
 msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
@@ -323,7 +323,7 @@ msgid "Edit"
 msgstr "يحرر"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "انقضى"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -401,7 +401,7 @@ msgid "Flags"
 msgstr "أعلام"
 
 msgid "Font"
-msgstr ""
+msgstr "الخط"
 
 msgid "Form"
 msgstr "استمارة"
@@ -596,7 +596,7 @@ msgid "OK"
 msgstr "نعم"
 
 msgid "Object"
-msgstr ""
+msgstr "هدف"
 
 msgid "Offset"
 msgstr "عوض"
@@ -632,7 +632,7 @@ msgid "Pause"
 msgstr "يوقف"
 
 msgid "Player"
-msgstr ""
+msgstr "لاعب"
 
 msgid "Please restart the application"
 msgstr "الرجاء إعادة تشغيل التطبيق"
@@ -659,7 +659,7 @@ msgid "Programs"
 msgstr "البرامج"
 
 msgid "Protection"
-msgstr ""
+msgstr "حماية"
 
 msgid "Protector"
 msgstr "حامية"
@@ -722,7 +722,7 @@ msgid "Relocs"
 msgstr "ينتقل"
 
 msgid "Resource"
-msgstr ""
+msgstr "الموارد"
 
 msgid "Resources"
 msgstr "موارد"
@@ -770,7 +770,7 @@ msgid "Scan after open"
 msgstr "مسح بعد الفتح"
 
 msgid "Script"
-msgstr ""
+msgstr "النصي"
 
 msgid "Search"
 msgstr "بحث"
@@ -818,7 +818,7 @@ msgid "Shortcuts"
 msgstr "الاختصارات"
 
 msgid "Show"
-msgstr ""
+msgstr "تبين"
 
 msgid "Show comments"
 msgstr "إظهار التعليقات"
@@ -962,7 +962,7 @@ msgid "Threads"
 msgstr "الخيوط"
 
 msgid "Time"
-msgstr ""
+msgstr "زمن"
 
 msgid "Time date stamp"
 msgstr "طابع تاريخ الوقت"
@@ -1019,7 +1019,7 @@ msgid "Weak binding"
 msgstr "ربط ضعيف"
 
 msgid "Website"
-msgstr ""
+msgstr "موقع إلكتروني"
 
 msgid "Wildcard"
 msgstr "البدل"
@@ -1053,5 +1053,3 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
-
-

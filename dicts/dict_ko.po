@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: ko_KR\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128비트"
 
 msgid "16-bit"
 msgstr "16비트"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "정렬 추가"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "컨텍스트 메뉴에 추가"
 
 msgid "Address"
 msgstr "주소"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "모든 파일"
 
 msgid "All types"
-msgstr ""
+msgstr "모든 유형"
 
 msgid "Analyze"
 msgstr "분석"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "애플리케이션"
 
 msgid "Arch"
-msgstr ""
+msgstr "아치"
 
 msgid "Architecture"
 msgstr "아키텍처"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "중단점"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "버그 신고"
 
 msgid "Byte"
 msgstr "Byte"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "PDB에서 데이터를 로드할 수 없습니다."
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "데이터베이스를 로드할 수 없습니다."
 
 msgid "Cannot load file"
 msgstr "파일을 로드할 수 없습니다"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "커서"
 
 msgid "Data"
-msgstr ""
+msgstr "데이터"
 
 msgid "Data in code"
 msgstr "코드의 데이터"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "편집"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "경과"
 
 msgid "Endianness"
 msgstr "엔디언"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "Flags"
 
 msgid "Font"
-msgstr ""
+msgstr "폰트"
 
 msgid "Form"
 msgstr "형태"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "확인"
 
 msgid "Object"
-msgstr ""
+msgstr "물체"
 
 msgid "Offset"
 msgstr "오프셋"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "정지시키다"
 
 msgid "Player"
-msgstr ""
+msgstr "플레이어"
 
 msgid "Please restart the application"
 msgstr "프로그램을 재시작하세요"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "프로그램들"
 
 msgid "Protection"
-msgstr ""
+msgstr "보호"
 
 msgid "Protector"
 msgstr "프로텍터"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "재록"
 
 msgid "Resource"
-msgstr ""
+msgstr "자원"
 
 msgid "Resources"
 msgstr "리소스"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "열기 후 검색"
 
 msgid "Script"
-msgstr ""
+msgstr "스크립트"
 
 msgid "Search"
 msgstr "검색"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "바로가기"
 
 msgid "Show"
-msgstr ""
+msgstr "보여 주다"
 
 msgid "Show comments"
 msgstr "댓글 표시"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "스레드"
 
 msgid "Time"
-msgstr ""
+msgstr "시간"
 
 msgid "Time date stamp"
 msgstr "시간 날짜 스탬프"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "약한 바인딩"
 
 msgid "Website"
-msgstr ""
+msgstr "웹사이트"
 
 msgid "Wildcard"
 msgstr "와일드카드"
@@ -1052,5 +1052,3 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
-
-

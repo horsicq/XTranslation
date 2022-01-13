@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: ja_JP\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128ビット"
 
 msgid "16-bit"
 msgstr "16ビット"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "配置を追加"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "コンテキストメニューに追加"
 
 msgid "Address"
 msgstr "アドレス"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "すべてのファイル"
 
 msgid "All types"
-msgstr ""
+msgstr "いろんなタイプ"
 
 msgid "Analyze"
 msgstr "分析"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "応用"
 
 msgid "Arch"
-msgstr ""
+msgstr "アーチ"
 
 msgid "Architecture"
 msgstr "アーキテクチャ"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "ブレークポイント"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "バグレポート"
 
 msgid "Byte"
 msgstr "バイト"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "PDBからデータを読み込めません"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "データベースを読み込めません"
 
 msgid "Cannot load file"
 msgstr "ファイルを読み込めません"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "カーソル"
 
 msgid "Data"
-msgstr ""
+msgstr "データ"
 
 msgid "Data in code"
 msgstr "コードのデータ"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "編集"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "経過"
 
 msgid "Endianness"
 msgstr "エンディアン"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "フラグ"
 
 msgid "Font"
-msgstr ""
+msgstr "フォント"
 
 msgid "Form"
 msgstr "フォーム"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Object"
-msgstr ""
+msgstr "物体"
 
 msgid "Offset"
 msgstr "オフセット"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "一時停止"
 
 msgid "Player"
-msgstr ""
+msgstr "プレーヤー"
 
 msgid "Please restart the application"
 msgstr "プログラムを再起動してください"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "プログラム"
 
 msgid "Protection"
-msgstr ""
+msgstr "保護"
 
 msgid "Protector"
 msgstr "プロテクタ"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "再配置"
 
 msgid "Resource"
-msgstr ""
+msgstr "リソース"
 
 msgid "Resources"
 msgstr "リソース"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "開いてすぐにスキャンを開始"
 
 msgid "Script"
-msgstr ""
+msgstr "脚本"
 
 msgid "Search"
 msgstr "検索"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "ショートカット"
 
 msgid "Show"
-msgstr ""
+msgstr "見せる"
 
 msgid "Show comments"
 msgstr "コメントを表示"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "スレッド"
 
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 msgid "Time date stamp"
 msgstr "日付スタンプ"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "弱い結合"
 
 msgid "Website"
-msgstr ""
+msgstr "Webサイト"
 
 msgid "Wildcard"
 msgstr "ワイルドカード"
@@ -1052,5 +1052,3 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
-
-

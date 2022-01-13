@@ -7,7 +7,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128 סיביות"
 
 msgid "16-bit"
 msgstr "16 סיביות"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "הוסף יישור"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "הוסף לתפריט ההקשר"
 
 msgid "Address"
 msgstr "כתובת"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "כל הקבצים"
 
 msgid "All types"
-msgstr ""
+msgstr "כל הסוגים"
 
 msgid "Analyze"
 msgstr "אבחן"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "יישום"
 
 msgid "Arch"
-msgstr ""
+msgstr "קֶשֶׁת"
 
 msgid "Architecture"
 msgstr "ארכיטקטורה"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "נקודות שבירה"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "דיווחי שגיאות"
 
 msgid "Byte"
 msgstr "בית"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "לא ניתן לטעון נתונים מ- PDB"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "לא ניתן לטעון את מסד הנתונים"
 
 msgid "Cannot load file"
 msgstr "לא ניתן לטעון קובץ"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "סמן"
 
 msgid "Data"
-msgstr ""
+msgstr "נתונים"
 
 msgid "Data in code"
 msgstr "נתונים בקוד"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "עריכה"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "חלף"
 
 msgid "Endianness"
 msgstr "סוג סיומת"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "דגלים"
 
 msgid "Font"
-msgstr ""
+msgstr "גוֹפָן"
 
 msgid "Form"
 msgstr "טופס"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "אישור"
 
 msgid "Object"
-msgstr ""
+msgstr "לְהִתְנַגֵד"
 
 msgid "Offset"
 msgstr "היסט"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "הַפסָקָה"
 
 msgid "Player"
-msgstr ""
+msgstr "שחקן"
 
 msgid "Please restart the application"
 msgstr "אנא הפעל את התוכנית מחדש"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "תוכניות"
 
 msgid "Protection"
-msgstr ""
+msgstr "הֲגָנָה"
 
 msgid "Protector"
 msgstr "תוכנת הגנה"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "עוברת דירה מחדש"
 
 msgid "Resource"
-msgstr ""
+msgstr "מַשׁאָב"
 
 msgid "Resources"
 msgstr "משאבי קובץ"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "סרוק לאחר הפתיחה"
 
 msgid "Script"
-msgstr ""
+msgstr "תַסרִיט"
 
 msgid "Search"
 msgstr "חפש"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "קיצורי דרך"
 
 msgid "Show"
-msgstr ""
+msgstr "הופעה"
 
 msgid "Show comments"
 msgstr "הצג הערות"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "שרשורים"
 
 msgid "Time"
-msgstr ""
+msgstr "זְמַן"
 
 msgid "Time date stamp"
 msgstr "חותמת תאריך זמן"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "כריכה חלשה"
 
 msgid "Website"
-msgstr ""
+msgstr "אתר אינטרנט"
 
 msgid "Wildcard"
 msgstr "Wildcard"
@@ -1052,5 +1052,3 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
-
-

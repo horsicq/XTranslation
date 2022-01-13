@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: tr_TR\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128 bit"
 
 msgid "16-bit"
 msgstr "16 bit"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "Hizalama ekle"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "Bağlam menüsüne ekle"
 
 msgid "Address"
 msgstr "Adres"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "Bütün Dosyalar"
 
 msgid "All types"
-msgstr ""
+msgstr "Her türlü"
 
 msgid "Analyze"
 msgstr "Analiz"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "Başvuru"
 
 msgid "Arch"
-msgstr ""
+msgstr "Kemer"
 
 msgid "Architecture"
 msgstr "Mimari"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "kesme noktaları"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "Hata raporları"
 
 msgid "Byte"
 msgstr "Byte"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "PDB'den veri yüklenemiyor"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "veritabanı yüklenemiyor"
 
 msgid "Cannot load file"
 msgstr "Dosya yüklenemiyor"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "Cursor"
 
 msgid "Data"
-msgstr ""
+msgstr "Veri"
 
 msgid "Data in code"
 msgstr "Koddaki veriler"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "Düzenle"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "geçen"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "Bayraklar"
 
 msgid "Font"
-msgstr ""
+msgstr "Yazı tipi"
 
 msgid "Form"
 msgstr "Biçim"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "Tamam"
 
 msgid "Object"
-msgstr ""
+msgstr "Nesne"
 
 msgid "Offset"
 msgstr "Ofset"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "Duraklat"
 
 msgid "Player"
-msgstr ""
+msgstr "oyuncu"
 
 msgid "Please restart the application"
 msgstr "Lütfen uygulamya tekrar başlatın"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "programlar"
 
 msgid "Protection"
-msgstr ""
+msgstr "Koruma"
 
 msgid "Protector"
 msgstr "Koruyucu"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "yer değiştirir"
 
 msgid "Resource"
-msgstr ""
+msgstr "Kaynak"
 
 msgid "Resources"
 msgstr "Kaynaklar"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "Açtıktan sonra tara"
 
 msgid "Script"
-msgstr ""
+msgstr "Senaryo"
 
 msgid "Search"
 msgstr "Ara"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "Kısayollar"
 
 msgid "Show"
-msgstr ""
+msgstr "Göstermek"
 
 msgid "Show comments"
 msgstr "Yorumları göster"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "İş Parçacığı"
 
 msgid "Time"
-msgstr ""
+msgstr "Zaman"
 
 msgid "Time date stamp"
 msgstr "zaman tarih damgası"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "Zayıf bağlama"
 
 msgid "Website"
-msgstr ""
+msgstr "İnternet sitesi"
 
 msgid "Wildcard"
 msgstr "Genel arama karakteri"
@@ -1052,5 +1052,3 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
-
-

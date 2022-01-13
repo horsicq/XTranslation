@@ -8,7 +8,7 @@ msgstr ""
 "X-Language: ru_RU\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128-битный"
 
 msgid "16-bit"
 msgstr "16 бит"
@@ -35,7 +35,7 @@ msgid "Add alignment"
 msgstr "Добавить выравнивание"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "Добавить в контекстное меню"
 
 msgid "Address"
 msgstr "Адрес"
@@ -50,7 +50,7 @@ msgid "All files"
 msgstr "Все файлы"
 
 msgid "All types"
-msgstr ""
+msgstr "Все типы"
 
 msgid "Analyze"
 msgstr "Анализировать"
@@ -62,7 +62,7 @@ msgid "Application"
 msgstr "Приложение"
 
 msgid "Arch"
-msgstr ""
+msgstr "Арка"
 
 msgid "Architecture"
 msgstr "Архитектура"
@@ -107,7 +107,7 @@ msgid "Breakpoints"
 msgstr "Контрольные точки"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "Сообщения об ошибках"
 
 msgid "Byte"
 msgstr "Байт"
@@ -143,7 +143,7 @@ msgid "Cannot load data from PDB"
 msgstr "Не удается загрузить данные из PDB"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "Не удается загрузить базу данных"
 
 msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
@@ -254,7 +254,7 @@ msgid "Cursor"
 msgstr "Курсор"
 
 msgid "Data"
-msgstr ""
+msgstr "Данные"
 
 msgid "Data in code"
 msgstr "Данные в коде"
@@ -323,7 +323,7 @@ msgid "Edit"
 msgstr "Редактировать"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Прошло"
 
 msgid "Endianness"
 msgstr "Порядок байтов"
@@ -401,7 +401,7 @@ msgid "Flags"
 msgstr "Флаги"
 
 msgid "Font"
-msgstr ""
+msgstr "Шрифт"
 
 msgid "Form"
 msgstr "Форма"
@@ -596,7 +596,7 @@ msgid "OK"
 msgstr "ОК"
 
 msgid "Object"
-msgstr ""
+msgstr "Объект"
 
 msgid "Offset"
 msgstr "Смещение"
@@ -632,7 +632,7 @@ msgid "Pause"
 msgstr "Пауза"
 
 msgid "Player"
-msgstr ""
+msgstr "Игрок"
 
 msgid "Please restart the application"
 msgstr "Пожалуйста перезапустите приложение"
@@ -659,7 +659,7 @@ msgid "Programs"
 msgstr "Программ"
 
 msgid "Protection"
-msgstr ""
+msgstr "Защита"
 
 msgid "Protector"
 msgstr "Протектор"
@@ -722,7 +722,7 @@ msgid "Relocs"
 msgstr "Relocs"
 
 msgid "Resource"
-msgstr ""
+msgstr "Ресурс"
 
 msgid "Resources"
 msgstr "Ресурсы"
@@ -770,7 +770,7 @@ msgid "Scan after open"
 msgstr "Сразу сканировать"
 
 msgid "Script"
-msgstr ""
+msgstr "Скрипт"
 
 msgid "Search"
 msgstr "Поиск"
@@ -818,7 +818,7 @@ msgid "Shortcuts"
 msgstr "Сочетания клавиш"
 
 msgid "Show"
-msgstr ""
+msgstr "Показывать"
 
 msgid "Show comments"
 msgstr "Показать комментарии"
@@ -962,7 +962,7 @@ msgid "Threads"
 msgstr "Потоки"
 
 msgid "Time"
-msgstr ""
+msgstr "Время"
 
 msgid "Time date stamp"
 msgstr "Отметка даты и времени"
@@ -1019,7 +1019,7 @@ msgid "Weak binding"
 msgstr "Слабое связывание"
 
 msgid "Website"
-msgstr ""
+msgstr "Веб-сайт"
 
 msgid "Wildcard"
 msgstr "Маска"
@@ -1053,5 +1053,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
-
-

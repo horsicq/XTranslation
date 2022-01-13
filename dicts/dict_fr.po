@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: fr_FR\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128 bits"
 
 msgid "16-bit"
 msgstr "16 bits"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "Ajouter un alignement"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "Ajouter au menu contextuel"
 
 msgid "Address"
 msgstr "Adresse"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "Tout les fichiers"
 
 msgid "All types"
-msgstr ""
+msgstr "Tous les types"
 
 msgid "Analyze"
 msgstr "Analyser"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "Application"
 
 msgid "Arch"
-msgstr ""
+msgstr "Cambre"
 
 msgid "Architecture"
 msgstr "Architecture"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "Points d'arrêt"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "Rapports de bogues"
 
 msgid "Byte"
 msgstr "Octet"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "Impossible de charger les données depuis PDB"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "Impossible de charger la base de données"
 
 msgid "Cannot load file"
 msgstr "Impossible de charger le fichier"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "Curseur"
 
 msgid "Data"
-msgstr ""
+msgstr "Données"
 
 msgid "Data in code"
 msgstr "Données dans le code"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "Éditer"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Écoulé"
 
 msgid "Endianness"
 msgstr "Endianité"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "Drapeaux"
 
 msgid "Font"
-msgstr ""
+msgstr "Police de caractère"
 
 msgid "Form"
 msgstr "Formulaire"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Object"
-msgstr ""
+msgstr "Objet"
 
 msgid "Offset"
 msgstr "Offset"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "Pause"
 
 msgid "Player"
-msgstr ""
+msgstr "Joueur"
 
 msgid "Please restart the application"
 msgstr "Veuillez redémarrer l'application"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "Programmes"
 
 msgid "Protection"
-msgstr ""
+msgstr "protection"
 
 msgid "Protector"
 msgstr "Protecteur"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "Déplacements"
 
 msgid "Resource"
-msgstr ""
+msgstr "Ressource"
 
 msgid "Resources"
 msgstr "Ressources"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "Analyser après ouverture"
 
 msgid "Script"
-msgstr ""
+msgstr "Scénario"
 
 msgid "Search"
 msgstr "Chercher"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "Raccourcis"
 
 msgid "Show"
-msgstr ""
+msgstr "Montrer"
 
 msgid "Show comments"
 msgstr "Afficher les commentaires"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "Fils"
 
 msgid "Time"
-msgstr ""
+msgstr "Temps"
 
 msgid "Time date stamp"
 msgstr "Horodatage"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "Liaison faible"
 
 msgid "Website"
-msgstr ""
+msgstr "Site Internet"
 
 msgid "Wildcard"
 msgstr "Joker"
@@ -1052,5 +1052,3 @@ msgstr "compressé"
 
 msgid "protection"
 msgstr "protection"
-
-

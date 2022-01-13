@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: vi_VN\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128-bit"
 
 msgid "16-bit"
 msgstr "16-bit"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "Thêm căn chỉnh"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "Thêm vào menu ngữ cảnh"
 
 msgid "Address"
 msgstr "Địa chỉ"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "Tất cả tập tin"
 
 msgid "All types"
-msgstr ""
+msgstr "Các loại"
 
 msgid "Analyze"
 msgstr "Phân tích"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "Ứng dụng"
 
 msgid "Arch"
-msgstr ""
+msgstr "Vòm"
 
 msgid "Architecture"
 msgstr "Kiến trúc"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "Điểm ngắt"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "Báo cáo lỗi"
 
 msgid "Byte"
 msgstr "Byte"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "Không thể tải dữ liệu từ PDB"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "Không thể tải cơ sở dữ liệu"
 
 msgid "Cannot load file"
 msgstr "Không thể tải tệp"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "Con trỏ"
 
 msgid "Data"
-msgstr ""
+msgstr "Dữ liệu"
 
 msgid "Data in code"
 msgstr "Dữ liệu trong mã"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "Chỉnh sửa"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Đã trôi qua"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "Cờ"
 
 msgid "Font"
-msgstr ""
+msgstr "Nét chữ"
 
 msgid "Form"
 msgstr "Mẫu đơn"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Object"
-msgstr ""
+msgstr "Sự vật"
 
 msgid "Offset"
 msgstr "Khoảng cách"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "Tạm ngừng"
 
 msgid "Player"
-msgstr ""
+msgstr "Người chơi"
 
 msgid "Please restart the application"
 msgstr "Vui lòng khởi động lại ứng dụng"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "Các chương trình"
 
 msgid "Protection"
-msgstr ""
+msgstr "Sự bảo vệ"
 
 msgid "Protector"
 msgstr "Người bảo vệ"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "Relocs"
 
 msgid "Resource"
-msgstr ""
+msgstr "Nguồn"
 
 msgid "Resources"
 msgstr "Tài nguyên"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "Quét sau khi mở"
 
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 msgid "Search"
 msgstr "Tìm kiếm"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "Các phím tắt"
 
 msgid "Show"
-msgstr ""
+msgstr "Trình diễn"
 
 msgid "Show comments"
 msgstr "Hiển thị bình luận"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "Chủ đề"
 
 msgid "Time"
-msgstr ""
+msgstr "Thời gian"
 
 msgid "Time date stamp"
 msgstr "Dấu ngày tháng"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "Ràng buộc yếu"
 
 msgid "Website"
-msgstr ""
+msgstr "Trang mạng"
 
 msgid "Wildcard"
 msgstr "Ký tự đại diện"
@@ -1052,5 +1052,3 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
-
-

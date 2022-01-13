@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: de_DE\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128-Bit"
 
 msgid "16-bit"
 msgstr "16-Bit"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "Ausrichtung hinzufügen"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "Zum Kontextmenü hinzufügen"
 
 msgid "Address"
 msgstr "Adresse"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "Alle Dateien"
 
 msgid "All types"
-msgstr ""
+msgstr "Alle Arten"
 
 msgid "Analyze"
 msgstr "Analysieren"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "Anwendung"
 
 msgid "Arch"
-msgstr ""
+msgstr "Bogen"
 
 msgid "Architecture"
 msgstr "Architektur"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "Haltepunkte"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "Fehlerberichte"
 
 msgid "Byte"
 msgstr "Byte"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "Daten aus PDB können nicht geladen werden"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "Datenbank kann nicht geladen werden"
 
 msgid "Cannot load file"
 msgstr "Kann Datei nicht laden"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "Zeiger"
 
 msgid "Data"
-msgstr ""
+msgstr "Daten"
 
 msgid "Data in code"
 msgstr "Daten im Code"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "Bearbeiten"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Verstrichen"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "Markierungen"
 
 msgid "Font"
-msgstr ""
+msgstr "Schriftart"
 
 msgid "Form"
 msgstr "Formular"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Object"
-msgstr ""
+msgstr "Objekt"
 
 msgid "Offset"
 msgstr "Offset"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "Pause"
 
 msgid "Player"
-msgstr ""
+msgstr "Spieler"
 
 msgid "Please restart the application"
 msgstr "Bitte die Anwendung neu starten"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "Programme"
 
 msgid "Protection"
-msgstr ""
+msgstr "Schutz"
 
 msgid "Protector"
 msgstr "Schutz"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "Umzüge"
 
 msgid "Resource"
-msgstr ""
+msgstr "Ressource"
 
 msgid "Resources"
 msgstr "Ressourcen"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "Nach dem öffnen Scannen"
 
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 msgid "Search"
 msgstr "Suche"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "Verknüpfungen"
 
 msgid "Show"
-msgstr ""
+msgstr "Show"
 
 msgid "Show comments"
 msgstr "Anmerkungen anzeigen"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "Themen"
 
 msgid "Time"
-msgstr ""
+msgstr "Zeit"
 
 msgid "Time date stamp"
 msgstr "Zeit-Datum-Stempel"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "Schwache Bindung"
 
 msgid "Website"
-msgstr ""
+msgstr "Webseite"
 
 msgid "Wildcard"
 msgstr "Wildcard"
@@ -1052,5 +1052,3 @@ msgstr "Gepackt"
 
 msgid "protection"
 msgstr "Schutz"
-
-

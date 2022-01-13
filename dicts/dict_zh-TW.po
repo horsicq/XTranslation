@@ -7,7 +7,7 @@ msgstr ""
 "X-Language: zh_TW\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128 位"
 
 msgid "16-bit"
 msgstr "16 位"
@@ -34,7 +34,7 @@ msgid "Add alignment"
 msgstr "添加對齊"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "添加到上下文菜單"
 
 msgid "Address"
 msgstr "位址"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "所有檔案"
 
 msgid "All types"
-msgstr ""
+msgstr "所有類型"
 
 msgid "Analyze"
 msgstr "分析"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "應用"
 
 msgid "Arch"
-msgstr ""
+msgstr "拱"
 
 msgid "Architecture"
 msgstr "架構"
@@ -106,7 +106,7 @@ msgid "Breakpoints"
 msgstr "斷點"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "錯誤報告"
 
 msgid "Byte"
 msgstr "位元組"
@@ -142,7 +142,7 @@ msgid "Cannot load data from PDB"
 msgstr "無法從 PDB 加載數據"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "無法加載數據庫"
 
 msgid "Cannot load file"
 msgstr "無法加載文件"
@@ -253,7 +253,7 @@ msgid "Cursor"
 msgstr "目前位址"
 
 msgid "Data"
-msgstr ""
+msgstr "數據"
 
 msgid "Data in code"
 msgstr "代碼中的數據"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "編輯"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "過去"
 
 msgid "Endianness"
 msgstr "位元組順序"
@@ -400,7 +400,7 @@ msgid "Flags"
 msgstr "標記"
 
 msgid "Font"
-msgstr ""
+msgstr "字體"
 
 msgid "Form"
 msgstr "表單"
@@ -595,7 +595,7 @@ msgid "OK"
 msgstr "確定"
 
 msgid "Object"
-msgstr ""
+msgstr "目的"
 
 msgid "Offset"
 msgstr "偏移"
@@ -631,7 +631,7 @@ msgid "Pause"
 msgstr "暫停"
 
 msgid "Player"
-msgstr ""
+msgstr "播放器"
 
 msgid "Please restart the application"
 msgstr "請重啟應用程式"
@@ -658,7 +658,7 @@ msgid "Programs"
 msgstr "程式"
 
 msgid "Protection"
-msgstr ""
+msgstr "保護"
 
 msgid "Protector"
 msgstr "保護者"
@@ -721,7 +721,7 @@ msgid "Relocs"
 msgstr "重新定位"
 
 msgid "Resource"
-msgstr ""
+msgstr "資源"
 
 msgid "Resources"
 msgstr "資源"
@@ -769,7 +769,7 @@ msgid "Scan after open"
 msgstr "打開後掃描"
 
 msgid "Script"
-msgstr ""
+msgstr "腳本"
 
 msgid "Search"
 msgstr "搜尋"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "捷徑"
 
 msgid "Show"
-msgstr ""
+msgstr "展示"
 
 msgid "Show comments"
 msgstr "顯示評論"
@@ -961,7 +961,7 @@ msgid "Threads"
 msgstr "線程"
 
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 msgid "Time date stamp"
 msgstr "時間日期戳"
@@ -1018,7 +1018,7 @@ msgid "Weak binding"
 msgstr "弱綁定"
 
 msgid "Website"
-msgstr ""
+msgstr "網站"
 
 msgid "Wildcard"
 msgstr "任意符號"
@@ -1052,5 +1052,3 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
-
-
