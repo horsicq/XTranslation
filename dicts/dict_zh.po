@@ -1,17 +1,5 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: Shiao Qu <shiaoqur@gmail.com>\n"
-"Language-Team: \n"
-"Language: zh_CN\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: zh_CN\n"
-"X-Generator: Poedit 2.4.2\n"
 
 msgid "128-bit"
 msgstr "128 位"
@@ -68,10 +56,10 @@ msgid "Application"
 msgstr "应用"
 
 msgid "Arch"
-msgstr "拱"
+msgstr "架构"
 
 msgid "Architecture"
-msgstr "体系结构"
+msgstr "架构"
 
 msgid "Archive"
 msgstr "存档"
@@ -329,7 +317,7 @@ msgid "Edit"
 msgstr "编辑"
 
 msgid "Elapsed"
-msgstr "过去"
+msgstr "已耗时"
 
 msgid "Endianness"
 msgstr "字节序"
@@ -602,7 +590,7 @@ msgid "OK"
 msgstr "确定"
 
 msgid "Object"
-msgstr "目的"
+msgstr "对象"
 
 msgid "Offset"
 msgstr "偏移"
@@ -824,7 +812,7 @@ msgid "Shortcuts"
 msgstr "快捷键"
 
 msgid "Show"
-msgstr "展示"
+msgstr "显示"
 
 msgid "Show comments"
 msgstr "显示评论"
