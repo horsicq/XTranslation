@@ -112,7 +112,7 @@ msgid "Byte"
 msgstr "Byte"
 
 msgid "Bytes"
-msgstr "Byte"
+msgstr "Bytes"
 
 msgid "CPU"
 msgstr "CPU"
