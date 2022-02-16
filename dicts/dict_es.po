@@ -31,10 +31,10 @@ msgid "Actions"
 msgstr "Acciones"
 
 msgid "Add alignment"
-msgstr "Agregar alineación"
+msgstr "Añadir alineación"
 
 msgid "Add to context menu"
-msgstr "Agregar al menú contextual"
+msgstr "Añadir al menú contextual"
 
 msgid "Address"
 msgstr "Dirección"
@@ -61,7 +61,7 @@ msgid "Application"
 msgstr "Solicitud"
 
 msgid "Arch"
-msgstr "Arco"
+msgstr "Arq"
 
 msgid "Architecture"
 msgstr "Arquitectura"
@@ -73,7 +73,7 @@ msgid "Archive record"
 msgstr "Registro de archivo"
 
 msgid "Array"
-msgstr "Formación"
+msgstr "Array"
 
 msgid "Attach"
 msgstr "Adjuntar"
@@ -133,13 +133,13 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot get PDB age"
-msgstr "No se puede obtener la edad de PDB"
+msgstr "No se puede obtener la antigüedad del PDB"
 
 msgid "Cannot get PDB name"
-msgstr "No se puede obtener el nombre de PDB"
+msgstr "No se puede obtener el nombre del PDB"
 
 msgid "Cannot load data from PDB"
-msgstr "No se pueden cargar datos desde PDB"
+msgstr "No se pueden cargar datos del PDB"
 
 msgid "Cannot load database"
 msgstr "No se puede cargar la base de datos"
@@ -148,7 +148,7 @@ msgid "Cannot load file"
 msgstr "No se puede cargar el archivo"
 
 msgid "Cannot load msdia library"
-msgstr "No se puede cargar la biblioteca de msdia"
+msgstr "No se puede cargar la librería de msdia"
 
 msgid "Cannot open file"
 msgstr "No se puede abrir el archivo"
@@ -289,7 +289,7 @@ msgid "Detach"
 msgstr "Separar"
 
 msgid "Device scan"
-msgstr "Escaneo de dispositivos"
+msgstr "Escanear dispositivos"
 
 msgid "Directory"
 msgstr "Directorio"
@@ -310,7 +310,7 @@ msgid "Donate"
 msgstr "Donar"
 
 msgid "Driver"
-msgstr "Conductor"
+msgstr "Controlador"
 
 msgid "Dump"
 msgstr "Volcar"
@@ -322,7 +322,7 @@ msgid "Edit"
 msgstr "Editar"
 
 msgid "Elapsed"
-msgstr "transcurrido"
+msgstr "Transcurrido"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -391,10 +391,10 @@ msgid "Find next"
 msgstr "Buscar siguiente"
 
 msgid "Fix offsets"
-msgstr "Corregir compensaciones"
+msgstr "Corregir desplazamientos"
 
 msgid "Fix types"
-msgstr "Tipos de arreglos"
+msgstr "Corregir tipos"
 
 msgid "Flags"
 msgstr "Banderas"
@@ -637,7 +637,7 @@ msgid "Please restart the application"
 msgstr "Por favor, reinicie la aplicación"
 
 msgid "Please run the program as an administrator"
-msgstr "Ejecute el programa como administrador"
+msgstr "Por favor, ejecute el programa como administrador"
 
 msgid "Pointer"
 msgstr "Puntero"
@@ -673,7 +673,7 @@ msgid "Publisher"
 msgstr "Editor"
 
 msgid "Quit"
-msgstr "Dejar"
+msgstr "Salir"
 
 msgid "Raw data"
 msgstr "Datos raw"
@@ -817,7 +817,7 @@ msgid "Shortcuts"
 msgstr "Atajos"
 
 msgid "Show"
-msgstr "Show"
+msgstr "Mostrar"
 
 msgid "Show comments"
 msgstr "Mostrar comentarios"
@@ -826,16 +826,16 @@ msgid "Show logo"
 msgstr "Mostrar logo"
 
 msgid "Show options"
-msgstr "Ver opciones"
+msgstr "Mostrar opciones"
 
 msgid "Show type"
-msgstr "Ver tipo"
+msgstr "Mostrar tipo"
 
 msgid "Show valid"
-msgstr "Ver válidos"
+msgstr "Mostrar válidos"
 
 msgid "Show version"
-msgstr "Ver versión"
+msgstr "Mostrar versión"
 
 msgid "Sign tool"
 msgstr "Herramienta de firmado"
@@ -1006,7 +1006,7 @@ msgid "View"
 msgstr "Vista"
 
 msgid "Viewer"
-msgstr "Espectador"
+msgstr "Visor"
 
 msgid "Virtual address"
 msgstr "Dirección virtual"
