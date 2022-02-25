@@ -115,7 +115,7 @@ msgid "Bytes"
 msgstr "Bytes"
 
 msgid "CPU"
-msgstr "Zentralprozessor"
+msgstr "CPU"
 
 msgid "Calculate"
 msgstr "Berechnen"
@@ -214,13 +214,13 @@ msgid "Copy as"
 msgstr "Kopieren als"
 
 msgid "Copy as hex"
-msgstr "Als Hex kopieren"
+msgstr "Hex kopieren"
 
 msgid "Copy cursor address"
-msgstr "Zeigeradresse kopieren"
+msgstr "Dateiaddress kopieren"
 
 msgid "Copy cursor offset"
-msgstr "Zeiger-Offset kopieren"
+msgstr "Dateioffset kopieren"
 
 msgid "Copy filename"
 msgstr "Dateiname kopieren"
@@ -250,7 +250,7 @@ msgid "Cryptor"
 msgstr "Verschlüsselung"
 
 msgid "Cursor"
-msgstr "Zeiger"
+msgstr "Position"
 
 msgid "Data"
 msgstr "Daten"
@@ -262,7 +262,7 @@ msgid "Database"
 msgstr "Datenbank"
 
 msgid "Debug"
-msgstr "Debuggen"
+msgstr "Debug"
 
 msgid "Debug data"
 msgstr "Daten Debuggen"
@@ -280,7 +280,7 @@ msgid "Delay import"
 msgstr "Import verzögern"
 
 msgid "Demangle"
-msgstr "Entwirren"
+msgstr "Entmangeln"
 
 msgid "Dependencies"
 msgstr "Abhängigkeiten"
@@ -316,7 +316,7 @@ msgid "Dump"
 msgstr "Abbild"
 
 msgid "Dump to file"
-msgstr "In Datei schreiben"
+msgstr "In Datei speichern"
 
 msgid "Edit"
 msgstr "Bearbeiten"
@@ -388,7 +388,7 @@ msgid "Find"
 msgstr "Suchen"
 
 msgid "Find next"
-msgstr "Nächstes suchen"
+msgstr "Weitersuchen"
 
 msgid "Fix offsets"
 msgstr "Offsets beheben"
@@ -436,7 +436,7 @@ msgid "Group"
 msgstr "Gruppe"
 
 msgid "Handles"
-msgstr "Griffe"
+msgstr "Handles"
 
 msgid "Hash"
 msgstr "Hash"
@@ -466,10 +466,10 @@ msgid "Images"
 msgstr "Speicherabbilder"
 
 msgid "Import"
-msgstr "Importieren"
+msgstr "Import"
 
 msgid "Import hash"
-msgstr "Hash importieren"
+msgstr "Import hash"
 
 msgid "Indirect symbols"
 msgstr "Indirekte Symbole"
@@ -538,7 +538,7 @@ msgid "Load config"
 msgstr "Konfiguration laden"
 
 msgid "Local relocation"
-msgstr "Lokaler Umzug"
+msgstr "Lokale Relocation"
 
 msgid "Log"
 msgstr "Log"
@@ -562,7 +562,7 @@ msgid "Memory"
 msgstr "Speicher"
 
 msgid "Memory map"
-msgstr "Speicherkarte"
+msgstr "Image"
 
 msgid "Memory scan"
 msgstr "Speicherscan"
@@ -718,7 +718,7 @@ msgid "Reload"
 msgstr "Neu laden"
 
 msgid "Relocs"
-msgstr "Umzüge"
+msgstr "Relocs"
 
 msgid "Resource"
 msgstr "Ressource"
@@ -766,7 +766,7 @@ msgid "Scan"
 msgstr "Scan"
 
 msgid "Scan after open"
-msgstr "Nach dem öffnen Scannen"
+msgstr "Scannen nach dem Öffnen starten"
 
 msgid "Script"
 msgstr "Skript"
@@ -865,7 +865,7 @@ msgid "Source code"
 msgstr "Quellcode"
 
 msgid "Spaces"
-msgstr "Spaces"
+msgstr "Leerzeichen"
 
 msgid "Stack"
 msgstr "Stapel"
@@ -898,7 +898,7 @@ msgid "Struct and unions"
 msgstr "Struktur und Gewerkschaften"
 
 msgid "Structs"
-msgstr "Strukturen"
+msgstr "Structs"
 
 msgid "Stub"
 msgstr "Stub"
@@ -991,7 +991,7 @@ msgid "Unknown"
 msgstr "Unbekannt"
 
 msgid "Upper"
-msgstr "Oberer"
+msgstr "Gross"
 
 msgid "Value"
 msgstr "Wert"
@@ -1006,7 +1006,7 @@ msgid "View"
 msgstr "Sicht"
 
 msgid "Viewer"
-msgstr "Zuschauer"
+msgstr "Betrachter"
 
 msgid "Virtual address"
 msgstr "Virtuelle Adresse"
@@ -1021,7 +1021,7 @@ msgid "Website"
 msgstr "Webseite"
 
 msgid "Wildcard"
-msgstr "Wildcard"
+msgstr "Platzhalter"
 
 msgid "Write error"
 msgstr "Schreibfehler"
