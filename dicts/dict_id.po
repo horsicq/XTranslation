@@ -51,6 +51,12 @@ msgstr "Semua file"
 msgid "All types"
 msgstr "Semua jenis"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analisa"
 
@@ -59,9 +65,6 @@ msgstr "Penampilan"
 
 msgid "Application"
 msgstr "Aplikasi"
-
-msgid "Arch"
-msgstr "Lengkungan"
 
 msgid "Architecture"
 msgstr "Arsitektur"
@@ -80,6 +83,9 @@ msgstr "Menempel"
 
 msgid "Automatic"
 msgstr "Otomatis"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Alamat dasar"
@@ -186,6 +192,9 @@ msgstr "Tutup"
 msgid "Code section"
 msgstr "Bagian Kode"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Perintah"
 
@@ -197,9 +206,6 @@ msgstr "Penyusun"
 
 msgid "Console"
 msgstr "Menghibur"
-
-msgid "Context"
-msgstr "Konteks"
 
 msgid "Converter"
 msgstr "Konverter"
@@ -222,9 +228,6 @@ msgstr "Salin alamat kursor"
 msgid "Copy cursor offset"
 msgstr "Salin offset kursor"
 
-msgid "Copy filename"
-msgstr "Salin nama file"
-
 msgid "Copy name"
 msgstr "Salin nama"
 
@@ -236,9 +239,6 @@ msgstr "Salin tanda tangan"
 
 msgid "Copy size"
 msgstr "Salin ukuran"
-
-msgid "Copy string"
-msgstr "Salin string"
 
 msgid "Count"
 msgstr "Hitung"
@@ -254,6 +254,9 @@ msgstr "Kursor"
 
 msgid "Data"
 msgstr "Data"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Data dalam kode"
@@ -287,6 +290,9 @@ msgstr "Ketergantungan"
 
 msgid "Detach"
 msgstr "Melepaskan"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Pemindaian perangkat"
@@ -324,6 +330,9 @@ msgstr "Edit"
 msgid "Elapsed"
 msgstr "Berlalu"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -359,6 +368,9 @@ msgstr "Referensi eksternal"
 
 msgid "File"
 msgstr "File"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Nama file"
@@ -575,6 +587,9 @@ msgstr "Metode"
 
 msgid "Mode"
 msgstr "Mode"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Modul"
@@ -870,6 +885,9 @@ msgstr "Tempat"
 msgid "Stack"
 msgstr "Tumpukan"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Status"
 
@@ -1052,3 +1070,7 @@ msgstr "dikemas"
 
 msgid "protection"
 msgstr "proteksi"
+
+
+
+

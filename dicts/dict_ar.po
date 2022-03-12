@@ -52,6 +52,12 @@ msgstr "كل الملفات"
 msgid "All types"
 msgstr "كل الانواع"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "حلل"
 
@@ -60,9 +66,6 @@ msgstr "مظهر خارجي"
 
 msgid "Application"
 msgstr "تطبيق"
-
-msgid "Arch"
-msgstr "قوس"
 
 msgid "Architecture"
 msgstr "هندسة معمارية"
@@ -81,6 +84,9 @@ msgstr "يربط"
 
 msgid "Automatic"
 msgstr "تلقائي"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "العنوان الأساسي"
@@ -187,6 +193,9 @@ msgstr "قريب"
 msgid "Code section"
 msgstr "قسم الكود"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "أوامر"
 
@@ -198,9 +207,6 @@ msgstr "مترجم"
 
 msgid "Console"
 msgstr "وحدة التحكم"
-
-msgid "Context"
-msgstr "مفهوم"
 
 msgid "Converter"
 msgstr "محول"
@@ -223,9 +229,6 @@ msgstr "نسخ عنوان المؤشر"
 msgid "Copy cursor offset"
 msgstr "نسخ إزاحة المؤشر"
 
-msgid "Copy filename"
-msgstr "نسخ اسم الملف"
-
 msgid "Copy name"
 msgstr "نسخ الاسم"
 
@@ -237,9 +240,6 @@ msgstr "نسخة التوقيع"
 
 msgid "Copy size"
 msgstr "حجم النسخ"
-
-msgid "Copy string"
-msgstr "نسخ السلسلة"
 
 msgid "Count"
 msgstr "عدد"
@@ -255,6 +255,9 @@ msgstr "المؤشر"
 
 msgid "Data"
 msgstr "البيانات"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
@@ -288,6 +291,9 @@ msgstr "التبعيات"
 
 msgid "Detach"
 msgstr "فصل"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "فحص الجهاز"
@@ -325,6 +331,9 @@ msgstr "يحرر"
 msgid "Elapsed"
 msgstr "انقضى"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -360,6 +369,9 @@ msgstr "المراجع الخارجية"
 
 msgid "File"
 msgstr "ملف"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "اسم الملف"
@@ -576,6 +588,9 @@ msgstr "طريقة"
 
 msgid "Mode"
 msgstr "الوضع"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "الوحدات"
@@ -871,6 +886,9 @@ msgstr "المساحات"
 msgid "Stack"
 msgstr "كومة"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "حالة"
 
@@ -1053,3 +1071,7 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
+
+
+
+

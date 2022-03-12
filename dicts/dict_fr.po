@@ -51,6 +51,12 @@ msgstr "Tout les fichiers"
 msgid "All types"
 msgstr "Tous les types"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analyser"
 
@@ -59,9 +65,6 @@ msgstr "Apparence"
 
 msgid "Application"
 msgstr "Application"
-
-msgid "Arch"
-msgstr "Cambre"
 
 msgid "Architecture"
 msgstr "Architecture"
@@ -80,6 +83,9 @@ msgstr "Attacher"
 
 msgid "Automatic"
 msgstr "Automatique"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Adresse de base"
@@ -186,6 +192,9 @@ msgstr "Fermer"
 msgid "Code section"
 msgstr "Section de code"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Commandes"
 
@@ -197,9 +206,6 @@ msgstr "Compilateur"
 
 msgid "Console"
 msgstr "Console"
-
-msgid "Context"
-msgstr "Contexte"
 
 msgid "Converter"
 msgstr "Convertisseur"
@@ -222,9 +228,6 @@ msgstr "Copier l'adresse du curseur"
 msgid "Copy cursor offset"
 msgstr "Copier le décalage du curseur"
 
-msgid "Copy filename"
-msgstr "Copier le nom de fichier"
-
 msgid "Copy name"
 msgstr "Copier le nom"
 
@@ -236,9 +239,6 @@ msgstr "Copier la signature"
 
 msgid "Copy size"
 msgstr "Copier la taille"
-
-msgid "Copy string"
-msgstr "Copier le text"
 
 msgid "Count"
 msgstr "Compte"
@@ -254,6 +254,9 @@ msgstr "Curseur"
 
 msgid "Data"
 msgstr "Données"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Données dans le code"
@@ -287,6 +290,9 @@ msgstr "Dépendances"
 
 msgid "Detach"
 msgstr "Détacher"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Scan d'appareils"
@@ -324,6 +330,9 @@ msgstr "Éditer"
 msgid "Elapsed"
 msgstr "Écoulé"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianité"
 
@@ -359,6 +368,9 @@ msgstr "Références externes"
 
 msgid "File"
 msgstr "Fichier"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Nom de fichier"
@@ -575,6 +587,9 @@ msgstr "Méthode"
 
 msgid "Mode"
 msgstr "Mode"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Modules"
@@ -870,6 +885,9 @@ msgstr "Espaces"
 msgid "Stack"
 msgstr "Empiler"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Statut"
 
@@ -1052,3 +1070,7 @@ msgstr "compressé"
 
 msgid "protection"
 msgstr "protection"
+
+
+
+

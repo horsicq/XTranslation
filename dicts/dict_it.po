@@ -51,6 +51,12 @@ msgstr "Tutti i file"
 msgid "All types"
 msgstr "Tutti i tipi"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analizza"
 
@@ -59,9 +65,6 @@ msgstr "Aspetto"
 
 msgid "Application"
 msgstr "Applicazione"
-
-msgid "Arch"
-msgstr "Arco"
 
 msgid "Architecture"
 msgstr "Architettura"
@@ -80,6 +83,9 @@ msgstr "Allegare"
 
 msgid "Automatic"
 msgstr "Automatico"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Indirizzo base"
@@ -186,6 +192,9 @@ msgstr "Chiudi"
 msgid "Code section"
 msgstr "Sezione codice"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Comandi"
 
@@ -197,9 +206,6 @@ msgstr "Compilatore"
 
 msgid "Console"
 msgstr "Console"
-
-msgid "Context"
-msgstr "Contesto"
 
 msgid "Converter"
 msgstr "Convertitore"
@@ -222,9 +228,6 @@ msgstr "Copia indirizzo cursore"
 msgid "Copy cursor offset"
 msgstr "Copia offset cursore"
 
-msgid "Copy filename"
-msgstr "Copia nome file"
-
 msgid "Copy name"
 msgstr "Copia nome"
 
@@ -236,9 +239,6 @@ msgstr "Copia firma"
 
 msgid "Copy size"
 msgstr "Copia dimensione"
-
-msgid "Copy string"
-msgstr "Copia stringa"
 
 msgid "Count"
 msgstr "Conteggio"
@@ -254,6 +254,9 @@ msgstr "Cursore"
 
 msgid "Data"
 msgstr "Dati"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Dati nel codice"
@@ -287,6 +290,9 @@ msgstr "dipendenze"
 
 msgid "Detach"
 msgstr "Stacca"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Scansione dispositivo"
@@ -324,6 +330,9 @@ msgstr "Modifica"
 msgid "Elapsed"
 msgstr "Trascorso"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianità"
 
@@ -359,6 +368,9 @@ msgstr "Riferimenti esterni"
 
 msgid "File"
 msgstr "File"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Nome file"
@@ -575,6 +587,9 @@ msgstr "Metodo"
 
 msgid "Mode"
 msgstr "Modalità"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Moduli"
@@ -870,6 +885,9 @@ msgstr "Spazi"
 msgid "Stack"
 msgstr "Pila"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Stato"
 
@@ -1052,3 +1070,7 @@ msgstr "imballato"
 
 msgid "protection"
 msgstr "Protezione"
+
+
+
+

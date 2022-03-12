@@ -51,6 +51,12 @@ msgstr "所有文件"
 msgid "All types"
 msgstr "所有类型"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "分析"
 
@@ -59,9 +65,6 @@ msgstr "外观"
 
 msgid "Application"
 msgstr "应用"
-
-msgid "Arch"
-msgstr "架构"
 
 msgid "Architecture"
 msgstr "架构"
@@ -80,6 +83,9 @@ msgstr "附"
 
 msgid "Automatic"
 msgstr "自动"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "基址"
@@ -186,6 +192,9 @@ msgstr "关闭"
 msgid "Code section"
 msgstr "代码段"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "指令"
 
@@ -197,9 +206,6 @@ msgstr "编译器"
 
 msgid "Console"
 msgstr "控制台"
-
-msgid "Context"
-msgstr "上下文"
 
 msgid "Converter"
 msgstr "转换器"
@@ -222,9 +228,6 @@ msgstr "复制光标地址"
 msgid "Copy cursor offset"
 msgstr "复制光标偏移"
 
-msgid "Copy filename"
-msgstr "复制文件名"
-
 msgid "Copy name"
 msgstr "复制名称"
 
@@ -236,9 +239,6 @@ msgstr "复制签名"
 
 msgid "Copy size"
 msgstr "复制大小"
-
-msgid "Copy string"
-msgstr "复制字符串"
 
 msgid "Count"
 msgstr "计数"
@@ -254,6 +254,9 @@ msgstr "光标"
 
 msgid "Data"
 msgstr "数据"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "代码中的数据"
@@ -287,6 +290,9 @@ msgstr "依赖关系"
 
 msgid "Detach"
 msgstr "分离"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "设备扫描"
@@ -324,6 +330,9 @@ msgstr "编辑"
 msgid "Elapsed"
 msgstr "已耗时"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "字节序"
 
@@ -359,6 +368,9 @@ msgstr "外部参考"
 
 msgid "File"
 msgstr "文件"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "文件名"
@@ -575,6 +587,9 @@ msgstr "方法"
 
 msgid "Mode"
 msgstr "模式"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "模块"
@@ -870,6 +885,9 @@ msgstr "空格"
 msgid "Stack"
 msgstr "栈"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "状态"
 
@@ -1052,3 +1070,7 @@ msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
+
+
+
+

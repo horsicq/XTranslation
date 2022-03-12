@@ -51,6 +51,12 @@ msgstr ""
 msgid "All types"
 msgstr ""
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr ""
 
@@ -58,9 +64,6 @@ msgid "Appearance"
 msgstr ""
 
 msgid "Application"
-msgstr ""
-
-msgid "Arch"
 msgstr ""
 
 msgid "Architecture"
@@ -79,6 +82,9 @@ msgid "Attach"
 msgstr ""
 
 msgid "Automatic"
+msgstr ""
+
+msgid "Background"
 msgstr ""
 
 msgid "Base address"
@@ -186,6 +192,9 @@ msgstr ""
 msgid "Code section"
 msgstr ""
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr ""
 
@@ -196,9 +205,6 @@ msgid "Compiler"
 msgstr ""
 
 msgid "Console"
-msgstr ""
-
-msgid "Context"
 msgstr ""
 
 msgid "Converter"
@@ -222,9 +228,6 @@ msgstr ""
 msgid "Copy cursor offset"
 msgstr ""
 
-msgid "Copy filename"
-msgstr ""
-
 msgid "Copy name"
 msgstr ""
 
@@ -235,9 +238,6 @@ msgid "Copy signature"
 msgstr ""
 
 msgid "Copy size"
-msgstr ""
-
-msgid "Copy string"
 msgstr ""
 
 msgid "Count"
@@ -253,6 +253,9 @@ msgid "Cursor"
 msgstr ""
 
 msgid "Data"
+msgstr ""
+
+msgid "Data as hex"
 msgstr ""
 
 msgid "Data in code"
@@ -286,6 +289,9 @@ msgid "Dependencies"
 msgstr ""
 
 msgid "Detach"
+msgstr ""
+
+msgid "Device"
 msgstr ""
 
 msgid "Device scan"
@@ -324,6 +330,9 @@ msgstr ""
 msgid "Elapsed"
 msgstr ""
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr ""
 
@@ -358,6 +367,9 @@ msgid "External references"
 msgstr ""
 
 msgid "File"
+msgstr ""
+
+msgid "File info"
 msgstr ""
 
 msgid "File name"
@@ -574,6 +586,9 @@ msgid "Method"
 msgstr ""
 
 msgid "Mode"
+msgstr ""
+
+msgid "Module"
 msgstr ""
 
 msgid "Modules"
@@ -868,6 +883,9 @@ msgid "Spaces"
 msgstr ""
 
 msgid "Stack"
+msgstr ""
+
+msgid "State"
 msgstr ""
 
 msgid "Status"

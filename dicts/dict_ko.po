@@ -51,6 +51,12 @@ msgstr "모든 파일"
 msgid "All types"
 msgstr "모든 유형"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "분석"
 
@@ -59,9 +65,6 @@ msgstr "모양"
 
 msgid "Application"
 msgstr "애플리케이션"
-
-msgid "Arch"
-msgstr "아치"
 
 msgid "Architecture"
 msgstr "아키텍처"
@@ -80,6 +83,9 @@ msgstr "붙이다"
 
 msgid "Automatic"
 msgstr "자동적 인"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "기준 주소"
@@ -186,6 +192,9 @@ msgstr "닫기"
 msgid "Code section"
 msgstr "코드 섹션"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "주석"
 
@@ -197,9 +206,6 @@ msgstr "컴파일러"
 
 msgid "Console"
 msgstr "콘솔"
-
-msgid "Context"
-msgstr "컨텍스트 메뉴"
 
 msgid "Converter"
 msgstr "변환기"
@@ -222,9 +228,6 @@ msgstr "커서 주소 복사"
 msgid "Copy cursor offset"
 msgstr "커서 오프셋 복사"
 
-msgid "Copy filename"
-msgstr "파일 이름 복사"
-
 msgid "Copy name"
 msgstr "이름 복사"
 
@@ -236,9 +239,6 @@ msgstr "서명 복사"
 
 msgid "Copy size"
 msgstr "크기 복사"
-
-msgid "Copy string"
-msgstr "문자열 복사"
 
 msgid "Count"
 msgstr "카운트"
@@ -254,6 +254,9 @@ msgstr "커서"
 
 msgid "Data"
 msgstr "데이터"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "코드의 데이터"
@@ -287,6 +290,9 @@ msgstr "종속성"
 
 msgid "Detach"
 msgstr "분리하다"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "장치 검색"
@@ -324,6 +330,9 @@ msgstr "편집"
 msgid "Elapsed"
 msgstr "경과"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "엔디언"
 
@@ -359,6 +368,9 @@ msgstr "외부 참조"
 
 msgid "File"
 msgstr "파일"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "파일 이름"
@@ -575,6 +587,9 @@ msgstr "방식"
 
 msgid "Mode"
 msgstr "모드"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "모듈"
@@ -870,6 +885,9 @@ msgstr "공백"
 msgid "Stack"
 msgstr "스택"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "상태"
 
@@ -1052,3 +1070,7 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
+
+
+
+

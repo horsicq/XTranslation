@@ -51,6 +51,12 @@ msgstr "所有檔案"
 msgid "All types"
 msgstr "所有類型"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "分析"
 
@@ -59,9 +65,6 @@ msgstr "外觀"
 
 msgid "Application"
 msgstr "應用"
-
-msgid "Arch"
-msgstr "拱"
 
 msgid "Architecture"
 msgstr "架構"
@@ -80,6 +83,9 @@ msgstr "附"
 
 msgid "Automatic"
 msgstr "自動"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "基底位址"
@@ -186,6 +192,9 @@ msgstr "關閉"
 msgid "Code section"
 msgstr "代碼段"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "指令"
 
@@ -197,9 +206,6 @@ msgstr "編譯器"
 
 msgid "Console"
 msgstr "安慰"
-
-msgid "Context"
-msgstr "選單關聯"
 
 msgid "Converter"
 msgstr "轉換器"
@@ -222,9 +228,6 @@ msgstr "複印光標進制"
 msgid "Copy cursor offset"
 msgstr "複印光標偏移"
 
-msgid "Copy filename"
-msgstr "複印檔案名"
-
 msgid "Copy name"
 msgstr "複印名字"
 
@@ -236,9 +239,6 @@ msgstr "複印簽名"
 
 msgid "Copy size"
 msgstr "複印大小"
-
-msgid "Copy string"
-msgstr "複製字串"
 
 msgid "Count"
 msgstr "數量"
@@ -254,6 +254,9 @@ msgstr "目前位址"
 
 msgid "Data"
 msgstr "數據"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "代碼中的數據"
@@ -287,6 +290,9 @@ msgstr "依賴關係"
 
 msgid "Detach"
 msgstr "分離"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "裝置掃描"
@@ -324,6 +330,9 @@ msgstr "編輯"
 msgid "Elapsed"
 msgstr "過去"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "位元組順序"
 
@@ -359,6 +368,9 @@ msgstr "外部參考"
 
 msgid "File"
 msgstr "檔案"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "檔名"
@@ -575,6 +587,9 @@ msgstr "方法"
 
 msgid "Mode"
 msgstr "模式"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "模塊"
@@ -870,6 +885,9 @@ msgstr "空格"
 msgid "Stack"
 msgstr "堆"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "狀態"
 
@@ -1052,3 +1070,7 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+

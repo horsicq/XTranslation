@@ -51,6 +51,12 @@ msgstr "כל הקבצים"
 msgid "All types"
 msgstr "כל הסוגים"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "אבחן"
 
@@ -59,9 +65,6 @@ msgstr "מראה"
 
 msgid "Application"
 msgstr "יישום"
-
-msgid "Arch"
-msgstr "קֶשֶׁת"
 
 msgid "Architecture"
 msgstr "ארכיטקטורה"
@@ -80,6 +83,9 @@ msgstr "לְצַרֵף"
 
 msgid "Automatic"
 msgstr "אוֹטוֹמָטִי"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "כתובת בסיס"
@@ -186,6 +192,9 @@ msgstr "סגור"
 msgid "Code section"
 msgstr "אזור קוד"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "פקודות"
 
@@ -197,9 +206,6 @@ msgstr "מהדר"
 
 msgid "Console"
 msgstr "לְנַחֵם"
-
-msgid "Context"
-msgstr "הקשר"
 
 msgid "Converter"
 msgstr "ממיר"
@@ -222,9 +228,6 @@ msgstr "העתק את כתובת הסמן"
 msgid "Copy cursor offset"
 msgstr "קיזוז סמן העתק"
 
-msgid "Copy filename"
-msgstr "העתק את שם הקובץ"
-
 msgid "Copy name"
 msgstr "העתק שם"
 
@@ -236,9 +239,6 @@ msgstr "העתק חתימה"
 
 msgid "Copy size"
 msgstr "העתק גודל"
-
-msgid "Copy string"
-msgstr "העתק מחרוזת"
 
 msgid "Count"
 msgstr "ספירה"
@@ -254,6 +254,9 @@ msgstr "סמן"
 
 msgid "Data"
 msgstr "נתונים"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "נתונים בקוד"
@@ -287,6 +290,9 @@ msgstr "תלות"
 
 msgid "Detach"
 msgstr "לנתק"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "סריקת התקן"
@@ -324,6 +330,9 @@ msgstr "עריכה"
 msgid "Elapsed"
 msgstr "חלף"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "סוג סיומת"
 
@@ -359,6 +368,9 @@ msgstr "הפניות חיצוניות"
 
 msgid "File"
 msgstr "קובץ"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "שם קובץ"
@@ -575,6 +587,9 @@ msgstr "שיטה"
 
 msgid "Mode"
 msgstr "מצב"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "מודולים"
@@ -870,6 +885,9 @@ msgstr "רווחים"
 msgid "Stack"
 msgstr "לַעֲרוֹם"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "סטטוס"
 
@@ -1052,3 +1070,7 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
+
+
+
+

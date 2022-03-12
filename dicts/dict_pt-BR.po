@@ -51,6 +51,12 @@ msgstr "Todos os arquivos"
 msgid "All types"
 msgstr "Todos os tipos"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analisar"
 
@@ -59,9 +65,6 @@ msgstr "Aparência"
 
 msgid "Application"
 msgstr "Aplicativo"
-
-msgid "Arch"
-msgstr "Arco"
 
 msgid "Architecture"
 msgstr "Arquitetura"
@@ -80,6 +83,9 @@ msgstr "Anexar"
 
 msgid "Automatic"
 msgstr "Automático"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Endereço base"
@@ -186,6 +192,9 @@ msgstr "Fechar"
 msgid "Code section"
 msgstr "Seção de código"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Comandos"
 
@@ -197,9 +206,6 @@ msgstr "Compilador"
 
 msgid "Console"
 msgstr "Console"
-
-msgid "Context"
-msgstr "Contexto"
 
 msgid "Converter"
 msgstr "Conversor"
@@ -222,9 +228,6 @@ msgstr "Copiar endereço do cursor"
 msgid "Copy cursor offset"
 msgstr "Copiar deslocamento do cursor"
 
-msgid "Copy filename"
-msgstr "Copiar o nome do arquivo"
-
 msgid "Copy name"
 msgstr "Copiar o nome"
 
@@ -236,9 +239,6 @@ msgstr "Copiar assinatura"
 
 msgid "Copy size"
 msgstr "Tamanho da cópia"
-
-msgid "Copy string"
-msgstr "Copiar string"
 
 msgid "Count"
 msgstr "Contagem"
@@ -254,6 +254,9 @@ msgstr "Cursor"
 
 msgid "Data"
 msgstr "Dados"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Dados no código"
@@ -287,6 +290,9 @@ msgstr "Dependências"
 
 msgid "Detach"
 msgstr "Desanexar"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Varredura de dispositivo"
@@ -324,6 +330,9 @@ msgstr "Editar"
 msgid "Elapsed"
 msgstr "Decorrido"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -359,6 +368,9 @@ msgstr "Referências externas"
 
 msgid "File"
 msgstr "Arquivo"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Nome do arquivo"
@@ -575,6 +587,9 @@ msgstr "Método"
 
 msgid "Mode"
 msgstr "Modo"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Módulos"
@@ -870,6 +885,9 @@ msgstr "Spaces"
 msgid "Stack"
 msgstr "Pilha"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Status"
 
@@ -1052,3 +1070,7 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "proteção"
+
+
+
+

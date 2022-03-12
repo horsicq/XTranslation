@@ -51,6 +51,12 @@ msgstr "すべてのファイル"
 msgid "All types"
 msgstr "いろんなタイプ"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "分析"
 
@@ -59,9 +65,6 @@ msgstr "外観"
 
 msgid "Application"
 msgstr "応用"
-
-msgid "Arch"
-msgstr "アーチ"
 
 msgid "Architecture"
 msgstr "アーキテクチャ"
@@ -80,6 +83,9 @@ msgstr "添付"
 
 msgid "Automatic"
 msgstr "自動"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "基準アドレス"
@@ -186,6 +192,9 @@ msgstr "閉じる"
 msgid "Code section"
 msgstr "コード セクション"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "コマンド"
 
@@ -197,9 +206,6 @@ msgstr "コンパイラ"
 
 msgid "Console"
 msgstr "コンソール"
-
-msgid "Context"
-msgstr "コンテキスト"
 
 msgid "Converter"
 msgstr "コンバータ"
@@ -222,9 +228,6 @@ msgstr "アドレスに移動"
 msgid "Copy cursor offset"
 msgstr "カーソルオフセットのコピー"
 
-msgid "Copy filename"
-msgstr "ファイル名をコピー"
-
 msgid "Copy name"
 msgstr "コピー"
 
@@ -236,9 +239,6 @@ msgstr "署名"
 
 msgid "Copy size"
 msgstr "コピー"
-
-msgid "Copy string"
-msgstr "文字列をコピー"
 
 msgid "Count"
 msgstr "個数"
@@ -254,6 +254,9 @@ msgstr "カーソル"
 
 msgid "Data"
 msgstr "データ"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "コードのデータ"
@@ -287,6 +290,9 @@ msgstr "依存関係"
 
 msgid "Detach"
 msgstr "デタッチ"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "デバイスのスキャン"
@@ -324,6 +330,9 @@ msgstr "編集"
 msgid "Elapsed"
 msgstr "経過"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "エンディアン"
 
@@ -359,6 +368,9 @@ msgstr "外部参照"
 
 msgid "File"
 msgstr "ファイル名"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "ファイル名"
@@ -575,6 +587,9 @@ msgstr "方法"
 
 msgid "Mode"
 msgstr "モード"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "モジュール"
@@ -870,6 +885,9 @@ msgstr "スペース"
 msgid "Stack"
 msgstr "スタック"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "ステータス"
 
@@ -1052,3 +1070,7 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+

@@ -52,6 +52,12 @@ msgstr "Усі файли"
 msgid "All types"
 msgstr "Усі види"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Аналізувати"
 
@@ -60,9 +66,6 @@ msgstr "Зовнішній вигляд"
 
 msgid "Application"
 msgstr "Програма"
-
-msgid "Arch"
-msgstr "Арх"
 
 msgid "Architecture"
 msgstr "Архітектура"
@@ -81,6 +84,9 @@ msgstr "Прикріпити"
 
 msgid "Automatic"
 msgstr "Автоматичний"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Базова адреса"
@@ -187,6 +193,9 @@ msgstr "Закрити"
 msgid "Code section"
 msgstr "Секція коду"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Команди"
 
@@ -198,9 +207,6 @@ msgstr "Компілятор"
 
 msgid "Console"
 msgstr "Консоль"
-
-msgid "Context"
-msgstr "Контекст"
 
 msgid "Converter"
 msgstr "Конвертор"
@@ -223,9 +229,6 @@ msgstr "Копіювати поточну адресу"
 msgid "Copy cursor offset"
 msgstr "Копіювати поточне зміщення"
 
-msgid "Copy filename"
-msgstr "Копіювати ім'я файлу"
-
 msgid "Copy name"
 msgstr "Копіювати ім'я"
 
@@ -237,9 +240,6 @@ msgstr "Копіювати сігнатуру"
 
 msgid "Copy size"
 msgstr "Копіювати розмір"
-
-msgid "Copy string"
-msgstr "Копіювати стрічку"
 
 msgid "Count"
 msgstr "Кількість"
@@ -255,6 +255,9 @@ msgstr "Курсор"
 
 msgid "Data"
 msgstr "Дані"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Дані в коді"
@@ -288,6 +291,9 @@ msgstr "Залежності"
 
 msgid "Detach"
 msgstr "Від'єднати"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Сканувати пристрій"
@@ -325,6 +331,9 @@ msgstr "Редагувати"
 msgid "Elapsed"
 msgstr "Минуло"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Порядок байтів"
 
@@ -360,6 +369,9 @@ msgstr "Зовнішні посилання"
 
 msgid "File"
 msgstr "Файл"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Ім'я файлу"
@@ -576,6 +588,9 @@ msgstr "Метод"
 
 msgid "Mode"
 msgstr "Режим"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Модулі"
@@ -871,6 +886,9 @@ msgstr "Прогалини"
 msgid "Stack"
 msgstr "Стек"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Статус"
 
@@ -1053,3 +1071,7 @@ msgstr "пакований"
 
 msgid "protection"
 msgstr "захист"
+
+
+
+

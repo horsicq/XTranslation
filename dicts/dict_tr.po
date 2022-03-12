@@ -51,6 +51,12 @@ msgstr "Bütün Dosyalar"
 msgid "All types"
 msgstr "Her türlü"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analiz"
 
@@ -59,9 +65,6 @@ msgstr "Görünüm"
 
 msgid "Application"
 msgstr "Başvuru"
-
-msgid "Arch"
-msgstr "Kemer"
 
 msgid "Architecture"
 msgstr "Mimari"
@@ -80,6 +83,9 @@ msgstr "Eklemek"
 
 msgid "Automatic"
 msgstr "Otomatik"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Temel adres"
@@ -186,6 +192,9 @@ msgstr "Kapat"
 msgid "Code section"
 msgstr "Kod seçimi"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Komutlar"
 
@@ -197,9 +206,6 @@ msgstr "Derleyici"
 
 msgid "Console"
 msgstr "Konsol"
-
-msgid "Context"
-msgstr "İçerik"
 
 msgid "Converter"
 msgstr "Çevirici"
@@ -222,9 +228,6 @@ msgstr "İmleç adresini kopyala"
 msgid "Copy cursor offset"
 msgstr "İmleç ofsetini kopyala"
 
-msgid "Copy filename"
-msgstr "Dosya adını kopyala"
-
 msgid "Copy name"
 msgstr "Adı kopyala"
 
@@ -236,9 +239,6 @@ msgstr "İmzayı kopyala"
 
 msgid "Copy size"
 msgstr "Boyut kopyala"
-
-msgid "Copy string"
-msgstr "String kopyala"
 
 msgid "Count"
 msgstr "Say"
@@ -254,6 +254,9 @@ msgstr "Cursor"
 
 msgid "Data"
 msgstr "Veri"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Koddaki veriler"
@@ -287,6 +290,9 @@ msgstr "bağımlılıklar"
 
 msgid "Detach"
 msgstr "ayır"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Cihaz tara"
@@ -324,6 +330,9 @@ msgstr "Düzenle"
 msgid "Elapsed"
 msgstr "geçen"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -359,6 +368,9 @@ msgstr "Dış referanslar"
 
 msgid "File"
 msgstr "Dosya"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Dosya adı"
@@ -575,6 +587,9 @@ msgstr "Metod"
 
 msgid "Mode"
 msgstr "Mod"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Modüller"
@@ -870,6 +885,9 @@ msgstr "Alanlar"
 msgid "Stack"
 msgstr "Yığın"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Durum"
 
@@ -1052,3 +1070,7 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
+
+
+
+

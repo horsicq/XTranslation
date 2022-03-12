@@ -51,6 +51,12 @@ msgstr "Tất cả tập tin"
 msgid "All types"
 msgstr "Các loại"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Phân tích"
 
@@ -59,9 +65,6 @@ msgstr "Giao diện"
 
 msgid "Application"
 msgstr "Ứng dụng"
-
-msgid "Arch"
-msgstr "Vòm"
 
 msgid "Architecture"
 msgstr "Kiến trúc"
@@ -80,6 +83,9 @@ msgstr "Gắn"
 
 msgid "Automatic"
 msgstr "Tự động"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Địa chỉ gốc"
@@ -186,6 +192,9 @@ msgstr "Đóng"
 msgid "Code section"
 msgstr "Mục mã"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Lệnh"
 
@@ -197,9 +206,6 @@ msgstr "Trình biên dịch"
 
 msgid "Console"
 msgstr "Bảng điều khiển"
-
-msgid "Context"
-msgstr "Ngữ cảnh"
 
 msgid "Converter"
 msgstr "Bộ chuyển đổi"
@@ -222,9 +228,6 @@ msgstr "Sao chép địa chỉ con trỏ"
 msgid "Copy cursor offset"
 msgstr "Sao chép bù đắp con trỏ"
 
-msgid "Copy filename"
-msgstr "Sao chép tên tệp"
-
 msgid "Copy name"
 msgstr "Sao chép tên"
 
@@ -236,9 +239,6 @@ msgstr "Sao chép chữ ký"
 
 msgid "Copy size"
 msgstr "Sao chép kích thước"
-
-msgid "Copy string"
-msgstr "Sao chép chuỗi"
 
 msgid "Count"
 msgstr "Đếm"
@@ -254,6 +254,9 @@ msgstr "Con trỏ"
 
 msgid "Data"
 msgstr "Dữ liệu"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Dữ liệu trong mã"
@@ -287,6 +290,9 @@ msgstr "Sự phụ thuộc"
 
 msgid "Detach"
 msgstr "Tách ra"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Quét thiết bị"
@@ -324,6 +330,9 @@ msgstr "Chỉnh sửa"
 msgid "Elapsed"
 msgstr "Đã trôi qua"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -359,6 +368,9 @@ msgstr "Tài liệu tham khảo bên ngoài"
 
 msgid "File"
 msgstr "Tập tin"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Tên tệp"
@@ -575,6 +587,9 @@ msgstr "phương pháp"
 
 msgid "Mode"
 msgstr "Chế độ"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Mô-đun"
@@ -870,6 +885,9 @@ msgstr "Khoảng trống"
 msgid "Stack"
 msgstr "Cây rơm"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Trạng thái"
 
@@ -1052,3 +1070,7 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
+
+
+
+

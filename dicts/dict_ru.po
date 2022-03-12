@@ -52,6 +52,12 @@ msgstr "Все файлы"
 msgid "All types"
 msgstr "Все типы"
 
+msgid "Allocation base"
+msgstr ""
+
+msgid "Allocation flags"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Анализировать"
 
@@ -60,9 +66,6 @@ msgstr "Внешний вид"
 
 msgid "Application"
 msgstr "Приложение"
-
-msgid "Arch"
-msgstr "Арка"
 
 msgid "Architecture"
 msgstr "Архитектура"
@@ -81,6 +84,9 @@ msgstr "Прикреплять"
 
 msgid "Automatic"
 msgstr "Автоматический"
+
+msgid "Background"
+msgstr ""
 
 msgid "Base address"
 msgstr "Базовый адрес"
@@ -187,6 +193,9 @@ msgstr "Закрыть"
 msgid "Code section"
 msgstr "Секция кода"
 
+msgid "Colors"
+msgstr ""
+
 msgid "Commands"
 msgstr "Команды"
 
@@ -198,9 +207,6 @@ msgstr "Компилятор"
 
 msgid "Console"
 msgstr "Консоль"
-
-msgid "Context"
-msgstr "Контекст"
 
 msgid "Converter"
 msgstr "Конвертер"
@@ -223,9 +229,6 @@ msgstr "Копировать текущий адрес"
 msgid "Copy cursor offset"
 msgstr "Копировать текущее смещение"
 
-msgid "Copy filename"
-msgstr "Копировать имя файла"
-
 msgid "Copy name"
 msgstr "Копировать имя"
 
@@ -237,9 +240,6 @@ msgstr "Копировать сигнатуру"
 
 msgid "Copy size"
 msgstr "Сопировать размер"
-
-msgid "Copy string"
-msgstr "Сопировать строку"
 
 msgid "Count"
 msgstr "Число"
@@ -255,6 +255,9 @@ msgstr "Курсор"
 
 msgid "Data"
 msgstr "Данные"
+
+msgid "Data as hex"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Данные в коде"
@@ -288,6 +291,9 @@ msgstr "Зависимости"
 
 msgid "Detach"
 msgstr "Отсоединить"
+
+msgid "Device"
+msgstr ""
 
 msgid "Device scan"
 msgstr "Сканирование устройства"
@@ -325,6 +331,9 @@ msgstr "Редактировать"
 msgid "Elapsed"
 msgstr "Прошло"
 
+msgid "Endianess"
+msgstr ""
+
 msgid "Endianness"
 msgstr "Порядок байтов"
 
@@ -360,6 +369,9 @@ msgstr "Внешние ссылки"
 
 msgid "File"
 msgstr "Файл"
+
+msgid "File info"
+msgstr ""
 
 msgid "File name"
 msgstr "Имя файла"
@@ -576,6 +588,9 @@ msgstr "Метод"
 
 msgid "Mode"
 msgstr "Режим"
+
+msgid "Module"
+msgstr ""
 
 msgid "Modules"
 msgstr "Модули"
@@ -871,6 +886,9 @@ msgstr "Пробелы"
 msgid "Stack"
 msgstr "Стэк"
 
+msgid "State"
+msgstr ""
+
 msgid "Status"
 msgstr "Статус"
 
@@ -1053,3 +1071,7 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
+
+
+
+
