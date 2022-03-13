@@ -330,9 +330,6 @@ msgstr "Edit"
 msgid "Elapsed"
 msgstr "Berlalu"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -1070,7 +1067,3 @@ msgstr "dikemas"
 
 msgid "protection"
 msgstr "proteksi"
-
-
-
-

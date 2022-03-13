@@ -330,9 +330,6 @@ msgstr "Chỉnh sửa"
 msgid "Elapsed"
 msgstr "Đã trôi qua"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -1070,7 +1067,3 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
-
-
-
-

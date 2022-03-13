@@ -330,9 +330,6 @@ msgstr "Editar"
 msgid "Elapsed"
 msgstr "Decorrido"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -1070,7 +1067,3 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "proteção"
-
-
-
-

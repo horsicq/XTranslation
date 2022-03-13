@@ -331,9 +331,6 @@ msgstr "Редактировать"
 msgid "Elapsed"
 msgstr "Прошло"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Порядок байтов"
 
@@ -1071,7 +1068,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
-
-
-
-

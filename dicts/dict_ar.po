@@ -331,9 +331,6 @@ msgstr "يحرر"
 msgid "Elapsed"
 msgstr "انقضى"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -1071,7 +1068,3 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
-
-
-
-

@@ -331,9 +331,6 @@ msgstr "Edytuj"
 msgid "Elapsed"
 msgstr "Upłynęło"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Kolejność bajtów w strumieniu danych"
 
@@ -1071,7 +1068,3 @@ msgstr "upakowany"
 
 msgid "protection"
 msgstr "ochrona"
-
-
-
-

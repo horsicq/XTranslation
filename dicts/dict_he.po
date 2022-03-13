@@ -330,9 +330,6 @@ msgstr "עריכה"
 msgid "Elapsed"
 msgstr "חלף"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "סוג סיומת"
 
@@ -1070,7 +1067,3 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
-
-
-
-

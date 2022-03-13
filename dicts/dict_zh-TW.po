@@ -330,9 +330,6 @@ msgstr "編輯"
 msgid "Elapsed"
 msgstr "過去"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "位元組順序"
 
@@ -1070,7 +1067,3 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
-
-
-
-

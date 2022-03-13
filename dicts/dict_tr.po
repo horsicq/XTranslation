@@ -330,9 +330,6 @@ msgstr "Düzenle"
 msgid "Elapsed"
 msgstr "geçen"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "Endianness"
 
@@ -1070,7 +1067,3 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
-
-
-
-

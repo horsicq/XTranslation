@@ -330,9 +330,6 @@ msgstr "編集"
 msgid "Elapsed"
 msgstr "経過"
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr "エンディアン"
 
@@ -1070,7 +1067,3 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
-
-
-
-

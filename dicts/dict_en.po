@@ -330,9 +330,6 @@ msgstr ""
 msgid "Elapsed"
 msgstr ""
 
-msgid "Endianess"
-msgstr ""
-
 msgid "Endianness"
 msgstr ""
 
