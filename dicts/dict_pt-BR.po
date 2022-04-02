@@ -442,7 +442,7 @@ msgid "Group"
 msgstr "Grupo"
 
 msgid "Handles"
-msgstr "Alças"
+msgstr "Handles"
 
 msgid "Hash"
 msgstr "Hash"
