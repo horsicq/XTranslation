@@ -118,10 +118,10 @@ msgid "Bytes"
 msgstr "Bytes"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "Bytes disponíveis"
 
 msgid "C Strings"
-msgstr ""
+msgstr "C Strings"
 
 msgid "CPU"
 msgstr "CPU"
@@ -154,16 +154,16 @@ msgid "Cannot load database"
 msgstr "Não é possível carregar o banco de dados"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "Não é possível carregar o driver"
 
 msgid "Cannot load file"
-msgstr "Não foi possível carregar o arquivo"
+msgstr "Não é possível carregar o arquivo"
 
 msgid "Cannot load msdia library"
 msgstr "Não é possível carregar a biblioteca msdia"
 
 msgid "Cannot open file"
-msgstr "Não foi possível abrir o arquivo"
+msgstr "Não é possível abrir o arquivo"
 
 msgid "Cannot open session"
 msgstr "Não é possível abrir a sessão"
@@ -289,7 +289,7 @@ msgid "Device scan"
 msgstr "Varredura de dispositivo"
 
 msgid "Diagram"
-msgstr ""
+msgstr "Diagrama"
 
 msgid "Directory"
 msgstr "Diretório"
@@ -436,13 +436,13 @@ msgid "Go to offset"
 msgstr "Vá para o deslocamento"
 
 msgid "Grid"
-msgstr ""
+msgstr "Grid"
 
 msgid "Group"
 msgstr "Grupo"
 
 msgid "Handles"
-msgstr "Alças"
+msgstr "Handles"
 
 msgid "Hash"
 msgstr "Hash"
@@ -514,10 +514,10 @@ msgid "Jumps"
 msgstr "Saltos"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Manter tamanho"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "Kernel mode"
 
 msgid "Label"
 msgstr "Rótulo"
@@ -703,7 +703,7 @@ msgid "Rebase"
 msgstr "Rebase"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Arquivos recentes"
 
 msgid "Recursive"
 msgstr "Recursivo"
@@ -775,7 +775,7 @@ msgid "Save file"
 msgstr "Salvar arquivo"
 
 msgid "Save history"
-msgstr ""
+msgstr "Salvar histórico"
 
 msgid "Save last directory"
 msgstr "Salvar último diretório"
@@ -1018,7 +1018,7 @@ msgid "Upper"
 msgstr "Upper"
 
 msgid "User mode"
-msgstr ""
+msgstr "User mode"
 
 msgid "Value"
 msgstr "Valor"
