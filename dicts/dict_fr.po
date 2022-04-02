@@ -27,9 +27,6 @@ msgstr "À propos"
 msgid "Action"
 msgstr "Action"
 
-msgid "Actions"
-msgstr "Actions"
-
 msgid "Add alignment"
 msgstr "Ajouter un alignement"
 
@@ -120,6 +117,12 @@ msgstr "Octet"
 msgid "Bytes"
 msgstr "Octets"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "Impossible de charger les données depuis PDB"
 
 msgid "Cannot load database"
 msgstr "Impossible de charger la base de données"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Impossible de charger le fichier"
@@ -213,9 +219,6 @@ msgstr "Convertisseur"
 msgid "Copy"
 msgstr "Copier"
 
-msgid "Copy address"
-msgstr "Copier l'adresse"
-
 msgid "Copy as"
 msgstr "Copier en tant que"
 
@@ -227,18 +230,6 @@ msgstr "Copier l'adresse du curseur"
 
 msgid "Copy cursor offset"
 msgstr "Copier le décalage du curseur"
-
-msgid "Copy name"
-msgstr "Copier le nom"
-
-msgid "Copy offset"
-msgstr "Copier le décalage"
-
-msgid "Copy signature"
-msgstr "Copier la signature"
-
-msgid "Copy size"
-msgstr "Copier la taille"
 
 msgid "Count"
 msgstr "Compte"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Scan d'appareils"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Répertoire"
@@ -441,6 +435,9 @@ msgstr "Aller au point d'entrée"
 msgid "Go to offset"
 msgstr "Aller au décalage"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Groupe"
 
@@ -515,6 +512,12 @@ msgstr "Joindre"
 
 msgid "Jumps"
 msgstr "Sauts"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Étiquette"
@@ -699,6 +702,9 @@ msgstr "Lecture seule"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Récursive"
 
@@ -767,6 +773,9 @@ msgstr "Sauvegarder l'exportation"
 
 msgid "Save file"
 msgstr "Sauvegarder le fichier"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Sauvegarder le dernier répertoire"
@@ -1008,6 +1017,9 @@ msgstr "Inconnu"
 msgid "Upper"
 msgstr "Haut de page"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Valeur"
 
@@ -1067,3 +1079,9 @@ msgstr "compressé"
 
 msgid "protection"
 msgstr "protection"
+
+
+
+
+
+

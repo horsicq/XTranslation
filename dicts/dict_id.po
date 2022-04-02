@@ -27,9 +27,6 @@ msgstr "Tentang"
 msgid "Action"
 msgstr "Tindakan"
 
-msgid "Actions"
-msgstr "tindakan"
-
 msgid "Add alignment"
 msgstr "Tambahkan perataan"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "Tidak dapat memuat data dari PDB"
 
 msgid "Cannot load database"
 msgstr "Tidak dapat memuat basis data"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Tidak dapat memuat file"
@@ -213,9 +219,6 @@ msgstr "Konverter"
 msgid "Copy"
 msgstr "Salin"
 
-msgid "Copy address"
-msgstr "Salin alamat"
-
 msgid "Copy as"
 msgstr "Salin sebagai"
 
@@ -227,18 +230,6 @@ msgstr "Salin alamat kursor"
 
 msgid "Copy cursor offset"
 msgstr "Salin offset kursor"
-
-msgid "Copy name"
-msgstr "Salin nama"
-
-msgid "Copy offset"
-msgstr "Salin offset"
-
-msgid "Copy signature"
-msgstr "Salin tanda tangan"
-
-msgid "Copy size"
-msgstr "Salin ukuran"
 
 msgid "Count"
 msgstr "Hitung"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Pemindaian perangkat"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Direktori"
@@ -441,6 +435,9 @@ msgstr "Pergi ke titik masuk"
 msgid "Go to offset"
 msgstr "Pergi ke offset"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Kelompok"
 
@@ -515,6 +512,12 @@ msgstr "Penggabung"
 
 msgid "Jumps"
 msgstr "Lompat"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Label"
@@ -699,6 +702,9 @@ msgstr "Hanya dibaca"
 msgid "Rebase"
 msgstr "rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Rekursif"
 
@@ -767,6 +773,9 @@ msgstr "Simpan sampah"
 
 msgid "Save file"
 msgstr "Simpan file"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Simpan direktori terakhir"
@@ -1008,6 +1017,9 @@ msgstr "Tidak diketahui"
 msgid "Upper"
 msgstr "Atas"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Nilai"
 
@@ -1067,3 +1079,9 @@ msgstr "dikemas"
 
 msgid "protection"
 msgstr "proteksi"
+
+
+
+
+
+

@@ -27,9 +27,6 @@ msgstr "Hakkında"
 msgid "Action"
 msgstr "Eylem"
 
-msgid "Actions"
-msgstr "Hareketler"
-
 msgid "Add alignment"
 msgstr "Hizalama ekle"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "İşlemci"
 
@@ -149,6 +152,9 @@ msgstr "PDB'den veri yüklenemiyor"
 
 msgid "Cannot load database"
 msgstr "veritabanı yüklenemiyor"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Dosya yüklenemiyor"
@@ -213,9 +219,6 @@ msgstr "Çevirici"
 msgid "Copy"
 msgstr "Kapyala"
 
-msgid "Copy address"
-msgstr "Adres kopyala"
-
 msgid "Copy as"
 msgstr "Farklı kopyala"
 
@@ -227,18 +230,6 @@ msgstr "İmleç adresini kopyala"
 
 msgid "Copy cursor offset"
 msgstr "İmleç ofsetini kopyala"
-
-msgid "Copy name"
-msgstr "Adı kopyala"
-
-msgid "Copy offset"
-msgstr "Ofset kopyala"
-
-msgid "Copy signature"
-msgstr "İmzayı kopyala"
-
-msgid "Copy size"
-msgstr "Boyut kopyala"
 
 msgid "Count"
 msgstr "Say"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Cihaz tara"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "dizin"
@@ -441,6 +435,9 @@ msgstr "Giriş noktasına git"
 msgid "Go to offset"
 msgstr "Ofset'e git"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Grup"
 
@@ -515,6 +512,12 @@ msgstr "Ekleyici"
 
 msgid "Jumps"
 msgstr "Sıçrama"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Etiket"
@@ -699,6 +702,9 @@ msgstr "Sadece okuma"
 msgid "Rebase"
 msgstr "yeniden temellendir"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Tekrarlanan"
 
@@ -767,6 +773,9 @@ msgstr "Dump kaydet"
 
 msgid "Save file"
 msgstr "Dosya kaydet"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Son klasöre kaydet"
@@ -1008,6 +1017,9 @@ msgstr "Bilinmeyen"
 msgid "Upper"
 msgstr "Üst"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Değer"
 
@@ -1067,3 +1079,9 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
+
+
+
+
+
+

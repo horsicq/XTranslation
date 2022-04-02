@@ -27,9 +27,6 @@ msgstr "אודות"
 msgid "Action"
 msgstr "פעולה"
 
-msgid "Actions"
-msgstr "פעולות"
-
 msgid "Add alignment"
 msgstr "הוסף יישור"
 
@@ -120,6 +117,12 @@ msgstr "בית"
 msgid "Bytes"
 msgstr "בתים"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "מעבד"
 
@@ -149,6 +152,9 @@ msgstr "לא ניתן לטעון נתונים מ- PDB"
 
 msgid "Cannot load database"
 msgstr "לא ניתן לטעון את מסד הנתונים"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "לא ניתן לטעון קובץ"
@@ -213,9 +219,6 @@ msgstr "ממיר"
 msgid "Copy"
 msgstr "העתק"
 
-msgid "Copy address"
-msgstr "העתק כתובת"
-
 msgid "Copy as"
 msgstr "העתק בשם"
 
@@ -227,18 +230,6 @@ msgstr "העתק את כתובת הסמן"
 
 msgid "Copy cursor offset"
 msgstr "קיזוז סמן העתק"
-
-msgid "Copy name"
-msgstr "העתק שם"
-
-msgid "Copy offset"
-msgstr "העתק היסט כתובת "
-
-msgid "Copy signature"
-msgstr "העתק חתימה"
-
-msgid "Copy size"
-msgstr "העתק גודל"
 
 msgid "Count"
 msgstr "ספירה"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "סריקת התקן"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "מַדרִיך"
@@ -441,6 +435,9 @@ msgstr "עבור לנקודת הכניסה"
 msgid "Go to offset"
 msgstr "עבור לקיזוז"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "קְבוּצָה"
 
@@ -515,6 +512,12 @@ msgstr "מצמד"
 
 msgid "Jumps"
 msgstr "קפיצות"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "תווית"
@@ -699,6 +702,9 @@ msgstr "לקריאה בלבד"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "רקורסיבי"
 
@@ -767,6 +773,9 @@ msgstr "שמור מצב"
 
 msgid "Save file"
 msgstr "שמור קובץ"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "שמור תיקייה אחרונה"
@@ -1008,6 +1017,9 @@ msgstr "לא ידוע"
 msgid "Upper"
 msgstr "עליון"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "ערך"
 
@@ -1067,3 +1079,9 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
+
+
+
+
+
+

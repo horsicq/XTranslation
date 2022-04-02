@@ -28,9 +28,6 @@ msgstr "Про програму"
 msgid "Action"
 msgstr "Дія"
 
-msgid "Actions"
-msgstr "Дії"
-
 msgid "Add alignment"
 msgstr "Додати вирівнювання"
 
@@ -121,6 +118,12 @@ msgstr "Байт"
 msgid "Bytes"
 msgstr "Байти"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "Процесор"
 
@@ -150,6 +153,9 @@ msgstr "Не вдається завантажити дані із PDB"
 
 msgid "Cannot load database"
 msgstr "Не вдається завантажити базу даних"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Неможливо завантажити файл"
@@ -214,9 +220,6 @@ msgstr "Конвертор"
 msgid "Copy"
 msgstr "Копіювати"
 
-msgid "Copy address"
-msgstr "Копіювати адресу"
-
 msgid "Copy as"
 msgstr "Копіювати як"
 
@@ -228,18 +231,6 @@ msgstr "Копіювати поточну адресу"
 
 msgid "Copy cursor offset"
 msgstr "Копіювати поточне зміщення"
-
-msgid "Copy name"
-msgstr "Копіювати ім'я"
-
-msgid "Copy offset"
-msgstr "Копіювати зміщення"
-
-msgid "Copy signature"
-msgstr "Копіювати сігнатуру"
-
-msgid "Copy size"
-msgstr "Копіювати розмір"
 
 msgid "Count"
 msgstr "Кількість"
@@ -297,6 +288,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Сканувати пристрій"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Каталог"
@@ -442,6 +436,9 @@ msgstr "Перейти на точку входу"
 msgid "Go to offset"
 msgstr "Перейти по зміщенню"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Група"
 
@@ -516,6 +513,12 @@ msgstr "Джойнер"
 
 msgid "Jumps"
 msgstr "Переходи"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Мітка"
@@ -700,6 +703,9 @@ msgstr "Лише читання"
 msgid "Rebase"
 msgstr "Перебазувати"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Рекурсивно"
 
@@ -768,6 +774,9 @@ msgstr "Зберегти дамп"
 
 msgid "Save file"
 msgstr "Зберегти файл"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Зберегти місце останнього сканування"
@@ -1009,6 +1018,9 @@ msgstr "Невідомо"
 msgid "Upper"
 msgstr "Верхній регістр"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Значення"
 
@@ -1068,3 +1080,9 @@ msgstr "пакований"
 
 msgid "protection"
 msgstr "захист"
+
+
+
+
+
+

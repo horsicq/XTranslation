@@ -28,9 +28,6 @@ msgstr "О программе"
 msgid "Action"
 msgstr "Действие"
 
-msgid "Actions"
-msgstr "Действия"
-
 msgid "Add alignment"
 msgstr "Добавить выравнивание"
 
@@ -121,6 +118,12 @@ msgstr "Байт"
 msgid "Bytes"
 msgstr "Байты"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "Процессор"
 
@@ -150,6 +153,9 @@ msgstr "Не удается загрузить данные из PDB"
 
 msgid "Cannot load database"
 msgstr "Не удается загрузить базу данных"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
@@ -214,9 +220,6 @@ msgstr "Конвертер"
 msgid "Copy"
 msgstr "Копировать"
 
-msgid "Copy address"
-msgstr "Копировать адрес"
-
 msgid "Copy as"
 msgstr "Копировать как"
 
@@ -228,18 +231,6 @@ msgstr "Копировать текущий адрес"
 
 msgid "Copy cursor offset"
 msgstr "Копировать текущее смещение"
-
-msgid "Copy name"
-msgstr "Копировать имя"
-
-msgid "Copy offset"
-msgstr "Копировать смещение"
-
-msgid "Copy signature"
-msgstr "Копировать сигнатуру"
-
-msgid "Copy size"
-msgstr "Сопировать размер"
 
 msgid "Count"
 msgstr "Число"
@@ -297,6 +288,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Сканирование устройства"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Каталог"
@@ -442,6 +436,9 @@ msgstr "Перейти на точку входа"
 msgid "Go to offset"
 msgstr "Перейти по смещению"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Группа"
 
@@ -516,6 +513,12 @@ msgstr "Джойнер"
 
 msgid "Jumps"
 msgstr "Переходы"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Метка"
@@ -700,6 +703,9 @@ msgstr "Только чтение"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Рекурсивно"
 
@@ -768,6 +774,9 @@ msgstr "Сохранить дамп"
 
 msgid "Save file"
 msgstr "Сохранить файл"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Сохранить место последнего сканирования"
@@ -1009,6 +1018,9 @@ msgstr "Неизвестно"
 msgid "Upper"
 msgstr "Верхний регистр"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Значение"
 
@@ -1068,3 +1080,9 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
+
+
+
+
+
+

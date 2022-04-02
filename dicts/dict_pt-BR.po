@@ -27,9 +27,6 @@ msgstr "Sobre"
 msgid "Action"
 msgstr "Açao"
 
-msgid "Actions"
-msgstr "Ações"
-
 msgid "Add alignment"
 msgstr "Adicionar alinhamento"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "Não é possível carregar dados do PDB"
 
 msgid "Cannot load database"
 msgstr "Não é possível carregar o banco de dados"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Não foi possível carregar o arquivo"
@@ -213,9 +219,6 @@ msgstr "Conversor"
 msgid "Copy"
 msgstr "Copiar"
 
-msgid "Copy address"
-msgstr "Copiar endereço"
-
 msgid "Copy as"
 msgstr "Copiar como"
 
@@ -227,18 +230,6 @@ msgstr "Copiar endereço do cursor"
 
 msgid "Copy cursor offset"
 msgstr "Copiar deslocamento do cursor"
-
-msgid "Copy name"
-msgstr "Copiar o nome"
-
-msgid "Copy offset"
-msgstr "Copiar deslocamento"
-
-msgid "Copy signature"
-msgstr "Copiar assinatura"
-
-msgid "Copy size"
-msgstr "Tamanho da cópia"
 
 msgid "Count"
 msgstr "Contagem"
@@ -296,6 +287,9 @@ msgstr "Dispositivo"
 
 msgid "Device scan"
 msgstr "Varredura de dispositivo"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Diretório"
@@ -441,6 +435,9 @@ msgstr "Vá para o ponto de entrada"
 msgid "Go to offset"
 msgstr "Vá para o deslocamento"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Grupo"
 
@@ -515,6 +512,12 @@ msgstr "Marceneiro"
 
 msgid "Jumps"
 msgstr "Saltos"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Rótulo"
@@ -699,6 +702,9 @@ msgstr "Somente leitura"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Recursivo"
 
@@ -767,6 +773,9 @@ msgstr "Salvar despejo"
 
 msgid "Save file"
 msgstr "Salvar arquivo"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Salvar último diretório"
@@ -1008,6 +1017,9 @@ msgstr "Desconhecido"
 msgid "Upper"
 msgstr "Upper"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Valor"
 
@@ -1067,3 +1079,9 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "proteção"
+
+
+
+
+
+

@@ -27,9 +27,6 @@ msgstr "Acerca de"
 msgid "Action"
 msgstr "Acción"
 
-msgid "Actions"
-msgstr "Acciones"
-
 msgid "Add alignment"
 msgstr "Añadir alineación"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "No se pueden cargar datos del PDB"
 
 msgid "Cannot load database"
 msgstr "No se puede cargar la base de datos"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "No se puede cargar el archivo"
@@ -213,9 +219,6 @@ msgstr "Conversor"
 msgid "Copy"
 msgstr "Copiar"
 
-msgid "Copy address"
-msgstr "Copiar dirección"
-
 msgid "Copy as"
 msgstr "Copiar como"
 
@@ -227,18 +230,6 @@ msgstr "Copiar dirección del cursor"
 
 msgid "Copy cursor offset"
 msgstr "Copiar desplazamiento del cursor"
-
-msgid "Copy name"
-msgstr "Copiar nombre"
-
-msgid "Copy offset"
-msgstr "Copiar desplazamiento"
-
-msgid "Copy signature"
-msgstr "Copiar firma"
-
-msgid "Copy size"
-msgstr "Copiar tamaño"
 
 msgid "Count"
 msgstr "Contar"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Escanear dispositivos"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Directorio"
@@ -441,6 +435,9 @@ msgstr "Ir al punto de entrada"
 msgid "Go to offset"
 msgstr "Ir al desplazamiento"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Grupo"
 
@@ -515,6 +512,12 @@ msgstr "Joiner"
 
 msgid "Jumps"
 msgstr "Saltos"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Etiqueta"
@@ -699,6 +702,9 @@ msgstr "Solo lectura"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Recursivo"
 
@@ -767,6 +773,9 @@ msgstr "Guardar volcado"
 
 msgid "Save file"
 msgstr "Guardar archivo"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Guardar último directorio"
@@ -1008,6 +1017,9 @@ msgstr "Desconocido"
 msgid "Upper"
 msgstr "Superior"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Valor"
 
@@ -1067,3 +1079,9 @@ msgstr "empaquetado"
 
 msgid "protection"
 msgstr "protección"
+
+
+
+
+
+

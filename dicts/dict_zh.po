@@ -27,9 +27,6 @@ msgstr "关于"
 msgid "Action"
 msgstr "处理"
 
-msgid "Actions"
-msgstr "行动"
-
 msgid "Add alignment"
 msgstr "添加对齐"
 
@@ -120,6 +117,12 @@ msgstr "字节"
 msgid "Bytes"
 msgstr "字节数"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "中央处理器"
 
@@ -149,6 +152,9 @@ msgstr "无法从 PDB 加载数据"
 
 msgid "Cannot load database"
 msgstr "无法加载数据库"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "无法加载文件"
@@ -213,9 +219,6 @@ msgstr "转换器"
 msgid "Copy"
 msgstr "复制"
 
-msgid "Copy address"
-msgstr "复制地址"
-
 msgid "Copy as"
 msgstr "复制为"
 
@@ -227,18 +230,6 @@ msgstr "复制光标地址"
 
 msgid "Copy cursor offset"
 msgstr "复制光标偏移"
-
-msgid "Copy name"
-msgstr "复制名称"
-
-msgid "Copy offset"
-msgstr "复制偏移"
-
-msgid "Copy signature"
-msgstr "复制签名"
-
-msgid "Copy size"
-msgstr "复制大小"
 
 msgid "Count"
 msgstr "计数"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "设备扫描"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "目录"
@@ -441,6 +435,9 @@ msgstr "转到入口点"
 msgid "Go to offset"
 msgstr "转到偏移"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "组"
 
@@ -515,6 +512,12 @@ msgstr "合并工具"
 
 msgid "Jumps"
 msgstr "跳过"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "标签"
@@ -699,6 +702,9 @@ msgstr "只读"
 msgid "Rebase"
 msgstr "变基"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "递归"
 
@@ -767,6 +773,9 @@ msgstr "保存转储"
 
 msgid "Save file"
 msgstr "保存文件"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "保存到上次目录"
@@ -1008,6 +1017,9 @@ msgstr "未知"
 msgid "Upper"
 msgstr "顶部"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "值"
 
@@ -1067,3 +1079,9 @@ msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
+
+
+
+
+
+

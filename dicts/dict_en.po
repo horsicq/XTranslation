@@ -27,9 +27,6 @@ msgstr ""
 msgid "Action"
 msgstr ""
 
-msgid "Actions"
-msgstr ""
-
 msgid "Add alignment"
 msgstr ""
 
@@ -120,6 +117,12 @@ msgstr ""
 msgid "Bytes"
 msgstr ""
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr ""
 
@@ -148,6 +151,9 @@ msgid "Cannot load data from PDB"
 msgstr ""
 
 msgid "Cannot load database"
+msgstr ""
+
+msgid "Cannot load driver"
 msgstr ""
 
 msgid "Cannot load file"
@@ -213,9 +219,6 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-msgid "Copy address"
-msgstr ""
-
 msgid "Copy as"
 msgstr ""
 
@@ -226,18 +229,6 @@ msgid "Copy cursor address"
 msgstr ""
 
 msgid "Copy cursor offset"
-msgstr ""
-
-msgid "Copy name"
-msgstr ""
-
-msgid "Copy offset"
-msgstr ""
-
-msgid "Copy signature"
-msgstr ""
-
-msgid "Copy size"
 msgstr ""
 
 msgid "Count"
@@ -295,6 +286,9 @@ msgid "Device"
 msgstr ""
 
 msgid "Device scan"
+msgstr ""
+
+msgid "Diagram"
 msgstr ""
 
 msgid "Directory"
@@ -441,6 +435,9 @@ msgstr ""
 msgid "Go to offset"
 msgstr ""
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr ""
 
@@ -514,6 +511,12 @@ msgid "Joiner"
 msgstr ""
 
 msgid "Jumps"
+msgstr ""
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
 msgstr ""
 
 msgid "Label"
@@ -699,6 +702,9 @@ msgstr ""
 msgid "Rebase"
 msgstr ""
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr ""
 
@@ -766,6 +772,9 @@ msgid "Save dump"
 msgstr ""
 
 msgid "Save file"
+msgstr ""
+
+msgid "Save history"
 msgstr ""
 
 msgid "Save last directory"
@@ -1006,6 +1015,9 @@ msgid "Unknown"
 msgstr ""
 
 msgid "Upper"
+msgstr ""
+
+msgid "User mode"
 msgstr ""
 
 msgid "Value"

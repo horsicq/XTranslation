@@ -27,9 +27,6 @@ msgstr "Giới thiệu"
 msgid "Action"
 msgstr "Hoạt động"
 
-msgid "Actions"
-msgstr "Hành động"
-
 msgid "Add alignment"
 msgstr "Thêm căn chỉnh"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "Không thể tải dữ liệu từ PDB"
 
 msgid "Cannot load database"
 msgstr "Không thể tải cơ sở dữ liệu"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Không thể tải tệp"
@@ -213,9 +219,6 @@ msgstr "Bộ chuyển đổi"
 msgid "Copy"
 msgstr "Sao chép"
 
-msgid "Copy address"
-msgstr "Sao chép địa chỉ"
-
 msgid "Copy as"
 msgstr "Sao chép dưới dạng"
 
@@ -227,18 +230,6 @@ msgstr "Sao chép địa chỉ con trỏ"
 
 msgid "Copy cursor offset"
 msgstr "Sao chép bù đắp con trỏ"
-
-msgid "Copy name"
-msgstr "Sao chép tên"
-
-msgid "Copy offset"
-msgstr "Sao chép độ lệch"
-
-msgid "Copy signature"
-msgstr "Sao chép chữ ký"
-
-msgid "Copy size"
-msgstr "Sao chép kích thước"
 
 msgid "Count"
 msgstr "Đếm"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Quét thiết bị"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Danh mục"
@@ -441,6 +435,9 @@ msgstr "Đi đến điểm nhập cảnh"
 msgid "Go to offset"
 msgstr "Đi đến bù đắp"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Tập đoàn"
 
@@ -515,6 +512,12 @@ msgstr "Trình kết hợp"
 
 msgid "Jumps"
 msgstr "Nhảy"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Nhãn"
@@ -699,6 +702,9 @@ msgstr "Chỉ đọc"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Đệ quy"
 
@@ -767,6 +773,9 @@ msgstr "Lưu kết xuất"
 
 msgid "Save file"
 msgstr "Lưu tập tin"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Lưu thư mục cuối cùng"
@@ -1008,6 +1017,9 @@ msgstr "không xác định"
 msgid "Upper"
 msgstr "Trên"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Giá trị"
 
@@ -1067,3 +1079,9 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
+
+
+
+
+
+

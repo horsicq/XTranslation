@@ -27,9 +27,6 @@ msgstr "Info"
 msgid "Action"
 msgstr "Azione"
 
-msgid "Actions"
-msgstr "Azioni"
-
 msgid "Add alignment"
 msgstr "Aggiungi allineamento"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "processore"
 
@@ -149,6 +152,9 @@ msgstr "Impossibile caricare i dati da PDB"
 
 msgid "Cannot load database"
 msgstr "Impossibile caricare il database"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Impossibile caricare il file"
@@ -213,9 +219,6 @@ msgstr "Convertitore"
 msgid "Copy"
 msgstr "Copia"
 
-msgid "Copy address"
-msgstr "Copia indirizzo"
-
 msgid "Copy as"
 msgstr "Copia come"
 
@@ -227,18 +230,6 @@ msgstr "Copia indirizzo cursore"
 
 msgid "Copy cursor offset"
 msgstr "Copia offset cursore"
-
-msgid "Copy name"
-msgstr "Copia nome"
-
-msgid "Copy offset"
-msgstr "Copia offset"
-
-msgid "Copy signature"
-msgstr "Copia firma"
-
-msgid "Copy size"
-msgstr "Copia dimensione"
 
 msgid "Count"
 msgstr "Conteggio"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Scansione dispositivo"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Cartella"
@@ -441,6 +435,9 @@ msgstr "Vai all'entry point"
 msgid "Go to offset"
 msgstr "Via all'offset"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Gruppo"
 
@@ -515,6 +512,12 @@ msgstr "Assemblatore"
 
 msgid "Jumps"
 msgstr "Salti"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Etichetta"
@@ -699,6 +702,9 @@ msgstr "Sola lettura"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Ricorsivo"
 
@@ -767,6 +773,9 @@ msgstr "Salva dump"
 
 msgid "Save file"
 msgstr "Salva file"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Salva le cartelle recenti"
@@ -1008,6 +1017,9 @@ msgstr "Sconosciuto"
 msgid "Upper"
 msgstr "Superiore"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Valori"
 
@@ -1067,3 +1079,9 @@ msgstr "imballato"
 
 msgid "protection"
 msgstr "Protezione"
+
+
+
+
+
+

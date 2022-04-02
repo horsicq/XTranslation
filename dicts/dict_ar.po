@@ -28,9 +28,6 @@ msgstr "عن"
 msgid "Action"
 msgstr "عمل"
 
-msgid "Actions"
-msgstr "أجراءات"
-
 msgid "Add alignment"
 msgstr "أضف المحاذاة"
 
@@ -121,6 +118,12 @@ msgstr "بايت"
 msgid "Bytes"
 msgstr "بايت"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "وحدة المعالجة المركزية"
 
@@ -150,6 +153,9 @@ msgstr "لا يمكن تحميل البيانات من PDB"
 
 msgid "Cannot load database"
 msgstr "لا يمكن تحميل قاعدة البيانات"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
@@ -214,9 +220,6 @@ msgstr "محول"
 msgid "Copy"
 msgstr "ينسخ"
 
-msgid "Copy address"
-msgstr "نسخ العنوان"
-
 msgid "Copy as"
 msgstr "نسخ بتنسيق"
 
@@ -228,18 +231,6 @@ msgstr "نسخ عنوان المؤشر"
 
 msgid "Copy cursor offset"
 msgstr "نسخ إزاحة المؤشر"
-
-msgid "Copy name"
-msgstr "نسخ الاسم"
-
-msgid "Copy offset"
-msgstr "نسخة الإزاحة"
-
-msgid "Copy signature"
-msgstr "نسخة التوقيع"
-
-msgid "Copy size"
-msgstr "حجم النسخ"
 
 msgid "Count"
 msgstr "عدد"
@@ -297,6 +288,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "فحص الجهاز"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "الدليل"
@@ -442,6 +436,9 @@ msgstr "اذهب إلى نقطة الدخول"
 msgid "Go to offset"
 msgstr "انتقل إلى الإزاحة"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "مجموعة"
 
@@ -516,6 +513,12 @@ msgstr "نجار"
 
 msgid "Jumps"
 msgstr "يقفز"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "ملصق"
@@ -700,6 +703,9 @@ msgstr "يقرأ فقط"
 msgid "Rebase"
 msgstr "ريباس"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "العودية"
 
@@ -768,6 +774,9 @@ msgstr "حفظ التفريغ"
 
 msgid "Save file"
 msgstr "احفظ الملف"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "حفظ الدليل الأخير"
@@ -1009,6 +1018,9 @@ msgstr "مجهول"
 msgid "Upper"
 msgstr "العلوي"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "قيمة"
 
@@ -1068,3 +1080,9 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
+
+
+
+
+
+

@@ -27,9 +27,6 @@ msgstr "Über"
 msgid "Action"
 msgstr "Aktion"
 
-msgid "Actions"
-msgstr "Aktionen"
-
 msgid "Add alignment"
 msgstr "Ausrichtung hinzufügen"
 
@@ -120,6 +117,12 @@ msgstr "Byte"
 msgid "Bytes"
 msgstr "Bytes"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "Daten aus PDB können nicht geladen werden"
 
 msgid "Cannot load database"
 msgstr "Datenbank kann nicht geladen werden"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Kann Datei nicht laden"
@@ -213,9 +219,6 @@ msgstr "Umwandler"
 msgid "Copy"
 msgstr "Kopieren"
 
-msgid "Copy address"
-msgstr "Adresse kopieren"
-
 msgid "Copy as"
 msgstr "Kopieren als"
 
@@ -227,18 +230,6 @@ msgstr "Dateiaddress kopieren"
 
 msgid "Copy cursor offset"
 msgstr "Dateioffset kopieren"
-
-msgid "Copy name"
-msgstr "Name kopieren"
-
-msgid "Copy offset"
-msgstr "Offset kopieren"
-
-msgid "Copy signature"
-msgstr "Signatur kopieren"
-
-msgid "Copy size"
-msgstr "Größe kopieren"
 
 msgid "Count"
 msgstr "Zählen"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Gerät scannen"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Verzeichnis"
@@ -441,6 +435,9 @@ msgstr "Gehe zum Einstiegspunkt"
 msgid "Go to offset"
 msgstr "Gehe zu Offset"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Gruppe"
 
@@ -515,6 +512,12 @@ msgstr "Verbinder"
 
 msgid "Jumps"
 msgstr "Sprünge"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Label"
@@ -699,6 +702,9 @@ msgstr "Nur lesen"
 msgid "Rebase"
 msgstr "Rebase"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Rekursiv"
 
@@ -767,6 +773,9 @@ msgstr "Abbild speichern"
 
 msgid "Save file"
 msgstr "Datei speichern"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Letzte Ordner speichern"
@@ -1008,6 +1017,9 @@ msgstr "Unbekannt"
 msgid "Upper"
 msgstr "Gross"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Wert"
 
@@ -1067,3 +1079,9 @@ msgstr "Gepackt"
 
 msgid "protection"
 msgstr "Schutz"
+
+
+
+
+
+

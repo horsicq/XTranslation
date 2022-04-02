@@ -28,9 +28,6 @@ msgstr "O programie"
 msgid "Action"
 msgstr "Akcja"
 
-msgid "Actions"
-msgstr "działania"
-
 msgid "Add alignment"
 msgstr "Dodaj wyrównanie"
 
@@ -121,6 +118,12 @@ msgstr "Bajt"
 msgid "Bytes"
 msgstr "Bajty"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "procesor"
 
@@ -150,6 +153,9 @@ msgstr "Nie można załadować danych z PDB"
 
 msgid "Cannot load database"
 msgstr "Nie można załadować bazy danych"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "Nie można załadować pliku"
@@ -214,9 +220,6 @@ msgstr "Przetwornik"
 msgid "Copy"
 msgstr "Kopiuj"
 
-msgid "Copy address"
-msgstr "Skopiuj adres"
-
 msgid "Copy as"
 msgstr "Kopiuj jako"
 
@@ -228,18 +231,6 @@ msgstr "Skopiuj adres kursora"
 
 msgid "Copy cursor offset"
 msgstr "Skopiuj przesunięcie kursora"
-
-msgid "Copy name"
-msgstr "Skopiuj nazwę"
-
-msgid "Copy offset"
-msgstr "Kopiuj przesunięcie"
-
-msgid "Copy signature"
-msgstr "Kopiuj podpis"
-
-msgid "Copy size"
-msgstr "Rozmiar kopii"
 
 msgid "Count"
 msgstr "Ilość"
@@ -297,6 +288,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "Skanowanie urządzenia"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "Informator"
@@ -442,6 +436,9 @@ msgstr "Idź do punktu wejścia"
 msgid "Go to offset"
 msgstr "Przejdź do przesunięcia"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "Grupa"
 
@@ -516,6 +513,12 @@ msgstr "Stolarz"
 
 msgid "Jumps"
 msgstr "Skoki"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "Etykieta"
@@ -700,6 +703,9 @@ msgstr "Tylko czytać"
 msgid "Rebase"
 msgstr "Zmień bazę"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "Rekursywny"
 
@@ -768,6 +774,9 @@ msgstr "Zapisz zrzut"
 
 msgid "Save file"
 msgstr "Zapisz plik"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "Zapamiętaj ostatni katalog"
@@ -1009,6 +1018,9 @@ msgstr "Nieznany"
 msgid "Upper"
 msgstr "Wielkie litery"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "Wartość"
 
@@ -1068,3 +1080,9 @@ msgstr "upakowany"
 
 msgid "protection"
 msgstr "ochrona"
+
+
+
+
+
+

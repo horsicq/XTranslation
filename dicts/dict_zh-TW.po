@@ -27,9 +27,6 @@ msgstr "關於"
 msgid "Action"
 msgstr "行動"
 
-msgid "Actions"
-msgstr "行動"
-
 msgid "Add alignment"
 msgstr "添加對齊"
 
@@ -120,6 +117,12 @@ msgstr "位元組"
 msgid "Bytes"
 msgstr "位元組"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "中央處理器"
 
@@ -149,6 +152,9 @@ msgstr "無法從 PDB 加載數據"
 
 msgid "Cannot load database"
 msgstr "無法加載數據庫"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "無法加載文件"
@@ -213,9 +219,6 @@ msgstr "轉換器"
 msgid "Copy"
 msgstr "複製"
 
-msgid "Copy address"
-msgstr "複製位址"
-
 msgid "Copy as"
 msgstr "複製為"
 
@@ -227,18 +230,6 @@ msgstr "複印光標進制"
 
 msgid "Copy cursor offset"
 msgstr "複印光標偏移"
-
-msgid "Copy name"
-msgstr "複印名字"
-
-msgid "Copy offset"
-msgstr "複印偏移"
-
-msgid "Copy signature"
-msgstr "複印簽名"
-
-msgid "Copy size"
-msgstr "複印大小"
 
 msgid "Count"
 msgstr "數量"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "裝置掃描"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "目錄"
@@ -441,6 +435,9 @@ msgstr "轉到入口點"
 msgid "Go to offset"
 msgstr "轉到偏移"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "組"
 
@@ -515,6 +512,12 @@ msgstr "合併工具"
 
 msgid "Jumps"
 msgstr "跳數"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "標簽"
@@ -699,6 +702,9 @@ msgstr "唯讀"
 msgid "Rebase"
 msgstr "變基"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "遞迴"
 
@@ -767,6 +773,9 @@ msgstr "保存轉存"
 
 msgid "Save file"
 msgstr "保存檔案"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "保存最後一個路徑"
@@ -1008,6 +1017,9 @@ msgstr "未知"
 msgid "Upper"
 msgstr "大寫"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "值"
 
@@ -1067,3 +1079,9 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+
+
+

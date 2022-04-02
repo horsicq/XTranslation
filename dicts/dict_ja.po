@@ -27,9 +27,6 @@ msgstr "情報"
 msgid "Action"
 msgstr "動作"
 
-msgid "Actions"
-msgstr "行動"
-
 msgid "Add alignment"
 msgstr "配置を追加"
 
@@ -120,6 +117,12 @@ msgstr "バイト"
 msgid "Bytes"
 msgstr "バイト"
 
+msgid "Bytes available"
+msgstr ""
+
+msgid "C Strings"
+msgstr ""
+
 msgid "CPU"
 msgstr "CPU"
 
@@ -149,6 +152,9 @@ msgstr "PDBからデータを読み込めません"
 
 msgid "Cannot load database"
 msgstr "データベースを読み込めません"
+
+msgid "Cannot load driver"
+msgstr ""
 
 msgid "Cannot load file"
 msgstr "ファイルを読み込めません"
@@ -213,9 +219,6 @@ msgstr "コンバータ"
 msgid "Copy"
 msgstr "コピー"
 
-msgid "Copy address"
-msgstr "アドレスに移動"
-
 msgid "Copy as"
 msgstr "としてコピー"
 
@@ -227,18 +230,6 @@ msgstr "アドレスに移動"
 
 msgid "Copy cursor offset"
 msgstr "カーソルオフセットのコピー"
-
-msgid "Copy name"
-msgstr "コピー"
-
-msgid "Copy offset"
-msgstr "オフセット値"
-
-msgid "Copy signature"
-msgstr "署名"
-
-msgid "Copy size"
-msgstr "コピー"
 
 msgid "Count"
 msgstr "個数"
@@ -296,6 +287,9 @@ msgstr ""
 
 msgid "Device scan"
 msgstr "デバイスのスキャン"
+
+msgid "Diagram"
+msgstr ""
 
 msgid "Directory"
 msgstr "ディレクトリ"
@@ -441,6 +435,9 @@ msgstr "エントリ ポイントに移動"
 msgid "Go to offset"
 msgstr "オフセット値"
 
+msgid "Grid"
+msgstr ""
+
 msgid "Group"
 msgstr "グループ"
 
@@ -515,6 +512,12 @@ msgstr "ジョイナ"
 
 msgid "Jumps"
 msgstr "ジャンプ"
+
+msgid "Keep size"
+msgstr ""
+
+msgid "Kernel mode"
+msgstr ""
 
 msgid "Label"
 msgstr "ラベル"
@@ -699,6 +702,9 @@ msgstr "読み取り専用"
 msgid "Rebase"
 msgstr "リベース"
 
+msgid "Recent files"
+msgstr ""
+
 msgid "Recursive"
 msgstr "再帰的"
 
@@ -767,6 +773,9 @@ msgstr "グラフを保存"
 
 msgid "Save file"
 msgstr "保存"
+
+msgid "Save history"
+msgstr ""
 
 msgid "Save last directory"
 msgstr "最後に使用したディレクトリを保持"
@@ -1008,6 +1017,9 @@ msgstr "不明"
 msgid "Upper"
 msgstr "大文字"
 
+msgid "User mode"
+msgstr ""
+
 msgid "Value"
 msgstr "値"
 
@@ -1067,3 +1079,9 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+
+
+
