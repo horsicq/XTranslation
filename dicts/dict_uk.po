@@ -80,7 +80,7 @@ msgid "Attach"
 msgstr "Прикріпити"
 
 msgid "Automatic"
-msgstr "Автоматичний"
+msgstr "Автоматично"
 
 msgid "Background"
 msgstr ""
@@ -98,7 +98,7 @@ msgid "Binding"
 msgstr "Прив'язка"
 
 msgid "Boot application"
-msgstr "Загрузочна програма"
+msgstr "Завантажувальна програма"
 
 msgid "Boot service driver"
 msgstr "Драйвер служби завантаження"
@@ -119,7 +119,7 @@ msgid "Bytes"
 msgstr "Байти"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "Доступні байти"
 
 msgid "C Strings"
 msgstr ""
@@ -149,13 +149,13 @@ msgid "Cannot get PDB name"
 msgstr "Не вдається отримати ім'я PDB"
 
 msgid "Cannot load data from PDB"
-msgstr "Не вдається завантажити дані із PDB"
+msgstr "Не вдається завантажити дані з PDB"
 
 msgid "Cannot load database"
 msgstr "Не вдається завантажити базу даних"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "Не вдається завантажити драйвер"
 
 msgid "Cannot load file"
 msgstr "Неможливо завантажити файл"
@@ -206,7 +206,7 @@ msgid "Commands"
 msgstr "Команди"
 
 msgid "Comment"
-msgstr "Коментарій"
+msgstr "Коментар"
 
 msgid "Compiler"
 msgstr "Компілятор"
@@ -248,7 +248,7 @@ msgid "Data"
 msgstr "Дані"
 
 msgid "Data as hex"
-msgstr ""
+msgstr "Дані як hex"
 
 msgid "Data in code"
 msgstr "Дані в коді"
@@ -257,19 +257,19 @@ msgid "Database"
 msgstr "База даних"
 
 msgid "Debug"
-msgstr "Відладка"
+msgstr "Відлагодження"
 
 msgid "Debug data"
-msgstr "Відладочна інформація"
+msgstr "Відлагоджувальна інформація"
 
 msgid "Debugger"
-msgstr "Відладчик"
+msgstr "Відлагоджувач"
 
 msgid "Deep scan"
 msgstr "Глибокий аналіз"
 
 msgid "Default"
-msgstr "По замовчуванню"
+msgstr "За замовчуванням"
 
 msgid "Delay import"
 msgstr "Відкладений імпорт"
@@ -290,7 +290,7 @@ msgid "Device scan"
 msgstr "Сканувати пристрій"
 
 msgid "Diagram"
-msgstr ""
+msgstr "Діаграма"
 
 msgid "Directory"
 msgstr "Каталог"
@@ -308,7 +308,7 @@ msgid "Documents"
 msgstr "Документи"
 
 msgid "Donate"
-msgstr "Донат"
+msgstr "Пожертвування"
 
 msgid "Driver"
 msgstr "Драйвер"
@@ -317,7 +317,7 @@ msgid "Dump"
 msgstr "Дамп"
 
 msgid "Dump to file"
-msgstr "Дамп у файл"
+msgstr "Здампити до файлу"
 
 msgid "Edit"
 msgstr "Редагувати"
@@ -344,7 +344,7 @@ msgid "Exceptions"
 msgstr "Виключення"
 
 msgid "Exit"
-msgstr "Вихід"
+msgstr "Вийти"
 
 msgid "Export"
 msgstr "Експорт"
@@ -353,7 +353,7 @@ msgid "Export File Name"
 msgstr "Назва файлу експорту"
 
 msgid "Export type"
-msgstr "Тип экспорту"
+msgstr "Тип експорту"
 
 msgid "External references"
 msgstr "Зовнішні посилання"
@@ -362,7 +362,7 @@ msgid "File"
 msgstr "Файл"
 
 msgid "File info"
-msgstr ""
+msgstr "Інформація про файл"
 
 msgid "File name"
 msgstr "Ім'я файлу"
@@ -395,10 +395,10 @@ msgid "Find next"
 msgstr "Знайти далі"
 
 msgid "Fix offsets"
-msgstr "Фіксувати зміщення"
+msgstr "Зафіксувати зміщення"
 
 msgid "Fix types"
-msgstr "Фіксувати типи"
+msgstr "Зафіксувати типи"
 
 msgid "Flags"
 msgstr "Прапорці"
@@ -458,7 +458,7 @@ msgid "Heuristic"
 msgstr "Еврістика"
 
 msgid "Heuristic scan"
-msgstr "Еврістичне сканування"
+msgstr "Евристичне сканування"
 
 msgid "Hex"
 msgstr "Hex"
@@ -608,7 +608,7 @@ msgid "Nothing found"
 msgstr "Нічого не знайдено"
 
 msgid "OK"
-msgstr "добре"
+msgstr "Гаразд"
 
 msgid "Object"
 msgstr "Об'єкт"
@@ -626,7 +626,7 @@ msgid "Open"
 msgstr "Відкрити"
 
 msgid "Open directory"
-msgstr "Відкрити папку для сканування"
+msgstr "Відкрити каталог для сканування"
 
 msgid "Open file"
 msgstr "Відкрити файл"
@@ -650,10 +650,10 @@ msgid "Player"
 msgstr "Гравець"
 
 msgid "Please restart the application"
-msgstr "Прошу перезавантажити програму"
+msgstr "Будь ласка, перезавантажте програму"
 
 msgid "Please run the program as an administrator"
-msgstr "Прошу запустити програму від імені адміністратора"
+msgstr "Будь ласка, запустіть програму від імені адміністратора"
 
 msgid "Pointer"
 msgstr "Вказівник"
@@ -704,7 +704,7 @@ msgid "Rebase"
 msgstr "Перебазувати"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Недавні файли"
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -776,7 +776,7 @@ msgid "Save file"
 msgstr "Зберегти файл"
 
 msgid "Save history"
-msgstr ""
+msgstr "Зберегти історію"
 
 msgid "Save last directory"
 msgstr "Зберегти місце останнього сканування"
@@ -833,10 +833,10 @@ msgid "Serial number"
 msgstr "Серійний номер"
 
 msgid "Shortcut"
-msgstr "Комбінація кнопок"
+msgstr "Гаряча клавіша"
 
 msgid "Shortcuts"
-msgstr "Комбінації кнопок"
+msgstr "Гарячі клавіші"
 
 msgid "Show"
 msgstr "Показати"
@@ -911,13 +911,13 @@ msgid "Stop"
 msgstr "Стоп"
 
 msgid "String"
-msgstr "Стрічка"
+msgstr "Рядок"
 
 msgid "String table"
-msgstr "Таблиця стрічок"
+msgstr "Таблиця рядків"
 
 msgid "Strings"
-msgstr "Стрічки"
+msgstr "Рядки"
 
 msgid "Struct and unions"
 msgstr "Структури та об'єднання"
@@ -971,13 +971,13 @@ msgid "The file is not signed"
 msgstr "Файл не підписаний"
 
 msgid "The file is signed and the signature was verified"
-msgstr "Файл підписаний, підпис верифіковано"
+msgstr "Файл підписаний, підпис перевірений"
 
 msgid "The signature error"
 msgstr "Помилка підпису"
 
 msgid "The signature is present, but not trusted"
-msgstr "Підпис присутній, але не довірений"
+msgstr "Підпис присутній, але не перевірений"
 
 msgid "The signature is present, but specifically disallowed"
 msgstr "Підпис присутній, але спеціально заборонений"
@@ -989,7 +989,7 @@ msgid "Time"
 msgstr "Час"
 
 msgid "Time date stamp"
-msgstr "Відмітка дати й часу"
+msgstr "Часова відмітка"
 
 msgid "To data"
 msgstr "До даних"
@@ -1070,13 +1070,13 @@ msgid "msec"
 msgstr "мсек"
 
 msgid "not packed"
-msgstr "непакований"
+msgstr "незапакований"
 
 msgid "obfuscator"
 msgstr "обфускатор"
 
 msgid "packed"
-msgstr "пакований"
+msgstr "запакований"
 
 msgid "protection"
 msgstr "захист"
