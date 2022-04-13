@@ -71,13 +71,13 @@ msgid "Archive"
 msgstr "Архів"
 
 msgid "Archive record"
-msgstr "Архівний запис"
+msgstr "Архів запису"
 
 msgid "Array"
 msgstr "Масив"
 
 msgid "Attach"
-msgstr "Прикріпити"
+msgstr "Приєднати"
 
 msgid "Automatic"
 msgstr "Автоматично"
@@ -101,7 +101,7 @@ msgid "Boot application"
 msgstr "Завантажувальна програма"
 
 msgid "Boot service driver"
-msgstr "Драйвер служби завантаження"
+msgstr "Драйвер завантаження"
 
 msgid "Bound import"
 msgstr "Зв'язаний імпорт"
@@ -122,7 +122,7 @@ msgid "Bytes available"
 msgstr "Доступні байти"
 
 msgid "C Strings"
-msgstr ""
+msgstr "C рядки"
 
 msgid "CPU"
 msgstr "Процесор"
@@ -140,43 +140,43 @@ msgid "Calls"
 msgstr "Виклики"
 
 msgid "Cancel"
-msgstr "Відміна"
+msgstr "Скасувати"
 
 msgid "Cannot get PDB age"
-msgstr "Не вдається отримати вік PDB"
+msgstr "Не вдалося отримати вік PDB"
 
 msgid "Cannot get PDB name"
-msgstr "Не вдається отримати ім'я PDB"
+msgstr "Не вдалося отримати ім'я PDB"
 
 msgid "Cannot load data from PDB"
-msgstr "Не вдається завантажити дані з PDB"
+msgstr "Не вдалося завантажити дані з PDB"
 
 msgid "Cannot load database"
-msgstr "Не вдається завантажити базу даних"
+msgstr "Не вдалося завантажити базу даних"
 
 msgid "Cannot load driver"
-msgstr "Не вдається завантажити драйвер"
+msgstr "Не вдалося завантажити драйвер"
 
 msgid "Cannot load file"
-msgstr "Неможливо завантажити файл"
+msgstr "Не вдалося завантажити файл"
 
 msgid "Cannot load msdia library"
-msgstr "Не вдається завантажити бібліотеку msdia"
+msgstr "Не вдалося завантажити бібліотеку msdia"
 
 msgid "Cannot open file"
-msgstr "Неможливо відкрити файл"
+msgstr "Не вдалося відкрити файл"
 
 msgid "Cannot open session"
-msgstr "Неможливо відкрити сесію"
+msgstr "Не вдалося відкрити сесію"
 
 msgid "Cannot read memory at address"
-msgstr "Неможливо прочитать пам'ять по адресі"
+msgstr "Не вдалося прочитать пам'ять по адресі"
 
 msgid "Cannot save file"
-msgstr "Неможливо зберегти файл"
+msgstr "Не вдалося зберегти файл"
 
 msgid "Cannot set shortcut"
-msgstr "Неможливо створити посилання"
+msgstr "Не вдалося створити ярлик"
 
 msgid "Certificate"
 msgstr "Сертифікат"
@@ -200,7 +200,7 @@ msgid "Code section"
 msgstr "Секція коду"
 
 msgid "Colors"
-msgstr ""
+msgstr "Кольори"
 
 msgid "Commands"
 msgstr "Команди"
@@ -224,7 +224,7 @@ msgid "Copy as"
 msgstr "Копіювати як"
 
 msgid "Copy as hex"
-msgstr "Копіювати як 16-кове"
+msgstr "Копіювати як hex"
 
 msgid "Copy cursor address"
 msgstr "Копіювати поточну адресу"
@@ -266,16 +266,16 @@ msgid "Debugger"
 msgstr "Відлагоджувач"
 
 msgid "Deep scan"
-msgstr "Глибокий аналіз"
+msgstr "Глибоке сканування"
 
 msgid "Default"
 msgstr "За замовчуванням"
 
 msgid "Delay import"
-msgstr "Відкладений імпорт"
+msgstr "Відкласти імпорт"
 
 msgid "Demangle"
-msgstr "Деманглувати"
+msgstr ""
 
 msgid "Dependencies"
 msgstr "Залежності"
@@ -395,10 +395,10 @@ msgid "Find next"
 msgstr "Знайти далі"
 
 msgid "Fix offsets"
-msgstr "Зафіксувати зміщення"
+msgstr "Виправити зміщення"
 
 msgid "Fix types"
-msgstr "Зафіксувати типи"
+msgstr "Типи виправлень"
 
 msgid "Flags"
 msgstr "Прапорці"
@@ -431,7 +431,7 @@ msgid "Go to address"
 msgstr "Перейти до адреси"
 
 msgid "Go to entry point"
-msgstr "Перейти на точку входу"
+msgstr "Перейти до точки входу"
 
 msgid "Go to offset"
 msgstr "Перейти по зміщенню"
@@ -452,7 +452,7 @@ msgid "Header"
 msgstr "Заголовок"
 
 msgid "Help"
-msgstr "Допомога"
+msgstr "Довідка"
 
 msgid "Heuristic"
 msgstr "Еврістика"
@@ -464,7 +464,7 @@ msgid "Hex"
 msgstr "Hex"
 
 msgid "Hex signature"
-msgstr "16-кова сігнатура"
+msgstr "Hex сігнатура"
 
 msgid "Image"
 msgstr "Малюнок"
@@ -515,10 +515,10 @@ msgid "Jumps"
 msgstr "Переходи"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Зберегти розмір"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "Kernel mode"
 
 msgid "Label"
 msgstr "Мітка"
@@ -590,7 +590,7 @@ msgid "Mode"
 msgstr "Режим"
 
 msgid "Module"
-msgstr ""
+msgstr "Модуль"
 
 msgid "Modules"
 msgstr "Модулі"
@@ -626,7 +626,7 @@ msgid "Open"
 msgstr "Відкрити"
 
 msgid "Open directory"
-msgstr "Відкрити каталог для сканування"
+msgstr "Відкрити каталог"
 
 msgid "Open file"
 msgstr "Відкрити файл"
@@ -713,7 +713,7 @@ msgid "Recursive scan"
 msgstr "Рекурсивне сканування"
 
 msgid "Ref from"
-msgstr "Посилання із"
+msgstr "Посилання з"
 
 msgid "Ref to"
 msgstr "Посилання до"
@@ -746,7 +746,7 @@ msgid "Resources"
 msgstr "Ресурси"
 
 msgid "Restart"
-msgstr "Рестарт"
+msgstr "Перезапустити"
 
 msgid "Result"
 msgstr "Результат"
@@ -767,7 +767,7 @@ msgid "Save backup"
 msgstr "Зберегти резервну копію"
 
 msgid "Save diagram"
-msgstr "Зберегти графік"
+msgstr "Зберегти діаграму"
 
 msgid "Save dump"
 msgstr "Зберегти дамп"
@@ -854,7 +854,7 @@ msgid "Show type"
 msgstr "Показати тип"
 
 msgid "Show valid"
-msgstr "Показати вірні"
+msgstr "Показати дійсні"
 
 msgid "Show version"
 msgstr "Показати версію"
@@ -1019,7 +1019,7 @@ msgid "Upper"
 msgstr "Верхній регістр"
 
 msgid "User mode"
-msgstr ""
+msgstr "User mode"
 
 msgid "Value"
 msgstr "Значення"
@@ -1064,10 +1064,10 @@ msgid "extender"
 msgstr "розширення"
 
 msgid "kB"
-msgstr "КБ"
+msgstr "кБ"
 
 msgid "msec"
-msgstr "мсек"
+msgstr "мс"
 
 msgid "not packed"
 msgstr "незапакований"
