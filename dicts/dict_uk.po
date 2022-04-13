@@ -41,19 +41,19 @@ msgid "Algorithm"
 msgstr "Алгоритм"
 
 msgid "All"
-msgstr "Усе"
+msgstr "Всі"
 
 msgid "All files"
-msgstr "Усі файли"
+msgstr "Всі файли"
 
 msgid "All types"
-msgstr "Усі види"
+msgstr "Всі види"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "Базова адреса виділення"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "Прапорці виділення"
 
 msgid "Analyze"
 msgstr "Аналізувати"
@@ -83,7 +83,7 @@ msgid "Automatic"
 msgstr "Автоматично"
 
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 msgid "Base address"
 msgstr "Базова адреса"
@@ -107,7 +107,7 @@ msgid "Bound import"
 msgstr "Зв'язаний імпорт"
 
 msgid "Breakpoints"
-msgstr "Точки зупинки"
+msgstr "Точки зупину"
 
 msgid "Bugreports"
 msgstr "Звіти про помилки"
@@ -275,7 +275,7 @@ msgid "Delay import"
 msgstr "Відкласти імпорт"
 
 msgid "Demangle"
-msgstr ""
+msgstr "Деманглувати"
 
 msgid "Dependencies"
 msgstr "Залежності"
@@ -287,7 +287,7 @@ msgid "Device"
 msgstr ""
 
 msgid "Device scan"
-msgstr "Сканувати пристрій"
+msgstr ""
 
 msgid "Diagram"
 msgstr "Діаграма"
@@ -362,7 +362,7 @@ msgid "File"
 msgstr "Файл"
 
 msgid "File info"
-msgstr "Інформація про файл"
+msgstr "Інфо файлу"
 
 msgid "File name"
 msgstr "Ім'я файлу"
@@ -437,7 +437,7 @@ msgid "Go to offset"
 msgstr "Перейти по зміщенню"
 
 msgid "Grid"
-msgstr ""
+msgstr "Сітка"
 
 msgid "Group"
 msgstr "Група"
@@ -464,7 +464,7 @@ msgid "Hex"
 msgstr "Hex"
 
 msgid "Hex signature"
-msgstr "Hex сігнатура"
+msgstr "Hex сигнатура"
 
 msgid "Image"
 msgstr "Малюнок"
@@ -518,7 +518,7 @@ msgid "Keep size"
 msgstr "Зберегти розмір"
 
 msgid "Kernel mode"
-msgstr "Kernel mode"
+msgstr "Режим ядра"
 
 msgid "Label"
 msgstr "Мітка"
@@ -704,7 +704,7 @@ msgid "Rebase"
 msgstr "Перебазувати"
 
 msgid "Recent files"
-msgstr "Недавні файли"
+msgstr "Останні файли"
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -734,7 +734,7 @@ msgid "Relative virtual address"
 msgstr "Відносна віртуальна адреса"
 
 msgid "Reload"
-msgstr "Оновити"
+msgstr "Перевантажити"
 
 msgid "Relocs"
 msgstr "Релоки"
@@ -788,7 +788,7 @@ msgid "Scan"
 msgstr "Сканувати"
 
 msgid "Scan after open"
-msgstr "Сканувати одразу"
+msgstr "Сканування після відкриття"
 
 msgid "Script"
 msgstr "Сценарій"
@@ -800,7 +800,7 @@ msgid "Search from"
 msgstr "Пошук з"
 
 msgid "Search signatures"
-msgstr "Пошук сігнатур"
+msgstr "Пошук сигнатур"
 
 msgid "Search strings"
 msgstr "Пошук стрічок"
@@ -863,13 +863,13 @@ msgid "Sign tool"
 msgstr "Інструмент підпису"
 
 msgid "Signature"
-msgstr "Сігнатура"
+msgstr "Сигнатура"
 
 msgid "Signatures"
-msgstr "Сігнатури"
+msgstr "Сигнатури"
 
 msgid "Single application"
-msgstr "Лише 1 екземпляр"
+msgstr "Один застосунок"
 
 msgid "Size"
 msgstr "Розмір"
@@ -887,13 +887,13 @@ msgid "Source code"
 msgstr "Джерельний код"
 
 msgid "Spaces"
-msgstr "Прогалини"
+msgstr "Пробіли"
 
 msgid "Stack"
 msgstr "Стек"
 
 msgid "State"
-msgstr ""
+msgstr "Стан"
 
 msgid "Status"
 msgstr "Статус"
@@ -905,7 +905,7 @@ msgid "Step into"
 msgstr "Крок всередину"
 
 msgid "Step over"
-msgstr "Крок поверх"
+msgstr "Крок через"
 
 msgid "Stop"
 msgstr "Стоп"
@@ -1004,7 +1004,7 @@ msgid "Tools"
 msgstr "Інструменти"
 
 msgid "Total"
-msgstr "Усього"
+msgstr "Всього"
 
 msgid "Tree"
 msgstr "Дерево"
@@ -1019,7 +1019,7 @@ msgid "Upper"
 msgstr "Верхній регістр"
 
 msgid "User mode"
-msgstr "User mode"
+msgstr "Режим користувача"
 
 msgid "Value"
 msgstr "Значення"
