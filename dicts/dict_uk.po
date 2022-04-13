@@ -284,10 +284,10 @@ msgid "Detach"
 msgstr "Від'єднати"
 
 msgid "Device"
-msgstr ""
+msgstr "Пристрій"
 
 msgid "Device scan"
-msgstr ""
+msgstr "Сканування пристрою"
 
 msgid "Diagram"
 msgstr "Діаграма"
@@ -443,7 +443,7 @@ msgid "Group"
 msgstr "Група"
 
 msgid "Handles"
-msgstr "Дескриптор"
+msgstr "Дескриптори"
 
 msgid "Hash"
 msgstr "Хеш"
@@ -674,7 +674,7 @@ msgid "Programs"
 msgstr "Програми"
 
 msgid "Protection"
-msgstr "Захист"
+msgstr "Протект"
 
 msgid "Protector"
 msgstr "Протектор"
