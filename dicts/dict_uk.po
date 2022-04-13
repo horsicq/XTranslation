@@ -260,7 +260,7 @@ msgid "Debug"
 msgstr "Відлагодження"
 
 msgid "Debug data"
-msgstr "Відлагоджувальна інформація"
+msgstr "Відлагоджувальні дані"
 
 msgid "Debugger"
 msgstr "Відлагоджувач"
@@ -368,7 +368,7 @@ msgid "File name"
 msgstr "Ім'я файлу"
 
 msgid "File offset"
-msgstr "Зміщення у файлі"
+msgstr "Зміщення файлу"
 
 msgid "File saved"
 msgstr "Файл збережено"
@@ -443,7 +443,7 @@ msgid "Group"
 msgstr "Група"
 
 msgid "Handles"
-msgstr "Ручки"
+msgstr "Дескриптор"
 
 msgid "Hash"
 msgstr "Хеш"
@@ -674,7 +674,7 @@ msgid "Programs"
 msgstr "Програми"
 
 msgid "Protection"
-msgstr "Охорона"
+msgstr "Захист"
 
 msgid "Protector"
 msgstr "Протектор"
@@ -803,7 +803,7 @@ msgid "Search signatures"
 msgstr "Пошук сигнатур"
 
 msgid "Search strings"
-msgstr "Пошук стрічок"
+msgstr "Пошук рядків"
 
 msgid "Section"
 msgstr "Секція"
@@ -995,7 +995,7 @@ msgid "To data"
 msgstr "До даних"
 
 msgid "Toggle"
-msgstr "Перемикати"
+msgstr "Перемикач"
 
 msgid "Tool"
 msgstr "Інструмент"
