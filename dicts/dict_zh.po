@@ -36,6 +36,9 @@ msgstr "添加到上下文菜单"
 msgid "Address"
 msgstr "地址"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "算法"
 
@@ -105,6 +108,9 @@ msgstr "引导服务驱动程序"
 msgid "Bound import"
 msgstr "绑定导入"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "断点"
 
@@ -129,14 +135,14 @@ msgstr "中央处理器"
 msgid "Calculate"
 msgstr "计算"
 
-msgid "Call stack"
-msgstr "调用栈"
-
 msgid "Callbacks"
 msgstr "回调"
 
 msgid "Calls"
 msgstr "调用"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "取消"
@@ -222,15 +228,6 @@ msgstr "复制"
 msgid "Copy as"
 msgstr "复制为"
 
-msgid "Copy as hex"
-msgstr "复制为十六进制"
-
-msgid "Copy cursor address"
-msgstr "复制光标地址"
-
-msgid "Copy cursor offset"
-msgstr "复制光标偏移"
-
 msgid "Count"
 msgstr "计数"
 
@@ -245,9 +242,6 @@ msgstr "光标"
 
 msgid "Data"
 msgstr "数据"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "代码中的数据"
@@ -402,6 +396,12 @@ msgstr "修复类型"
 msgid "Flags"
 msgstr "标志寄存器"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "字体"
 
@@ -410,6 +410,9 @@ msgstr "载入"
 
 msgid "Format"
 msgstr "格式"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "函数"
@@ -429,17 +432,8 @@ msgstr "转到"
 msgid "Go to address"
 msgstr "转到地址"
 
-msgid "Go to entry point"
-msgstr "转到入口点"
-
-msgid "Go to offset"
-msgstr "转到偏移"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "组"
 
 msgid "Handles"
 msgstr "句柄"
@@ -464,6 +458,9 @@ msgstr "十六进制"
 
 msgid "Hex signature"
 msgstr "十六进制签名"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "镜像"
@@ -600,6 +597,9 @@ msgstr "更多信息"
 msgid "Name"
 msgstr "名称"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "否"
 
@@ -687,9 +687,6 @@ msgstr "原型"
 msgid "Publisher"
 msgstr "出版商"
 
-msgid "Quit"
-msgstr "退出"
-
 msgid "Raw data"
 msgstr "原始数据"
 
@@ -723,8 +720,8 @@ msgstr "区域"
 msgid "Regions"
 msgstr "区域"
 
-msgid "Registers"
-msgstr "寄存器"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "相对地址(RA)"
@@ -759,8 +756,8 @@ msgstr "运行时驱动程序"
 msgid "Save"
 msgstr "保存"
 
-msgid "Save As"
-msgstr "另存为"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "保存备份"
@@ -840,8 +837,14 @@ msgstr "快捷键"
 msgid "Show"
 msgstr "显示"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "显示评论"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "显示徽标"
@@ -881,6 +884,9 @@ msgstr "排序元素"
 
 msgid "Sort type"
 msgstr "排序类型"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "源代码"
@@ -1017,6 +1023,9 @@ msgstr "未知"
 msgid "Upper"
 msgstr "顶部"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
+
+
+
+
 
 
 

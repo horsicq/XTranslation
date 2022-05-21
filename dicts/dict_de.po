@@ -36,6 +36,9 @@ msgstr "Zum Kontextmenü hinzufügen"
 msgid "Address"
 msgstr "Adresse"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Algorithmus"
 
@@ -105,6 +108,9 @@ msgstr "Bootservice-Treiber"
 msgid "Bound import"
 msgstr "Gebundener Import"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "Haltepunkte"
 
@@ -129,14 +135,14 @@ msgstr "CPU"
 msgid "Calculate"
 msgstr "Berechnen"
 
-msgid "Call stack"
-msgstr "Anrufliste"
-
 msgid "Callbacks"
 msgstr "Rückrufe"
 
 msgid "Calls"
 msgstr "Aufrufe"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Abbrechen"
@@ -222,15 +228,6 @@ msgstr "Kopieren"
 msgid "Copy as"
 msgstr "Kopieren als"
 
-msgid "Copy as hex"
-msgstr "Hex kopieren"
-
-msgid "Copy cursor address"
-msgstr "Dateiaddress kopieren"
-
-msgid "Copy cursor offset"
-msgstr "Dateioffset kopieren"
-
 msgid "Count"
 msgstr "Zählen"
 
@@ -245,9 +242,6 @@ msgstr "Position"
 
 msgid "Data"
 msgstr "Daten"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "Daten im Code"
@@ -402,6 +396,12 @@ msgstr "Fixtypen"
 msgid "Flags"
 msgstr "Markierungen"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "Schriftart"
 
@@ -410,6 +410,9 @@ msgstr "Formular"
 
 msgid "Format"
 msgstr "Format"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Funktionen"
@@ -429,17 +432,8 @@ msgstr "Gehe zu"
 msgid "Go to address"
 msgstr "Zur Adresse gehen"
 
-msgid "Go to entry point"
-msgstr "Gehe zum Einstiegspunkt"
-
-msgid "Go to offset"
-msgstr "Gehe zu Offset"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "Gruppe"
 
 msgid "Handles"
 msgstr "Handles"
@@ -464,6 +458,9 @@ msgstr "Hex"
 
 msgid "Hex signature"
 msgstr "Hex Signatur"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "Speicherabbild"
@@ -600,6 +597,9 @@ msgstr "Mehr Info"
 msgid "Name"
 msgstr "Name"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Nein"
 
@@ -687,9 +687,6 @@ msgstr "Prototyp"
 msgid "Publisher"
 msgstr "Herausgeber"
 
-msgid "Quit"
-msgstr "Aufhören"
-
 msgid "Raw data"
 msgstr "Rohdaten"
 
@@ -723,8 +720,8 @@ msgstr "Region"
 msgid "Regions"
 msgstr "Regionen"
 
-msgid "Registers"
-msgstr "Register"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Relative Adresse"
@@ -759,8 +756,8 @@ msgstr "Laufzeittreiber"
 msgid "Save"
 msgstr "Speichern"
 
-msgid "Save As"
-msgstr "Speichern als"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Backup speichern"
@@ -840,8 +837,14 @@ msgstr "Verknüpfungen"
 msgid "Show"
 msgstr "Show"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Anmerkungen anzeigen"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Logo anzeigen"
@@ -881,6 +884,9 @@ msgstr "Elemente sortieren"
 
 msgid "Sort type"
 msgstr "Sortiertyp"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Quellcode"
@@ -1017,6 +1023,9 @@ msgstr "Unbekannt"
 msgid "Upper"
 msgstr "Gross"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "Gepackt"
 
 msgid "protection"
 msgstr "Schutz"
+
+
+
+
 
 
 

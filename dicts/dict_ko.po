@@ -36,6 +36,9 @@ msgstr "컨텍스트 메뉴에 추가"
 msgid "Address"
 msgstr "주소"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "연산"
 
@@ -105,6 +108,9 @@ msgstr "부팅 서비스 드라이버"
 msgid "Bound import"
 msgstr "바인딩된 가져오기"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "중단점"
 
@@ -129,14 +135,14 @@ msgstr "CPU"
 msgid "Calculate"
 msgstr "계산"
 
-msgid "Call stack"
-msgstr "호출 스택"
-
 msgid "Callbacks"
 msgstr "콜백"
 
 msgid "Calls"
 msgstr "호출"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "취소"
@@ -222,15 +228,6 @@ msgstr "복사"
 msgid "Copy as"
 msgstr "다른 이름으로 복사"
 
-msgid "Copy as hex"
-msgstr "헥사로 복사"
-
-msgid "Copy cursor address"
-msgstr "커서 주소 복사"
-
-msgid "Copy cursor offset"
-msgstr "커서 오프셋 복사"
-
 msgid "Count"
 msgstr "카운트"
 
@@ -245,9 +242,6 @@ msgstr "커서"
 
 msgid "Data"
 msgstr "데이터"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "코드의 데이터"
@@ -402,6 +396,12 @@ msgstr "유형 수정"
 msgid "Flags"
 msgstr "Flags"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "폰트"
 
@@ -410,6 +410,9 @@ msgstr "형태"
 
 msgid "Format"
 msgstr "형식"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "기능"
@@ -429,17 +432,8 @@ msgstr "이동"
 msgid "Go to address"
 msgstr "주소로 이동"
 
-msgid "Go to entry point"
-msgstr "진입점으로 이동"
-
-msgid "Go to offset"
-msgstr "오프셋으로 이동"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "그룹"
 
 msgid "Handles"
 msgstr "핸들"
@@ -464,6 +458,9 @@ msgstr "마녀"
 
 msgid "Hex signature"
 msgstr "16진수 서명"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "이미지"
@@ -600,6 +597,9 @@ msgstr "더 많은 정보"
 msgid "Name"
 msgstr "이름"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "아니요"
 
@@ -687,9 +687,6 @@ msgstr "원기"
 msgid "Publisher"
 msgstr "발행자"
 
-msgid "Quit"
-msgstr "그만두 다"
-
 msgid "Raw data"
 msgstr "로우 데이터"
 
@@ -723,8 +720,8 @@ msgstr "지역"
 msgid "Regions"
 msgstr "영역"
 
-msgid "Registers"
-msgstr "레지스터"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "상대 주소"
@@ -759,8 +756,8 @@ msgstr "런타임 드라이버"
 msgid "Save"
 msgstr "저장"
 
-msgid "Save As"
-msgstr "다른 이름으로 저장"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "백업 저장"
@@ -840,8 +837,14 @@ msgstr "바로가기"
 msgid "Show"
 msgstr "보여 주다"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "댓글 표시"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "로고 표시"
@@ -881,6 +884,9 @@ msgstr "요소 정렬"
 
 msgid "Sort type"
 msgstr "정렬 유형"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "소스 코드"
@@ -1017,6 +1023,9 @@ msgstr "알 수 없음"
 msgid "Upper"
 msgstr "위쪽"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
+
+
+
+
 
 
 

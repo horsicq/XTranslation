@@ -36,6 +36,9 @@ msgstr "Thêm vào menu ngữ cảnh"
 msgid "Address"
 msgstr "Địa chỉ"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Thuật toán"
 
@@ -105,6 +108,9 @@ msgstr "Khởi động trình điều khiển dịch vụ"
 msgid "Bound import"
 msgstr "Nhập khẩu ràng buộc"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "Điểm ngắt"
 
@@ -129,14 +135,14 @@ msgstr "CPU"
 msgid "Calculate"
 msgstr "Tính toán"
 
-msgid "Call stack"
-msgstr "Ngăn xếp cuộc gọi"
-
 msgid "Callbacks"
 msgstr "Gọi lại"
 
 msgid "Calls"
 msgstr "Cuộc gọi"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Hủy"
@@ -222,15 +228,6 @@ msgstr "Sao chép"
 msgid "Copy as"
 msgstr "Sao chép dưới dạng"
 
-msgid "Copy as hex"
-msgstr "Sao chép dưới dạng hex"
-
-msgid "Copy cursor address"
-msgstr "Sao chép địa chỉ con trỏ"
-
-msgid "Copy cursor offset"
-msgstr "Sao chép bù đắp con trỏ"
-
 msgid "Count"
 msgstr "Đếm"
 
@@ -245,9 +242,6 @@ msgstr "Con trỏ"
 
 msgid "Data"
 msgstr "Dữ liệu"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "Dữ liệu trong mã"
@@ -402,6 +396,12 @@ msgstr "Sửa chữa các loại"
 msgid "Flags"
 msgstr "Cờ"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "Nét chữ"
 
@@ -410,6 +410,9 @@ msgstr "Mẫu đơn"
 
 msgid "Format"
 msgstr "Sự sắp xếp"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Chức năng"
@@ -429,17 +432,8 @@ msgstr "Đi tới"
 msgid "Go to address"
 msgstr "Đi tới địa chỉ"
 
-msgid "Go to entry point"
-msgstr "Đi đến điểm nhập cảnh"
-
-msgid "Go to offset"
-msgstr "Đi đến bù đắp"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "Tập đoàn"
 
 msgid "Handles"
 msgstr "Xử lý"
@@ -464,6 +458,9 @@ msgstr "Hex"
 
 msgid "Hex signature"
 msgstr "Chữ ký hex"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "Hình ảnh"
@@ -600,6 +597,9 @@ msgstr "Thêm thông tin"
 msgid "Name"
 msgstr "Tên"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Không"
 
@@ -687,9 +687,6 @@ msgstr "Nguyên mẫu"
 msgid "Publisher"
 msgstr "Nhà xuất bản"
 
-msgid "Quit"
-msgstr "Từ bỏ"
-
 msgid "Raw data"
 msgstr "Dữ lieu thô"
 
@@ -723,8 +720,8 @@ msgstr "Khu vực"
 msgid "Regions"
 msgstr "Vùng"
 
-msgid "Registers"
-msgstr "Đăng ký"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Địa chỉ tương đối"
@@ -759,8 +756,8 @@ msgstr "Trình điều khiển thời gian chạy"
 msgid "Save"
 msgstr "Lưu"
 
-msgid "Save As"
-msgstr "Lưu thành"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Lưu sao lưu"
@@ -840,8 +837,14 @@ msgstr "Các phím tắt"
 msgid "Show"
 msgstr "Trình diễn"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Hiển thị bình luận"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Hiển thị biểu trưng"
@@ -881,6 +884,9 @@ msgstr "Sắp xếp các phần tử"
 
 msgid "Sort type"
 msgstr "Sắp xếp loại"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Mã nguồn"
@@ -1017,6 +1023,9 @@ msgstr "không xác định"
 msgid "Upper"
 msgstr "Trên"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
+
+
+
+
 
 
 

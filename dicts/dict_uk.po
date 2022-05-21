@@ -37,6 +37,9 @@ msgstr "Додати в контекстне меню"
 msgid "Address"
 msgstr "Адреса"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Алгоритм"
 
@@ -106,6 +109,9 @@ msgstr "Драйвер завантаження"
 msgid "Bound import"
 msgstr "Зв'язаний імпорт"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "Точки зупину"
 
@@ -130,14 +136,14 @@ msgstr "Процесор"
 msgid "Calculate"
 msgstr "Обрахувати"
 
-msgid "Call stack"
-msgstr "Стек викликів"
-
 msgid "Callbacks"
 msgstr "Зворотні виклики"
 
 msgid "Calls"
 msgstr "Виклики"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Скасувати"
@@ -223,15 +229,6 @@ msgstr "Копіювати"
 msgid "Copy as"
 msgstr "Копіювати як"
 
-msgid "Copy as hex"
-msgstr "Копіювати як hex"
-
-msgid "Copy cursor address"
-msgstr "Копіювати поточну адресу"
-
-msgid "Copy cursor offset"
-msgstr "Копіювати поточне зміщення"
-
 msgid "Count"
 msgstr "Кількість"
 
@@ -246,9 +243,6 @@ msgstr "Курсор"
 
 msgid "Data"
 msgstr "Дані"
-
-msgid "Data as hex"
-msgstr "Дані як hex"
 
 msgid "Data in code"
 msgstr "Дані в коді"
@@ -403,6 +397,12 @@ msgstr "Типи виправлень"
 msgid "Flags"
 msgstr "Прапорці"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "Шрифт"
 
@@ -411,6 +411,9 @@ msgstr "Форма"
 
 msgid "Format"
 msgstr "Формат"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Функції"
@@ -430,17 +433,8 @@ msgstr "Перейти до"
 msgid "Go to address"
 msgstr "Перейти до адреси"
 
-msgid "Go to entry point"
-msgstr "Перейти до точки входу"
-
-msgid "Go to offset"
-msgstr "Перейти по зміщенню"
-
 msgid "Grid"
 msgstr "Сітка"
-
-msgid "Group"
-msgstr "Група"
 
 msgid "Handles"
 msgstr "Дескриптори"
@@ -465,6 +459,9 @@ msgstr "Hex"
 
 msgid "Hex signature"
 msgstr "Hex сигнатура"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "Малюнок"
@@ -601,6 +598,9 @@ msgstr "Більше інфо"
 msgid "Name"
 msgstr "Ім'я"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Ні"
 
@@ -688,9 +688,6 @@ msgstr "Прототип"
 msgid "Publisher"
 msgstr "Видавець"
 
-msgid "Quit"
-msgstr "Вийти"
-
 msgid "Raw data"
 msgstr "Сирі дані"
 
@@ -724,8 +721,8 @@ msgstr "Регіон"
 msgid "Regions"
 msgstr "Регіони"
 
-msgid "Registers"
-msgstr "Регістри"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Відносна адреса"
@@ -760,8 +757,8 @@ msgstr "Драйвер часу виконання"
 msgid "Save"
 msgstr "Зберегти"
 
-msgid "Save As"
-msgstr "Зберегти як"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Зберегти резервну копію"
@@ -841,8 +838,14 @@ msgstr "Гарячі клавіші"
 msgid "Show"
 msgstr "Показати"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Показати коментарі"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Показати логотип"
@@ -882,6 +885,9 @@ msgstr "Сортувати елементи"
 
 msgid "Sort type"
 msgstr "Тип сортування"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Джерельний код"
@@ -1018,6 +1024,9 @@ msgstr "Невідомо"
 msgid "Upper"
 msgstr "Верхній регістр"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr "Режим користувача"
 
@@ -1080,6 +1089,11 @@ msgstr "запакований"
 
 msgid "protection"
 msgstr "захист"
+
+
+
+
+
 
 
 

@@ -36,6 +36,9 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr ""
 
@@ -105,6 +108,9 @@ msgstr ""
 msgid "Bound import"
 msgstr ""
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr ""
 
@@ -129,13 +135,13 @@ msgstr ""
 msgid "Calculate"
 msgstr ""
 
-msgid "Call stack"
-msgstr ""
-
 msgid "Callbacks"
 msgstr ""
 
 msgid "Calls"
+msgstr ""
+
+msgid "Callstack"
 msgstr ""
 
 msgid "Cancel"
@@ -222,15 +228,6 @@ msgstr ""
 msgid "Copy as"
 msgstr ""
 
-msgid "Copy as hex"
-msgstr ""
-
-msgid "Copy cursor address"
-msgstr ""
-
-msgid "Copy cursor offset"
-msgstr ""
-
 msgid "Count"
 msgstr ""
 
@@ -244,9 +241,6 @@ msgid "Cursor"
 msgstr ""
 
 msgid "Data"
-msgstr ""
-
-msgid "Data as hex"
 msgstr ""
 
 msgid "Data in code"
@@ -402,6 +396,12 @@ msgstr ""
 msgid "Flags"
 msgstr ""
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr ""
 
@@ -409,6 +409,9 @@ msgid "Form"
 msgstr ""
 
 msgid "Format"
+msgstr ""
+
+msgid "Function"
 msgstr ""
 
 msgid "Functions"
@@ -429,16 +432,7 @@ msgstr ""
 msgid "Go to address"
 msgstr ""
 
-msgid "Go to entry point"
-msgstr ""
-
-msgid "Go to offset"
-msgstr ""
-
 msgid "Grid"
-msgstr ""
-
-msgid "Group"
 msgstr ""
 
 msgid "Handles"
@@ -463,6 +457,9 @@ msgid "Hex"
 msgstr ""
 
 msgid "Hex signature"
+msgstr ""
+
+msgid "Highlight"
 msgstr ""
 
 msgid "Image"
@@ -600,6 +597,9 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr ""
 
@@ -687,9 +687,6 @@ msgstr ""
 msgid "Publisher"
 msgstr ""
 
-msgid "Quit"
-msgstr ""
-
 msgid "Raw data"
 msgstr ""
 
@@ -723,7 +720,7 @@ msgstr ""
 msgid "Regions"
 msgstr ""
 
-msgid "Registers"
+msgid "Register"
 msgstr ""
 
 msgid "Relative address"
@@ -759,7 +756,7 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
-msgid "Save As"
+msgid "Save as"
 msgstr ""
 
 msgid "Save backup"
@@ -840,7 +837,13 @@ msgstr ""
 msgid "Show"
 msgstr ""
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
+msgstr ""
+
+msgid "Show in"
 msgstr ""
 
 msgid "Show logo"
@@ -880,6 +883,9 @@ msgid "Sort elements"
 msgstr ""
 
 msgid "Sort type"
+msgstr ""
+
+msgid "Source"
 msgstr ""
 
 msgid "Source code"
@@ -1015,6 +1021,9 @@ msgid "Unknown"
 msgstr ""
 
 msgid "Upper"
+msgstr ""
+
+msgid "User"
 msgstr ""
 
 msgid "User mode"

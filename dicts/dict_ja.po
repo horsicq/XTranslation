@@ -36,6 +36,9 @@ msgstr "コンテキストメニューに追加"
 msgid "Address"
 msgstr "アドレス"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "アルゴリズム"
 
@@ -105,6 +108,9 @@ msgstr "ブートサービスドライバー"
 msgid "Bound import"
 msgstr "バインドされたインポート"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "ブレークポイント"
 
@@ -129,14 +135,14 @@ msgstr "CPU"
 msgid "Calculate"
 msgstr "計算"
 
-msgid "Call stack"
-msgstr "コールスタック"
-
 msgid "Callbacks"
 msgstr "コールバック"
 
 msgid "Calls"
 msgstr "セル"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "キャンセル"
@@ -222,15 +228,6 @@ msgstr "コピー"
 msgid "Copy as"
 msgstr "としてコピー"
 
-msgid "Copy as hex"
-msgstr "16 進数値でコピー"
-
-msgid "Copy cursor address"
-msgstr "アドレスに移動"
-
-msgid "Copy cursor offset"
-msgstr "カーソルオフセットのコピー"
-
 msgid "Count"
 msgstr "個数"
 
@@ -245,9 +242,6 @@ msgstr "カーソル"
 
 msgid "Data"
 msgstr "データ"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "コードのデータ"
@@ -402,6 +396,12 @@ msgstr "タイプを修正"
 msgid "Flags"
 msgstr "フラグ"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "フォント"
 
@@ -410,6 +410,9 @@ msgstr "フォーム"
 
 msgid "Format"
 msgstr "書式"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "関数"
@@ -429,17 +432,8 @@ msgstr "移動"
 msgid "Go to address"
 msgstr "アドレスに移動"
 
-msgid "Go to entry point"
-msgstr "エントリ ポイントに移動"
-
-msgid "Go to offset"
-msgstr "オフセット値"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "グループ"
 
 msgid "Handles"
 msgstr "ハンドル"
@@ -464,6 +458,9 @@ msgstr "16 進数"
 
 msgid "Hex signature"
 msgstr "署名"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "イメージ"
@@ -600,6 +597,9 @@ msgstr "より詳しい情報"
 msgid "Name"
 msgstr "名前"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "番号"
 
@@ -687,9 +687,6 @@ msgstr "プロトタイプ"
 msgid "Publisher"
 msgstr "出版社"
 
-msgid "Quit"
-msgstr "終了する"
-
 msgid "Raw data"
 msgstr "Raw データ"
 
@@ -723,8 +720,8 @@ msgstr "領域"
 msgid "Regions"
 msgstr "地域"
 
-msgid "Registers"
-msgstr "レジスター"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "相対アドレス"
@@ -759,8 +756,8 @@ msgstr "ランタイムドライバー"
 msgid "Save"
 msgstr "保存"
 
-msgid "Save As"
-msgstr "名前を付けて保存"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "バックアップを保存"
@@ -840,8 +837,14 @@ msgstr "ショートカット"
 msgid "Show"
 msgstr "見せる"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "コメントを表示"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "ロゴを表示する"
@@ -881,6 +884,9 @@ msgstr "要素を並べ替える"
 
 msgid "Sort type"
 msgstr "ソートタイプ"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "ソース コード"
@@ -1017,6 +1023,9 @@ msgstr "不明"
 msgid "Upper"
 msgstr "大文字"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+
 
 
 

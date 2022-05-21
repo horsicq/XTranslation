@@ -37,6 +37,9 @@ msgstr "Добавить в контекстное меню"
 msgid "Address"
 msgstr "Адрес"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Алгоритм"
 
@@ -106,6 +109,9 @@ msgstr "Драйвер службы загрузки"
 msgid "Bound import"
 msgstr "Связанный импорт"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "Контрольные точки"
 
@@ -130,14 +136,14 @@ msgstr "Процессор"
 msgid "Calculate"
 msgstr "Вычислить"
 
-msgid "Call stack"
-msgstr "Стек вызовов"
-
 msgid "Callbacks"
 msgstr "Обратные вызовы"
 
 msgid "Calls"
 msgstr "Вызовы"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -223,15 +229,6 @@ msgstr "Копировать"
 msgid "Copy as"
 msgstr "Копировать как"
 
-msgid "Copy as hex"
-msgstr "Копировать как 16-ричное"
-
-msgid "Copy cursor address"
-msgstr "Копировать текущий адрес"
-
-msgid "Copy cursor offset"
-msgstr "Копировать текущее смещение"
-
 msgid "Count"
 msgstr "Число"
 
@@ -246,9 +243,6 @@ msgstr "Курсор"
 
 msgid "Data"
 msgstr "Данные"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "Данные в коде"
@@ -403,6 +397,12 @@ msgstr "Типы исправлений"
 msgid "Flags"
 msgstr "Флаги"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "Шрифт"
 
@@ -411,6 +411,9 @@ msgstr "Форма"
 
 msgid "Format"
 msgstr "Формат"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Функции"
@@ -430,17 +433,8 @@ msgstr "Перейти к"
 msgid "Go to address"
 msgstr "Перейти к адресу"
 
-msgid "Go to entry point"
-msgstr "Перейти на точку входа"
-
-msgid "Go to offset"
-msgstr "Перейти по смещению"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "Группа"
 
 msgid "Handles"
 msgstr "Хэндлы"
@@ -465,6 +459,9 @@ msgstr "Hex"
 
 msgid "Hex signature"
 msgstr "16-ричная сигнатура"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "Рисунок"
@@ -601,6 +598,9 @@ msgstr "Больше информации"
 msgid "Name"
 msgstr "Имя"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Нет"
 
@@ -688,9 +688,6 @@ msgstr "Прототип"
 msgid "Publisher"
 msgstr "Издатель"
 
-msgid "Quit"
-msgstr "Покидать"
-
 msgid "Raw data"
 msgstr "Сырые данные"
 
@@ -724,8 +721,8 @@ msgstr "Область"
 msgid "Regions"
 msgstr "Регионы"
 
-msgid "Registers"
-msgstr "Регистры"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Относительный адрес"
@@ -760,8 +757,8 @@ msgstr "Драйвер времени выполнения"
 msgid "Save"
 msgstr "Сохранить"
 
-msgid "Save As"
-msgstr "Сохранить как"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Сохранить резервную копию"
@@ -841,8 +838,14 @@ msgstr "Сочетания клавиш"
 msgid "Show"
 msgstr "Показывать"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Показать комментарии"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Показать логотип"
@@ -882,6 +885,9 @@ msgstr "Сортировать элементы"
 
 msgid "Sort type"
 msgstr "Тип сортировки"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Исходный код"
@@ -1018,6 +1024,9 @@ msgstr "Неизвестно"
 msgid "Upper"
 msgstr "Верхний регистр"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1080,6 +1089,10 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
+
+
+
+
 
 
 

@@ -36,6 +36,9 @@ msgstr "Bağlam menüsüne ekle"
 msgid "Address"
 msgstr "Adres"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "algoritma"
 
@@ -105,6 +108,9 @@ msgstr "Önyükleme hizmeti sürücüsü"
 msgid "Bound import"
 msgstr "Bağlı içe aktarma"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "kesme noktaları"
 
@@ -129,14 +135,14 @@ msgstr "İşlemci"
 msgid "Calculate"
 msgstr "Hesapla"
 
-msgid "Call stack"
-msgstr "Çağrı yığını"
-
 msgid "Callbacks"
 msgstr "geri aramalar"
 
 msgid "Calls"
 msgstr "Çağır"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "İptal"
@@ -222,15 +228,6 @@ msgstr "Kapyala"
 msgid "Copy as"
 msgstr "Farklı kopyala"
 
-msgid "Copy as hex"
-msgstr "HEX kopyala"
-
-msgid "Copy cursor address"
-msgstr "İmleç adresini kopyala"
-
-msgid "Copy cursor offset"
-msgstr "İmleç ofsetini kopyala"
-
 msgid "Count"
 msgstr "Say"
 
@@ -245,9 +242,6 @@ msgstr "Cursor"
 
 msgid "Data"
 msgstr "Veri"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "Koddaki veriler"
@@ -402,6 +396,12 @@ msgstr "Türleri düzelt"
 msgid "Flags"
 msgstr "Bayraklar"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "Yazı tipi"
 
@@ -410,6 +410,9 @@ msgstr "Biçim"
 
 msgid "Format"
 msgstr "Biçim"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Fonksiyonlar"
@@ -429,17 +432,8 @@ msgstr "Git"
 msgid "Go to address"
 msgstr "Adrese git"
 
-msgid "Go to entry point"
-msgstr "Giriş noktasına git"
-
-msgid "Go to offset"
-msgstr "Ofset'e git"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "Grup"
 
 msgid "Handles"
 msgstr "kulplar"
@@ -464,6 +458,9 @@ msgstr "altıgen"
 
 msgid "Hex signature"
 msgstr "altıgen imza"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "İmaj"
@@ -600,6 +597,9 @@ msgstr "Daha fazla bilgi"
 msgid "Name"
 msgstr "İsim"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Numara"
 
@@ -687,9 +687,6 @@ msgstr "Prototip"
 msgid "Publisher"
 msgstr "Yayımcı"
 
-msgid "Quit"
-msgstr "Çıkış yapmak"
-
 msgid "Raw data"
 msgstr "İşlenmemiş veri"
 
@@ -723,8 +720,8 @@ msgstr "Bölge"
 msgid "Regions"
 msgstr "Bölge"
 
-msgid "Registers"
-msgstr "Kayıtlar"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "göreceli adres"
@@ -759,8 +756,8 @@ msgstr "Çalışma zamanı sürücüsü"
 msgid "Save"
 msgstr "Kaydet"
 
-msgid "Save As"
-msgstr "Farklı kaydet"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Yedek kayfet"
@@ -840,8 +837,14 @@ msgstr "Kısayollar"
 msgid "Show"
 msgstr "Göstermek"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Yorumları göster"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Logoyu göster"
@@ -881,6 +884,9 @@ msgstr "Öğeleri sırala"
 
 msgid "Sort type"
 msgstr "Sıralama türü"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Kaynak kodu"
@@ -1017,6 +1023,9 @@ msgstr "Bilinmeyen"
 msgid "Upper"
 msgstr "Üst"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
+
+
+
+
 
 
 

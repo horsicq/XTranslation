@@ -36,6 +36,9 @@ msgstr "Tambahkan ke menu konteks"
 msgid "Address"
 msgstr "Alamat"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "algoritma"
 
@@ -105,6 +108,9 @@ msgstr "Driver layanan boot"
 msgid "Bound import"
 msgstr "Impor terikat"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "Breakpoint"
 
@@ -129,14 +135,14 @@ msgstr "CPU"
 msgid "Calculate"
 msgstr "Hitung"
 
-msgid "Call stack"
-msgstr "Tumpukan panggilan"
-
 msgid "Callbacks"
 msgstr "Panggilan balik"
 
 msgid "Calls"
 msgstr "Panggil"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Batal"
@@ -222,15 +228,6 @@ msgstr "Salin"
 msgid "Copy as"
 msgstr "Salin sebagai"
 
-msgid "Copy as hex"
-msgstr "Salin sebagai hex"
-
-msgid "Copy cursor address"
-msgstr "Salin alamat kursor"
-
-msgid "Copy cursor offset"
-msgstr "Salin offset kursor"
-
 msgid "Count"
 msgstr "Hitung"
 
@@ -245,9 +242,6 @@ msgstr "Kursor"
 
 msgid "Data"
 msgstr "Data"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "Data dalam kode"
@@ -402,6 +396,12 @@ msgstr "Perbaiki jenis"
 msgid "Flags"
 msgstr "Tandai"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "jenis huruf"
 
@@ -410,6 +410,9 @@ msgstr "Membentuk"
 
 msgid "Format"
 msgstr "Format"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Fungsi"
@@ -429,17 +432,8 @@ msgstr "Pergi ke"
 msgid "Go to address"
 msgstr "Pergi ke alamat"
 
-msgid "Go to entry point"
-msgstr "Pergi ke titik masuk"
-
-msgid "Go to offset"
-msgstr "Pergi ke offset"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "Kelompok"
 
 msgid "Handles"
 msgstr "Menangani"
@@ -464,6 +458,9 @@ msgstr "Hex"
 
 msgid "Hex signature"
 msgstr "Tanda tangan heksagonal"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "Gambar"
@@ -600,6 +597,9 @@ msgstr "Info lebih lanjut"
 msgid "Name"
 msgstr "Nama"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Tidak"
 
@@ -687,9 +687,6 @@ msgstr "Prototipe"
 msgid "Publisher"
 msgstr "Penerbit"
 
-msgid "Quit"
-msgstr "Berhenti"
-
 msgid "Raw data"
 msgstr "Data mentah"
 
@@ -723,8 +720,8 @@ msgstr "Wilayah"
 msgid "Regions"
 msgstr "Region"
 
-msgid "Registers"
-msgstr "Daftar"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Alamat relatif"
@@ -759,8 +756,8 @@ msgstr "Pengemudi runtime"
 msgid "Save"
 msgstr "Simpan"
 
-msgid "Save As"
-msgstr "Simpan Sebagai"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Simpan cadangan"
@@ -840,8 +837,14 @@ msgstr "Jalan pintas"
 msgid "Show"
 msgstr "Menunjukkan"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Tampilkan komentar"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Tampilkan logo"
@@ -881,6 +884,9 @@ msgstr "Urutkan elemen"
 
 msgid "Sort type"
 msgstr "Jenis pengurutan"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Sumber kode"
@@ -1017,6 +1023,9 @@ msgstr "Tidak diketahui"
 msgid "Upper"
 msgstr "Atas"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "dikemas"
 
 msgid "protection"
 msgstr "proteksi"
+
+
+
+
 
 
 

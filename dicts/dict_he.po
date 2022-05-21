@@ -36,6 +36,9 @@ msgstr "הוסף לתפריט ההקשר"
 msgid "Address"
 msgstr "כתובת"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "אַלגוֹרִיתְם"
 
@@ -105,6 +108,9 @@ msgstr "מנהל התקן שירות אתחול"
 msgid "Bound import"
 msgstr "יבוא כבול"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "נקודות שבירה"
 
@@ -129,14 +135,14 @@ msgstr "מעבד"
 msgid "Calculate"
 msgstr "חשב"
 
-msgid "Call stack"
-msgstr "ערימת שיחות"
-
 msgid "Callbacks"
 msgstr "שיחות חזרה"
 
 msgid "Calls"
 msgstr "קריאות"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "בטל"
@@ -222,15 +228,6 @@ msgstr "העתק"
 msgid "Copy as"
 msgstr "העתק בשם"
 
-msgid "Copy as hex"
-msgstr "העתק בפורמט הקסה-דצימלי"
-
-msgid "Copy cursor address"
-msgstr "העתק את כתובת הסמן"
-
-msgid "Copy cursor offset"
-msgstr "קיזוז סמן העתק"
-
 msgid "Count"
 msgstr "ספירה"
 
@@ -245,9 +242,6 @@ msgstr "סמן"
 
 msgid "Data"
 msgstr "נתונים"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "נתונים בקוד"
@@ -402,6 +396,12 @@ msgstr "תקן סוגים"
 msgid "Flags"
 msgstr "דגלים"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "גוֹפָן"
 
@@ -410,6 +410,9 @@ msgstr "טופס"
 
 msgid "Format"
 msgstr "פורמט"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "פונקציות"
@@ -429,17 +432,8 @@ msgstr "מעבר אל"
 msgid "Go to address"
 msgstr "מעבר לכתובת"
 
-msgid "Go to entry point"
-msgstr "עבור לנקודת הכניסה"
-
-msgid "Go to offset"
-msgstr "עבור לקיזוז"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "קְבוּצָה"
 
 msgid "Handles"
 msgstr "ידיות"
@@ -464,6 +458,9 @@ msgstr "הקס"
 
 msgid "Hex signature"
 msgstr "חתימה משושה"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "תמונה"
@@ -600,6 +597,9 @@ msgstr "עוד מידע"
 msgid "Name"
 msgstr "שם"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "לא"
 
@@ -687,9 +687,6 @@ msgstr "אב טיפוס"
 msgid "Publisher"
 msgstr "מוֹצִיא לָאוֹר"
 
-msgid "Quit"
-msgstr "לְהַפְסִיק"
-
 msgid "Raw data"
 msgstr "מידע גולמי"
 
@@ -723,8 +720,8 @@ msgstr "אזור"
 msgid "Regions"
 msgstr "אזורים"
 
-msgid "Registers"
-msgstr "רושמים"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "כתובת יחסית"
@@ -759,8 +756,8 @@ msgstr "נהג זמן ריצה"
 msgid "Save"
 msgstr "שמור"
 
-msgid "Save As"
-msgstr "שמור כ"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "שמור גיבוי"
@@ -840,8 +837,14 @@ msgstr "קיצורי דרך"
 msgid "Show"
 msgstr "הופעה"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "הצג הערות"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "הצג לוגו"
@@ -881,6 +884,9 @@ msgstr "מיין אלמנטים"
 
 msgid "Sort type"
 msgstr "סוג מיון"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "קוד מקור"
@@ -1017,6 +1023,9 @@ msgstr "לא ידוע"
 msgid "Upper"
 msgstr "עליון"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
+
+
+
+
 
 
 

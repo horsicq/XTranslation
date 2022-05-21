@@ -37,6 +37,9 @@ msgstr "أضف إلى قائمة السياق"
 msgid "Address"
 msgstr "عنوان"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "الخوارزمية"
 
@@ -106,6 +109,9 @@ msgstr "سائق خدمة التمهيد"
 msgid "Bound import"
 msgstr "استيراد منضم"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "نقاط التوقف"
 
@@ -130,14 +136,14 @@ msgstr "وحدة المعالجة المركزية"
 msgid "Calculate"
 msgstr "احسب"
 
-msgid "Call stack"
-msgstr "مكدس المكالمات"
-
 msgid "Callbacks"
 msgstr "عمليات الاسترجاعات"
 
 msgid "Calls"
 msgstr "المكالمات"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "يلغي"
@@ -223,15 +229,6 @@ msgstr "ينسخ"
 msgid "Copy as"
 msgstr "نسخ بتنسيق"
 
-msgid "Copy as hex"
-msgstr "نسخ على شكل ست عشري"
-
-msgid "Copy cursor address"
-msgstr "نسخ عنوان المؤشر"
-
-msgid "Copy cursor offset"
-msgstr "نسخ إزاحة المؤشر"
-
 msgid "Count"
 msgstr "عدد"
 
@@ -246,9 +243,6 @@ msgstr "المؤشر"
 
 msgid "Data"
 msgstr "البيانات"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
@@ -403,6 +397,12 @@ msgstr "أنواع الإصلاح"
 msgid "Flags"
 msgstr "أعلام"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "الخط"
 
@@ -411,6 +411,9 @@ msgstr "استمارة"
 
 msgid "Format"
 msgstr "صيغة"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "المهام"
@@ -430,17 +433,8 @@ msgstr "اذهب إلى"
 msgid "Go to address"
 msgstr "انتقل إلى العنوان"
 
-msgid "Go to entry point"
-msgstr "اذهب إلى نقطة الدخول"
-
-msgid "Go to offset"
-msgstr "انتقل إلى الإزاحة"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "مجموعة"
 
 msgid "Handles"
 msgstr "مقابض"
@@ -465,6 +459,9 @@ msgstr "عرافة"
 
 msgid "Hex signature"
 msgstr "التوقيع السداسي"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "صورة"
@@ -601,6 +598,9 @@ msgstr "مزيد من المعلومات"
 msgid "Name"
 msgstr "اسم"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "لا"
 
@@ -688,9 +688,6 @@ msgstr "النموذج المبدئي"
 msgid "Publisher"
 msgstr "الناشر"
 
-msgid "Quit"
-msgstr "استقال"
-
 msgid "Raw data"
 msgstr "مسودة بيانات"
 
@@ -724,8 +721,8 @@ msgstr "منطقة"
 msgid "Regions"
 msgstr "المناطق"
 
-msgid "Registers"
-msgstr "السجلات"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "العنوان النسبي"
@@ -760,8 +757,8 @@ msgstr "سائق وقت التشغيل"
 msgid "Save"
 msgstr "يحفظ"
 
-msgid "Save As"
-msgstr "حفظ باسم"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "احفظ النسخة الاحتياطية"
@@ -841,8 +838,14 @@ msgstr "الاختصارات"
 msgid "Show"
 msgstr "تبين"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "إظهار التعليقات"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "إظهار الشعار"
@@ -882,6 +885,9 @@ msgstr "فرز العناصر"
 
 msgid "Sort type"
 msgstr "نوع الفرز"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "مصدر الرمز"
@@ -1018,6 +1024,9 @@ msgstr "مجهول"
 msgid "Upper"
 msgstr "العلوي"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1080,6 +1089,10 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
+
+
+
+
 
 
 

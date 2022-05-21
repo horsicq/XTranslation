@@ -36,6 +36,9 @@ msgstr "Adicionar ao menu de contexto"
 msgid "Address"
 msgstr "Endereço"
 
+msgid "Address colon"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Algoritmo"
 
@@ -105,6 +108,9 @@ msgstr "Driver de serviço de inicialização"
 msgid "Bound import"
 msgstr "Importação vinculada"
 
+msgid "Breakpoint"
+msgstr ""
+
 msgid "Breakpoints"
 msgstr "Breakpoints"
 
@@ -129,14 +135,14 @@ msgstr "CPU"
 msgid "Calculate"
 msgstr "Calcular"
 
-msgid "Call stack"
-msgstr "Pilha de chamadas"
-
 msgid "Callbacks"
 msgstr "Callbacks"
 
 msgid "Calls"
 msgstr "Chamadas"
+
+msgid "Callstack"
+msgstr ""
 
 msgid "Cancel"
 msgstr "Cancelar"
@@ -222,15 +228,6 @@ msgstr "Copiar"
 msgid "Copy as"
 msgstr "Copiar como"
 
-msgid "Copy as hex"
-msgstr "Copiar como valor hex"
-
-msgid "Copy cursor address"
-msgstr "Copiar endereço do cursor"
-
-msgid "Copy cursor offset"
-msgstr "Copiar endereço de offset"
-
 msgid "Count"
 msgstr "Contagem"
 
@@ -245,9 +242,6 @@ msgstr "Cursor"
 
 msgid "Data"
 msgstr "Dados"
-
-msgid "Data as hex"
-msgstr ""
 
 msgid "Data in code"
 msgstr "Dados no código"
@@ -402,6 +396,12 @@ msgstr "Tipos de correção"
 msgid "Flags"
 msgstr "Flags"
 
+msgid "Folder"
+msgstr ""
+
+msgid "Follow in"
+msgstr ""
+
 msgid "Font"
 msgstr "Fonte"
 
@@ -410,6 +410,9 @@ msgstr "Formulário"
 
 msgid "Format"
 msgstr "Formato"
+
+msgid "Function"
+msgstr ""
 
 msgid "Functions"
 msgstr "Funções"
@@ -429,17 +432,8 @@ msgstr "Ir para"
 msgid "Go to address"
 msgstr "Ir para endereço"
 
-msgid "Go to entry point"
-msgstr "Ir para ponto de entrada do código"
-
-msgid "Go to offset"
-msgstr "Ir para offset"
-
 msgid "Grid"
 msgstr ""
-
-msgid "Group"
-msgstr "Grupo"
 
 msgid "Handles"
 msgstr "Alças"
@@ -464,6 +458,9 @@ msgstr "Hex"
 
 msgid "Hex signature"
 msgstr "Assinatura Hex"
+
+msgid "Highlight"
+msgstr ""
 
 msgid "Image"
 msgstr "Imagem"
@@ -600,6 +597,9 @@ msgstr "Mais informações"
 msgid "Name"
 msgstr "Nome"
 
+msgid "Next"
+msgstr ""
+
 msgid "No"
 msgstr "Não"
 
@@ -687,9 +687,6 @@ msgstr "Protótipo"
 msgid "Publisher"
 msgstr "Editor"
 
-msgid "Quit"
-msgstr "Desistir"
-
 msgid "Raw data"
 msgstr "Dados não tratados"
 
@@ -723,8 +720,8 @@ msgstr "Região"
 msgid "Regions"
 msgstr "Regiões"
 
-msgid "Registers"
-msgstr "Registros"
+msgid "Register"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Endereço relativo"
@@ -759,8 +756,8 @@ msgstr "Driver de tempo de execução"
 msgid "Save"
 msgstr "Salvar"
 
-msgid "Save As"
-msgstr "Salvar como"
+msgid "Save as"
+msgstr ""
 
 msgid "Save backup"
 msgstr "Salvar backup"
@@ -840,8 +837,14 @@ msgstr "Atalhos"
 msgid "Show"
 msgstr "Mostrar"
 
+msgid "Show all"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Mostrar comentários"
+
+msgid "Show in"
+msgstr ""
 
 msgid "Show logo"
 msgstr "Exibir logo"
@@ -881,6 +884,9 @@ msgstr "Classificar elementos"
 
 msgid "Sort type"
 msgstr "Tipo de classificação"
+
+msgid "Source"
+msgstr ""
 
 msgid "Source code"
 msgstr "Código fonte"
@@ -1017,6 +1023,9 @@ msgstr "Desconhecido"
 msgid "Upper"
 msgstr "Upper"
 
+msgid "User"
+msgstr ""
+
 msgid "User mode"
 msgstr ""
 
@@ -1079,6 +1088,10 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "protecção"
+
+
+
+
 
 
 
