@@ -37,7 +37,7 @@ msgid "Address"
 msgstr "Endereço"
 
 msgid "Address colon"
-msgstr ""
+msgstr "Coluna de endereço"
 
 msgid "Algorithm"
 msgstr "Algoritmo"
@@ -109,7 +109,7 @@ msgid "Bound import"
 msgstr "Importação vinculada"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "Breakpoint"
 
 msgid "Breakpoints"
 msgstr "Breakpoints"
@@ -142,7 +142,7 @@ msgid "Calls"
 msgstr "Chamadas"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Callstack"
 
 msgid "Cancel"
 msgstr "Cancelar"
@@ -397,10 +397,10 @@ msgid "Flags"
 msgstr "Flags"
 
 msgid "Folder"
-msgstr ""
+msgstr "Pasta"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Siga em"
 
 msgid "Font"
 msgstr "Fonte"
@@ -412,7 +412,7 @@ msgid "Format"
 msgstr "Formato"
 
 msgid "Function"
-msgstr ""
+msgstr "Função"
 
 msgid "Functions"
 msgstr "Funções"
@@ -460,7 +460,7 @@ msgid "Hex signature"
 msgstr "Assinatura hexadecimal"
 
 msgid "Highlight"
-msgstr ""
+msgstr "Destacar"
 
 msgid "Image"
 msgstr "Imagem"
@@ -598,7 +598,7 @@ msgid "Name"
 msgstr "Nome"
 
 msgid "Next"
-msgstr ""
+msgstr "Próximo"
 
 msgid "No"
 msgstr "Não"
@@ -721,7 +721,7 @@ msgid "Regions"
 msgstr "Regiões"
 
 msgid "Register"
-msgstr ""
+msgstr "Registrador"
 
 msgid "Relative address"
 msgstr "Endereço relativo"
@@ -757,7 +757,7 @@ msgid "Save"
 msgstr "Salvar"
 
 msgid "Save as"
-msgstr ""
+msgstr "Salvar como"
 
 msgid "Save backup"
 msgstr "Salvar backup"
@@ -838,13 +838,13 @@ msgid "Show"
 msgstr "Mostrar"
 
 msgid "Show all"
-msgstr ""
+msgstr "Mostrar todos"
 
 msgid "Show comments"
 msgstr "Mostrar comentários"
 
 msgid "Show in"
-msgstr ""
+msgstr "Mostrar em"
 
 msgid "Show logo"
 msgstr "Exibir logo"
@@ -886,7 +886,7 @@ msgid "Sort type"
 msgstr "Tipo de classificação"
 
 msgid "Source"
-msgstr ""
+msgstr "Fonte"
 
 msgid "Source code"
 msgstr "Código Fonte"
@@ -1024,7 +1024,7 @@ msgid "Upper"
 msgstr "Upper"
 
 msgid "User"
-msgstr ""
+msgstr "Usuário"
 
 msgid "User mode"
 msgstr "User mode"
