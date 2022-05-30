@@ -86,7 +86,7 @@ msgid "Automatic"
 msgstr "Автоматический"
 
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 msgid "Base address"
 msgstr "Базовый адрес"
@@ -110,7 +110,7 @@ msgid "Bound import"
 msgstr "Связанный импорт"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "Контрольная точка"
 
 msgid "Breakpoints"
 msgstr "Контрольные точки"
@@ -125,10 +125,10 @@ msgid "Bytes"
 msgstr "Байты"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "Байт доступно"
 
 msgid "C Strings"
-msgstr ""
+msgstr "C строки"
 
 msgid "CPU"
 msgstr "Процессор"
@@ -143,7 +143,7 @@ msgid "Calls"
 msgstr "Вызовы"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Стек вызовов"
 
 msgid "Cancel"
 msgstr "Отмена"
@@ -161,7 +161,7 @@ msgid "Cannot load database"
 msgstr "Не удается загрузить базу данных"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "Не удаётся загрузить драйвер"
 
 msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
@@ -206,7 +206,7 @@ msgid "Code section"
 msgstr "Секция кода"
 
 msgid "Colors"
-msgstr ""
+msgstr "Цвета"
 
 msgid "Commands"
 msgstr "Команды"
@@ -278,13 +278,13 @@ msgid "Detach"
 msgstr "Отсоединить"
 
 msgid "Device"
-msgstr ""
+msgstr "Устройство"
 
 msgid "Device scan"
 msgstr "Сканирование устройства"
 
 msgid "Diagram"
-msgstr ""
+msgstr "Диаграмма"
 
 msgid "Directory"
 msgstr "Каталог"
@@ -356,7 +356,7 @@ msgid "File"
 msgstr "Файл"
 
 msgid "File info"
-msgstr ""
+msgstr "Информация о файле"
 
 msgid "File name"
 msgstr "Имя файла"
@@ -398,7 +398,7 @@ msgid "Flags"
 msgstr "Флаги"
 
 msgid "Folder"
-msgstr ""
+msgstr "Директория"
 
 msgid "Follow in"
 msgstr ""
@@ -413,7 +413,7 @@ msgid "Format"
 msgstr "Формат"
 
 msgid "Function"
-msgstr ""
+msgstr "Функция"
 
 msgid "Functions"
 msgstr "Функции"
@@ -434,7 +434,7 @@ msgid "Go to address"
 msgstr "Перейти к адресу"
 
 msgid "Grid"
-msgstr ""
+msgstr "Сетка"
 
 msgid "Handles"
 msgstr "Хэндлы"
@@ -512,7 +512,7 @@ msgid "Jumps"
 msgstr "Переходы"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Сохранять размер"
 
 msgid "Kernel mode"
 msgstr ""
@@ -587,7 +587,7 @@ msgid "Mode"
 msgstr "Режим"
 
 msgid "Module"
-msgstr ""
+msgstr "Модуль"
 
 msgid "Modules"
 msgstr "Модули"
@@ -599,7 +599,7 @@ msgid "Name"
 msgstr "Имя"
 
 msgid "Next"
-msgstr ""
+msgstr "Далее"
 
 msgid "No"
 msgstr "Нет"
@@ -701,7 +701,7 @@ msgid "Rebase"
 msgstr "Rebase"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Недавние файлы"
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -758,7 +758,7 @@ msgid "Save"
 msgstr "Сохранить"
 
 msgid "Save as"
-msgstr ""
+msgstr "Сохранить как"
 
 msgid "Save backup"
 msgstr "Сохранить резервную копию"
@@ -773,7 +773,7 @@ msgid "Save file"
 msgstr "Сохранить файл"
 
 msgid "Save history"
-msgstr ""
+msgstr "Сохранить историю"
 
 msgid "Save last directory"
 msgstr "Сохранить место последнего сканирования"
@@ -839,7 +839,7 @@ msgid "Show"
 msgstr "Показывать"
 
 msgid "Show all"
-msgstr ""
+msgstr "Показать всё"
 
 msgid "Show comments"
 msgstr "Показать комментарии"
@@ -887,7 +887,7 @@ msgid "Sort type"
 msgstr "Тип сортировки"
 
 msgid "Source"
-msgstr ""
+msgstr "Источник"
 
 msgid "Source code"
 msgstr "Исходный код"
@@ -896,10 +896,10 @@ msgid "Spaces"
 msgstr "Пробелы"
 
 msgid "Stack"
-msgstr "Стэк"
+msgstr "Стек"
 
 msgid "State"
-msgstr ""
+msgstr "Состояние"
 
 msgid "Status"
 msgstr "Статус"
@@ -1025,7 +1025,7 @@ msgid "Upper"
 msgstr "Верхний регистр"
 
 msgid "User"
-msgstr ""
+msgstr "Пользователь"
 
 msgid "User mode"
 msgstr ""
