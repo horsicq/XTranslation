@@ -52,10 +52,10 @@ msgid "All types"
 msgstr "所有类型"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "分配基址"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "分配标识符"
 
 msgid "Analyze"
 msgstr "分析"
@@ -76,16 +76,16 @@ msgid "Archive record"
 msgstr "存档记录"
 
 msgid "Array"
-msgstr "大批"
+msgstr "数组"
 
 msgid "Attach"
-msgstr "附"
+msgstr "附加"
 
 msgid "Automatic"
 msgstr "自动"
 
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 msgid "Base address"
 msgstr "基址"
@@ -109,10 +109,10 @@ msgid "Bound import"
 msgstr "绑定导入"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "断点"
 
 msgid "Breakpoints"
-msgstr "断点"
+msgstr "全部断点"
 
 msgid "Bugreports"
 msgstr "错误报告"
@@ -124,13 +124,13 @@ msgid "Bytes"
 msgstr "字节数"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "可用字节"
 
 msgid "C Strings"
-msgstr ""
+msgstr "C 字符串"
 
 msgid "CPU"
-msgstr "中央处理器"
+msgstr ""
 
 msgid "Calculate"
 msgstr "计算"
@@ -142,7 +142,7 @@ msgid "Calls"
 msgstr "调用"
 
 msgid "Callstack"
-msgstr ""
+msgstr "调用栈"
 
 msgid "Cancel"
 msgstr "取消"
@@ -160,7 +160,7 @@ msgid "Cannot load database"
 msgstr "无法加载数据库"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "无法加载驱动"
 
 msgid "Cannot load file"
 msgstr "无法加载文件"
@@ -205,7 +205,7 @@ msgid "Code section"
 msgstr "代码段"
 
 msgid "Colors"
-msgstr ""
+msgstr "所有颜色"
 
 msgid "Commands"
 msgstr "指令"
@@ -277,13 +277,13 @@ msgid "Detach"
 msgstr "分离"
 
 msgid "Device"
-msgstr ""
+msgstr "设备"
 
 msgid "Device scan"
 msgstr "设备扫描"
 
 msgid "Diagram"
-msgstr ""
+msgstr "图解"
 
 msgid "Directory"
 msgstr "目录"
@@ -304,7 +304,7 @@ msgid "Donate"
 msgstr "捐赠"
 
 msgid "Driver"
-msgstr "司机"
+msgstr "驱动"
 
 msgid "Dump"
 msgstr "转储"
@@ -355,7 +355,7 @@ msgid "File"
 msgstr "文件"
 
 msgid "File info"
-msgstr ""
+msgstr "文件信息"
 
 msgid "File name"
 msgstr "文件名"
@@ -418,7 +418,7 @@ msgid "Functions"
 msgstr "函数"
 
 msgid "GB"
-msgstr "GB"
+msgstr ""
 
 msgid "Generic"
 msgstr "通用"
@@ -511,7 +511,7 @@ msgid "Jumps"
 msgstr "跳过"
 
 msgid "Keep size"
-msgstr ""
+msgstr "保持大小"
 
 msgid "Kernel mode"
 msgstr ""
@@ -526,13 +526,13 @@ msgid "Language"
 msgstr "语言"
 
 msgid "Lazy binding"
-msgstr "懒惰绑定"
+msgstr "延迟绑定"
 
 msgid "Length"
 msgstr "长度"
 
 msgid "Libraries"
-msgstr "函数库"
+msgstr "全部库"
 
 msgid "Library"
 msgstr "库"
@@ -553,7 +553,7 @@ msgid "Log"
 msgstr "日志"
 
 msgid "MB"
-msgstr "MB"
+msgstr ""
 
 msgid "MainWindow"
 msgstr "主窗口"
@@ -586,10 +586,10 @@ msgid "Mode"
 msgstr "模式"
 
 msgid "Module"
-msgstr ""
+msgstr "模块"
 
 msgid "Modules"
-msgstr "模块"
+msgstr "全部模块"
 
 msgid "More info"
 msgstr "更多信息"
@@ -598,7 +598,7 @@ msgid "Name"
 msgstr "名称"
 
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 msgid "No"
 msgstr "否"
@@ -616,10 +616,10 @@ msgid "Offset"
 msgstr "偏移"
 
 msgid "Opcode"
-msgstr "机器码"
+msgstr "指令"
 
 msgid "Opcodes"
-msgstr "机器码"
+msgstr "指令集"
 
 msgid "Open"
 msgstr "打开"
@@ -637,7 +637,7 @@ msgid "Options"
 msgstr "选项"
 
 msgid "Overlay"
-msgstr "覆盖"
+msgstr "附加"
 
 msgid "Packer"
 msgstr "打包工具"
@@ -664,13 +664,13 @@ msgid "Process"
 msgstr "进程"
 
 msgid "Processes"
-msgstr "进程"
+msgstr "全部进程"
 
 msgid "Program name"
 msgstr "程序名称"
 
 msgid "Programs"
-msgstr "程序"
+msgstr "全部程序"
 
 msgid "Protection"
 msgstr "保护"
@@ -700,7 +700,7 @@ msgid "Rebase"
 msgstr "变基"
 
 msgid "Recent files"
-msgstr ""
+msgstr "最近打开文件"
 
 msgid "Recursive"
 msgstr "递归"
@@ -718,7 +718,7 @@ msgid "Region"
 msgstr "区域"
 
 msgid "Regions"
-msgstr "区域"
+msgstr "全部区域"
 
 msgid "Register"
 msgstr ""
@@ -757,7 +757,7 @@ msgid "Save"
 msgstr "保存"
 
 msgid "Save as"
-msgstr ""
+msgstr "保存为"
 
 msgid "Save backup"
 msgstr "保存备份"
@@ -772,7 +772,7 @@ msgid "Save file"
 msgstr "保存文件"
 
 msgid "Save history"
-msgstr ""
+msgstr "保存历史"
 
 msgid "Save last directory"
 msgstr "保存到上次目录"
@@ -808,13 +808,13 @@ msgid "Section name"
 msgstr "节名称"
 
 msgid "Sections"
-msgstr "节"
+msgstr "全部节"
 
 msgid "Segment"
 msgstr "段"
 
 msgid "Segments"
-msgstr "段"
+msgstr "全部段"
 
 msgid "Select"
 msgstr "选择"
@@ -838,13 +838,13 @@ msgid "Show"
 msgstr "显示"
 
 msgid "Show all"
-msgstr ""
+msgstr "全部显示"
 
 msgid "Show comments"
-msgstr "显示评论"
+msgstr "显示标注"
 
 msgid "Show in"
-msgstr ""
+msgstr "显示到"
 
 msgid "Show logo"
 msgstr "显示徽标"
@@ -868,7 +868,7 @@ msgid "Signature"
 msgstr "签名"
 
 msgid "Signatures"
-msgstr "签名"
+msgstr "全部签名"
 
 msgid "Single application"
 msgstr "单个应用程序"
@@ -931,7 +931,7 @@ msgid "Structs"
 msgstr "结构"
 
 msgid "Stub"
-msgstr "桩"
+msgstr ""
 
 msgid "Style"
 msgstr "样式"
@@ -994,7 +994,7 @@ msgid "Time"
 msgstr "时间"
 
 msgid "Time date stamp"
-msgstr "时间日期戳"
+msgstr "时间戳"
 
 msgid "To data"
 msgstr "到数据"
@@ -1006,7 +1006,7 @@ msgid "Tool"
 msgstr "工具"
 
 msgid "Tools"
-msgstr "工具"
+msgstr "工具集"
 
 msgid "Total"
 msgstr "总计"
@@ -1072,7 +1072,7 @@ msgid "extender"
 msgstr "扩展器"
 
 msgid "kB"
-msgstr "kB"
+msgstr ""
 
 msgid "msec"
 msgstr "毫秒"
