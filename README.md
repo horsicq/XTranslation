@@ -31,7 +31,7 @@ Translation for:
 | Ukrainian           	| <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_uk.po"> <img src="https://gitlocalize.com/repo/4736/uk/badge.svg" /> </a> |
 | Vietnamese           | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_vi.po"> <img src="https://gitlocalize.com/repo/4736/vi/badge.svg" /> </a> |
 
-Thank you to all the people who already contributed!
+Thanks to all the people who already contributed!
 
 <a href="https://github.com/horsicq/XTranslation/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=horsicq/XTranslation" />
