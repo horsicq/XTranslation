@@ -8,7 +8,7 @@ msgstr ""
 "X-Language: uk_UA\n"
 
 msgid "128-bit"
-msgstr "128 біт"
+msgstr "128-бітний"
 
 msgid "16-bit"
 msgstr "16-бітний"
@@ -110,7 +110,7 @@ msgid "Bound import"
 msgstr "Зв'язаний імпорт"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "Точка зупину"
 
 msgid "Breakpoints"
 msgstr "Точки зупину"
@@ -128,7 +128,7 @@ msgid "Bytes available"
 msgstr "Доступні байти"
 
 msgid "C Strings"
-msgstr "C рядки"
+msgstr "C стрічки"
 
 msgid "CPU"
 msgstr "Процесор"
@@ -143,7 +143,7 @@ msgid "Calls"
 msgstr "Виклики"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Стек викликів"
 
 msgid "Cancel"
 msgstr "Скасувати"
@@ -233,7 +233,7 @@ msgid "Count"
 msgstr "Кількість"
 
 msgid "Create view model"
-msgstr "Стоврити модель виду"
+msgstr "Створити модель виду"
 
 msgid "Cryptor"
 msgstr "Криптор"
@@ -398,10 +398,10 @@ msgid "Flags"
 msgstr "Прапорці"
 
 msgid "Folder"
-msgstr ""
+msgstr "Каталог"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Слідувати"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -413,7 +413,7 @@ msgid "Format"
 msgstr "Формат"
 
 msgid "Function"
-msgstr ""
+msgstr "Функція"
 
 msgid "Functions"
 msgstr "Функції"
@@ -461,7 +461,7 @@ msgid "Hex signature"
 msgstr "Hex сигнатура"
 
 msgid "Highlight"
-msgstr ""
+msgstr "Виділяти"
 
 msgid "Image"
 msgstr "Малюнок"
@@ -599,7 +599,7 @@ msgid "Name"
 msgstr "Ім'я"
 
 msgid "Next"
-msgstr ""
+msgstr "Далі"
 
 msgid "No"
 msgstr "Ні"
@@ -758,7 +758,7 @@ msgid "Save"
 msgstr "Зберегти"
 
 msgid "Save as"
-msgstr ""
+msgstr "Збереги як"
 
 msgid "Save backup"
 msgstr "Зберегти резервну копію"
@@ -800,7 +800,7 @@ msgid "Search signatures"
 msgstr "Пошук сигнатур"
 
 msgid "Search strings"
-msgstr "Пошук рядків"
+msgstr "Пошук стрічок"
 
 msgid "Section"
 msgstr "Секція"
@@ -839,13 +839,13 @@ msgid "Show"
 msgstr "Показати"
 
 msgid "Show all"
-msgstr ""
+msgstr "Показати усе"
 
 msgid "Show comments"
 msgstr "Показати коментарі"
 
 msgid "Show in"
-msgstr ""
+msgstr "Показати в"
 
 msgid "Show logo"
 msgstr "Показати логотип"
@@ -887,7 +887,7 @@ msgid "Sort type"
 msgstr "Тип сортування"
 
 msgid "Source"
-msgstr ""
+msgstr "Джерело"
 
 msgid "Source code"
 msgstr "Джерельний код"
@@ -917,13 +917,13 @@ msgid "Stop"
 msgstr "Стоп"
 
 msgid "String"
-msgstr "Рядок"
+msgstr "Стрічка"
 
 msgid "String table"
-msgstr "Таблиця рядків"
+msgstr "Таблиця стрічок"
 
 msgid "Strings"
-msgstr "Рядки"
+msgstr "Стрічки"
 
 msgid "Struct and unions"
 msgstr "Структури та об'єднання"
@@ -1025,7 +1025,7 @@ msgid "Upper"
 msgstr "Верхній регістр"
 
 msgid "User"
-msgstr ""
+msgstr "Користувач"
 
 msgid "User mode"
 msgstr "Режим користувача"
