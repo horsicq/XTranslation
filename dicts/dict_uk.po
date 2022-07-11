@@ -38,7 +38,7 @@ msgid "Address"
 msgstr "Адреса"
 
 msgid "Address colon"
-msgstr ""
+msgstr "Розділювач в адресі (:)"
 
 msgid "Algorithm"
 msgstr "Алгоритм"
@@ -62,7 +62,7 @@ msgid "Analyze"
 msgstr "Аналізувати"
 
 msgid "Appearance"
-msgstr "Зовнішній вигляд"
+msgstr "Вигляд"
 
 msgid "Application"
 msgstr "Програма"
@@ -293,7 +293,7 @@ msgid "Directory scan"
 msgstr "Сканування каталогу"
 
 msgid "Disasm"
-msgstr "Дизасемблювати"
+msgstr "Дизасемблер"
 
 msgid "Document"
 msgstr "Документ"
