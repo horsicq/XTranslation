@@ -22,6 +22,9 @@ msgstr "64 بت"
 msgid "8-bit"
 msgstr "8 بت"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "عن"
 
@@ -250,6 +253,9 @@ msgstr "البيانات في التعليمات البرمجية"
 msgid "Database"
 msgstr "قاعدة البيانات"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "تصحيح"
 
@@ -423,6 +429,9 @@ msgstr "غيغابايت"
 
 msgid "Generic"
 msgstr "نوعي"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "احصل على العنصر"
@@ -616,6 +625,9 @@ msgstr "هدف"
 msgid "Offset"
 msgstr "عوض"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "كود التشغيل"
 
@@ -654,6 +666,9 @@ msgstr "الرجاء إعادة تشغيل التطبيق"
 
 msgid "Please run the program as an administrator"
 msgstr "يرجى تشغيل البرنامج كمسؤول"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "المؤشر"
@@ -735,6 +750,9 @@ msgstr "إعادة تحميل"
 
 msgid "Relocs"
 msgstr "ينتقل"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "الموارد"
@@ -844,6 +862,9 @@ msgstr ""
 msgid "Show comments"
 msgstr "إظهار التعليقات"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -925,6 +946,9 @@ msgstr "جدول سلسلة"
 msgid "Strings"
 msgstr "سلاسل"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "الهيكل والنقابات"
 
@@ -954,6 +978,9 @@ msgstr "حرف او رمز"
 
 msgid "Syntax"
 msgstr "بناء الجملة"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "طاولة"
@@ -1021,8 +1048,14 @@ msgstr "نوع"
 msgid "Unknown"
 msgstr "مجهول"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "العلوي"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr ""
@@ -1035,6 +1068,9 @@ msgstr "قيمة"
 
 msgid "Variable"
 msgstr "عامل"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "إصدار"
@@ -1089,13 +1125,3 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
-
-
-
-
-
-
-
-
-
-

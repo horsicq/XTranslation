@@ -21,6 +21,9 @@ msgstr ""
 msgid "8-bit"
 msgstr ""
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr ""
 
@@ -249,6 +252,9 @@ msgstr ""
 msgid "Database"
 msgstr ""
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr ""
 
@@ -421,6 +427,9 @@ msgid "GB"
 msgstr ""
 
 msgid "Generic"
+msgstr ""
+
+msgid "Get"
 msgstr ""
 
 msgid "Get element"
@@ -615,6 +624,9 @@ msgstr ""
 msgid "Offset"
 msgstr ""
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr ""
 
@@ -652,6 +664,9 @@ msgid "Please restart the application"
 msgstr ""
 
 msgid "Please run the program as an administrator"
+msgstr ""
+
+msgid "Please use valid API key"
 msgstr ""
 
 msgid "Pointer"
@@ -733,6 +748,9 @@ msgid "Reload"
 msgstr ""
 
 msgid "Relocs"
+msgstr ""
+
+msgid "Rescan"
 msgstr ""
 
 msgid "Resource"
@@ -843,6 +861,9 @@ msgstr ""
 msgid "Show comments"
 msgstr ""
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -924,6 +945,9 @@ msgstr ""
 msgid "Strings"
 msgstr ""
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr ""
 
@@ -952,6 +976,9 @@ msgid "Symbols"
 msgstr ""
 
 msgid "Syntax"
+msgstr ""
+
+msgid "TB"
 msgstr ""
 
 msgid "Table"
@@ -1020,7 +1047,13 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
+msgstr ""
+
+msgid "Uppercase"
 msgstr ""
 
 msgid "User"
@@ -1033,6 +1066,9 @@ msgid "Value"
 msgstr ""
 
 msgid "Variable"
+msgstr ""
+
+msgid "Verbose"
 msgstr ""
 
 msgid "Version"

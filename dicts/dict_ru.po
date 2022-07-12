@@ -22,6 +22,9 @@ msgstr "64-битный"
 msgid "8-bit"
 msgstr "8-битный"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "О программе"
 
@@ -250,6 +253,9 @@ msgstr "Данные в коде"
 msgid "Database"
 msgstr "База данных"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "Отладка"
 
@@ -423,6 +429,9 @@ msgstr "ГБ"
 
 msgid "Generic"
 msgstr "Обобщенный"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "Получить элемент"
@@ -616,6 +625,9 @@ msgstr "Объект"
 msgid "Offset"
 msgstr "Смещение"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "Опкод"
 
@@ -654,6 +666,9 @@ msgstr "Пожалуйста перезапустите приложение"
 
 msgid "Please run the program as an administrator"
 msgstr "Пожалуйста, запустите программу от имени администратора"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "Указатель"
@@ -735,6 +750,9 @@ msgstr "Обновить"
 
 msgid "Relocs"
 msgstr "Relocs"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -844,6 +862,9 @@ msgstr "Показать всё"
 msgid "Show comments"
 msgstr "Показать комментарии"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -925,6 +946,9 @@ msgstr "Таблица строк"
 msgid "Strings"
 msgstr "Строки"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "Структура и юнионы"
 
@@ -954,6 +978,9 @@ msgstr "Символы"
 
 msgid "Syntax"
 msgstr "Синтаксис"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "Таблица"
@@ -1021,8 +1048,14 @@ msgstr "Тип"
 msgid "Unknown"
 msgstr "Неизвестно"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "Верхний регистр"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr "Пользователь"
@@ -1035,6 +1068,9 @@ msgstr "Значение"
 
 msgid "Variable"
 msgstr "Переменная"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "Версия"
@@ -1089,13 +1125,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
-
-
-
-
-
-
-
-
-
-

@@ -21,6 +21,9 @@ msgstr "64-bit"
 msgid "8-bit"
 msgstr "8 bit"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "Giới thiệu"
 
@@ -249,6 +252,9 @@ msgstr "Dữ liệu trong mã"
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "Gỡ lỗi"
 
@@ -422,6 +428,9 @@ msgstr "GB"
 
 msgid "Generic"
 msgstr "Chung"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "Nhận phần tử"
@@ -615,6 +624,9 @@ msgstr "Sự vật"
 msgid "Offset"
 msgstr "Khoảng cách"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "Mã vận hành"
 
@@ -653,6 +665,9 @@ msgstr "Vui lòng khởi động lại ứng dụng"
 
 msgid "Please run the program as an administrator"
 msgstr "Vui lòng chạy chương trình với tư cách quản trị viên"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "Con trỏ"
@@ -734,6 +749,9 @@ msgstr "Tải lại"
 
 msgid "Relocs"
 msgstr "Relocs"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "Nguồn"
@@ -843,6 +861,9 @@ msgstr ""
 msgid "Show comments"
 msgstr "Hiển thị bình luận"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -924,6 +945,9 @@ msgstr "Bảng chuỗi"
 msgid "Strings"
 msgstr "Chuỗi"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "Cơ cấu và công đoàn"
 
@@ -953,6 +977,9 @@ msgstr "Ký hiệu"
 
 msgid "Syntax"
 msgstr "Cú pháp"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "Bàn"
@@ -1020,8 +1047,14 @@ msgstr "Loại"
 msgid "Unknown"
 msgstr "không xác định"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "Trên"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr ""
@@ -1034,6 +1067,9 @@ msgstr "Giá trị"
 
 msgid "Variable"
 msgstr "Biến đổi"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "Phiên bản"
@@ -1088,13 +1124,3 @@ msgstr "nén"
 
 msgid "protection"
 msgstr "bảo vệ"
-
-
-
-
-
-
-
-
-
-

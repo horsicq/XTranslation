@@ -21,6 +21,9 @@ msgstr "64 bits"
 msgid "8-bit"
 msgstr "8 bits"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "Acerca de"
 
@@ -249,6 +252,9 @@ msgstr "Datos en el código"
 msgid "Database"
 msgstr "Base de datos"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "Depurar"
 
@@ -422,6 +428,9 @@ msgstr "GB"
 
 msgid "Generic"
 msgstr "Genérico"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "Obtener elemento"
@@ -615,6 +624,9 @@ msgstr "Objeto"
 msgid "Offset"
 msgstr "Desplazamiento"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "Opcode"
 
@@ -653,6 +665,9 @@ msgstr "Por favor, reinicie la aplicación"
 
 msgid "Please run the program as an administrator"
 msgstr "Por favor, ejecute el programa como administrador"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "Puntero"
@@ -734,6 +749,9 @@ msgstr "Recargar"
 
 msgid "Relocs"
 msgstr "Relocalizaciones"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "Recurso"
@@ -843,6 +861,9 @@ msgstr ""
 msgid "Show comments"
 msgstr "Mostrar comentarios"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -924,6 +945,9 @@ msgstr "Tabla de textos"
 msgid "Strings"
 msgstr "Textos"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "Estructura y uniones"
 
@@ -953,6 +977,9 @@ msgstr "Símbolos"
 
 msgid "Syntax"
 msgstr "Sintaxis"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "Tabla"
@@ -1020,8 +1047,14 @@ msgstr "Tipo"
 msgid "Unknown"
 msgstr "Desconocido"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "Superior"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr ""
@@ -1034,6 +1067,9 @@ msgstr "Valor"
 
 msgid "Variable"
 msgstr "Variable"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "Versión"
@@ -1088,13 +1124,3 @@ msgstr "empaquetado"
 
 msgid "protection"
 msgstr "protección"
-
-
-
-
-
-
-
-
-
-

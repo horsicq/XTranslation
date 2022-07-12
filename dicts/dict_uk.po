@@ -22,6 +22,9 @@ msgstr "64-бітний"
 msgid "8-bit"
 msgstr "8-бітний"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "Про програму"
 
@@ -250,6 +253,9 @@ msgstr "Дані в коді"
 msgid "Database"
 msgstr "База даних"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "Відлагодження"
 
@@ -423,6 +429,9 @@ msgstr "ГБ"
 
 msgid "Generic"
 msgstr "Узагальнене"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "Отримати елемент"
@@ -616,6 +625,9 @@ msgstr "Об'єкт"
 msgid "Offset"
 msgstr "Зміщення"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "Опкод"
 
@@ -654,6 +666,9 @@ msgstr "Будь ласка, перезавантажте програму"
 
 msgid "Please run the program as an administrator"
 msgstr "Будь ласка, запустіть програму від імені адміністратора"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "Вказівник"
@@ -735,6 +750,9 @@ msgstr "Перевантажити"
 
 msgid "Relocs"
 msgstr "Релоки"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -844,6 +862,9 @@ msgstr "Показати усе"
 msgid "Show comments"
 msgstr "Показати коментарі"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr "Показати в"
 
@@ -925,6 +946,9 @@ msgstr "Таблиця стрічок"
 msgid "Strings"
 msgstr "Стрічки"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "Структури та об'єднання"
 
@@ -954,6 +978,9 @@ msgstr "Символи"
 
 msgid "Syntax"
 msgstr "Синтаксис"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "Таблиця"
@@ -1021,8 +1048,14 @@ msgstr "Тип"
 msgid "Unknown"
 msgstr "Невідомо"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "Верхній регістр"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr "Користувач"
@@ -1035,6 +1068,9 @@ msgstr "Значення"
 
 msgid "Variable"
 msgstr "Змінна"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "Версія"
@@ -1089,14 +1125,3 @@ msgstr "запакований"
 
 msgid "protection"
 msgstr "захист"
-
-
-
-
-
-
-
-
-
-
-

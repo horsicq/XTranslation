@@ -21,6 +21,9 @@ msgstr "64 סיביות"
 msgid "8-bit"
 msgstr "8 סיביות"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "אודות"
 
@@ -249,6 +252,9 @@ msgstr "נתונים בקוד"
 msgid "Database"
 msgstr "מסד נתונים"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "לנפות"
 
@@ -422,6 +428,9 @@ msgstr "GB"
 
 msgid "Generic"
 msgstr "כללי"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "קבל אלמנט"
@@ -615,6 +624,9 @@ msgstr "לְהִתְנַגֵד"
 msgid "Offset"
 msgstr "היסט"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "מזהה פקודה"
 
@@ -653,6 +665,9 @@ msgstr "אנא הפעל את התוכנית מחדש"
 
 msgid "Please run the program as an administrator"
 msgstr "אנא הפעל את התוכנית כמנהל מערכת"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "מַצבִּיעַ"
@@ -734,6 +749,9 @@ msgstr "טען מחדש"
 
 msgid "Relocs"
 msgstr "עוברת דירה מחדש"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "מַשׁאָב"
@@ -843,6 +861,9 @@ msgstr ""
 msgid "Show comments"
 msgstr "הצג הערות"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -924,6 +945,9 @@ msgstr "שולחן מחרוזת"
 msgid "Strings"
 msgstr "מחרוזות"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "מבנה ואיגודים"
 
@@ -953,6 +977,9 @@ msgstr "סמלים"
 
 msgid "Syntax"
 msgstr "תחביר"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "טבלה"
@@ -1020,8 +1047,14 @@ msgstr "סוג"
 msgid "Unknown"
 msgstr "לא ידוע"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "עליון"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr ""
@@ -1034,6 +1067,9 @@ msgstr "ערך"
 
 msgid "Variable"
 msgstr "מִשְׁתַנֶה"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "גרסה"
@@ -1088,13 +1124,3 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
-
-
-
-
-
-
-
-
-
-

@@ -21,6 +21,9 @@ msgstr "64 位"
 msgid "8-bit"
 msgstr "8 位"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "關於"
 
@@ -249,6 +252,9 @@ msgstr "代碼中的數據"
 msgid "Database"
 msgstr "資料庫"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "除錯"
 
@@ -422,6 +428,9 @@ msgstr "國標"
 
 msgid "Generic"
 msgstr "通用"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "獲取元素"
@@ -615,6 +624,9 @@ msgstr "目的"
 msgid "Offset"
 msgstr "偏移"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "操作碼"
 
@@ -653,6 +665,9 @@ msgstr "請重啟應用程式"
 
 msgid "Please run the program as an administrator"
 msgstr "請以管理員身份運行程序"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "指針"
@@ -734,6 +749,9 @@ msgstr "重新載入"
 
 msgid "Relocs"
 msgstr "重新定位"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "資源"
@@ -843,6 +861,9 @@ msgstr ""
 msgid "Show comments"
 msgstr "顯示評論"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -924,6 +945,9 @@ msgstr "字符串表"
 msgid "Strings"
 msgstr "字串"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "結構體和工會"
 
@@ -953,6 +977,9 @@ msgstr "符號"
 
 msgid "Syntax"
 msgstr "句法"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "表格"
@@ -1020,8 +1047,14 @@ msgstr "類型"
 msgid "Unknown"
 msgstr "未知"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "大寫"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr ""
@@ -1034,6 +1067,9 @@ msgstr "值"
 
 msgid "Variable"
 msgstr "多變的"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "版本"
@@ -1088,13 +1124,3 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
-
-
-
-
-
-
-
-
-
-

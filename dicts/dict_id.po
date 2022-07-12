@@ -21,6 +21,9 @@ msgstr "64-bit"
 msgid "8-bit"
 msgstr "8-bit"
 
+msgid "API key"
+msgstr ""
+
 msgid "About"
 msgstr "Tentang"
 
@@ -249,6 +252,9 @@ msgstr "Data dalam kode"
 msgid "Database"
 msgstr "Basis data"
 
+msgid "Date"
+msgstr ""
+
 msgid "Debug"
 msgstr "Debug"
 
@@ -422,6 +428,9 @@ msgstr "GB"
 
 msgid "Generic"
 msgstr "Generik"
+
+msgid "Get"
+msgstr ""
 
 msgid "Get element"
 msgstr "Dapatkan elemen"
@@ -615,6 +624,9 @@ msgstr "Obyek"
 msgid "Offset"
 msgstr "Offset"
 
+msgid "Online tools"
+msgstr ""
+
 msgid "Opcode"
 msgstr "Kode operasi"
 
@@ -653,6 +665,9 @@ msgstr "Silahkan mulai ulang aplikasi"
 
 msgid "Please run the program as an administrator"
 msgstr "Silakan jalankan program sebagai administrator"
+
+msgid "Please use valid API key"
+msgstr ""
 
 msgid "Pointer"
 msgstr "penunjuk"
@@ -734,6 +749,9 @@ msgstr "Muat ulang"
 
 msgid "Relocs"
 msgstr "relokasi"
+
+msgid "Rescan"
+msgstr ""
 
 msgid "Resource"
 msgstr "Sumber"
@@ -843,6 +861,9 @@ msgstr ""
 msgid "Show comments"
 msgstr "Tampilkan komentar"
 
+msgid "Show detects"
+msgstr ""
+
 msgid "Show in"
 msgstr ""
 
@@ -924,6 +945,9 @@ msgstr "tabel string"
 msgid "Strings"
 msgstr "String"
 
+msgid "Struct"
+msgstr ""
+
 msgid "Struct and unions"
 msgstr "Struktur dan serikat pekerja"
 
@@ -953,6 +977,9 @@ msgstr "Simbol"
 
 msgid "Syntax"
 msgstr "Sintaksis"
+
+msgid "TB"
+msgstr ""
 
 msgid "Table"
 msgstr "Meja"
@@ -1020,8 +1047,14 @@ msgstr "Tipe"
 msgid "Unknown"
 msgstr "Tidak diketahui"
 
+msgid "Upload the file for analyze?"
+msgstr ""
+
 msgid "Upper"
 msgstr "Atas"
+
+msgid "Uppercase"
+msgstr ""
 
 msgid "User"
 msgstr ""
@@ -1034,6 +1067,9 @@ msgstr "Nilai"
 
 msgid "Variable"
 msgstr "Variabel"
+
+msgid "Verbose"
+msgstr ""
 
 msgid "Version"
 msgstr "Versi"
@@ -1088,13 +1124,3 @@ msgstr "dikemas"
 
 msgid "protection"
 msgstr "proteksi"
-
-
-
-
-
-
-
-
-
-
