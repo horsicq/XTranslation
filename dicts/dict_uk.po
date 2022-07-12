@@ -23,7 +23,7 @@ msgid "8-bit"
 msgstr "8-бітний"
 
 msgid "API key"
-msgstr ""
+msgstr "API ключ"
 
 msgid "About"
 msgstr "Про програму"
@@ -254,7 +254,7 @@ msgid "Database"
 msgstr "База даних"
 
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 msgid "Debug"
 msgstr "Відлагодження"
@@ -431,7 +431,7 @@ msgid "Generic"
 msgstr "Узагальнене"
 
 msgid "Get"
-msgstr ""
+msgstr "Отримати"
 
 msgid "Get element"
 msgstr "Отримати елемент"
@@ -626,7 +626,7 @@ msgid "Offset"
 msgstr "Зміщення"
 
 msgid "Online tools"
-msgstr ""
+msgstr "Онлайн утиліти"
 
 msgid "Opcode"
 msgstr "Опкод"
@@ -668,7 +668,7 @@ msgid "Please run the program as an administrator"
 msgstr "Будь ласка, запустіть програму від імені адміністратора"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "Прохання використовувати справжній API ключ"
 
 msgid "Pointer"
 msgstr "Вказівник"
@@ -737,7 +737,7 @@ msgid "Regions"
 msgstr "Регіони"
 
 msgid "Register"
-msgstr ""
+msgstr "Реєстрація"
 
 msgid "Relative address"
 msgstr "Відносна адреса"
@@ -752,7 +752,7 @@ msgid "Relocs"
 msgstr "Релоки"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Пересканувати"
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -863,7 +863,7 @@ msgid "Show comments"
 msgstr "Показати коментарі"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Показати детекти"
 
 msgid "Show in"
 msgstr "Показати в"
@@ -947,7 +947,7 @@ msgid "Strings"
 msgstr "Стрічки"
 
 msgid "Struct"
-msgstr ""
+msgstr "Структура"
 
 msgid "Struct and unions"
 msgstr "Структури та об'єднання"
@@ -980,7 +980,7 @@ msgid "Syntax"
 msgstr "Синтаксис"
 
 msgid "TB"
-msgstr ""
+msgstr "ТБ"
 
 msgid "Table"
 msgstr "Таблиця"
@@ -1049,13 +1049,13 @@ msgid "Unknown"
 msgstr "Невідомо"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "Завантажити файл для аналізу?"
 
 msgid "Upper"
 msgstr "Верхній регістр"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "Великі літери"
 
 msgid "User"
 msgstr "Користувач"
@@ -1070,7 +1070,7 @@ msgid "Variable"
 msgstr "Змінна"
 
 msgid "Verbose"
-msgstr ""
+msgstr "Детально"
 
 msgid "Version"
 msgstr "Версія"
