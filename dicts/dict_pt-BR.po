@@ -22,7 +22,7 @@ msgid "8-bit"
 msgstr "8 bits"
 
 msgid "API key"
-msgstr ""
+msgstr "Chave API"
 
 msgid "About"
 msgstr "Sobre"
@@ -253,7 +253,7 @@ msgid "Database"
 msgstr "Base de dados"
 
 msgid "Date"
-msgstr ""
+msgstr "Data"
 
 msgid "Debug"
 msgstr "Depurar"
@@ -412,7 +412,7 @@ msgid "Font"
 msgstr "Fonte"
 
 msgid "Form"
-msgstr "Forma"
+msgstr "Formulário"
 
 msgid "Format"
 msgstr "Formato"
@@ -430,7 +430,7 @@ msgid "Generic"
 msgstr "Genérico"
 
 msgid "Get"
-msgstr ""
+msgstr "Get"
 
 msgid "Get element"
 msgstr "Obter elemento"
@@ -625,7 +625,7 @@ msgid "Offset"
 msgstr "Offset"
 
 msgid "Online tools"
-msgstr ""
+msgstr "Ferramentas Online"
 
 msgid "Opcode"
 msgstr "Código de operação"
@@ -667,7 +667,7 @@ msgid "Please run the program as an administrator"
 msgstr "Por favor, execute o programa como administrador"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "Por gentileza utilize uma chave API Válida"
 
 msgid "Pointer"
 msgstr "Ponteiro"
@@ -751,7 +751,7 @@ msgid "Relocs"
 msgstr "Relocs"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Verificar novamente"
 
 msgid "Resource"
 msgstr "Recurso"
@@ -862,7 +862,7 @@ msgid "Show comments"
 msgstr "Mostrar comentários"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Mostrar detecções"
 
 msgid "Show in"
 msgstr "Mostrar em"
@@ -946,7 +946,7 @@ msgid "Strings"
 msgstr "Strings"
 
 msgid "Struct"
-msgstr ""
+msgstr "Estrutura"
 
 msgid "Struct and unions"
 msgstr "Estruturas e uniões"
@@ -979,7 +979,7 @@ msgid "Syntax"
 msgstr "Sintaxe"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Table"
 msgstr "Tabela"
@@ -1048,13 +1048,13 @@ msgid "Unknown"
 msgstr "Desconhecido"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "Fazer upload do arquivo para analisar ?"
 
 msgid "Upper"
 msgstr "Upper"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "Uppercase"
 
 msgid "User"
 msgstr "Usuário"
@@ -1069,7 +1069,7 @@ msgid "Variable"
 msgstr "Variável"
 
 msgid "Verbose"
-msgstr ""
+msgstr "Detalhado"
 
 msgid "Version"
 msgstr "Versão"
