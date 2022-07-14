@@ -11,7 +11,7 @@ msgid "128-bit"
 msgstr "128-битный"
 
 msgid "16-bit"
-msgstr "16 бит"
+msgstr "16-битный"
 
 msgid "32-bit"
 msgstr "32-битный"
@@ -23,7 +23,7 @@ msgid "8-bit"
 msgstr "8-битный"
 
 msgid "API key"
-msgstr ""
+msgstr "API-ключ"
 
 msgid "About"
 msgstr "О программе"
@@ -80,13 +80,13 @@ msgid "Archive record"
 msgstr "Архивная запись"
 
 msgid "Array"
-msgstr "Множество"
+msgstr "Массив"
 
 msgid "Attach"
-msgstr "Прикреплять"
+msgstr "Прикрепить"
 
 msgid "Automatic"
-msgstr "Автоматический"
+msgstr "Автоматически"
 
 msgid "Background"
 msgstr "Фон"
@@ -191,7 +191,7 @@ msgid "Certificate"
 msgstr "Сертификат"
 
 msgid "Check"
-msgstr "Проверять"
+msgstr "Проверить"
 
 msgid "Check updates"
 msgstr "Проверить обновления"
@@ -254,7 +254,7 @@ msgid "Database"
 msgstr "База данных"
 
 msgid "Date"
-msgstr ""
+msgstr "Дата"
 
 msgid "Debug"
 msgstr "Отладка"
@@ -269,10 +269,10 @@ msgid "Deep scan"
 msgstr "Глубокий анализ"
 
 msgid "Default"
-msgstr "Дефолт"
+msgstr "По умолчанию"
 
 msgid "Delay import"
-msgstr "Отложить импорт"
+msgstr "Отложенный импорт"
 
 msgid "Demangle"
 msgstr "Demangle"
@@ -293,7 +293,7 @@ msgid "Diagram"
 msgstr "Диаграмма"
 
 msgid "Directory"
-msgstr "Каталог"
+msgstr "Папка"
 
 msgid "Directory scan"
 msgstr "Сканирование папки"
@@ -311,7 +311,7 @@ msgid "Donate"
 msgstr "Донат"
 
 msgid "Driver"
-msgstr "Водитель"
+msgstr "Драйвер"
 
 msgid "Dump"
 msgstr "Дамп"
@@ -326,7 +326,7 @@ msgid "Elapsed"
 msgstr "Прошло"
 
 msgid "Endianness"
-msgstr "Порядок байтов"
+msgstr "Порядок байт"
 
 msgid "Entropy"
 msgstr "Энтропия"
@@ -371,7 +371,7 @@ msgid "File offset"
 msgstr "Смещение в файле"
 
 msgid "File saved"
-msgstr "Файл сохранен"
+msgstr "Файл сохранён"
 
 msgid "File scan"
 msgstr "Сканирование файла"
@@ -398,7 +398,7 @@ msgid "Fix offsets"
 msgstr "Исправить смещения"
 
 msgid "Fix types"
-msgstr "Типы исправлений"
+msgstr "Исправить типы"
 
 msgid "Flags"
 msgstr "Флаги"
@@ -407,7 +407,7 @@ msgid "Folder"
 msgstr "Директория"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Следовать в"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -431,7 +431,7 @@ msgid "Generic"
 msgstr "Обобщенный"
 
 msgid "Get"
-msgstr ""
+msgstr "Получить"
 
 msgid "Get element"
 msgstr "Получить элемент"
@@ -449,7 +449,7 @@ msgid "Handles"
 msgstr "Хэндлы"
 
 msgid "Hash"
-msgstr "Хэш"
+msgstr "Хеш"
 
 msgid "Header"
 msgstr "Заголовок"
@@ -470,7 +470,7 @@ msgid "Hex signature"
 msgstr "16-ричная сигнатура"
 
 msgid "Highlight"
-msgstr ""
+msgstr "Подсветка синтаксиса"
 
 msgid "Image"
 msgstr "Рисунок"
@@ -482,7 +482,7 @@ msgid "Import"
 msgstr "Импорт"
 
 msgid "Import hash"
-msgstr "Хэш импорта"
+msgstr "Хеш импорта"
 
 msgid "Indirect symbols"
 msgstr "Косвенные символы"
@@ -506,7 +506,7 @@ msgid "Invalid"
 msgstr "Неверный"
 
 msgid "Invalid opcode"
-msgstr "Неверный код операции"
+msgstr "Неверный опкод"
 
 msgid "Issuer"
 msgstr "Эмитент"
@@ -524,7 +524,7 @@ msgid "Keep size"
 msgstr "Сохранять размер"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "Режим ядра"
 
 msgid "Label"
 msgstr "Метка"
@@ -626,7 +626,7 @@ msgid "Offset"
 msgstr "Смещение"
 
 msgid "Online tools"
-msgstr ""
+msgstr "Онлайн-инструменты"
 
 msgid "Opcode"
 msgstr "Опкод"
@@ -638,7 +638,7 @@ msgid "Open"
 msgstr "Открыть"
 
 msgid "Open directory"
-msgstr "Открыть папку для сканирования"
+msgstr "Открыть папку"
 
 msgid "Open file"
 msgstr "Открыть файл"
@@ -662,13 +662,13 @@ msgid "Player"
 msgstr "Игрок"
 
 msgid "Please restart the application"
-msgstr "Пожалуйста перезапустите приложение"
+msgstr "Пожалуйста, перезапустите приложение"
 
 msgid "Please run the program as an administrator"
 msgstr "Пожалуйста, запустите программу от имени администратора"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "Пожалуйста, используйте действительный ключ API-ключ"
 
 msgid "Pointer"
 msgstr "Указатель"
@@ -722,7 +722,7 @@ msgid "Recursive"
 msgstr "Рекурсивно"
 
 msgid "Recursive scan"
-msgstr "Рекурсивное сканировние"
+msgstr "Рекурсивное сканирование"
 
 msgid "Ref from"
 msgstr "Ссылка из"
@@ -752,7 +752,7 @@ msgid "Relocs"
 msgstr "Relocs"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Пересканировать"
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -866,7 +866,7 @@ msgid "Show detects"
 msgstr ""
 
 msgid "Show in"
-msgstr ""
+msgstr "Показать в"
 
 msgid "Show logo"
 msgstr "Показать логотип"
@@ -893,7 +893,7 @@ msgid "Signatures"
 msgstr "Сигнатуры"
 
 msgid "Single application"
-msgstr "Одно приложение"
+msgstr "Одиночное приложение"
 
 msgid "Size"
 msgstr "Размер"
@@ -947,7 +947,7 @@ msgid "Strings"
 msgstr "Строки"
 
 msgid "Struct"
-msgstr ""
+msgstr "Структура"
 
 msgid "Struct and unions"
 msgstr "Структура и юнионы"
@@ -980,7 +980,7 @@ msgid "Syntax"
 msgstr "Синтаксис"
 
 msgid "TB"
-msgstr ""
+msgstr "ТБ"
 
 msgid "Table"
 msgstr "Таблица"
@@ -1049,19 +1049,19 @@ msgid "Unknown"
 msgstr "Неизвестно"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "Загрузить файл для анализа?"
 
 msgid "Upper"
 msgstr "Верхний регистр"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "Верхний регистр"
 
 msgid "User"
 msgstr "Пользователь"
 
 msgid "User mode"
-msgstr ""
+msgstr "Пользовательский режим"
 
 msgid "Value"
 msgstr "Значение"
@@ -1070,7 +1070,7 @@ msgid "Variable"
 msgstr "Переменная"
 
 msgid "Verbose"
-msgstr ""
+msgstr "Подробно"
 
 msgid "Version"
 msgstr "Версия"
