@@ -272,7 +272,7 @@ msgid "Default"
 msgstr "За замовчуванням"
 
 msgid "Delay import"
-msgstr "Відкласти імпорт"
+msgstr "Відкладений імпорт"
 
 msgid "Demangle"
 msgstr "Деманглувати"
