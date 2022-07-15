@@ -35,13 +35,13 @@ msgid "Add alignment"
 msgstr "Добавить выравнивание"
 
 msgid "Add to context menu"
-msgstr "Добавить в контекстное меню"
+msgstr "Добавить программу в контекстное меню"
 
 msgid "Address"
 msgstr "Адрес"
 
 msgid "Address colon"
-msgstr ""
+msgstr "Разделитель в адресе (:)"
 
 msgid "Algorithm"
 msgstr "Алгоритм"
@@ -737,7 +737,7 @@ msgid "Regions"
 msgstr "Регионы"
 
 msgid "Register"
-msgstr ""
+msgstr "Регистр"
 
 msgid "Relative address"
 msgstr "Относительный адрес"
@@ -779,7 +779,7 @@ msgid "Save as"
 msgstr "Сохранить как"
 
 msgid "Save backup"
-msgstr "Сохранить резервную копию"
+msgstr "Сохранять резервную копию"
 
 msgid "Save diagram"
 msgstr "Сохранить график"
@@ -794,7 +794,7 @@ msgid "Save history"
 msgstr "Сохранить историю"
 
 msgid "Save last directory"
-msgstr "Сохранить место последнего сканирования"
+msgstr "Поминть папку последнего сканирования"
 
 msgid "Save result"
 msgstr "Сохранить"
@@ -863,7 +863,7 @@ msgid "Show comments"
 msgstr "Показать комментарии"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Показать обнаружение"
 
 msgid "Show in"
 msgstr "Показать в"
@@ -893,7 +893,7 @@ msgid "Signatures"
 msgstr "Сигнатуры"
 
 msgid "Single application"
-msgstr "Одиночное приложение"
+msgstr "Запускать только одну копию приложения"
 
 msgid "Size"
 msgstr "Размер"
