@@ -478,10 +478,10 @@ msgid "Images"
 msgstr "Imagens"
 
 msgid "Import"
-msgstr "Importar"
+msgstr "Importação"
 
 msgid "Import hash"
-msgstr "Importar hash"
+msgstr "Hash Importação"
 
 msgid "Indirect symbols"
 msgstr "Símbolos indiretos"
@@ -553,7 +553,7 @@ msgid "Linker"
 msgstr "Linker"
 
 msgid "Load config"
-msgstr "Carregar configuração"
+msgstr "Exibir configuração"
 
 msgid "Local relocation"
 msgstr "Relocação local"
@@ -628,7 +628,7 @@ msgid "Online tools"
 msgstr "Ferramentas Online"
 
 msgid "Opcode"
-msgstr "Código de operação"
+msgstr "Opcode"
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -661,7 +661,7 @@ msgid "Player"
 msgstr "Jogador"
 
 msgid "Please restart the application"
-msgstr "Por favor reinicie a aplicação"
+msgstr "Por favor, reinicie a aplicação"
 
 msgid "Please run the program as an administrator"
 msgstr "Por favor, execute o programa como administrador"
@@ -766,7 +766,7 @@ msgid "Result"
 msgstr "Resultado"
 
 msgid "Run"
-msgstr "Corre"
+msgstr "Executar"
 
 msgid "Runtime driver"
 msgstr "Driver de tempo de execução"
