@@ -253,7 +253,7 @@ msgid "Database"
 msgstr "数据库"
 
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 msgid "Debug"
 msgstr "调试"
@@ -403,7 +403,7 @@ msgid "Flags"
 msgstr "标志寄存器"
 
 msgid "Folder"
-msgstr ""
+msgstr "文件夹"
 
 msgid "Follow in"
 msgstr ""
@@ -418,7 +418,7 @@ msgid "Format"
 msgstr "格式"
 
 msgid "Function"
-msgstr ""
+msgstr "函数"
 
 msgid "Functions"
 msgstr "函数"
@@ -523,7 +523,7 @@ msgid "Keep size"
 msgstr "保持大小"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "内核模式"
 
 msgid "Label"
 msgstr "标签"
@@ -625,7 +625,7 @@ msgid "Offset"
 msgstr "偏移"
 
 msgid "Online tools"
-msgstr ""
+msgstr "在线工具"
 
 msgid "Opcode"
 msgstr "指令"
@@ -751,7 +751,7 @@ msgid "Relocs"
 msgstr "重新定位"
 
 msgid "Rescan"
-msgstr ""
+msgstr "重新扫描"
 
 msgid "Resource"
 msgstr "资源"
@@ -946,7 +946,7 @@ msgid "Strings"
 msgstr "字符串"
 
 msgid "Struct"
-msgstr ""
+msgstr "结构体"
 
 msgid "Struct and unions"
 msgstr "结构体和共用体"
@@ -1057,10 +1057,10 @@ msgid "Uppercase"
 msgstr ""
 
 msgid "User"
-msgstr ""
+msgstr "用户"
 
 msgid "User mode"
-msgstr ""
+msgstr "用户模式"
 
 msgid "Value"
 msgstr "值"
