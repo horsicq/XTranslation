@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "Analiz"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Görünüm"
 
@@ -204,6 +207,9 @@ msgstr "sonucu temizle"
 msgid "Close"
 msgstr "Kapat"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Kod seçimi"
 
@@ -249,6 +255,9 @@ msgstr "Veri"
 msgid "Data in code"
 msgstr "Koddaki veriler"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "Database"
 
@@ -281,6 +290,9 @@ msgstr "bağımlılıklar"
 
 msgid "Detach"
 msgstr "ayır"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "Öğeyi al"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Git"
 
@@ -507,6 +522,9 @@ msgstr "Geçersiz"
 msgid "Invalid opcode"
 msgstr "Geçersiz işlem kodu"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "ihraççı"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "meta veri"
 
 msgid "Method"
 msgstr "Metod"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Mod"
@@ -1017,6 +1041,9 @@ msgstr "İmza mevcut, ancak özellikle izin verilmedi"
 msgid "Threads"
 msgstr "İş Parçacığı"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Zaman"
 
@@ -1037,6 +1064,9 @@ msgstr "Araçlar"
 
 msgid "Total"
 msgstr "Toplam"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Ağaç"

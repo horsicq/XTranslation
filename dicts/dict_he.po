@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "אבחן"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "מראה"
 
@@ -204,6 +207,9 @@ msgstr "תוצאה ברורה"
 msgid "Close"
 msgstr "סגור"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "אזור קוד"
 
@@ -249,6 +255,9 @@ msgstr "נתונים"
 msgid "Data in code"
 msgstr "נתונים בקוד"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "מסד נתונים"
 
@@ -281,6 +290,9 @@ msgstr "תלות"
 
 msgid "Detach"
 msgstr "לנתק"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "קבל אלמנט"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "מעבר אל"
 
@@ -507,6 +522,9 @@ msgstr "לא תקין"
 msgid "Invalid opcode"
 msgstr "קוד לא חוקי"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "מנפיק"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "מטא נתונים"
 
 msgid "Method"
 msgstr "שיטה"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "מצב"
@@ -1017,6 +1041,9 @@ msgstr "החתימה קיימת, אך אסורה במיוחד"
 msgid "Threads"
 msgstr "שרשורים"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "זְמַן"
 
@@ -1037,6 +1064,9 @@ msgstr "כלים"
 
 msgid "Total"
 msgstr "סך הכל"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "עץ"

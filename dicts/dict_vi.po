@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "Phân tích"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Giao diện"
 
@@ -204,6 +207,9 @@ msgstr "Kết quả rõ ràng"
 msgid "Close"
 msgstr "Đóng"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Mục mã"
 
@@ -249,6 +255,9 @@ msgstr "Dữ liệu"
 msgid "Data in code"
 msgstr "Dữ liệu trong mã"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
 
@@ -281,6 +290,9 @@ msgstr "Sự phụ thuộc"
 
 msgid "Detach"
 msgstr "Tách ra"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "Nhận phần tử"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Đi tới"
 
@@ -507,6 +522,9 @@ msgstr "không hợp lệ"
 msgid "Invalid opcode"
 msgstr "Opcode không hợp lệ"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "Người phát hành"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "metadata"
 
 msgid "Method"
 msgstr "phương pháp"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Chế độ"
@@ -1017,6 +1041,9 @@ msgstr "Chữ ký hiện có, nhưng đặc biệt không được phép"
 msgid "Threads"
 msgstr "Chủ đề"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Thời gian"
 
@@ -1037,6 +1064,9 @@ msgstr "Công cụ"
 
 msgid "Total"
 msgstr "Tổng"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Cây"

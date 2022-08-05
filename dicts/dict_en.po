@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr ""
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr ""
 
@@ -204,6 +207,9 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr ""
 
@@ -249,6 +255,9 @@ msgstr ""
 msgid "Data in code"
 msgstr ""
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr ""
 
@@ -280,6 +289,9 @@ msgid "Dependencies"
 msgstr ""
 
 msgid "Detach"
+msgstr ""
+
+msgid "Detect"
 msgstr ""
 
 msgid "Device"
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr ""
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr ""
 
@@ -507,6 +522,9 @@ msgstr ""
 msgid "Invalid opcode"
 msgstr ""
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr ""
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -589,6 +610,9 @@ msgid "Metadata"
 msgstr ""
 
 msgid "Method"
+msgstr ""
+
+msgid "MiB"
 msgstr ""
 
 msgid "Mode"
@@ -1017,6 +1041,9 @@ msgstr ""
 msgid "Threads"
 msgstr ""
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr ""
 
@@ -1036,6 +1063,9 @@ msgid "Tools"
 msgstr ""
 
 msgid "Total"
+msgstr ""
+
+msgid "Trace"
 msgstr ""
 
 msgid "Tree"

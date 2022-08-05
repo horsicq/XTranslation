@@ -64,6 +64,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "Analizować"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Interfejs"
 
@@ -205,6 +208,9 @@ msgstr "Wyczyść wynik"
 msgid "Close"
 msgstr "Blisko"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Sekcja kodu"
 
@@ -250,6 +256,9 @@ msgstr "Dane"
 msgid "Data in code"
 msgstr "Dane w kodzie"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "Baza danych"
 
@@ -282,6 +291,9 @@ msgstr "Zależności"
 
 msgid "Detach"
 msgstr "Odłączyć"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -436,6 +448,9 @@ msgstr ""
 msgid "Get element"
 msgstr "Pobierz element"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Iść do"
 
@@ -508,6 +523,9 @@ msgstr "Niepoprawny"
 msgid "Invalid opcode"
 msgstr "Nieprawidłowy kod operacji"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "Emitent"
 
@@ -524,6 +542,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -591,6 +612,9 @@ msgstr "Metadane"
 
 msgid "Method"
 msgstr "Metoda"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Tryb"
@@ -1018,6 +1042,9 @@ msgstr "Podpis jest obecny, ale wyraźnie niedozwolony"
 msgid "Threads"
 msgstr "Wątki"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Czas"
 
@@ -1038,6 +1065,9 @@ msgstr "Narzędzia"
 
 msgid "Total"
 msgstr "Całkowity"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Drzewo"

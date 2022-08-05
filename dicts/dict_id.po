@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "Analisa"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Penampilan"
 
@@ -204,6 +207,9 @@ msgstr "Hasil yang jelas"
 msgid "Close"
 msgstr "Tutup"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Bagian Kode"
 
@@ -249,6 +255,9 @@ msgstr "Data"
 msgid "Data in code"
 msgstr "Data dalam kode"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "Basis data"
 
@@ -281,6 +290,9 @@ msgstr "Ketergantungan"
 
 msgid "Detach"
 msgstr "Melepaskan"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "Dapatkan elemen"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Pergi ke"
 
@@ -507,6 +522,9 @@ msgstr "Tidak valid"
 msgid "Invalid opcode"
 msgstr "opcode tidak valid"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "Penerbit"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "Metadata"
 
 msgid "Method"
 msgstr "Metode"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Mode"
@@ -1017,6 +1041,9 @@ msgstr "Tanda tangan ada, tetapi secara khusus tidak diizinkan"
 msgid "Threads"
 msgstr "Utas"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Waktu"
 
@@ -1037,6 +1064,9 @@ msgstr "Alat-alat"
 
 msgid "Total"
 msgstr "Total"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Pohon"

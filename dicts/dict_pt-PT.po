@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "Analisar"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Aparencia"
 
@@ -204,6 +207,9 @@ msgstr "Limpar resultado"
 msgid "Close"
 msgstr "Fechar"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Secção de código"
 
@@ -249,6 +255,9 @@ msgstr "Dados"
 msgid "Data in code"
 msgstr "Dados no código"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "Base de dados"
 
@@ -281,6 +290,9 @@ msgstr "Dependências"
 
 msgid "Detach"
 msgstr "Desanexar"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "Obter elemento"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Ir para"
 
@@ -507,6 +522,9 @@ msgstr "Inválido"
 msgid "Invalid opcode"
 msgstr "Opcode inválido"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "Emitente"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "Metadados"
 
 msgid "Method"
 msgstr "Método"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Modo"
@@ -1017,6 +1041,9 @@ msgstr "A assinatura está presente, mas não é permitida especificamente"
 msgid "Threads"
 msgstr "Tópicos"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Tempo"
 
@@ -1037,6 +1064,9 @@ msgstr "Ferramentas"
 
 msgid "Total"
 msgstr "Total"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Árvore"

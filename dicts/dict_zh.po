@@ -63,6 +63,9 @@ msgstr "分配标识符"
 msgid "Analyze"
 msgstr "分析"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "外观"
 
@@ -204,6 +207,9 @@ msgstr "清除结果"
 msgid "Close"
 msgstr "关闭"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "代码段"
 
@@ -249,6 +255,9 @@ msgstr "数据"
 msgid "Data in code"
 msgstr "代码中的数据"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "数据库"
 
@@ -281,6 +290,9 @@ msgstr "依赖关系"
 
 msgid "Detach"
 msgstr "分离"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "设备"
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "获取元素"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "转到"
 
@@ -507,6 +522,9 @@ msgstr "无效"
 msgid "Invalid opcode"
 msgstr "无效的操作码"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "发行人"
 
@@ -524,6 +542,9 @@ msgstr "保持大小"
 
 msgid "Kernel mode"
 msgstr "内核模式"
+
+msgid "KiB"
+msgstr ""
 
 msgid "Label"
 msgstr "标签"
@@ -590,6 +611,9 @@ msgstr "元数据"
 
 msgid "Method"
 msgstr "方法"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "模式"
@@ -1017,6 +1041,9 @@ msgstr "签名存在，但已被显式禁用"
 msgid "Threads"
 msgstr "线程"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "时间"
 
@@ -1037,6 +1064,9 @@ msgstr "工具集"
 
 msgid "Total"
 msgstr "总计"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "目录"

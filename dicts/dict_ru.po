@@ -64,6 +64,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "Анализировать"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Внешний вид"
 
@@ -205,6 +208,9 @@ msgstr "Очистить результат"
 msgid "Close"
 msgstr "Закрыть"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Секция кода"
 
@@ -250,6 +256,9 @@ msgstr "Данные"
 msgid "Data in code"
 msgstr "Данные в коде"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "База данных"
 
@@ -282,6 +291,9 @@ msgstr "Зависимости"
 
 msgid "Detach"
 msgstr "Отсоединить"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "Устройство"
@@ -436,6 +448,9 @@ msgstr "Получить"
 msgid "Get element"
 msgstr "Получить элемент"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Перейти к"
 
@@ -508,6 +523,9 @@ msgstr "Неверный"
 msgid "Invalid opcode"
 msgstr "Неверный опкод"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "Эмитент"
 
@@ -525,6 +543,9 @@ msgstr "Сохранять размер"
 
 msgid "Kernel mode"
 msgstr "Режим ядра"
+
+msgid "KiB"
+msgstr ""
 
 msgid "Label"
 msgstr "Метка"
@@ -591,6 +612,9 @@ msgstr "Метаданные"
 
 msgid "Method"
 msgstr "Метод"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Режим"
@@ -1018,6 +1042,9 @@ msgstr "Подпись присутствует, но специально не 
 msgid "Threads"
 msgstr "Потоки"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Время"
 
@@ -1038,6 +1065,9 @@ msgstr "Инструменты"
 
 msgid "Total"
 msgstr "Всего"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Дерево"

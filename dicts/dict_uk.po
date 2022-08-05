@@ -64,6 +64,9 @@ msgstr "Прапорці виділення"
 msgid "Analyze"
 msgstr "Аналізувати"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "Вигляд"
 
@@ -205,6 +208,9 @@ msgstr "Очистити результат"
 msgid "Close"
 msgstr "Закрити"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "Секція коду"
 
@@ -250,6 +256,9 @@ msgstr "Дані"
 msgid "Data in code"
 msgstr "Дані в коді"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "База даних"
 
@@ -282,6 +291,9 @@ msgstr "Залежності"
 
 msgid "Detach"
 msgstr "Від'єднати"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "Пристрій"
@@ -436,6 +448,9 @@ msgstr "Отримати"
 msgid "Get element"
 msgstr "Отримати елемент"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "Перейти до"
 
@@ -508,6 +523,9 @@ msgstr "Невірний"
 msgid "Invalid opcode"
 msgstr "Невірний опкод"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "Видавач"
 
@@ -525,6 +543,9 @@ msgstr "Зберегти розмір"
 
 msgid "Kernel mode"
 msgstr "Режим ядра"
+
+msgid "KiB"
+msgstr ""
 
 msgid "Label"
 msgstr "Мітка"
@@ -591,6 +612,9 @@ msgstr "Метадані"
 
 msgid "Method"
 msgstr "Метод"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "Режим"
@@ -1018,6 +1042,9 @@ msgstr "Підпис присутній, але спеціально забор�
 msgid "Threads"
 msgstr "Потоки"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "Час"
 
@@ -1038,6 +1065,9 @@ msgstr "Інструменти"
 
 msgid "Total"
 msgstr "Всього"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "Дерево"

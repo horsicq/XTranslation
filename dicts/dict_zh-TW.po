@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "分析"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "外觀"
 
@@ -204,6 +207,9 @@ msgstr "保存結果"
 msgid "Close"
 msgstr "關閉"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "代碼段"
 
@@ -249,6 +255,9 @@ msgstr "數據"
 msgid "Data in code"
 msgstr "代碼中的數據"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "資料庫"
 
@@ -281,6 +290,9 @@ msgstr "依賴關係"
 
 msgid "Detach"
 msgstr "分離"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "獲取元素"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "跳至"
 
@@ -507,6 +522,9 @@ msgstr "無效"
 msgid "Invalid opcode"
 msgstr "無效"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "發行人"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "元數據"
 
 msgid "Method"
 msgstr "方法"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "模式"
@@ -1017,6 +1041,9 @@ msgstr "簽名存在，但明確不允許"
 msgid "Threads"
 msgstr "線程"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "時間"
 
@@ -1037,6 +1064,9 @@ msgstr "工具"
 
 msgid "Total"
 msgstr "總計"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "樹狀圖"

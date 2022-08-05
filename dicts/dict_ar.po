@@ -64,6 +64,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "حلل"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "مظهر خارجي"
 
@@ -205,6 +208,9 @@ msgstr "نتيجة واضحة"
 msgid "Close"
 msgstr "قريب"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "قسم الكود"
 
@@ -250,6 +256,9 @@ msgstr "البيانات"
 msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "قاعدة البيانات"
 
@@ -282,6 +291,9 @@ msgstr "التبعيات"
 
 msgid "Detach"
 msgstr "فصل"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -436,6 +448,9 @@ msgstr ""
 msgid "Get element"
 msgstr "احصل على العنصر"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "اذهب إلى"
 
@@ -508,6 +523,9 @@ msgstr "غير صالح"
 msgid "Invalid opcode"
 msgstr "كود التشغيل غير صالح"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "المُصدر"
 
@@ -524,6 +542,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -591,6 +612,9 @@ msgstr "البيانات الوصفية"
 
 msgid "Method"
 msgstr "طريقة"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "الوضع"
@@ -1018,6 +1042,9 @@ msgstr "التوقيع موجود ، لكنه غير مسموح به على وج
 msgid "Threads"
 msgstr "الخيوط"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "زمن"
 
@@ -1038,6 +1065,9 @@ msgstr "أدوات"
 
 msgid "Total"
 msgstr "المجموع"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "شجرة"

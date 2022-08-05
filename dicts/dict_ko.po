@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "분석"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "모양"
 
@@ -204,6 +207,9 @@ msgstr "결과 지우기"
 msgid "Close"
 msgstr "닫기"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "코드 섹션"
 
@@ -249,6 +255,9 @@ msgstr "데이터"
 msgid "Data in code"
 msgstr "코드의 데이터"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "데이터베이스"
 
@@ -281,6 +290,9 @@ msgstr "종속성"
 
 msgid "Detach"
 msgstr "분리하다"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "요소 가져오기"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "이동"
 
@@ -507,6 +522,9 @@ msgstr "무효함"
 msgid "Invalid opcode"
 msgstr "유효하지 않은 opcode"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "발급사"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "메타데이터"
 
 msgid "Method"
 msgstr "방식"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "모드"
@@ -1017,6 +1041,9 @@ msgstr "서명이 있지만 특별히 허용되지 않음"
 msgid "Threads"
 msgstr "스레드"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "시간"
 
@@ -1037,6 +1064,9 @@ msgstr "도구"
 
 msgid "Total"
 msgstr "전체"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "나무"

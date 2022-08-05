@@ -63,6 +63,9 @@ msgstr ""
 msgid "Analyze"
 msgstr "分析"
 
+msgid "Animate"
+msgstr ""
+
 msgid "Appearance"
 msgstr "外観"
 
@@ -204,6 +207,9 @@ msgstr "結果をクリア"
 msgid "Close"
 msgstr "閉じる"
 
+msgid "Code pages"
+msgstr ""
+
 msgid "Code section"
 msgstr "コード セクション"
 
@@ -249,6 +255,9 @@ msgstr "データ"
 msgid "Data in code"
 msgstr "コードのデータ"
 
+msgid "Data inspector"
+msgstr ""
+
 msgid "Database"
 msgstr "データベース"
 
@@ -281,6 +290,9 @@ msgstr "依存関係"
 
 msgid "Detach"
 msgstr "デタッチ"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -435,6 +447,9 @@ msgstr ""
 msgid "Get element"
 msgstr "要素を取得"
 
+msgid "GiB"
+msgstr ""
+
 msgid "Go to"
 msgstr "移動"
 
@@ -507,6 +522,9 @@ msgstr "無効"
 msgid "Invalid opcode"
 msgstr "無効な Opcode"
 
+msgid "Invalid signature"
+msgstr ""
+
 msgid "Issuer"
 msgstr "発行者"
 
@@ -523,6 +541,9 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
+msgstr ""
+
+msgid "KiB"
 msgstr ""
 
 msgid "Label"
@@ -590,6 +611,9 @@ msgstr "メタデータ"
 
 msgid "Method"
 msgstr "方法"
+
+msgid "MiB"
+msgstr ""
 
 msgid "Mode"
 msgstr "モード"
@@ -1017,6 +1041,9 @@ msgstr "署名は存在しますが、特に許可されていません"
 msgid "Threads"
 msgstr "スレッド"
 
+msgid "TiB"
+msgstr ""
+
 msgid "Time"
 msgstr "時間"
 
@@ -1037,6 +1064,9 @@ msgstr "ツール"
 
 msgid "Total"
 msgstr "合計"
+
+msgid "Trace"
+msgstr ""
 
 msgid "Tree"
 msgstr "ツリー"
