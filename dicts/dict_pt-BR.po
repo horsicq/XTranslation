@@ -64,7 +64,7 @@ msgid "Analyze"
 msgstr "Analisar"
 
 msgid "Animate"
-msgstr ""
+msgstr "Animar"
 
 msgid "Appearance"
 msgstr "Aparência"
@@ -208,7 +208,7 @@ msgid "Close"
 msgstr "Fechar"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Code pages"
 
 msgid "Code section"
 msgstr "Seção de código"
@@ -256,7 +256,7 @@ msgid "Data in code"
 msgstr "Dados em código"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "Inspetor de Dados"
 
 msgid "Database"
 msgstr "Base de dados"
@@ -292,7 +292,7 @@ msgid "Detach"
 msgstr "Desanexar"
 
 msgid "Detect"
-msgstr ""
+msgstr "Detectar"
 
 msgid "Device"
 msgstr "Dispositivo"
@@ -448,7 +448,7 @@ msgid "Get element"
 msgstr "Obter elemento"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid "Go to"
 msgstr "Ir para"
@@ -523,7 +523,7 @@ msgid "Invalid opcode"
 msgstr "Opcode inválido"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "Assinatura Inválida"
 
 msgid "Issuer"
 msgstr "Emitente"
@@ -544,7 +544,7 @@ msgid "Kernel mode"
 msgstr "Kernel mode"
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Label"
 msgstr "Rótulo"
@@ -613,7 +613,7 @@ msgid "Method"
 msgstr "Método"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Mode"
 msgstr "Modo"
@@ -1042,7 +1042,7 @@ msgid "Threads"
 msgstr "Threads"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Time"
 msgstr "Tempo"
@@ -1066,7 +1066,7 @@ msgid "Total"
 msgstr "Total"
 
 msgid "Trace"
-msgstr ""
+msgstr "Rastro"
 
 msgid "Tree"
 msgstr "Árvore"
