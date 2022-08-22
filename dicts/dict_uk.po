@@ -335,7 +335,7 @@ msgid "Edit"
 msgstr "Редагувати"
 
 msgid "Editor"
-msgstr ""
+msgstr "Редактор"
 
 msgid "Elapsed"
 msgstr "Минуло"
