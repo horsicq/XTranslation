@@ -1,10 +1,17 @@
+# 
+# Translators:
+# Pablo Luchiano, 2022
+# 
 msgid ""
 msgstr ""
+"Last-Translator: Pablo Luchiano, 2022\n"
+"Language-Team: Turkish (https://www.transifex.com/ntinfo/teams/149070/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: tr_TR\n"
+"Language: tr\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: en_US\n"
 
 msgid "128-bit"
 msgstr "128 bit"
@@ -1175,5 +1182,3 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
-
-
