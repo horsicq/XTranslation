@@ -39,9 +39,6 @@ msgstr "Bağlam menüsüne ekle"
 msgid "Address"
 msgstr "Adres"
 
-msgid "Address colon"
-msgstr "Adres sütunu"
-
 msgid "Algorithm"
 msgstr "algoritma"
 
@@ -104,6 +101,9 @@ msgstr "Bağla"
 
 msgid "Binding"
 msgstr "Bağlama"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Önyükleme uygulaması"
@@ -171,8 +171,8 @@ msgstr "Sürücü yüklenemiyor"
 msgid "Cannot load file"
 msgstr "Dosya yüklenemiyor"
 
-msgid "Cannot load media library"
-msgstr "Ortam kitaplığı yüklenemiyor"
+msgid "Cannot load msdia library"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "Dosya açılmıyor"
@@ -332,6 +332,9 @@ msgstr "Dosyaya dök"
 
 msgid "Edit"
 msgstr "Düzenle"
+
+msgid "Editor"
+msgstr ""
 
 msgid "Elapsed"
 msgstr "Geçen"
@@ -507,6 +510,9 @@ msgstr "Bilgi"
 msgid "Information"
 msgstr "Bilgilendirme"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "Yükleyici"
 
@@ -572,6 +578,9 @@ msgstr "Kitaplık adı"
 
 msgid "Linker"
 msgstr "Bağlayıcı"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "Yapılandırmayı yükle"
@@ -648,11 +657,17 @@ msgstr "Nesne"
 msgid "Offset"
 msgstr "Ofset"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr "Çevrimiçi araçlar"
 
 msgid "Opcode"
 msgstr "Opcode"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -882,6 +897,9 @@ msgstr "Göster"
 msgid "Show all"
 msgstr "Hepsini göster"
 
+msgid "Show colons in addresses"
+msgstr "Adres sütunu"
+
 msgid "Show comments"
 msgstr "Yorumları göster"
 
@@ -1071,6 +1089,9 @@ msgstr "İz"
 msgid "Tree"
 msgstr "Ağaç"
 
+msgid "Two operands"
+msgstr ""
+
 msgid "Type"
 msgstr "Tip"
 
@@ -1154,3 +1175,5 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
+
+

@@ -39,9 +39,6 @@ msgstr "הוסף לתפריט ההקשר"
 msgid "Address"
 msgstr "כתובת"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "אַלגוֹרִיתְם"
 
@@ -104,6 +101,9 @@ msgstr "לִקְשׁוֹר"
 
 msgid "Binding"
 msgstr "כריכה"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "יישום אתחול"
@@ -333,6 +333,9 @@ msgstr "יצא כקובץ הרצה לקובץ"
 msgid "Edit"
 msgstr "עריכה"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "חלף"
 
@@ -507,6 +510,9 @@ msgstr "מידע"
 msgid "Information"
 msgstr "מידע"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "קובץ התקנה"
 
@@ -572,6 +578,9 @@ msgstr "שם הספרייה"
 
 msgid "Linker"
 msgstr "לינקר"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "טען תצורה"
@@ -648,11 +657,17 @@ msgstr "לְהִתְנַגֵד"
 msgid "Offset"
 msgstr "היסט"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "מזהה פקודה"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "מזהי פקודות"
@@ -882,6 +897,9 @@ msgstr "הופעה"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "הצג הערות"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "עץ"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "סוג"

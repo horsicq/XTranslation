@@ -39,9 +39,6 @@ msgstr "컨텍스트 메뉴에 추가"
 msgid "Address"
 msgstr "주소"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "연산"
 
@@ -104,6 +101,9 @@ msgstr "묶다"
 
 msgid "Binding"
 msgstr "제본"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "부팅 응용 프로그램"
@@ -333,6 +333,9 @@ msgstr "파일로 덤프"
 msgid "Edit"
 msgstr "편집"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "경과"
 
@@ -507,6 +510,9 @@ msgstr "정보"
 msgid "Information"
 msgstr "정보"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "인스톨러"
 
@@ -572,6 +578,9 @@ msgstr "라이브러리 이름"
 
 msgid "Linker"
 msgstr "링커"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "구성 로드"
@@ -648,11 +657,17 @@ msgstr "물체"
 msgid "Offset"
 msgstr "오프셋"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "Opcode"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -882,6 +897,9 @@ msgstr "보여 주다"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "댓글 표시"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "나무"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "유형"

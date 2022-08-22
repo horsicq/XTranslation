@@ -39,9 +39,6 @@ msgstr "Zum Kontextmenü hinzufügen"
 msgid "Address"
 msgstr "Adresse"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "Algorithmus"
 
@@ -104,6 +101,9 @@ msgstr "Binden"
 
 msgid "Binding"
 msgstr "Bindung"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Boot-Anwendung"
@@ -333,6 +333,9 @@ msgstr "In Datei speichern"
 msgid "Edit"
 msgstr "Bearbeiten"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "Verstrichen"
 
@@ -507,6 +510,9 @@ msgstr "Info"
 msgid "Information"
 msgstr "Information"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "Installationsprogramm"
 
@@ -572,6 +578,9 @@ msgstr "Bibliotheksname"
 
 msgid "Linker"
 msgstr "Linker"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "Konfiguration laden"
@@ -648,11 +657,17 @@ msgstr "Objekt"
 msgid "Offset"
 msgstr "Offset"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "Opcode"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -882,6 +897,9 @@ msgstr "Show"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Anmerkungen anzeigen"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "Baum"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "Typ"

@@ -40,9 +40,6 @@ msgstr "Додати в контекстне меню"
 msgid "Address"
 msgstr "Адреса"
 
-msgid "Address colon"
-msgstr "Розділювач в адресі (:)"
-
 msgid "Algorithm"
 msgstr "Алгоритм"
 
@@ -105,6 +102,9 @@ msgstr "Зв'язувати"
 
 msgid "Binding"
 msgstr "Прив'язка"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Завантажувальна програма"
@@ -334,6 +334,9 @@ msgstr "Здампити до файлу"
 msgid "Edit"
 msgstr "Редагувати"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "Минуло"
 
@@ -508,6 +511,9 @@ msgstr "Інфо"
 msgid "Information"
 msgstr "Інформація"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "Інсталятор"
 
@@ -573,6 +579,9 @@ msgstr "Назва бібліотеки"
 
 msgid "Linker"
 msgstr "Лінкер"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "Завантажувана конфігурація"
@@ -649,11 +658,17 @@ msgstr "Об'єкт"
 msgid "Offset"
 msgstr "Зміщення"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr "Онлайн утиліти"
 
 msgid "Opcode"
 msgstr "Опкод"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Опкоди"
@@ -883,6 +898,9 @@ msgstr "Показати"
 msgid "Show all"
 msgstr "Показати усе"
 
+msgid "Show colons in addresses"
+msgstr "Розділювач в адресі"
+
 msgid "Show comments"
 msgstr "Показати коментарі"
 
@@ -1072,6 +1090,9 @@ msgstr ""
 msgid "Tree"
 msgstr "Дерево"
 
+msgid "Two operands"
+msgstr ""
+
 msgid "Type"
 msgstr "Тип"
 
@@ -1155,3 +1176,4 @@ msgstr "запакований"
 
 msgid "protection"
 msgstr "захист"
+

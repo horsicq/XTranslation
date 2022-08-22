@@ -40,9 +40,6 @@ msgstr "أضف إلى قائمة السياق"
 msgid "Address"
 msgstr "عنوان"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "الخوارزمية"
 
@@ -105,6 +102,9 @@ msgstr "ربط"
 
 msgid "Binding"
 msgstr "ربط"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "تطبيق التمهيد"
@@ -334,6 +334,9 @@ msgstr "تفريغ إلى ملف"
 msgid "Edit"
 msgstr "يحرر"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "انقضى"
 
@@ -508,6 +511,9 @@ msgstr "معلومات"
 msgid "Information"
 msgstr "معلومة"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "المثبت"
 
@@ -573,6 +579,9 @@ msgstr "اسم المكتبة"
 
 msgid "Linker"
 msgstr "رابط"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "تحميل التكوين"
@@ -649,11 +658,17 @@ msgstr "هدف"
 msgid "Offset"
 msgstr "عوض"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "كود التشغيل"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "أكواد التشغيل"
@@ -883,6 +898,9 @@ msgstr "تبين"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "إظهار التعليقات"
 
@@ -1071,6 +1089,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "شجرة"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "نوع"

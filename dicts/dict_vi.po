@@ -39,9 +39,6 @@ msgstr "Thêm vào menu ngữ cảnh"
 msgid "Address"
 msgstr "Địa chỉ"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "Thuật toán"
 
@@ -104,6 +101,9 @@ msgstr "Trói buộc"
 
 msgid "Binding"
 msgstr "Ràng buộc"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Khởi động ứng dụng"
@@ -333,6 +333,9 @@ msgstr "Kết xuất ra tập tin"
 msgid "Edit"
 msgstr "Chỉnh sửa"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "Đã trôi qua"
 
@@ -507,6 +510,9 @@ msgstr "Thông tin"
 msgid "Information"
 msgstr "Thông tin"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "Trình cài đặt"
 
@@ -572,6 +578,9 @@ msgstr "Tên thư viện"
 
 msgid "Linker"
 msgstr "Người liên kết"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "Tải cấu hình"
@@ -648,11 +657,17 @@ msgstr "Sự vật"
 msgid "Offset"
 msgstr "Khoảng cách"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "Mã vận hành"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -882,6 +897,9 @@ msgstr "Trình diễn"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Hiển thị bình luận"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "Cây"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "Loại"

@@ -39,9 +39,6 @@ msgstr ""
 msgid "Address"
 msgstr ""
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr ""
 
@@ -103,6 +100,9 @@ msgid "Bind"
 msgstr ""
 
 msgid "Binding"
+msgstr ""
+
+msgid "Blinking cursor"
 msgstr ""
 
 msgid "Boot application"
@@ -333,6 +333,9 @@ msgstr ""
 msgid "Edit"
 msgstr ""
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr ""
 
@@ -507,6 +510,9 @@ msgstr ""
 msgid "Information"
 msgstr ""
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr ""
 
@@ -571,6 +577,9 @@ msgid "Library name"
 msgstr ""
 
 msgid "Linker"
+msgstr ""
+
+msgid "Links"
 msgstr ""
 
 msgid "Load config"
@@ -648,10 +657,16 @@ msgstr ""
 msgid "Offset"
 msgstr ""
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
+msgstr ""
+
+msgid "Opcode group"
 msgstr ""
 
 msgid "Opcodes"
@@ -882,6 +897,9 @@ msgstr ""
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr ""
 
@@ -1069,6 +1087,9 @@ msgid "Trace"
 msgstr ""
 
 msgid "Tree"
+msgstr ""
+
+msgid "Two operands"
 msgstr ""
 
 msgid "Type"

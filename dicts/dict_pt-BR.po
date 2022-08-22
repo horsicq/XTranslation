@@ -39,9 +39,6 @@ msgstr "Adicionar ao menu de contexto"
 msgid "Address"
 msgstr "Endereço"
 
-msgid "Address colon"
-msgstr "Coluna de endereço"
-
 msgid "Algorithm"
 msgstr "Algoritmo"
 
@@ -104,6 +101,9 @@ msgstr "Vincular"
 
 msgid "Binding"
 msgstr "Vinculo"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Aplicativo de inicialização"
@@ -333,6 +333,9 @@ msgstr "Despejar para arquivo"
 msgid "Edit"
 msgstr "Editar"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "Decorrido"
 
@@ -507,6 +510,9 @@ msgstr "Info"
 msgid "Information"
 msgstr "Informação"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "instalador"
 
@@ -572,6 +578,9 @@ msgstr "Nome da biblioteca"
 
 msgid "Linker"
 msgstr "Linker"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "Exibir configuração"
@@ -648,11 +657,17 @@ msgstr "Objeto"
 msgid "Offset"
 msgstr "Offset"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr "Ferramentas Online"
 
 msgid "Opcode"
 msgstr "Opcode"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -882,6 +897,9 @@ msgstr "Mostrar"
 msgid "Show all"
 msgstr "Mostrar todos"
 
+msgid "Show colons in addresses"
+msgstr "Coluna de endereço"
+
 msgid "Show comments"
 msgstr "Mostrar comentários"
 
@@ -1071,6 +1089,9 @@ msgstr "Rastro"
 msgid "Tree"
 msgstr "Árvore"
 
+msgid "Two operands"
+msgstr ""
+
 msgid "Type"
 msgstr "Tipo"
 
@@ -1154,3 +1175,4 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "proteção"
+

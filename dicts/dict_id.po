@@ -39,9 +39,6 @@ msgstr "Tambahkan ke menu konteks"
 msgid "Address"
 msgstr "Alamat"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "algoritma"
 
@@ -104,6 +101,9 @@ msgstr "Mengikat"
 
 msgid "Binding"
 msgstr "Mengikat"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Aplikasi booting"
@@ -333,6 +333,9 @@ msgstr "Buang ke file"
 msgid "Edit"
 msgstr "Edit"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "Berlalu"
 
@@ -507,6 +510,9 @@ msgstr "Info"
 msgid "Information"
 msgstr "Informasi"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "Pemasang"
 
@@ -572,6 +578,9 @@ msgstr "Nama perpustakaan"
 
 msgid "Linker"
 msgstr "Penghubung"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "Muat konfigurasi"
@@ -648,11 +657,17 @@ msgstr "Obyek"
 msgid "Offset"
 msgstr "Offset"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "Kode operasi"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Kode operasi"
@@ -882,6 +897,9 @@ msgstr "Menunjukkan"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "Tampilkan komentar"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "Pohon"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "Tipe"

@@ -39,9 +39,6 @@ msgstr "コンテキストメニューに追加"
 msgid "Address"
 msgstr "アドレス"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "アルゴリズム"
 
@@ -104,6 +101,9 @@ msgstr "練る"
 
 msgid "Binding"
 msgstr "バインディング"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "ブートアプリケーション"
@@ -333,6 +333,9 @@ msgstr "ファイルにダンプ"
 msgid "Edit"
 msgstr "編集"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "経過"
 
@@ -507,6 +510,9 @@ msgstr "情報"
 msgid "Information"
 msgstr "インフォメーション"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "インストーラ"
 
@@ -572,6 +578,9 @@ msgstr "ライブラリ名"
 
 msgid "Linker"
 msgstr "リンカ"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "構成をロード"
@@ -648,11 +657,17 @@ msgstr "物体"
 msgid "Offset"
 msgstr "オフセット"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "Opcode"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -882,6 +897,9 @@ msgstr "見せる"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "コメントを表示"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "ツリー"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "種類"

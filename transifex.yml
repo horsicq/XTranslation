@@ -1,0 +1,7 @@
+git:
+  filters:
+  - filter_type: file
+    file_format: PO
+    source_file: dicts/dict_en.po
+    source_language: en
+    translation_files_expression: 'dicts/dict_<lang>.po'

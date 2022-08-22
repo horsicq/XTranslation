@@ -39,9 +39,6 @@ msgstr "添加到上下文菜單"
 msgid "Address"
 msgstr "位址"
 
-msgid "Address colon"
-msgstr ""
-
 msgid "Algorithm"
 msgstr "算法"
 
@@ -104,6 +101,9 @@ msgstr "綁定"
 
 msgid "Binding"
 msgstr "捆綁"
+
+msgid "Blinking cursor"
+msgstr ""
 
 msgid "Boot application"
 msgstr "啟動應用程序"
@@ -333,6 +333,9 @@ msgstr "轉存到檔案"
 msgid "Edit"
 msgstr "編輯"
 
+msgid "Editor"
+msgstr ""
+
 msgid "Elapsed"
 msgstr "過去"
 
@@ -507,6 +510,9 @@ msgstr "資訊"
 msgid "Information"
 msgstr "資訊"
 
+msgid "Input"
+msgstr ""
+
 msgid "Installer"
 msgstr "安裝程序"
 
@@ -572,6 +578,9 @@ msgstr "圖書館名稱"
 
 msgid "Linker"
 msgstr "鏈接器"
+
+msgid "Links"
+msgstr ""
 
 msgid "Load config"
 msgstr "加載配置"
@@ -648,11 +657,17 @@ msgstr "目的"
 msgid "Offset"
 msgstr "偏移"
 
+msgid "One operand"
+msgstr ""
+
 msgid "Online tools"
 msgstr ""
 
 msgid "Opcode"
 msgstr "操作碼"
+
+msgid "Opcode group"
+msgstr ""
 
 msgid "Opcodes"
 msgstr "操作碼"
@@ -882,6 +897,9 @@ msgstr "展示"
 msgid "Show all"
 msgstr ""
 
+msgid "Show colons in addresses"
+msgstr ""
+
 msgid "Show comments"
 msgstr "顯示評論"
 
@@ -1070,6 +1088,9 @@ msgstr ""
 
 msgid "Tree"
 msgstr "樹狀圖"
+
+msgid "Two operands"
+msgstr ""
 
 msgid "Type"
 msgstr "類型"
