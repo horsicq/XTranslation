@@ -1,10 +1,17 @@
+# 
+# Translators:
+# Pablo Luchiano, 2022
+# 
 msgid ""
 msgstr ""
+"Last-Translator: Pablo Luchiano, 2022\n"
+"Language-Team: Indonesian (https://www.transifex.com/ntinfo/teams/149070/id/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: id_ID\n"
+"Language: id\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: en_US\n"
 
 msgid "128-bit"
 msgstr "128-bit"
