@@ -103,7 +103,7 @@ msgid "Binding"
 msgstr "Vinculo"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Cursor Piscando"
 
 msgid "Boot application"
 msgstr "Aplicativo de inicialização"
@@ -334,7 +334,7 @@ msgid "Edit"
 msgstr "Editar"
 
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 msgid "Elapsed"
 msgstr "Decorrido"
@@ -511,7 +511,7 @@ msgid "Information"
 msgstr "Informação"
 
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgid "Installer"
 msgstr "instalador"
@@ -580,7 +580,7 @@ msgid "Linker"
 msgstr "Linker"
 
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 msgid "Load config"
 msgstr "Exibir configuração"
@@ -658,7 +658,7 @@ msgid "Offset"
 msgstr "Offset"
 
 msgid "One operand"
-msgstr ""
+msgstr "Um operador"
 
 msgid "Online tools"
 msgstr "Ferramentas Online"
@@ -667,7 +667,7 @@ msgid "Opcode"
 msgstr "Opcode"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Grupo de opcode"
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -1090,7 +1090,7 @@ msgid "Tree"
 msgstr "Árvore"
 
 msgid "Two operands"
-msgstr ""
+msgstr "Dois operadores"
 
 msgid "Type"
 msgstr "Tipo"
