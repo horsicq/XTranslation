@@ -62,7 +62,7 @@ msgid "Analyze"
 msgstr "Анализировать"
 
 msgid "Animate"
-msgstr ""
+msgstr "Анимация"
 
 msgid "Appearance"
 msgstr "Внешний вид"
@@ -104,7 +104,7 @@ msgid "Binding"
 msgstr "Привязка"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Мигающий курсор"
 
 msgid "Boot application"
 msgstr "Загрузочное приложение"
@@ -209,7 +209,7 @@ msgid "Close"
 msgstr "Закрыть"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Кодовые страницы"
 
 msgid "Code section"
 msgstr "Секция кода"
@@ -257,7 +257,7 @@ msgid "Data in code"
 msgstr "Данные в коде"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "Инспектор данных"
 
 msgid "Database"
 msgstr "База данных"
@@ -293,7 +293,7 @@ msgid "Detach"
 msgstr "Отсоединить"
 
 msgid "Detect"
-msgstr ""
+msgstr "Детект"
 
 msgid "Device"
 msgstr "Устройство"
@@ -335,7 +335,7 @@ msgid "Edit"
 msgstr "Редактировать"
 
 msgid "Editor"
-msgstr ""
+msgstr "Редактор"
 
 msgid "Elapsed"
 msgstr "Прошло"
@@ -512,7 +512,7 @@ msgid "Information"
 msgstr "Информация"
 
 msgid "Input"
-msgstr ""
+msgstr "Ввод"
 
 msgid "Installer"
 msgstr "Установщик"
@@ -530,7 +530,7 @@ msgid "Invalid opcode"
 msgstr "Неверный опкод"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "Неправильная сигнатура"
 
 msgid "Issuer"
 msgstr "Эмитент"
@@ -581,7 +581,7 @@ msgid "Linker"
 msgstr "Линковщик"
 
 msgid "Links"
-msgstr ""
+msgstr "Линки"
 
 msgid "Load config"
 msgstr "Загрузочная конфигурация"
