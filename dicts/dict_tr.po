@@ -40,7 +40,7 @@ msgid "Address"
 msgstr "Adres"
 
 msgid "Algorithm"
-msgstr "algoritma"
+msgstr "Algoritma"
 
 msgid "All"
 msgstr "Hepsi"
@@ -52,10 +52,10 @@ msgid "All types"
 msgstr "Her türlü"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "Tahsis tabanı"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "Tahsis bayrakları"
 
 msgid "Analyze"
 msgstr "Analiz"
@@ -67,7 +67,7 @@ msgid "Appearance"
 msgstr "Görünüm"
 
 msgid "Application"
-msgstr "Başvuru"
+msgstr "Uygulama"
 
 msgid "Architecture"
 msgstr "Mimari"
@@ -91,7 +91,7 @@ msgid "Background"
 msgstr "Arkaplan"
 
 msgid "Base address"
-msgstr "Temel adres"
+msgstr "Taban adres"
 
 msgid "Begin"
 msgstr "Başla"
@@ -103,7 +103,7 @@ msgid "Binding"
 msgstr "Bağlama"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Yanıp sönen imleç"
 
 msgid "Boot application"
 msgstr "Önyükleme uygulaması"
@@ -124,10 +124,10 @@ msgid "Bugreports"
 msgstr "Hata raporları"
 
 msgid "Byte"
-msgstr "Byte"
+msgstr "Bayt"
 
 msgid "Bytes"
-msgstr "Bytes"
+msgstr "Baytlar"
 
 msgid "Bytes available"
 msgstr "Bayt kullanılabilir"
@@ -142,13 +142,13 @@ msgid "Calculate"
 msgstr "Hesapla"
 
 msgid "Callbacks"
-msgstr "Geri aramalar"
+msgstr "Dönen çağrılar"
 
 msgid "Calls"
 msgstr "Çağrılar"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Çağrı yığını"
 
 msgid "Cancel"
 msgstr "İptal"
@@ -163,7 +163,7 @@ msgid "Cannot load data from PDB"
 msgstr "PDB'den veri yüklenemiyor"
 
 msgid "Cannot load database"
-msgstr "veritabanı yüklenemiyor"
+msgstr "Veritabanı yüklenemiyor"
 
 msgid "Cannot load driver"
 msgstr "Sürücü yüklenemiyor"
@@ -171,8 +171,8 @@ msgstr "Sürücü yüklenemiyor"
 msgid "Cannot load file"
 msgstr "Dosya yüklenemiyor"
 
-msgid "Cannot load msdia library"
-msgstr ""
+msgid "Cannot load media library"
+msgstr "Ortam kitaplığı yüklenemiyor"
 
 msgid "Cannot open file"
 msgstr "Dosya açılmıyor"
@@ -193,10 +193,10 @@ msgid "Certificate"
 msgstr "Sertifika"
 
 msgid "Check"
-msgstr "Kontrol etmek"
+msgstr "Denetle"
 
 msgid "Check updates"
-msgstr "Güncellemeleri kontrol et"
+msgstr "Güncellemeleri denetle"
 
 msgid "Clear"
 msgstr "Temizle"
@@ -211,7 +211,7 @@ msgid "Code pages"
 msgstr "Kod sayfaları"
 
 msgid "Code section"
-msgstr "Kod seçimi"
+msgstr "Kod bölümü"
 
 msgid "Colors"
 msgstr "Renkler"
@@ -220,7 +220,7 @@ msgid "Commands"
 msgstr "Komutlar"
 
 msgid "Comment"
-msgstr "Yorum Yap"
+msgstr "Yorum"
 
 msgid "Compiler"
 msgstr "Derleyici"
@@ -268,7 +268,7 @@ msgid "Debug"
 msgstr "Hata ayıklama"
 
 msgid "Debug data"
-msgstr "Debug data"
+msgstr "Debug verisi"
 
 msgid "Debugger"
 msgstr "Hata ayıklayıcı"
@@ -283,7 +283,7 @@ msgid "Delay import"
 msgstr "Gecikmeli içe aktarma"
 
 msgid "Demangle"
-msgstr "Parçalamak"
+msgstr "Demangle"
 
 msgid "Dependencies"
 msgstr "Bağımlılıklar"
@@ -334,7 +334,7 @@ msgid "Edit"
 msgstr "Düzenle"
 
 msgid "Editor"
-msgstr ""
+msgstr "Düzenleyici"
 
 msgid "Elapsed"
 msgstr "Geçen"
@@ -421,7 +421,7 @@ msgid "Folder"
 msgstr "Dizin"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Takip et"
 
 msgid "Font"
 msgstr "Yazı tipi"
@@ -430,7 +430,7 @@ msgid "Form"
 msgstr "Biçim"
 
 msgid "Format"
-msgstr "Biçim"
+msgstr "Biçem"
 
 msgid "Function"
 msgstr "İşlev"
@@ -445,7 +445,7 @@ msgid "Generic"
 msgstr "Kapsamlı"
 
 msgid "Get"
-msgstr ""
+msgstr "Al"
 
 msgid "Get element"
 msgstr "Öğeyi al"
@@ -511,7 +511,7 @@ msgid "Information"
 msgstr "Bilgilendirme"
 
 msgid "Input"
-msgstr ""
+msgstr "Girdi"
 
 msgid "Installer"
 msgstr "Yükleyici"
@@ -544,7 +544,7 @@ msgid "Jumps"
 msgstr "Dallanmalar"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Boyutu tut"
 
 msgid "Kernel mode"
 msgstr "Kernel modu"
@@ -580,7 +580,7 @@ msgid "Linker"
 msgstr "Bağlayıcı"
 
 msgid "Links"
-msgstr ""
+msgstr "Bağlantılar"
 
 msgid "Load config"
 msgstr "Yapılandırmayı yükle"
@@ -589,13 +589,13 @@ msgid "Local relocation"
 msgstr "Yerel yer değiştirme"
 
 msgid "Log"
-msgstr "Log Kayıt"
+msgstr "Log"
 
 msgid "MB"
 msgstr "MB"
 
 msgid "MainWindow"
-msgstr "Ana pencere"
+msgstr "AnaPencere"
 
 msgid "Manifest"
 msgstr "Bildirim"
@@ -643,7 +643,7 @@ msgid "Next"
 msgstr "İleri"
 
 msgid "No"
-msgstr "Numara"
+msgstr "Hayır"
 
 msgid "Nothing found"
 msgstr "Hiçbirşey Bulunamadı"
@@ -658,7 +658,7 @@ msgid "Offset"
 msgstr "Ofset"
 
 msgid "One operand"
-msgstr ""
+msgstr "Bir işlenen"
 
 msgid "Online tools"
 msgstr "Çevrimiçi araçlar"
@@ -667,7 +667,7 @@ msgid "Opcode"
 msgstr "Opcode"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Opcode grubu"
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -703,7 +703,7 @@ msgid "Please restart the application"
 msgstr "Lütfen uygulamya tekrar başlatın"
 
 msgid "Please run the program as an administrator"
-msgstr "Lütfen programı yönetici olarak çalıştırın"
+msgstr "Lütfen uygulamayı yönetici olarak çalıştırın"
 
 msgid "Please use valid API key"
 msgstr "Lütfen geçerli bir API anahtarı kullanın"
@@ -718,7 +718,7 @@ msgid "Process"
 msgstr "İşlem"
 
 msgid "Processes"
-msgstr "süreçler"
+msgstr "İşlemler"
 
 msgid "Program name"
 msgstr "Program adı"
@@ -820,7 +820,7 @@ msgid "Save backup"
 msgstr "Yedeği kaydet"
 
 msgid "Save diagram"
-msgstr "Diyagram kaydet"
+msgstr "Diyagramı kaydet"
 
 msgid "Save dump"
 msgstr "Dökümü kaydet"
@@ -898,13 +898,13 @@ msgid "Show all"
 msgstr "Hepsini göster"
 
 msgid "Show colons in addresses"
-msgstr "Adres sütunu"
+msgstr "Adres sütunu göster"
 
 msgid "Show comments"
 msgstr "Yorumları göster"
 
 msgid "Show detects"
-msgstr "Bulunanaları göster"
+msgstr "Bulunanları göster"
 
 msgid "Show in"
 msgstr "Göster"
@@ -940,7 +940,7 @@ msgid "Size"
 msgstr "Boyut"
 
 msgid "Size of image"
-msgstr "Resmin boyutu"
+msgstr "İmajın boyutu"
 
 msgid "Sort elements"
 msgstr "Öğeleri sırala"
@@ -1057,7 +1057,7 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "İmza mevcut, ancak özellikle izin verilmedi"
 
 msgid "Threads"
-msgstr "İşlemcik"
+msgstr "İşlemcikler"
 
 msgid "TiB"
 msgstr "TiB"
@@ -1090,7 +1090,7 @@ msgid "Tree"
 msgstr "Ağaç"
 
 msgid "Two operands"
-msgstr ""
+msgstr "İki işlenen"
 
 msgid "Type"
 msgstr "Tip"
