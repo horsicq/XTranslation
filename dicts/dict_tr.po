@@ -775,7 +775,7 @@ msgid "Regions"
 msgstr "Bölge"
 
 msgid "Register"
-msgstr ""
+msgstr "Yazmaç"
 
 msgid "Relative address"
 msgstr "Göreceli adres"
@@ -970,10 +970,10 @@ msgid "Stay on top"
 msgstr "Üstte tut"
 
 msgid "Step into"
-msgstr "İçine adımla"
+msgstr "İçine gir"
 
 msgid "Step over"
-msgstr "Adımla"
+msgstr "İlerle"
 
 msgid "Stop"
 msgstr "Dur"
