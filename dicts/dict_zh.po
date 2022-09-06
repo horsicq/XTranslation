@@ -118,7 +118,7 @@ msgid "Breakpoint"
 msgstr "断点"
 
 msgid "Breakpoints"
-msgstr "全部断点"
+msgstr "断点"
 
 msgid "Bugreports"
 msgstr "错误报告"
@@ -127,7 +127,7 @@ msgid "Byte"
 msgstr "字节"
 
 msgid "Bytes"
-msgstr "字节数"
+msgstr "字节"
 
 msgid "Bytes available"
 msgstr "可用字节"
@@ -214,7 +214,7 @@ msgid "Code section"
 msgstr "代码段"
 
 msgid "Colors"
-msgstr "所有颜色"
+msgstr "颜色"
 
 msgid "Commands"
 msgstr "指令"
@@ -313,7 +313,7 @@ msgid "Disasm"
 msgstr "反汇编"
 
 msgid "Document"
-msgstr "文献"
+msgstr "文档"
 
 msgid "Documents"
 msgstr "文档"
@@ -334,7 +334,7 @@ msgid "Edit"
 msgstr "编辑"
 
 msgid "Editor"
-msgstr ""
+msgstr "编辑器"
 
 msgid "Elapsed"
 msgstr "已耗时"
@@ -355,7 +355,7 @@ msgid "Error"
 msgstr "错误"
 
 msgid "Exceptions"
-msgstr "例外"
+msgstr "异常"
 
 msgid "Exit"
 msgstr "退出"
@@ -427,7 +427,7 @@ msgid "Font"
 msgstr "字体"
 
 msgid "Form"
-msgstr "载入"
+msgstr "表单"
 
 msgid "Format"
 msgstr "格式"
@@ -496,7 +496,7 @@ msgid "Images"
 msgstr "镜像"
 
 msgid "Import"
-msgstr "导入表"
+msgstr "导入"
 
 msgid "Import hash"
 msgstr "导入哈希"
@@ -511,7 +511,7 @@ msgid "Information"
 msgstr "信息"
 
 msgid "Input"
-msgstr ""
+msgstr "输入"
 
 msgid "Installer"
 msgstr "安装程序"
@@ -529,7 +529,7 @@ msgid "Invalid opcode"
 msgstr "无效的操作码"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "无效的签名"
 
 msgid "Issuer"
 msgstr "发行人"
@@ -556,7 +556,7 @@ msgid "Label"
 msgstr "标签"
 
 msgid "Labels"
-msgstr "标贴"
+msgstr "标签"
 
 msgid "Language"
 msgstr "语言"
@@ -568,7 +568,7 @@ msgid "Length"
 msgstr "长度"
 
 msgid "Libraries"
-msgstr "全部库"
+msgstr "库"
 
 msgid "Library"
 msgstr "库"
@@ -580,7 +580,7 @@ msgid "Linker"
 msgstr "链接程序"
 
 msgid "Links"
-msgstr ""
+msgstr "链接"
 
 msgid "Load config"
 msgstr "加载配置"
@@ -631,7 +631,7 @@ msgid "Module"
 msgstr "模块"
 
 msgid "Modules"
-msgstr "全部模块"
+msgstr "模块"
 
 msgid "More info"
 msgstr "更多信息"
@@ -658,7 +658,7 @@ msgid "Offset"
 msgstr "偏移"
 
 msgid "One operand"
-msgstr ""
+msgstr "一个操作数"
 
 msgid "Online tools"
 msgstr "在线工具"
@@ -706,7 +706,7 @@ msgid "Please run the program as an administrator"
 msgstr "请以管理员身份运行程序"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "请使用有效的 API Key"
 
 msgid "Pointer"
 msgstr "指针"
@@ -718,13 +718,13 @@ msgid "Process"
 msgstr "进程"
 
 msgid "Processes"
-msgstr "全部进程"
+msgstr "进程"
 
 msgid "Program name"
 msgstr "程序名称"
 
 msgid "Programs"
-msgstr "全部程序"
+msgstr "程序"
 
 msgid "Protection"
 msgstr "保护"
@@ -772,7 +772,7 @@ msgid "Region"
 msgstr "区域"
 
 msgid "Regions"
-msgstr "全部区域"
+msgstr "区域"
 
 msgid "Register"
 msgstr ""
@@ -865,13 +865,13 @@ msgid "Section name"
 msgstr "节名称"
 
 msgid "Sections"
-msgstr "全部节"
+msgstr "节"
 
 msgid "Segment"
 msgstr "段"
 
 msgid "Segments"
-msgstr "全部段"
+msgstr "段"
 
 msgid "Select"
 msgstr "选择"
@@ -931,7 +931,7 @@ msgid "Signature"
 msgstr "签名"
 
 msgid "Signatures"
-msgstr "全部签名"
+msgstr "签名"
 
 msgid "Single application"
 msgstr "单个应用程序"
@@ -949,7 +949,7 @@ msgid "Sort type"
 msgstr "排序类型"
 
 msgid "Source"
-msgstr ""
+msgstr "源"
 
 msgid "Source code"
 msgstr "源代码"
@@ -997,7 +997,7 @@ msgid "Structs"
 msgstr "结构"
 
 msgid "Stub"
-msgstr ""
+msgstr "存根"
 
 msgid "Style"
 msgstr "样式"
@@ -1090,7 +1090,7 @@ msgid "Tree"
 msgstr "目录"
 
 msgid "Two operands"
-msgstr ""
+msgstr "两个操作数"
 
 msgid "Type"
 msgstr "类型"
@@ -1099,13 +1099,13 @@ msgid "Unknown"
 msgstr "未知"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "上传这个文件进行分析？"
 
 msgid "Upper"
 msgstr "顶部"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "大写字母"
 
 msgid "User"
 msgstr "用户"
