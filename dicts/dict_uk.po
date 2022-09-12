@@ -134,7 +134,7 @@ msgid "Bytes available"
 msgstr "Доступні байти"
 
 msgid "C Strings"
-msgstr "C стрічки"
+msgstr "C рядки"
 
 msgid "CPU"
 msgstr "Процесор"
@@ -857,7 +857,7 @@ msgid "Search signatures"
 msgstr "Пошук сигнатур"
 
 msgid "Search strings"
-msgstr "Пошук стрічок"
+msgstr "Пошук рядків"
 
 msgid "Section"
 msgstr "Секція"
