@@ -62,7 +62,7 @@ msgid "Analyze"
 msgstr "Аналізувати"
 
 msgid "Animate"
-msgstr ""
+msgstr "Анімувати"
 
 msgid "Appearance"
 msgstr "Вигляд"
@@ -104,7 +104,7 @@ msgid "Binding"
 msgstr "Прив'язка"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Миготливий курсор"
 
 msgid "Boot application"
 msgstr "Завантажувальна програма"
@@ -209,7 +209,7 @@ msgid "Close"
 msgstr "Закрити"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Кодові сторінки"
 
 msgid "Code section"
 msgstr "Секція коду"
@@ -257,7 +257,7 @@ msgid "Data in code"
 msgstr "Дані в коді"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "Інспектор даних"
 
 msgid "Database"
 msgstr "База даних"
@@ -293,7 +293,7 @@ msgid "Detach"
 msgstr "Від'єднати"
 
 msgid "Detect"
-msgstr ""
+msgstr "Виявити"
 
 msgid "Device"
 msgstr "Пристрій"
@@ -377,7 +377,7 @@ msgid "File"
 msgstr "Файл"
 
 msgid "File info"
-msgstr "Інфо файлу"
+msgstr "Дані файлу"
 
 msgid "File name"
 msgstr "Ім'я файлу"
@@ -452,7 +452,7 @@ msgid "Get element"
 msgstr "Отримати елемент"
 
 msgid "GiB"
-msgstr ""
+msgstr "ГіБ"
 
 msgid "Go to"
 msgstr "Перейти до"
@@ -512,7 +512,7 @@ msgid "Information"
 msgstr "Інформація"
 
 msgid "Input"
-msgstr ""
+msgstr "Введення"
 
 msgid "Installer"
 msgstr "Інсталятор"
@@ -530,7 +530,7 @@ msgid "Invalid opcode"
 msgstr "Невірний опкод"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "Невірний підпис"
 
 msgid "Issuer"
 msgstr "Видавач"
@@ -551,7 +551,7 @@ msgid "Kernel mode"
 msgstr "Режим ядра"
 
 msgid "KiB"
-msgstr ""
+msgstr "КіБ"
 
 msgid "Label"
 msgstr "Мітка"
@@ -581,7 +581,7 @@ msgid "Linker"
 msgstr "Лінкер"
 
 msgid "Links"
-msgstr ""
+msgstr "Лінки"
 
 msgid "Load config"
 msgstr "Завантажувана конфігурація"
@@ -623,7 +623,7 @@ msgid "Method"
 msgstr "Метод"
 
 msgid "MiB"
-msgstr ""
+msgstr "МіБ"
 
 msgid "Mode"
 msgstr "Режим"
@@ -659,16 +659,16 @@ msgid "Offset"
 msgstr "Зміщення"
 
 msgid "One operand"
-msgstr ""
+msgstr "Один операнд"
 
 msgid "Online tools"
-msgstr "Онлайн утиліти"
+msgstr "Онлайн інструменти"
 
 msgid "Opcode"
 msgstr "Опкод"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Група опкодів"
 
 msgid "Opcodes"
 msgstr "Опкоди"
@@ -785,7 +785,7 @@ msgid "Relative virtual address"
 msgstr "Відносна віртуальна адреса"
 
 msgid "Reload"
-msgstr "Перевантажити"
+msgstr "Перезавантажити"
 
 msgid "Relocs"
 msgstr "Релоки"
@@ -980,13 +980,13 @@ msgid "Stop"
 msgstr "Стоп"
 
 msgid "String"
-msgstr "Стрічка"
+msgstr "Рядок"
 
 msgid "String table"
-msgstr "Таблиця стрічок"
+msgstr "Таблиця рядків"
 
 msgid "Strings"
-msgstr "Стрічки"
+msgstr "Рядки"
 
 msgid "Struct"
 msgstr "Структура"
@@ -1061,7 +1061,7 @@ msgid "Threads"
 msgstr "Потоки"
 
 msgid "TiB"
-msgstr ""
+msgstr "ТіБ"
 
 msgid "Time"
 msgstr "Час"
@@ -1085,13 +1085,13 @@ msgid "Total"
 msgstr "Всього"
 
 msgid "Trace"
-msgstr ""
+msgstr "Трасувати"
 
 msgid "Tree"
 msgstr "Дерево"
 
 msgid "Two operands"
-msgstr ""
+msgstr "Два операнди"
 
 msgid "Type"
 msgstr "Тип"
