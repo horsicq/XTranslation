@@ -148,7 +148,7 @@ msgid "Calls"
 msgstr "Appels"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Pile des appels"
 
 msgid "Cancel"
 msgstr "Annuler"
@@ -166,7 +166,7 @@ msgid "Cannot load database"
 msgstr "Impossible de charger la base de données"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "Impossible de charger le pilote logiciel"
 
 msgid "Cannot load file"
 msgstr "Impossible de charger le fichier"
@@ -451,7 +451,7 @@ msgid "Get element"
 msgstr "Obtenir l'élément"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid "Go to"
 msgstr "Aller à"
@@ -550,7 +550,7 @@ msgid "Kernel mode"
 msgstr ""
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Label"
 msgstr "Étiquette"
@@ -622,7 +622,7 @@ msgid "Method"
 msgstr "Méthode"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Mode"
 msgstr "Mode"
@@ -658,16 +658,16 @@ msgid "Offset"
 msgstr "Offset"
 
 msgid "One operand"
-msgstr ""
+msgstr "Un opérande"
 
 msgid "Online tools"
-msgstr ""
+msgstr "Outils en ligne"
 
 msgid "Opcode"
 msgstr "Opcode"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Groupe d'Opcode"
 
 msgid "Opcodes"
 msgstr "Opcodes"
@@ -754,7 +754,7 @@ msgid "Rebase"
 msgstr "Rebase"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Fichiers récents"
 
 msgid "Recursive"
 msgstr "Récursive"
@@ -829,7 +829,7 @@ msgid "Save file"
 msgstr "Sauvegarder le fichier"
 
 msgid "Save history"
-msgstr ""
+msgstr "Sauvegarder l'histoire"
 
 msgid "Save last directory"
 msgstr "Sauvegarder le dernier répertoire"
@@ -895,7 +895,7 @@ msgid "Show"
 msgstr "Montrer"
 
 msgid "Show all"
-msgstr ""
+msgstr "Montrer tout"
 
 msgid "Show colons in addresses"
 msgstr ""
@@ -949,7 +949,7 @@ msgid "Sort type"
 msgstr "Type de tri"
 
 msgid "Source"
-msgstr ""
+msgstr "Source"
 
 msgid "Source code"
 msgstr "Code source"
@@ -988,7 +988,7 @@ msgid "Strings"
 msgstr "Lignes de texte"
 
 msgid "Struct"
-msgstr ""
+msgstr "Struct"
 
 msgid "Struct and unions"
 msgstr "Structuration et syndicats"
@@ -1021,7 +1021,7 @@ msgid "Syntax"
 msgstr "Syntaxe"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Table"
 msgstr "Table"
@@ -1060,7 +1060,7 @@ msgid "Threads"
 msgstr "Fils"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Time"
 msgstr "Temps"
@@ -1090,7 +1090,7 @@ msgid "Tree"
 msgstr "Arbre"
 
 msgid "Two operands"
-msgstr ""
+msgstr "Deux opérandes"
 
 msgid "Type"
 msgstr "Type"
