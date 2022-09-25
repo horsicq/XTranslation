@@ -22,7 +22,7 @@ msgid "8-bit"
 msgstr "8 bits"
 
 msgid "API key"
-msgstr ""
+msgstr "Clé API"
 
 msgid "About"
 msgstr "À propos"
@@ -103,7 +103,7 @@ msgid "Binding"
 msgstr "Obligatoire"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Curseur clignotant"
 
 msgid "Boot application"
 msgstr "Application de démarrage"
@@ -115,7 +115,7 @@ msgid "Bound import"
 msgstr "Importation liée"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "Point d'arrêt"
 
 msgid "Breakpoints"
 msgstr "Points d'arrêt"
@@ -130,7 +130,7 @@ msgid "Bytes"
 msgstr "Octets"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "Octets disponibles"
 
 msgid "C Strings"
 msgstr ""
@@ -208,13 +208,13 @@ msgid "Close"
 msgstr "Fermer"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Pages de codes"
 
 msgid "Code section"
 msgstr "Section de code"
 
 msgid "Colors"
-msgstr ""
+msgstr "Couleurs"
 
 msgid "Commands"
 msgstr "Commandes"
@@ -262,7 +262,7 @@ msgid "Database"
 msgstr "Base de données"
 
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgid "Debug"
 msgstr "Déboguer"
@@ -295,7 +295,7 @@ msgid "Detect"
 msgstr ""
 
 msgid "Device"
-msgstr ""
+msgstr "Appareil"
 
 msgid "Device scan"
 msgstr "Scan d'appareils"
@@ -322,7 +322,7 @@ msgid "Donate"
 msgstr "Faire un don"
 
 msgid "Driver"
-msgstr "Conducteur"
+msgstr "Pilote"
 
 msgid "Dump"
 msgstr "Extraire"
@@ -334,7 +334,7 @@ msgid "Edit"
 msgstr "Éditer"
 
 msgid "Editor"
-msgstr ""
+msgstr "Éditeur"
 
 msgid "Elapsed"
 msgstr "Écoulé"
@@ -418,7 +418,7 @@ msgid "Flags"
 msgstr "Drapeaux"
 
 msgid "Folder"
-msgstr ""
+msgstr "Dossier"
 
 msgid "Follow in"
 msgstr ""
@@ -529,7 +529,7 @@ msgid "Invalid opcode"
 msgstr "Opcode invalide"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "Signature invalide"
 
 msgid "Issuer"
 msgstr "Émetteur"
@@ -547,7 +547,7 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "Mode noyau"
 
 msgid "KiB"
 msgstr "KiB"
@@ -628,7 +628,7 @@ msgid "Mode"
 msgstr "Mode"
 
 msgid "Module"
-msgstr ""
+msgstr "Module"
 
 msgid "Modules"
 msgstr "Modules"
@@ -991,10 +991,10 @@ msgid "Struct"
 msgstr "Struct"
 
 msgid "Struct and unions"
-msgstr "Structuration et syndicats"
+msgstr "Struct et syndicats"
 
 msgid "Structs"
-msgstr "Structures"
+msgstr "Structs"
 
 msgid "Stub"
 msgstr "Squelette"
@@ -1105,13 +1105,13 @@ msgid "Upper"
 msgstr "Haut de page"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "Majuscule"
 
 msgid "User"
-msgstr ""
+msgstr "Utilisateur"
 
 msgid "User mode"
-msgstr ""
+msgstr "Mode utilisateur"
 
 msgid "Value"
 msgstr "Valeur"
@@ -1120,7 +1120,7 @@ msgid "Variable"
 msgstr "Variable"
 
 msgid "Verbose"
-msgstr ""
+msgstr "Verbeux"
 
 msgid "Version"
 msgstr "Version"
