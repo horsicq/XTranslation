@@ -200,7 +200,7 @@ msgid "Certificate"
 msgstr "인증서"
 
 msgid "Check"
-msgstr "체크"
+msgstr "확인"
 
 msgid "Check updates"
 msgstr "업데이트 확인"
