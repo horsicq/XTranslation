@@ -3,6 +3,7 @@
 Translation for:
 
 * Detect It Easy: https://github.com/horsicq/Detect-It-Easy
+* Nauz File Detector: https://github.com/horsicq/Nauz-File-Detector
 * XAPKDetector: https://github.com/horsicq/XAPKDetector
 * XELFViewer: https://github.com/horsicq/XELFViewer
 * XPEViewer: https://github.com/horsicq/XPEViewer
