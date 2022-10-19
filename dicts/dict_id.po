@@ -103,7 +103,7 @@ msgid "Binding"
 msgstr "Mengikat"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Kursor berkedip"
 
 msgid "Boot application"
 msgstr "Aplikasi booting"
