@@ -88,7 +88,7 @@ msgid "Automatic"
 msgstr "Otomatis"
 
 msgid "Background"
-msgstr ""
+msgstr "Latar belakang"
 
 msgid "Base address"
 msgstr "Alamat dasar"
@@ -103,7 +103,7 @@ msgid "Binding"
 msgstr "Mengikat"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "Kursor berkedip"
 
 msgid "Boot application"
 msgstr "Aplikasi booting"
