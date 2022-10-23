@@ -21,9 +21,6 @@ msgstr ""
 msgid "8-bit"
 msgstr ""
 
-msgid "256-bit"
-msgstr ""
-
 msgid "API key"
 msgstr ""
 
