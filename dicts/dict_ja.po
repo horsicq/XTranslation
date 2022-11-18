@@ -22,7 +22,7 @@ msgid "8-bit"
 msgstr "8ビット"
 
 msgid "API key"
-msgstr ""
+msgstr "APIキー"
 
 msgid "About"
 msgstr "情報"
@@ -49,7 +49,7 @@ msgid "All files"
 msgstr "すべてのファイル"
 
 msgid "All types"
-msgstr "いろんなタイプ"
+msgstr "すべての種類"
 
 msgid "Allocation base"
 msgstr ""
@@ -97,13 +97,13 @@ msgid "Begin"
 msgstr "先頭"
 
 msgid "Bind"
-msgstr "練る"
+msgstr "バインド"
 
 msgid "Binding"
 msgstr "バインディング"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "カーソルを点滅"
 
 msgid "Boot application"
 msgstr "ブートアプリケーション"
@@ -115,13 +115,13 @@ msgid "Bound import"
 msgstr "バインドされたインポート"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "ブレークポイント"
 
 msgid "Breakpoints"
 msgstr "ブレークポイント"
 
 msgid "Bugreports"
-msgstr "バグレポート"
+msgstr "バグ報告"
 
 msgid "Byte"
 msgstr "バイト"
@@ -166,7 +166,7 @@ msgid "Cannot load database"
 msgstr "データベースを読み込めません"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "ドライバーを読み込めません"
 
 msgid "Cannot load file"
 msgstr "ファイルを読み込めません"
@@ -199,7 +199,7 @@ msgid "Check updates"
 msgstr "アップデートの確認"
 
 msgid "Clear"
-msgstr "クリア"
+msgstr "消去"
 
 msgid "Clear result"
 msgstr "結果をクリア"
@@ -208,13 +208,13 @@ msgid "Close"
 msgstr "閉じる"
 
 msgid "Code pages"
-msgstr ""
+msgstr "コードページ"
 
 msgid "Code section"
 msgstr "コード セクション"
 
 msgid "Colors"
-msgstr ""
+msgstr "色"
 
 msgid "Commands"
 msgstr "コマンド"
@@ -235,7 +235,7 @@ msgid "Copy"
 msgstr "コピー"
 
 msgid "Copy as"
-msgstr "としてコピー"
+msgstr "以下をコピー"
 
 msgid "Count"
 msgstr "個数"
@@ -256,7 +256,7 @@ msgid "Data in code"
 msgstr "コードのデータ"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "データ インスペクター"
 
 msgid "Database"
 msgstr "データベース"
@@ -277,7 +277,7 @@ msgid "Deep scan"
 msgstr "ディープスキャン"
 
 msgid "Default"
-msgstr "ディフォルト"
+msgstr "標準"
 
 msgid "Delay import"
 msgstr "インポートを遅らせる"
@@ -295,13 +295,13 @@ msgid "Detect"
 msgstr ""
 
 msgid "Device"
-msgstr ""
+msgstr "デバイス"
 
 msgid "Device scan"
 msgstr "デバイスのスキャン"
 
 msgid "Diagram"
-msgstr ""
+msgstr "ダイアグラム"
 
 msgid "Directory"
 msgstr "ディレクトリ"
@@ -376,7 +376,7 @@ msgid "File"
 msgstr "ファイル名"
 
 msgid "File info"
-msgstr ""
+msgstr "ファイル情報"
 
 msgid "File name"
 msgstr "ファイル名"
@@ -418,7 +418,7 @@ msgid "Flags"
 msgstr "フラグ"
 
 msgid "Folder"
-msgstr ""
+msgstr "フォルダー"
 
 msgid "Follow in"
 msgstr ""
@@ -433,7 +433,7 @@ msgid "Format"
 msgstr "書式"
 
 msgid "Function"
-msgstr ""
+msgstr "関数"
 
 msgid "Functions"
 msgstr "関数"
@@ -460,7 +460,7 @@ msgid "Go to address"
 msgstr "アドレスに移動"
 
 msgid "Grid"
-msgstr ""
+msgstr "グリッド"
 
 msgid "Handles"
 msgstr "ハンドル"
@@ -529,7 +529,7 @@ msgid "Invalid opcode"
 msgstr "無効な Opcode"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "無効な 署名"
 
 msgid "Issuer"
 msgstr "発行者"
@@ -544,10 +544,10 @@ msgid "Jumps"
 msgstr "ジャンプ"
 
 msgid "Keep size"
-msgstr ""
+msgstr "サイズを保持"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "カーネルモード"
 
 msgid "KiB"
 msgstr ""
@@ -580,7 +580,7 @@ msgid "Linker"
 msgstr "リンカ"
 
 msgid "Links"
-msgstr ""
+msgstr "リンク"
 
 msgid "Load config"
 msgstr "構成をロード"
@@ -628,19 +628,19 @@ msgid "Mode"
 msgstr "モード"
 
 msgid "Module"
-msgstr ""
+msgstr "モジュール"
 
 msgid "Modules"
 msgstr "モジュール"
 
 msgid "More info"
-msgstr "より詳しい情報"
+msgstr "詳細情報"
 
 msgid "Name"
 msgstr "名前"
 
 msgid "Next"
-msgstr ""
+msgstr "次"
 
 msgid "No"
 msgstr "番号"
@@ -661,16 +661,16 @@ msgid "One operand"
 msgstr ""
 
 msgid "Online tools"
-msgstr ""
+msgstr "オンラインツール"
 
 msgid "Opcode"
 msgstr "Opcode"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Opcodeグループ"
 
 msgid "Opcodes"
-msgstr "Opcodes"
+msgstr "Opcode"
 
 msgid "Open"
 msgstr "開く"
@@ -706,7 +706,7 @@ msgid "Please run the program as an administrator"
 msgstr "管理者としてプログラムを実行してください"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "有効な API キーを使用してください"
 
 msgid "Pointer"
 msgstr "ポインタ"
@@ -739,7 +739,7 @@ msgid "Prototype"
 msgstr "プロトタイプ"
 
 msgid "Publisher"
-msgstr "出版社"
+msgstr "開発者"
 
 msgid "Raw data"
 msgstr "Raw データ"
@@ -754,7 +754,7 @@ msgid "Rebase"
 msgstr "リベース"
 
 msgid "Recent files"
-msgstr ""
+msgstr "最近使ったファイル"
 
 msgid "Recursive"
 msgstr "再帰的"
@@ -763,19 +763,19 @@ msgid "Recursive scan"
 msgstr "ファイル スキャン"
 
 msgid "Ref from"
-msgstr "から参照"
+msgstr "以下から参照"
 
 msgid "Ref to"
-msgstr "へ参照"
+msgstr "以下へ参照"
 
 msgid "Region"
 msgstr "領域"
 
 msgid "Regions"
-msgstr "地域"
+msgstr "領域"
 
 msgid "Register"
-msgstr ""
+msgstr "レジスター"
 
 msgid "Relative address"
 msgstr "相対アドレス"
@@ -790,7 +790,7 @@ msgid "Relocs"
 msgstr "再配置"
 
 msgid "Rescan"
-msgstr ""
+msgstr "再スキャン"
 
 msgid "Resource"
 msgstr "リソース"
@@ -814,7 +814,7 @@ msgid "Save"
 msgstr "保存"
 
 msgid "Save as"
-msgstr ""
+msgstr "名前を付けて保存"
 
 msgid "Save backup"
 msgstr "バックアップを保存"
@@ -829,7 +829,7 @@ msgid "Save file"
 msgstr "保存"
 
 msgid "Save history"
-msgstr ""
+msgstr "履歴を保存"
 
 msgid "Save last directory"
 msgstr "最後に使用したディレクトリを保持"
@@ -844,7 +844,7 @@ msgid "Scan after open"
 msgstr "開いてすぐにスキャンを開始"
 
 msgid "Script"
-msgstr "脚本"
+msgstr "スクリプト"
 
 msgid "Search"
 msgstr "検索"
@@ -892,13 +892,13 @@ msgid "Shortcuts"
 msgstr "ショートカット"
 
 msgid "Show"
-msgstr "見せる"
+msgstr "表示"
 
 msgid "Show all"
-msgstr ""
+msgstr "すべて表示"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "アドレス内にコロンを表示"
 
 msgid "Show comments"
 msgstr "コメントを表示"
@@ -910,7 +910,7 @@ msgid "Show in"
 msgstr ""
 
 msgid "Show logo"
-msgstr "ロゴを表示する"
+msgstr "ロゴを表示"
 
 msgid "Show options"
 msgstr "オプションを表示"
@@ -964,7 +964,7 @@ msgid "State"
 msgstr ""
 
 msgid "Status"
-msgstr "ステータス"
+msgstr "状態"
 
 msgid "Stay on top"
 msgstr "常に最前面表示"
@@ -1039,7 +1039,7 @@ msgid "Text files"
 msgstr "テキスト ファイル"
 
 msgid "Thanks"
-msgstr "Thanks"
+msgstr "謝辞"
 
 msgid "The file is not signed"
 msgstr "ファイルは署名されていません"
@@ -1084,7 +1084,7 @@ msgid "Total"
 msgstr "合計"
 
 msgid "Trace"
-msgstr ""
+msgstr "追跡"
 
 msgid "Tree"
 msgstr "ツリー"
@@ -1099,19 +1099,19 @@ msgid "Unknown"
 msgstr "不明"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "分析のためにファイルをアップロードしますか?"
 
 msgid "Upper"
 msgstr "大文字"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "大文字"
 
 msgid "User"
-msgstr ""
+msgstr "ユーザー"
 
 msgid "User mode"
-msgstr ""
+msgstr "ユーザー種別"
 
 msgid "Value"
 msgstr "値"
@@ -1126,7 +1126,7 @@ msgid "Version"
 msgstr "バージョン"
 
 msgid "View"
-msgstr "意見"
+msgstr "表示"
 
 msgid "Viewer"
 msgstr "ビューア"
