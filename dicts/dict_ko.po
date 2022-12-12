@@ -37,6 +37,9 @@ msgstr "정보"
 msgid "Action"
 msgstr "액션"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "정렬 추가"
 
@@ -45,6 +48,9 @@ msgstr "컨텍스트 메뉴에 추가"
 
 msgid "Address"
 msgstr "주소"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "연산"
@@ -90,6 +96,9 @@ msgstr "Array"
 
 msgid "Attach"
 msgstr "붙이다"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "자동적 인"
@@ -334,6 +343,9 @@ msgstr "운전사"
 msgid "Dump"
 msgstr "덤프"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "파일로 덤프"
 
@@ -345,6 +357,9 @@ msgstr "편집기"
 
 msgid "Elapsed"
 msgstr "경과"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "엔디언"
@@ -379,6 +394,18 @@ msgstr "타입 내보내기"
 msgid "External references"
 msgstr "외부 참조"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "파일"
 
@@ -396,6 +423,9 @@ msgstr "파일이 저장됨"
 
 msgid "File scan"
 msgstr "파일 검색"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "파일 타입"
@@ -432,6 +462,9 @@ msgstr ""
 
 msgid "Font"
 msgstr "폰트"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "형태"
@@ -796,6 +829,9 @@ msgstr "다시 불러오기"
 msgid "Relocs"
 msgstr "다시 할당하기"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr "다시 스캔"
 
@@ -967,6 +1003,9 @@ msgstr "공백"
 msgid "Stack"
 msgstr "스택"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr "상태"
 
@@ -1063,6 +1102,9 @@ msgstr "서명이 있지만 신뢰할 수 없음"
 msgid "The signature is present, but specifically disallowed"
 msgstr "서명이 있지만 특별히 허용되지 않음"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "스레드"
 
@@ -1132,6 +1174,9 @@ msgstr ""
 msgid "Version"
 msgstr "버전"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "보다"
 
@@ -1143,6 +1188,9 @@ msgstr "가상 주소"
 
 msgid "Virtual machine"
 msgstr "가상 기기"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "약한 바인딩"

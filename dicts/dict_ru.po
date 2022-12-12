@@ -3,8 +3,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: ru_RU\n"
 
 msgid "128-bit"
@@ -31,6 +31,9 @@ msgstr "О программе"
 msgid "Action"
 msgstr "Действие"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "Добавить выравнивание"
 
@@ -39,6 +42,9 @@ msgstr "Добавить программу в контекстное меню"
 
 msgid "Address"
 msgstr "Адрес"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "Алгоритм"
@@ -84,6 +90,9 @@ msgstr "Массив"
 
 msgid "Attach"
 msgstr "Прикрепить"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "Автоматически"
@@ -328,6 +337,9 @@ msgstr "Драйвер"
 msgid "Dump"
 msgstr "Дамп"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "Дамп в файл"
 
@@ -339,6 +351,9 @@ msgstr "Редактор"
 
 msgid "Elapsed"
 msgstr "Прошло"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Порядок байт"
@@ -373,6 +388,18 @@ msgstr "Тип экспорта"
 msgid "External references"
 msgstr "Внешние ссылки"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "Файл"
 
@@ -390,6 +417,9 @@ msgstr "Файл сохранён"
 
 msgid "File scan"
 msgstr "Сканирование файла"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "Тип файла"
@@ -426,6 +456,9 @@ msgstr "Следовать в"
 
 msgid "Font"
 msgstr "Шрифт"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "Форма"
@@ -790,6 +823,9 @@ msgstr "Обновить"
 msgid "Relocs"
 msgstr "Relocs"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr "Пересканировать"
 
@@ -961,6 +997,9 @@ msgstr "Пробелы"
 msgid "Stack"
 msgstr "Стек"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr "Состояние"
 
@@ -1057,6 +1096,9 @@ msgstr "Подпись присутствует, но не доверяет"
 msgid "The signature is present, but specifically disallowed"
 msgstr "Подпись присутствует, но специально не разрешена"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "Потоки"
 
@@ -1126,6 +1168,9 @@ msgstr "Подробно"
 msgid "Version"
 msgstr "Версия"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "Вид"
 
@@ -1137,6 +1182,9 @@ msgstr "Виртуальный адрес"
 
 msgid "Virtual machine"
 msgstr "Виртуальная машина"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "Слабое связывание"
@@ -1176,4 +1224,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
-

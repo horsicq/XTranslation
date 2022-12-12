@@ -31,6 +31,9 @@ msgstr "عن"
 msgid "Action"
 msgstr "عمل"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "أضف المحاذاة"
 
@@ -39,6 +42,9 @@ msgstr "أضف إلى قائمة السياق"
 
 msgid "Address"
 msgstr "عنوان"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "الخوارزمية"
@@ -84,6 +90,9 @@ msgstr "مجموعة مصفوفة"
 
 msgid "Attach"
 msgstr "يربط"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "تلقائي"
@@ -328,6 +337,9 @@ msgstr "سائق"
 msgid "Dump"
 msgstr "أحمق"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "تفريغ إلى ملف"
 
@@ -339,6 +351,9 @@ msgstr ""
 
 msgid "Elapsed"
 msgstr "انقضى"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -373,6 +388,18 @@ msgstr "نوع التصدير"
 msgid "External references"
 msgstr "المراجع الخارجية"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "ملف"
 
@@ -390,6 +417,9 @@ msgstr "تم حفظ الملف"
 
 msgid "File scan"
 msgstr "مسح الملف"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "نوع الملف"
@@ -426,6 +456,9 @@ msgstr ""
 
 msgid "Font"
 msgstr "الخط"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "استمارة"
@@ -790,6 +823,9 @@ msgstr "إعادة تحميل"
 msgid "Relocs"
 msgstr "ينتقل"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr ""
 
@@ -961,6 +997,9 @@ msgstr "المساحات"
 msgid "Stack"
 msgstr "كومة"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr ""
 
@@ -1057,6 +1096,9 @@ msgstr "التوقيع موجود ولكن غير موثوق به"
 msgid "The signature is present, but specifically disallowed"
 msgstr "التوقيع موجود ، لكنه غير مسموح به على وجه التحديد"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "الخيوط"
 
@@ -1126,6 +1168,9 @@ msgstr ""
 msgid "Version"
 msgstr "إصدار"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "رأي"
 
@@ -1137,6 +1182,9 @@ msgstr "عنوان افتراضي"
 
 msgid "Virtual machine"
 msgstr "آلة افتراضية"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "ربط ضعيف"

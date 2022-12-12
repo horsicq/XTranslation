@@ -30,6 +30,9 @@ msgstr ""
 msgid "Action"
 msgstr ""
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr ""
 
@@ -37,6 +40,9 @@ msgid "Add to context menu"
 msgstr ""
 
 msgid "Address"
+msgstr ""
+
+msgid "Advanced"
 msgstr ""
 
 msgid "Algorithm"
@@ -82,6 +88,9 @@ msgid "Array"
 msgstr ""
 
 msgid "Attach"
+msgstr ""
+
+msgid "Audio"
 msgstr ""
 
 msgid "Automatic"
@@ -327,6 +336,9 @@ msgstr ""
 msgid "Dump"
 msgstr ""
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr ""
 
@@ -337,6 +349,9 @@ msgid "Editor"
 msgstr ""
 
 msgid "Elapsed"
+msgstr ""
+
+msgid "End"
 msgstr ""
 
 msgid "Endianness"
@@ -372,6 +387,18 @@ msgstr ""
 msgid "External references"
 msgstr ""
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr ""
 
@@ -388,6 +415,9 @@ msgid "File saved"
 msgstr ""
 
 msgid "File scan"
+msgstr ""
+
+msgid "File size"
 msgstr ""
 
 msgid "File type"
@@ -424,6 +454,9 @@ msgid "Follow in"
 msgstr ""
 
 msgid "Font"
+msgstr ""
+
+msgid "Footer"
 msgstr ""
 
 msgid "Form"
@@ -789,6 +822,9 @@ msgstr ""
 msgid "Relocs"
 msgstr ""
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr ""
 
@@ -960,6 +996,9 @@ msgstr ""
 msgid "Stack"
 msgstr ""
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr ""
 
@@ -1056,6 +1095,9 @@ msgstr ""
 msgid "The signature is present, but specifically disallowed"
 msgstr ""
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr ""
 
@@ -1125,6 +1167,9 @@ msgstr ""
 msgid "Version"
 msgstr ""
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr ""
 
@@ -1135,6 +1180,9 @@ msgid "Virtual address"
 msgstr ""
 
 msgid "Virtual machine"
+msgstr ""
+
+msgid "Virtual size"
 msgstr ""
 
 msgid "Weak binding"

@@ -30,6 +30,9 @@ msgstr "אודות"
 msgid "Action"
 msgstr "פעולה"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "הוסף יישור"
 
@@ -38,6 +41,9 @@ msgstr "הוסף לתפריט ההקשר"
 
 msgid "Address"
 msgstr "כתובת"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "אַלגוֹרִיתְם"
@@ -83,6 +89,9 @@ msgstr "מַעֲרָך"
 
 msgid "Attach"
 msgstr "לְצַרֵף"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "אוֹטוֹמָטִי"
@@ -327,6 +336,9 @@ msgstr "נהג"
 msgid "Dump"
 msgstr "יצא כקובץ הרצה"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "יצא כקובץ הרצה לקובץ"
 
@@ -338,6 +350,9 @@ msgstr ""
 
 msgid "Elapsed"
 msgstr "חלף"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "סוג סיומת"
@@ -372,6 +387,18 @@ msgstr "סוג ייצוא"
 msgid "External references"
 msgstr "הפניות חיצוניות"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "קובץ"
 
@@ -389,6 +416,9 @@ msgstr "הקובץ נשמר"
 
 msgid "File scan"
 msgstr "סריקת קובץ"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "סוג קובץ"
@@ -425,6 +455,9 @@ msgstr ""
 
 msgid "Font"
 msgstr "גוֹפָן"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "טופס"
@@ -789,6 +822,9 @@ msgstr "טען מחדש"
 msgid "Relocs"
 msgstr "עוברת דירה מחדש"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr ""
 
@@ -960,6 +996,9 @@ msgstr "רווחים"
 msgid "Stack"
 msgstr "לַעֲרוֹם"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr ""
 
@@ -1056,6 +1095,9 @@ msgstr "החתימה קיימת אך אינה מהימנה"
 msgid "The signature is present, but specifically disallowed"
 msgstr "החתימה קיימת, אך אסורה במיוחד"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "שרשורים"
 
@@ -1125,6 +1167,9 @@ msgstr ""
 msgid "Version"
 msgstr "גרסה"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "נוף"
 
@@ -1136,6 +1181,9 @@ msgstr "כתובת וירטואלית"
 
 msgid "Virtual machine"
 msgstr "מכונה וירטואלית"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "כריכה חלשה"

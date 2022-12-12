@@ -31,6 +31,9 @@ msgstr "O programie"
 msgid "Action"
 msgstr "Akcja"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "Dodaj wyrównanie"
 
@@ -39,6 +42,9 @@ msgstr "Dodaj do menu kontekstowego"
 
 msgid "Address"
 msgstr "Adres"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "Algorytm"
@@ -84,6 +90,9 @@ msgstr "Szyk"
 
 msgid "Attach"
 msgstr "Przytwierdzać"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "Automatyczny"
@@ -328,6 +337,9 @@ msgstr "Sterownik"
 msgid "Dump"
 msgstr "Zrzut"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "Zrzuć do pliku"
 
@@ -339,6 +351,9 @@ msgstr "Edytor"
 
 msgid "Elapsed"
 msgstr "Upłynęło"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Kolejność bajtów w strumieniu danych"
@@ -373,6 +388,18 @@ msgstr "Typ eksportu"
 msgid "External references"
 msgstr "Zewnętrzne referencje"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "Plik"
 
@@ -390,6 +417,9 @@ msgstr "Zapisano plik"
 
 msgid "File scan"
 msgstr "Przetwórz plik"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "Typ pliku"
@@ -426,6 +456,9 @@ msgstr "Śledź"
 
 msgid "Font"
 msgstr "Font"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "Formularz"
@@ -790,6 +823,9 @@ msgstr "Przeładuj"
 msgid "Relocs"
 msgstr "Relokacje"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr "Przeskanuj"
 
@@ -961,6 +997,9 @@ msgstr "Spacje"
 msgid "Stack"
 msgstr "Stos"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr "Stan"
 
@@ -1057,6 +1096,9 @@ msgstr "Podpis jest obecny, ale nie jest zaufany"
 msgid "The signature is present, but specifically disallowed"
 msgstr "Podpis jest obecny, ale wyraźnie niedozwolony"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "Wątki"
 
@@ -1126,6 +1168,9 @@ msgstr "Szczegółowo"
 msgid "Version"
 msgstr "Wersja"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "Pogląd"
 
@@ -1137,6 +1182,9 @@ msgstr "Adres wirtualny"
 
 msgid "Virtual machine"
 msgstr "Maszyna wirtualna"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "Słabe wiązanie"

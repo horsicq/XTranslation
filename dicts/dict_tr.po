@@ -30,6 +30,9 @@ msgstr "Hakkında"
 msgid "Action"
 msgstr "Eylem"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "Hizalama ekle"
 
@@ -38,6 +41,9 @@ msgstr "Bağlam menüsüne ekle"
 
 msgid "Address"
 msgstr "Adres"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "Algoritma"
@@ -83,6 +89,9 @@ msgstr "Dizi"
 
 msgid "Attach"
 msgstr "Eklemek"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "Otomatik"
@@ -171,8 +180,8 @@ msgstr "Sürücü yüklenemiyor"
 msgid "Cannot load file"
 msgstr "Dosya yüklenemiyor"
 
-msgid "Cannot load media library"
-msgstr "Ortam kitaplığı yüklenemiyor"
+msgid "Cannot load msdia library"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "Dosya açılmıyor"
@@ -327,6 +336,9 @@ msgstr "Sürücü"
 msgid "Dump"
 msgstr "Dump (dök)"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "Dosyaya dök"
 
@@ -338,6 +350,9 @@ msgstr "Düzenleyici"
 
 msgid "Elapsed"
 msgstr "Geçen"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -372,6 +387,18 @@ msgstr "Dışa aktarma türü"
 msgid "External references"
 msgstr "Dış referanslar"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "Dosya"
 
@@ -389,6 +416,9 @@ msgstr "Dosya kaydedildi"
 
 msgid "File scan"
 msgstr "Dosya tarama"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "Dosya tipi"
@@ -425,6 +455,9 @@ msgstr "Takip et"
 
 msgid "Font"
 msgstr "Yazı tipi"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "Biçim"
@@ -789,6 +822,9 @@ msgstr "Tekrar yükle"
 msgid "Relocs"
 msgstr "Relocs"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr "Yeniden tara"
 
@@ -960,6 +996,9 @@ msgstr "Alanlar"
 msgid "Stack"
 msgstr "Yığın"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr "Durum"
 
@@ -1056,6 +1095,9 @@ msgstr "İmza mevcut, ancak güvenilir değil"
 msgid "The signature is present, but specifically disallowed"
 msgstr "İmza mevcut, ancak özellikle izin verilmedi"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "İşlemcikler"
 
@@ -1125,6 +1167,9 @@ msgstr "Ayrıntılı"
 msgid "Version"
 msgstr "Sürüm"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "Görünüm"
 
@@ -1136,6 +1181,9 @@ msgstr "Sanal adres"
 
 msgid "Virtual machine"
 msgstr "Sanal makine"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "Zayıf bağlama"
@@ -1175,5 +1223,4 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
-
 

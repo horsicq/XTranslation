@@ -30,6 +30,9 @@ msgstr "關於"
 msgid "Action"
 msgstr "行動"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add alignment"
 msgstr "添加對齊"
 
@@ -38,6 +41,9 @@ msgstr "添加到上下文菜單"
 
 msgid "Address"
 msgstr "位址"
+
+msgid "Advanced"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "算法"
@@ -83,6 +89,9 @@ msgstr "大批"
 
 msgid "Attach"
 msgstr "附"
+
+msgid "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "自動"
@@ -327,6 +336,9 @@ msgstr "司機"
 msgid "Dump"
 msgstr "轉存"
 
+msgid "Dump all"
+msgstr ""
+
 msgid "Dump to file"
 msgstr "轉存到檔案"
 
@@ -338,6 +350,9 @@ msgstr ""
 
 msgid "Elapsed"
 msgstr "過去"
+
+msgid "End"
+msgstr ""
 
 msgid "Endianness"
 msgstr "位元組順序"
@@ -372,6 +387,18 @@ msgstr "出口類型"
 msgid "External references"
 msgstr "外部參考"
 
+msgid "Extract"
+msgstr ""
+
+msgid "Extract all cursors"
+msgstr ""
+
+msgid "Extract all icons"
+msgstr ""
+
+msgid "Extractor"
+msgstr ""
+
 msgid "File"
 msgstr "檔案"
 
@@ -389,6 +416,9 @@ msgstr "文件已保存"
 
 msgid "File scan"
 msgstr "檔案掃描"
+
+msgid "File size"
+msgstr ""
 
 msgid "File type"
 msgstr "檔案類型"
@@ -425,6 +455,9 @@ msgstr ""
 
 msgid "Font"
 msgstr "字體"
+
+msgid "Footer"
+msgstr ""
 
 msgid "Form"
 msgstr "表單"
@@ -789,6 +822,9 @@ msgstr "重新載入"
 msgid "Relocs"
 msgstr "重新定位"
 
+msgid "Remove"
+msgstr ""
+
 msgid "Rescan"
 msgstr ""
 
@@ -960,6 +996,9 @@ msgstr "空格"
 msgid "Stack"
 msgstr "堆"
 
+msgid "Start"
+msgstr ""
+
 msgid "State"
 msgstr ""
 
@@ -1056,6 +1095,9 @@ msgstr "簽名存在，但不受信任"
 msgid "The signature is present, but specifically disallowed"
 msgstr "簽名存在，但明確不允許"
 
+msgid "The value copied to clipboard"
+msgstr ""
+
 msgid "Threads"
 msgstr "線程"
 
@@ -1125,6 +1167,9 @@ msgstr ""
 msgid "Version"
 msgstr "版本"
 
+msgid "Video"
+msgstr ""
+
 msgid "View"
 msgstr "看法"
 
@@ -1136,6 +1181,9 @@ msgstr "虛擬位址"
 
 msgid "Virtual machine"
 msgstr "虛擬機"
+
+msgid "Virtual size"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "弱綁定"
