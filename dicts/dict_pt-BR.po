@@ -31,7 +31,7 @@ msgid "Action"
 msgstr "Açao"
 
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 msgid "Add alignment"
 msgstr "Adicionar alinhamento"
@@ -43,7 +43,7 @@ msgid "Address"
 msgstr "Endereço"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avançado"
 
 msgid "Algorithm"
 msgstr "Algoritmo"
@@ -91,7 +91,7 @@ msgid "Attach"
 msgstr "Anexar"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Automatic"
 msgstr "Automático"
@@ -337,7 +337,7 @@ msgid "Dump"
 msgstr "Dump"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Dump all"
 
 msgid "Dump to file"
 msgstr "Despejar para arquivo"
@@ -352,7 +352,7 @@ msgid "Elapsed"
 msgstr "Decorrido"
 
 msgid "End"
-msgstr ""
+msgstr "Fim"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -388,16 +388,16 @@ msgid "External references"
 msgstr "Referências externas"
 
 msgid "Extract"
-msgstr ""
+msgstr "Extrair"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Extrair todos os cursores"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Extrair todos os ícones"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Extractor"
 
 msgid "File"
 msgstr "Arquivo"
@@ -418,7 +418,7 @@ msgid "File scan"
 msgstr "Escanear arquivo"
 
 msgid "File size"
-msgstr ""
+msgstr "Tamanho do Arquivo"
 
 msgid "File type"
 msgstr "Tipo do arquivo"
@@ -457,7 +457,7 @@ msgid "Font"
 msgstr "Fonte"
 
 msgid "Footer"
-msgstr ""
+msgstr "Rodapé"
 
 msgid "Form"
 msgstr "Formulário"
@@ -823,7 +823,7 @@ msgid "Relocs"
 msgstr "Relocs"
 
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 msgid "Rescan"
 msgstr "Verificar novamente"
@@ -859,7 +859,7 @@ msgid "Save diagram"
 msgstr "Salvar diagrama"
 
 msgid "Save dump"
-msgstr "Salvar despejo"
+msgstr "Salvar dump"
 
 msgid "Save file"
 msgstr "Salvar arquivo"
@@ -880,7 +880,7 @@ msgid "Scan after open"
 msgstr "Escanear depois de aberto"
 
 msgid "Script"
-msgstr "Roteiro"
+msgstr "Script"
 
 msgid "Search"
 msgstr "Procurar"
@@ -997,7 +997,7 @@ msgid "Stack"
 msgstr "Pilha"
 
 msgid "Start"
-msgstr ""
+msgstr "Iniciar"
 
 msgid "State"
 msgstr "Estado"
@@ -1096,7 +1096,7 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "A assinatura está presente, mas não é permitida especificamente"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "O Valor foi copiado para a área de transferência"
 
 msgid "Threads"
 msgstr "Threads"
@@ -1168,7 +1168,7 @@ msgid "Version"
 msgstr "Versão"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "View"
 msgstr "Visualizar"
@@ -1183,7 +1183,7 @@ msgid "Virtual machine"
 msgstr "Máquina virtual"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Tamanho Virtual"
 
 msgid "Weak binding"
 msgstr "Ligação fraca"
