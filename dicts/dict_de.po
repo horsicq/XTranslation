@@ -151,7 +151,7 @@ msgid "Calculate"
 msgstr "Berechnen"
 
 msgid "Callbacks"
-msgstr "Rückrufe"
+msgstr "Rückruffunktionen"
 
 msgid "Calls"
 msgstr "Aufrufe"
@@ -217,7 +217,7 @@ msgid "Close"
 msgstr "Schließen"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Zeichensätze"
 
 msgid "Code section"
 msgstr "Codeabschnitt"
@@ -238,7 +238,7 @@ msgid "Console"
 msgstr "Konsole"
 
 msgid "Converter"
-msgstr "Umwandler"
+msgstr "Konverter"
 
 msgid "Copy"
 msgstr "Kopieren"
@@ -253,7 +253,7 @@ msgid "Create view model"
 msgstr "Ansicht erstellen"
 
 msgid "Cryptor"
-msgstr "Verschlüsselung"
+msgstr "Verschlüsselungstool"
 
 msgid "Cursor"
 msgstr "Position"
@@ -316,7 +316,7 @@ msgid "Directory"
 msgstr "Verzeichnis"
 
 msgid "Directory scan"
-msgstr "Ordner scannen"
+msgstr "Verzeichnis scannen"
 
 msgid "Disasm"
 msgstr "Disassembler"
@@ -355,7 +355,7 @@ msgid "End"
 msgstr "Ende"
 
 msgid "Endianness"
-msgstr "Endianness"
+msgstr "Byte-Reihenfolge"
 
 msgid "Entropy"
 msgstr "Entropie"
@@ -364,7 +364,7 @@ msgid "Entry point"
 msgstr "Einstiegspunkt"
 
 msgid "Entry point section"
-msgstr "Einstiegspunkt Sektion"
+msgstr "Einstiegspunkt-Abschnitt"
 
 msgid "Error"
 msgstr "Fehler"
@@ -451,7 +451,7 @@ msgid "Folder"
 msgstr "Ordner"
 
 msgid "Follow in"
-msgstr "Im Folgenden anzeigen"
+msgstr "Verfolgen in"
 
 msgid "Font"
 msgstr "Schriftart"
@@ -478,10 +478,10 @@ msgid "Generic"
 msgstr "Generisch"
 
 msgid "Get"
-msgstr "Holen"
+msgstr "Abrufen"
 
 msgid "Get element"
-msgstr "Holen Sie sich das Element"
+msgstr "Element abrufen"
 
 msgid "GiB"
 msgstr "GiB"
@@ -553,7 +553,7 @@ msgid "Installer data"
 msgstr "Installationsdaten"
 
 msgid "Interpreter"
-msgstr "Dolmetscher"
+msgstr "Interpreter"
 
 msgid "Invalid"
 msgstr "Ungültig"
@@ -595,7 +595,7 @@ msgid "Language"
 msgstr "Sprache"
 
 msgid "Lazy binding"
-msgstr "Faule Bindung"
+msgstr "Lazy Binding"
 
 msgid "Length"
 msgstr "Länge"
@@ -619,7 +619,7 @@ msgid "Load config"
 msgstr "Konfiguration laden"
 
 msgid "Local relocation"
-msgstr "Lokale Relocation"
+msgstr "Lokale Relokation"
 
 msgid "Log"
 msgstr "Log"
@@ -643,7 +643,7 @@ msgid "Memory"
 msgstr "Speicher"
 
 msgid "Memory map"
-msgstr "Image"
+msgstr "Speicherbelegung"
 
 msgid "Memory scan"
 msgstr "Speicherscan"
