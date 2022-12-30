@@ -32,7 +32,7 @@ msgid "Action"
 msgstr "Действие"
 
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 msgid "Add alignment"
 msgstr "Добавить выравнивание"
@@ -44,7 +44,7 @@ msgid "Address"
 msgstr "Адрес"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Продвинутый"
 
 msgid "Algorithm"
 msgstr "Алгоритм"
@@ -92,7 +92,7 @@ msgid "Attach"
 msgstr "Прикрепить"
 
 msgid "Audio"
-msgstr ""
+msgstr "Аудио"
 
 msgid "Automatic"
 msgstr "Автоматически"
@@ -338,7 +338,7 @@ msgid "Dump"
 msgstr "Дамп"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Сдампить всё"
 
 msgid "Dump to file"
 msgstr "Дамп в файл"
@@ -353,7 +353,7 @@ msgid "Elapsed"
 msgstr "Прошло"
 
 msgid "End"
-msgstr ""
+msgstr "Конец"
 
 msgid "Endianness"
 msgstr "Порядок байт"
@@ -389,16 +389,16 @@ msgid "External references"
 msgstr "Внешние ссылки"
 
 msgid "Extract"
-msgstr ""
+msgstr "Извлечь"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Извлечь все курсоры"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Извлечь все иконки"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Экстрактор"
 
 msgid "File"
 msgstr "Файл"
@@ -419,7 +419,7 @@ msgid "File scan"
 msgstr "Сканирование файла"
 
 msgid "File size"
-msgstr ""
+msgstr "Размер файла"
 
 msgid "File type"
 msgstr "Тип файла"
@@ -458,7 +458,7 @@ msgid "Font"
 msgstr "Шрифт"
 
 msgid "Footer"
-msgstr ""
+msgstr "Футер"
 
 msgid "Form"
 msgstr "Форма"
@@ -692,7 +692,7 @@ msgid "Offset"
 msgstr "Смещение"
 
 msgid "One operand"
-msgstr ""
+msgstr "Один операнд"
 
 msgid "Online tools"
 msgstr "Онлайн-инструменты"
@@ -701,7 +701,7 @@ msgid "Opcode"
 msgstr "Опкод"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Группа опкодов"
 
 msgid "Opcodes"
 msgstr "Опкоды"
@@ -824,7 +824,7 @@ msgid "Relocs"
 msgstr "Relocs"
 
 msgid "Remove"
-msgstr ""
+msgstr "Удалить"
 
 msgid "Rescan"
 msgstr "Пересканировать"
@@ -998,7 +998,7 @@ msgid "Stack"
 msgstr "Стек"
 
 msgid "Start"
-msgstr ""
+msgstr "Начало"
 
 msgid "State"
 msgstr "Состояние"
@@ -1097,7 +1097,7 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "Подпись присутствует, но специально не разрешена"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "Значение скопировано в буфер обмена"
 
 msgid "Threads"
 msgstr "Потоки"
@@ -1133,7 +1133,7 @@ msgid "Tree"
 msgstr "Дерево"
 
 msgid "Two operands"
-msgstr ""
+msgstr "Два операнда"
 
 msgid "Type"
 msgstr "Тип"
@@ -1184,7 +1184,7 @@ msgid "Virtual machine"
 msgstr "Виртуальная машина"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Виртуальный размер"
 
 msgid "Weak binding"
 msgstr "Слабое связывание"
