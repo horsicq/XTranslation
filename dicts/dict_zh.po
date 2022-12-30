@@ -894,6 +894,9 @@ msgstr "搜索签名"
 msgid "Search strings"
 msgstr "搜索字符串"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "节"
 
@@ -1157,6 +1160,9 @@ msgstr "用户模式"
 
 msgid "Value"
 msgstr "值"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "变量"

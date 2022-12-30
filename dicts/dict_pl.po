@@ -895,6 +895,9 @@ msgstr "Szukaj sygnatur"
 msgid "Search strings"
 msgstr "Wyszukaj ciągi"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Sekcja"
 
@@ -1158,6 +1161,9 @@ msgstr "Tryb użytkownika"
 
 msgid "Value"
 msgstr "Wartość"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Zmienny"

@@ -894,6 +894,9 @@ msgstr "Suche Signaturen"
 msgid "Search strings"
 msgstr "Suche Strings"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Bereich"
 
@@ -1157,6 +1160,9 @@ msgstr "Benutzermodus"
 
 msgid "Value"
 msgstr "Wert"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Variable"

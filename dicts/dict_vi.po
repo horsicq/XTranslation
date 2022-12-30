@@ -894,6 +894,9 @@ msgstr "Tìm kiếm chữ ký"
 msgid "Search strings"
 msgstr "Tìm kiếm chuỗi"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Mục"
 
@@ -1157,6 +1160,9 @@ msgstr ""
 
 msgid "Value"
 msgstr "Giá trị"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Biến đổi"

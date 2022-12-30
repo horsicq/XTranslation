@@ -894,6 +894,9 @@ msgstr "İmzaları ara"
 msgid "Search strings"
 msgstr "Dizge ara"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Bölüm"
 
@@ -1158,6 +1161,9 @@ msgstr "Kullanıcı modu"
 msgid "Value"
 msgstr "Değer"
 
+msgid "Values"
+msgstr ""
+
 msgid "Variable"
 msgstr "Değişken"
 
@@ -1223,4 +1229,3 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
-

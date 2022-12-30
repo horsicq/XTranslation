@@ -895,6 +895,9 @@ msgstr "التوقيعات البحث"
 msgid "Search strings"
 msgstr "سلاسل البحث"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "الجزء"
 
@@ -1158,6 +1161,9 @@ msgstr ""
 
 msgid "Value"
 msgstr "قيمة"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "عامل"

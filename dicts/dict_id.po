@@ -894,6 +894,9 @@ msgstr "Cari tanda tangan"
 msgid "Search strings"
 msgstr "Cari string"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Bagian"
 
@@ -1157,6 +1160,9 @@ msgstr ""
 
 msgid "Value"
 msgstr "Nilai"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Variabel"

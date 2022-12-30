@@ -894,6 +894,9 @@ msgstr "Buscar firmas"
 msgid "Search strings"
 msgstr "Buscar textos"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Sección"
 
@@ -1157,6 +1160,9 @@ msgstr "Modo usuario"
 
 msgid "Value"
 msgstr "Valor"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Variable"

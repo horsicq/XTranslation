@@ -901,6 +901,9 @@ msgstr "서명 검색"
 msgid "Search strings"
 msgstr "문자열 검색"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "섹션"
 
@@ -1164,6 +1167,9 @@ msgstr "유저 모드"
 
 msgid "Value"
 msgstr "값"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "변수"

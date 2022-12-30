@@ -894,6 +894,9 @@ msgstr "Procurar assinaturas"
 msgid "Search strings"
 msgstr "Procurar strings"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Secção"
 
@@ -1157,6 +1160,9 @@ msgstr ""
 
 msgid "Value"
 msgstr "Valor"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Variável"

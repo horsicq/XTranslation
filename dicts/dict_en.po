@@ -894,6 +894,9 @@ msgstr ""
 msgid "Search strings"
 msgstr ""
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr ""
 
@@ -1156,6 +1159,9 @@ msgid "User mode"
 msgstr ""
 
 msgid "Value"
+msgstr ""
+
+msgid "Values"
 msgstr ""
 
 msgid "Variable"

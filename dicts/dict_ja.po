@@ -894,6 +894,9 @@ msgstr "署名"
 msgid "Search strings"
 msgstr "文字列を検索"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "セクション"
 
@@ -1157,6 +1160,9 @@ msgstr "ユーザー種別"
 
 msgid "Value"
 msgstr "値"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "変数"

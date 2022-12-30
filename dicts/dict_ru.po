@@ -895,6 +895,9 @@ msgstr "Поиск сигнатур"
 msgid "Search strings"
 msgstr "Поиск строк"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "Секция"
 
@@ -1158,6 +1161,9 @@ msgstr "Пользовательский режим"
 
 msgid "Value"
 msgstr "Значение"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "Переменная"

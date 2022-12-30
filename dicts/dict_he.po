@@ -894,6 +894,9 @@ msgstr "חפש חתימות"
 msgid "Search strings"
 msgstr "חפש מחרוזת"
 
+msgid "Search values"
+msgstr ""
+
 msgid "Section"
 msgstr "אזור"
 
@@ -1157,6 +1160,9 @@ msgstr ""
 
 msgid "Value"
 msgstr "ערך"
+
+msgid "Values"
+msgstr ""
 
 msgid "Variable"
 msgstr "מִשְׁתַנֶה"
