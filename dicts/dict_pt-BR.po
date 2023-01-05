@@ -895,7 +895,7 @@ msgid "Search strings"
 msgstr "Procurar strings"
 
 msgid "Search values"
-msgstr ""
+msgstr "Buscar valores"
 
 msgid "Section"
 msgstr "Seção"
@@ -1162,7 +1162,7 @@ msgid "Value"
 msgstr "Valor"
 
 msgid "Values"
-msgstr ""
+msgstr "Valores"
 
 msgid "Variable"
 msgstr "Variável"
