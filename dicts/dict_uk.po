@@ -80,7 +80,7 @@ msgid "Signatures"
 msgstr "Сигнатури"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Екстрактор"
 
 msgid "Search"
 msgstr "Пошук"
@@ -458,7 +458,7 @@ msgid "Recursive"
 msgstr "Рекурсивно"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Здампити все"
 
 msgid "Save dump"
 msgstr "Зберегти дамп"
@@ -470,7 +470,7 @@ msgid "File type"
 msgstr "Тип файлу"
 
 msgid "File size"
-msgstr ""
+msgstr "Розмір файлу"
 
 msgid "Base address"
 msgstr "Базова адреса"
@@ -521,7 +521,7 @@ msgid "Automatic"
 msgstr "Автоматично"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Просунутий"
 
 msgid "Exit"
 msgstr "Вийти"
@@ -614,7 +614,7 @@ msgid "Relative address"
 msgstr "Відносна адреса"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Віртуальний розмір"
 
 msgid "File offset"
 msgstr "Зміщення файлу"
@@ -668,19 +668,19 @@ msgid "Count"
 msgstr "Кількість"
 
 msgid "Add"
-msgstr ""
+msgstr "Добавити"
 
 msgid "Remove"
-msgstr ""
+msgstr "Видалити"
 
 msgid "Show valid"
 msgstr "Показати дійсні"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Витягнути всі іконки"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Витягнути всі курсори"
 
 msgid "Format"
 msgstr "Формат"
@@ -755,7 +755,7 @@ msgid "Links"
 msgstr "Лінки"
 
 msgid "Values"
-msgstr ""
+msgstr "Значення"
 
 msgid "Section name"
 msgstr "Назва секції"
@@ -782,7 +782,7 @@ msgid "Check updates"
 msgstr "Перевірити оновлення"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "Значення скопійовано до буферу обміну"
 
 msgid "8-bit"
 msgstr "8-бітний"
@@ -806,10 +806,10 @@ msgid "Document"
 msgstr "Документ"
 
 msgid "Video"
-msgstr ""
+msgstr "Відео"
 
 msgid "Audio"
-msgstr ""
+msgstr "Аудіо"
 
 msgid "Maximum"
 msgstr "Максимум"
@@ -926,7 +926,7 @@ msgid "Byte"
 msgstr "Байт"
 
 msgid "Extract"
-msgstr ""
+msgstr "Витягнути"
 
 msgid "Operation system"
 msgstr "Операційна система"
@@ -1010,10 +1010,10 @@ msgid "Virtual machine"
 msgstr "Віртуальна машина"
 
 msgid "Start"
-msgstr ""
+msgstr "Початок"
 
 msgid "End"
-msgstr ""
+msgstr "Кінець"
 
 msgid "Blinking cursor"
 msgstr "Миготливий курсор"
@@ -1070,7 +1070,7 @@ msgid "Appearance"
 msgstr "Вигляд"
 
 msgid "Footer"
-msgstr ""
+msgstr "Футер"
 
 msgid "Application"
 msgstr "Програма"
