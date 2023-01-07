@@ -31,7 +31,7 @@ msgid "Action"
 msgstr "Action"
 
 msgid "Add"
-msgstr ""
+msgstr "Ajouter"
 
 msgid "Add alignment"
 msgstr "Ajouter un alignement"
@@ -43,7 +43,7 @@ msgid "Address"
 msgstr "Adresse"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avancé"
 
 msgid "Algorithm"
 msgstr "Algorithme"
@@ -67,7 +67,7 @@ msgid "Analyze"
 msgstr "Analyser"
 
 msgid "Animate"
-msgstr ""
+msgstr "Animer"
 
 msgid "Appearance"
 msgstr "Apparence"
@@ -91,13 +91,13 @@ msgid "Attach"
 msgstr "Attacher"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Automatic"
 msgstr "Automatique"
 
 msgid "Background"
-msgstr ""
+msgstr "Arrière-plan"
 
 msgid "Base address"
 msgstr "Adresse de base"
@@ -142,7 +142,7 @@ msgid "Bytes available"
 msgstr "Octets disponibles"
 
 msgid "C Strings"
-msgstr ""
+msgstr "Chaîne C"
 
 msgid "CPU"
 msgstr "CPU"
@@ -265,7 +265,7 @@ msgid "Data in code"
 msgstr "Données dans le code"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "Inspecteur de données"
 
 msgid "Database"
 msgstr "Base de données"
@@ -301,7 +301,7 @@ msgid "Detach"
 msgstr "Détacher"
 
 msgid "Detect"
-msgstr ""
+msgstr "Détecter"
 
 msgid "Device"
 msgstr "Appareil"
@@ -310,7 +310,7 @@ msgid "Device scan"
 msgstr "Scan d'appareils"
 
 msgid "Diagram"
-msgstr ""
+msgstr "Diagramme"
 
 msgid "Directory"
 msgstr "Répertoire"
@@ -337,7 +337,7 @@ msgid "Dump"
 msgstr "Extraire"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Tout extraire"
 
 msgid "Dump to file"
 msgstr "Extraire vers un fichier"
@@ -352,7 +352,7 @@ msgid "Elapsed"
 msgstr "Écoulé"
 
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 msgid "Endianness"
 msgstr "Endianité"
@@ -388,22 +388,22 @@ msgid "External references"
 msgstr "Références externes"
 
 msgid "Extract"
-msgstr ""
+msgstr "Extraire"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Extraire tous les curseurs"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Extraire toutes les icônes"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Extracteur"
 
 msgid "File"
 msgstr "Fichier"
 
 msgid "File info"
-msgstr ""
+msgstr "Informations du fichier"
 
 msgid "File name"
 msgstr "Nom de fichier"
@@ -418,7 +418,7 @@ msgid "File scan"
 msgstr "Analyse des fichiers"
 
 msgid "File size"
-msgstr ""
+msgstr "Taille du fichier"
 
 msgid "File type"
 msgstr "Type de fichier"
@@ -457,7 +457,7 @@ msgid "Font"
 msgstr "Police de caractère"
 
 msgid "Footer"
-msgstr ""
+msgstr "Pied de page"
 
 msgid "Form"
 msgstr "Formulaire"
@@ -466,7 +466,7 @@ msgid "Format"
 msgstr "Format"
 
 msgid "Function"
-msgstr ""
+msgstr "Fonction"
 
 msgid "Functions"
 msgstr "Les fonctions"
@@ -478,7 +478,7 @@ msgid "Generic"
 msgstr "Générique"
 
 msgid "Get"
-msgstr ""
+msgstr "Obtenir"
 
 msgid "Get element"
 msgstr "Obtenir l'élément"
@@ -493,7 +493,7 @@ msgid "Go to address"
 msgstr "Aller à l'adresse"
 
 msgid "Grid"
-msgstr ""
+msgstr "Grille"
 
 msgid "Handles"
 msgstr "Poignées"
@@ -520,7 +520,7 @@ msgid "Hex signature"
 msgstr "Signature hexadécimale"
 
 msgid "Highlight"
-msgstr ""
+msgstr "Surligner"
 
 msgid "Image"
 msgstr "Image"
@@ -544,7 +544,7 @@ msgid "Information"
 msgstr "Informations"
 
 msgid "Input"
-msgstr ""
+msgstr "Entrée"
 
 msgid "Installer"
 msgstr "Installateur"
@@ -577,7 +577,7 @@ msgid "Jumps"
 msgstr "Sauts"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Garder la taille"
 
 msgid "Kernel mode"
 msgstr "Mode noyau"
@@ -613,7 +613,7 @@ msgid "Linker"
 msgstr "Linker"
 
 msgid "Links"
-msgstr ""
+msgstr "Liens"
 
 msgid "Load config"
 msgstr "Charger la configuration"
@@ -673,7 +673,7 @@ msgid "Name"
 msgstr "Nom"
 
 msgid "Next"
-msgstr ""
+msgstr "Suivant"
 
 msgid "No"
 msgstr "Non"
@@ -739,7 +739,7 @@ msgid "Please run the program as an administrator"
 msgstr "Veuillez exécuter le programme en tant qu'administrateur"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "Merci d'utiliser une clé API valide"
 
 msgid "Pointer"
 msgstr "Aiguille"
@@ -823,10 +823,10 @@ msgid "Relocs"
 msgstr "Déplacements"
 
 msgid "Remove"
-msgstr ""
+msgstr "Enlever"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Rescanner"
 
 msgid "Resource"
 msgstr "Ressource"
@@ -847,10 +847,10 @@ msgid "Runtime driver"
 msgstr "Pilote d'exécution"
 
 msgid "Save"
-msgstr "Sauvegarder"
+msgstr "Enregistrer"
 
 msgid "Save as"
-msgstr ""
+msgstr "Enregistrer sous"
 
 msgid "Save backup"
 msgstr "Enregistrer la sauvegarde"
@@ -895,7 +895,7 @@ msgid "Search strings"
 msgstr "Chercher"
 
 msgid "Search values"
-msgstr ""
+msgstr "Recherche de valeurs"
 
 msgid "Section"
 msgstr "Section"
@@ -937,7 +937,7 @@ msgid "Show all"
 msgstr "Montrer tout"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "Montrer les deux points dans les addresses"
 
 msgid "Show comments"
 msgstr "Afficher les commentaires"
@@ -1000,10 +1000,10 @@ msgid "Stack"
 msgstr "Empiler"
 
 msgid "Start"
-msgstr ""
+msgstr "Commencer"
 
 msgid "State"
-msgstr ""
+msgstr "État"
 
 msgid "Status"
 msgstr "Statut"
@@ -1018,7 +1018,7 @@ msgid "Step over"
 msgstr "Pas à pas (saut)"
 
 msgid "Stop"
-msgstr "Arrêtez"
+msgstr "Arrêter"
 
 msgid "String"
 msgstr "Ligne de texte"
@@ -1051,7 +1051,7 @@ msgid "Subject"
 msgstr "Sujet"
 
 msgid "Symbol"
-msgstr "symbole"
+msgstr "Symbole"
 
 msgid "Symbol table"
 msgstr "Table des symboles"
@@ -1099,7 +1099,7 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "La signature est présente, mais spécifiquement interdite"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "La valeur a été copiée dans le presse-papier"
 
 msgid "Threads"
 msgstr "Fils"
@@ -1144,7 +1144,7 @@ msgid "Unknown"
 msgstr "Inconnu"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "Envoyer le fichier pour analyse?"
 
 msgid "Upper"
 msgstr "Haut de page"
@@ -1162,7 +1162,7 @@ msgid "Value"
 msgstr "Valeur"
 
 msgid "Values"
-msgstr ""
+msgstr "Valeurs"
 
 msgid "Variable"
 msgstr "Variable"
@@ -1174,7 +1174,7 @@ msgid "Version"
 msgstr "Version"
 
 msgid "Video"
-msgstr ""
+msgstr "Vidéo"
 
 msgid "View"
 msgstr "Vue"
@@ -1189,7 +1189,7 @@ msgid "Virtual machine"
 msgstr "Machine virtuelle"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Taille virtuelle"
 
 msgid "Weak binding"
 msgstr "Liaison faible"
