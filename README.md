@@ -23,6 +23,7 @@ Translation for:
 | Italian              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_it.po"> <img src="https://gitlocalize.com/repo/4736/it/badge.svg" /> </a> |
 | Japanese             | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ja.po"> <img src="https://gitlocalize.com/repo/4736/ja/badge.svg" /> </a> |
 | Korean               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ko.po"> <img src="https://gitlocalize.com/repo/4736/ko/badge.svg" /> </a> |
+| Persian              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_fa.po"> <img src="https://gitlocalize.com/repo/4736/fa/badge.svg" /> </a> |
 | Polish               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pl.po"> <img src="https://gitlocalize.com/repo/4736/pl/badge.svg" /> </a> |
 | Portuguese           | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pt-PT.po"> <img src="https://gitlocalize.com/repo/4736/pt/badge.svg" /> </a> |
 | Portuguese, Brazil   | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pt-BR.po"> <img src="https://gitlocalize.com/repo/4736/pt_BR/badge.svg" /> </a> |
