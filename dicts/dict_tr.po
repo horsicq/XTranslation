@@ -352,7 +352,7 @@ msgid "Elapsed"
 msgstr "Geçen"
 
 msgid "End"
-msgstr ""
+msgstr "Son"
 
 msgid "Endianness"
 msgstr "Endianness"
