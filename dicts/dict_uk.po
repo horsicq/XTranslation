@@ -344,7 +344,7 @@ msgid "Search signatures"
 msgstr "Пошук сигнатур"
 
 msgid "Search values"
-msgstr ""
+msgstr "Пошук значень"
 
 msgid "Stay on top"
 msgstr "Поверх усіх вікон"
