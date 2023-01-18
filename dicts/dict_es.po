@@ -180,8 +180,8 @@ msgstr "No se puede cargar el controlador"
 msgid "Cannot load file"
 msgstr "No se puede cargar el archivo"
 
-msgid "Cannot load msdia library"
-msgstr "No se puede cargar la librería de msdia"
+msgid "Cannot load MSDIA library"
+msgstr "No se puede cargar la librería de MSDIA"
 
 msgid "Cannot open file"
 msgstr "No se puede abrir el archivo"

@@ -180,7 +180,7 @@ msgstr ""
 msgid "Cannot load file"
 msgstr ""
 
-msgid "Cannot load msdia library"
+msgid "Cannot load MSDIA library"
 msgstr ""
 
 msgid "Cannot open file"

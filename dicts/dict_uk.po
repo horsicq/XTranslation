@@ -715,8 +715,8 @@ msgstr "Помилка читання"
 msgid "Write error"
 msgstr "Помилка запису"
 
-msgid "Cannot load msdia library"
-msgstr "Не вдалося завантажити бібліотеку msdia"
+msgid "Cannot load MSDIA library"
+msgstr "Не вдалося завантажити бібліотеку MSDIA"
 
 msgid "Cannot load data from PDB"
 msgstr "Не вдалося завантажити дані з PDB"

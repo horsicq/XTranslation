@@ -180,8 +180,8 @@ msgstr ""
 msgid "Cannot load file"
 msgstr "Tidak dapat memuat file"
 
-msgid "Cannot load msdia library"
-msgstr "Tidak dapat memuat perpustakaan msdia"
+msgid "Cannot load MSDIA library"
+msgstr "Tidak dapat memuat perpustakaan MSDIA"
 
 msgid "Cannot open file"
 msgstr "Tidak dapat membuka file"

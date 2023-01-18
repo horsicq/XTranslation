@@ -180,8 +180,8 @@ msgstr ""
 msgid "Cannot load file"
 msgstr "Không thể tải tệp"
 
-msgid "Cannot load msdia library"
-msgstr "Không thể tải thư viện msdia"
+msgid "Cannot load MSDIA library"
+msgstr "Không thể tải thư viện MSDIA"
 
 msgid "Cannot open file"
 msgstr "Không thể mở tập tin"

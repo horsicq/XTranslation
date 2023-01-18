@@ -180,8 +180,8 @@ msgstr "无法加载驱动"
 msgid "Cannot load file"
 msgstr "无法加载文件"
 
-msgid "Cannot load msdia library"
-msgstr "无法加载 msdia 库"
+msgid "Cannot load MSDIA library"
+msgstr "无法加载 MSDIA 库"
 
 msgid "Cannot open file"
 msgstr "无法打开文件"

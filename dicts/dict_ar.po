@@ -181,8 +181,8 @@ msgstr ""
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
 
-msgid "Cannot load msdia library"
-msgstr "لا يمكن تحميل مكتبة msdia"
+msgid "Cannot load MSDIA library"
+msgstr "لا يمكن تحميل مكتبة MSDIA"
 
 msgid "Cannot open file"
 msgstr "لا يمكن فتح ملف"

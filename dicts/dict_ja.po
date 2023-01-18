@@ -180,8 +180,8 @@ msgstr "ドライバーを読み込めません"
 msgid "Cannot load file"
 msgstr "ファイルを読み込めません"
 
-msgid "Cannot load msdia library"
-msgstr "msdiaライブラリを読み込めません"
+msgid "Cannot load MSDIA library"
+msgstr "MSDIAライブラリを読み込めません"
 
 msgid "Cannot open file"
 msgstr "ファイルを開けません"

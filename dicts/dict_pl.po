@@ -181,8 +181,8 @@ msgstr "Nie można załadować sterownika"
 msgid "Cannot load file"
 msgstr "Nie można załadować pliku"
 
-msgid "Cannot load msdia library"
-msgstr "Nie można załadować biblioteki msdia"
+msgid "Cannot load MSDIA library"
+msgstr "Nie można załadować biblioteki MSDIA"
 
 msgid "Cannot open file"
 msgstr "Nie można otworzyć pliku"

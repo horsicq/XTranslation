@@ -187,8 +187,8 @@ msgstr "드라이버를 불러오지 못함"
 msgid "Cannot load file"
 msgstr "파일을 로드할 수 없습니다"
 
-msgid "Cannot load msdia library"
-msgstr "msdia 라이브러리를 로드할 수 없습니다."
+msgid "Cannot load MSDIA library"
+msgstr "MSDIA 라이브러리를 로드할 수 없습니다."
 
 msgid "Cannot open file"
 msgstr "파일을 열 수 없습니다"

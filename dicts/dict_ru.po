@@ -181,8 +181,8 @@ msgstr "Не удаётся загрузить драйвер"
 msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
 
-msgid "Cannot load msdia library"
-msgstr "Не удается загрузить библиотеку msdia"
+msgid "Cannot load MSDIA library"
+msgstr "Не удается загрузить библиотеку MSDIA"
 
 msgid "Cannot open file"
 msgstr "Невозможно открыть файл"

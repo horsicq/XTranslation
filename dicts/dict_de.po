@@ -180,8 +180,8 @@ msgstr "Treiber kann nicht geladen werden"
 msgid "Cannot load file"
 msgstr "Kann Datei nicht laden"
 
-msgid "Cannot load msdia library"
-msgstr "Die msdia-Bibliothek kann nicht geladen werden"
+msgid "Cannot load MSDIA library"
+msgstr "Die MSDIA-Bibliothek kann nicht geladen werden"
 
 msgid "Cannot open file"
 msgstr "Kann die Datei nicht öffnen"
