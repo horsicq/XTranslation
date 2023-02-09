@@ -23,7 +23,7 @@ msgid "8-bit"
 msgstr "8 بت"
 
 msgid "API key"
-msgstr ""
+msgstr "مفتاح ال API"
 
 msgid "About"
 msgstr "عن"
@@ -32,7 +32,7 @@ msgid "Action"
 msgstr "عمل"
 
 msgid "Add"
-msgstr ""
+msgstr "أضف"
 
 msgid "Add alignment"
 msgstr "أضف المحاذاة"
@@ -44,7 +44,7 @@ msgid "Address"
 msgstr "عنوان"
 
 msgid "Advanced"
-msgstr ""
+msgstr "متقدم"
 
 msgid "Algorithm"
 msgstr "الخوارزمية"
@@ -59,16 +59,16 @@ msgid "All types"
 msgstr "كل الانواع"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "قاعدة التخصيص"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "توزيع الاعلام"
 
 msgid "Analyze"
 msgstr "حلل"
 
 msgid "Animate"
-msgstr ""
+msgstr "تحريك"
 
 msgid "Appearance"
 msgstr "مظهر خارجي"
@@ -92,13 +92,13 @@ msgid "Attach"
 msgstr "يربط"
 
 msgid "Audio"
-msgstr ""
+msgstr "صوت"
 
 msgid "Automatic"
 msgstr "تلقائي"
 
 msgid "Background"
-msgstr ""
+msgstr "الخلفية"
 
 msgid "Base address"
 msgstr "العنوان الأساسي"
@@ -113,7 +113,7 @@ msgid "Binding"
 msgstr "ربط"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "يومض المؤشر"
 
 msgid "Boot application"
 msgstr "تطبيق التمهيد"
@@ -125,7 +125,7 @@ msgid "Bound import"
 msgstr "استيراد منضم"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "نقطة توقف"
 
 msgid "Breakpoints"
 msgstr "نقاط التوقف"
@@ -140,10 +140,10 @@ msgid "Bytes"
 msgstr "بايت"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "بايت متاح"
 
 msgid "C Strings"
-msgstr ""
+msgstr "C Strings"
 
 msgid "CPU"
 msgstr "وحدة المعالجة المركزية"
@@ -158,7 +158,7 @@ msgid "Calls"
 msgstr "المكالمات"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Callstack"
 
 msgid "Cancel"
 msgstr "يلغي"
@@ -176,7 +176,7 @@ msgid "Cannot load database"
 msgstr "لا يمكن تحميل قاعدة البيانات"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "لا يمكن تحميل التعريف"
 
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
@@ -218,13 +218,13 @@ msgid "Close"
 msgstr "قريب"
 
 msgid "Code pages"
-msgstr ""
+msgstr "كود الصفحات"
 
 msgid "Code section"
 msgstr "قسم الكود"
 
 msgid "Colors"
-msgstr ""
+msgstr "الالوان"
 
 msgid "Commands"
 msgstr "أوامر"
@@ -266,13 +266,13 @@ msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "مفتش البيانات"
 
 msgid "Database"
 msgstr "قاعدة البيانات"
 
 msgid "Date"
-msgstr ""
+msgstr "تأريخ"
 
 msgid "Debug"
 msgstr "تصحيح"
@@ -284,10 +284,10 @@ msgid "Debugger"
 msgstr "المصحح"
 
 msgid "Deep scan"
-msgstr "تفحص بعمق"
+msgstr "فحص عميق"
 
 msgid "Default"
-msgstr "تقصير"
+msgstr "افتراضي"
 
 msgid "Delay import"
 msgstr "تأجيل الاستيراد"
@@ -302,22 +302,22 @@ msgid "Detach"
 msgstr "فصل"
 
 msgid "Detect"
-msgstr ""
+msgstr "كشف"
 
 msgid "Device"
-msgstr ""
+msgstr "جهاز"
 
 msgid "Device scan"
 msgstr "فحص الجهاز"
 
 msgid "Diagram"
-msgstr ""
+msgstr "رسم بياني"
 
 msgid "Directory"
 msgstr "الدليل"
 
 msgid "Directory scan"
-msgstr "مسح الدليل"
+msgstr "فحص المسار"
 
 msgid "Disasm"
 msgstr "كارثة"
@@ -332,28 +332,28 @@ msgid "Donate"
 msgstr "يتبرع"
 
 msgid "Driver"
-msgstr "سائق"
+msgstr "تعريف"
 
 msgid "Dump"
-msgstr "أحمق"
+msgstr "تفريغ"
 
 msgid "Dump all"
-msgstr ""
+msgstr "تفريغ الكل"
 
 msgid "Dump to file"
 msgstr "تفريغ إلى ملف"
 
 msgid "Edit"
-msgstr "يحرر"
+msgstr "تعديل"
 
 msgid "Editor"
-msgstr ""
+msgstr "محرر"
 
 msgid "Elapsed"
 msgstr "انقضى"
 
 msgid "End"
-msgstr ""
+msgstr "النهاية"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -377,7 +377,7 @@ msgid "Exit"
 msgstr "مخرج"
 
 msgid "Export"
-msgstr "يصدر"
+msgstr "تصدير"
 
 msgid "Export File Name"
 msgstr "تصدير اسم الملف"
@@ -389,22 +389,22 @@ msgid "External references"
 msgstr "المراجع الخارجية"
 
 msgid "Extract"
-msgstr ""
+msgstr "أستخراج"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "أستخراج كل المؤشرات"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "أستخراج كل الايكونات"
 
 msgid "Extractor"
-msgstr ""
+msgstr "مستخرج"
 
 msgid "File"
 msgstr "ملف"
 
 msgid "File info"
-msgstr ""
+msgstr "معلومات الملف"
 
 msgid "File name"
 msgstr "اسم الملف"
@@ -416,10 +416,10 @@ msgid "File saved"
 msgstr "تم حفظ الملف"
 
 msgid "File scan"
-msgstr "مسح الملف"
+msgstr "فحص الملف"
 
 msgid "File size"
-msgstr ""
+msgstr "حجم الملف"
 
 msgid "File type"
 msgstr "نوع الملف"
@@ -434,7 +434,7 @@ msgid "Filter"
 msgstr "منقي"
 
 msgid "Find"
-msgstr "تجد"
+msgstr "جد"
 
 msgid "Find next"
 msgstr "بحث عن التالي"
@@ -449,16 +449,16 @@ msgid "Flags"
 msgstr "أعلام"
 
 msgid "Folder"
-msgstr ""
+msgstr "مجلد"
 
 msgid "Follow in"
-msgstr ""
+msgstr "اتبع في"
 
 msgid "Font"
 msgstr "الخط"
 
 msgid "Footer"
-msgstr ""
+msgstr "تذييل"
 
 msgid "Form"
 msgstr "استمارة"
@@ -467,7 +467,7 @@ msgid "Format"
 msgstr "صيغة"
 
 msgid "Function"
-msgstr ""
+msgstr "وظيفة"
 
 msgid "Functions"
 msgstr "المهام"
@@ -479,13 +479,13 @@ msgid "Generic"
 msgstr "نوعي"
 
 msgid "Get"
-msgstr ""
+msgstr "أحصل"
 
 msgid "Get element"
 msgstr "احصل على العنصر"
 
 msgid "GiB"
-msgstr ""
+msgstr "غيغابت"
 
 msgid "Go to"
 msgstr "اذهب إلى"
@@ -494,7 +494,7 @@ msgid "Go to address"
 msgstr "انتقل إلى العنوان"
 
 msgid "Grid"
-msgstr ""
+msgstr "شبكة"
 
 msgid "Handles"
 msgstr "مقابض"
@@ -521,7 +521,7 @@ msgid "Hex signature"
 msgstr "التوقيع السداسي"
 
 msgid "Highlight"
-msgstr ""
+msgstr "تسليط الضوء"
 
 msgid "Image"
 msgstr "صورة"
@@ -545,7 +545,7 @@ msgid "Information"
 msgstr "معلومة"
 
 msgid "Input"
-msgstr ""
+msgstr "أدخال"
 
 msgid "Installer"
 msgstr "المثبت"
@@ -563,7 +563,7 @@ msgid "Invalid opcode"
 msgstr "كود التشغيل غير صالح"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "توقيع غير صالح"
 
 msgid "Issuer"
 msgstr "المُصدر"
@@ -578,13 +578,13 @@ msgid "Jumps"
 msgstr "يقفز"
 
 msgid "Keep size"
-msgstr ""
+msgstr "أبقاء الحجم نفسه"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "Kernel mode"
 
 msgid "KiB"
-msgstr ""
+msgstr "كليوبت"
 
 msgid "Label"
 msgstr "ملصق"
@@ -614,7 +614,7 @@ msgid "Linker"
 msgstr "رابط"
 
 msgid "Links"
-msgstr ""
+msgstr "روابط"
 
 msgid "Load config"
 msgstr "تحميل التكوين"
@@ -656,13 +656,13 @@ msgid "Method"
 msgstr "طريقة"
 
 msgid "MiB"
-msgstr ""
+msgstr "ميجابت"
 
 msgid "Mode"
 msgstr "الوضع"
 
 msgid "Module"
-msgstr ""
+msgstr "وحدة"
 
 msgid "Modules"
 msgstr "الوحدات"
@@ -674,7 +674,7 @@ msgid "Name"
 msgstr "اسم"
 
 msgid "Next"
-msgstr ""
+msgstr "التالي"
 
 msgid "No"
 msgstr "لا"
@@ -689,10 +689,10 @@ msgid "Object"
 msgstr "هدف"
 
 msgid "Offset"
-msgstr "عوض"
+msgstr "Offset"
 
 msgid "One operand"
-msgstr ""
+msgstr "مُعامل واحد"
 
 msgid "Online tools"
 msgstr ""
@@ -701,7 +701,7 @@ msgid "Opcode"
 msgstr "كود التشغيل"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "مجموعة كود التشغيل"
 
 msgid "Opcodes"
 msgstr "أكواد التشغيل"
@@ -740,7 +740,7 @@ msgid "Please run the program as an administrator"
 msgstr "يرجى تشغيل البرنامج كمسؤول"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "الرجاء استخدام مفتاح API صالح"
 
 msgid "Pointer"
 msgstr "المؤشر"
@@ -785,10 +785,10 @@ msgid "Readonly"
 msgstr "يقرأ فقط"
 
 msgid "Rebase"
-msgstr "ريباس"
+msgstr "إعادة القاعدة"
 
 msgid "Recent files"
-msgstr ""
+msgstr "الملفات الأخيرة"
 
 msgid "Recursive"
 msgstr "العودية"
@@ -809,7 +809,7 @@ msgid "Regions"
 msgstr "المناطق"
 
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 msgid "Relative address"
 msgstr "العنوان النسبي"
@@ -824,16 +824,16 @@ msgid "Relocs"
 msgstr "ينتقل"
 
 msgid "Remove"
-msgstr ""
+msgstr "أزالة"
 
 msgid "Rescan"
-msgstr ""
+msgstr "اعادة الفحص"
 
 msgid "Resource"
-msgstr "الموارد"
+msgstr "مصدر"
 
 msgid "Resources"
-msgstr "موارد"
+msgstr "المصادر"
 
 msgid "Restart"
 msgstr "اعادة البدء"
@@ -842,16 +842,16 @@ msgid "Result"
 msgstr "نتيجة"
 
 msgid "Run"
-msgstr "يركض"
+msgstr "تشغيل"
 
 msgid "Runtime driver"
-msgstr "سائق وقت التشغيل"
+msgstr "وقت تشغيل التعريف"
 
 msgid "Save"
-msgstr "يحفظ"
+msgstr "أحفظ"
 
 msgid "Save as"
-msgstr ""
+msgstr "أحفظ بأسم"
 
 msgid "Save backup"
 msgstr "احفظ النسخة الاحتياطية"
@@ -866,7 +866,7 @@ msgid "Save file"
 msgstr "احفظ الملف"
 
 msgid "Save history"
-msgstr ""
+msgstr "أحفظ التأريخ"
 
 msgid "Save last directory"
 msgstr "حفظ الدليل الأخير"
@@ -875,13 +875,13 @@ msgid "Save result"
 msgstr "حفظ النتيجة"
 
 msgid "Scan"
-msgstr "مسح"
+msgstr "فحص"
 
 msgid "Scan after open"
-msgstr "مسح بعد الفتح"
+msgstr "فحص بعد الفتح"
 
 msgid "Script"
-msgstr "النصي"
+msgstr "نص"
 
 msgid "Search"
 msgstr "بحث"
@@ -896,7 +896,7 @@ msgid "Search strings"
 msgstr "سلاسل البحث"
 
 msgid "Search values"
-msgstr ""
+msgstr "أبحث عن القيم"
 
 msgid "Section"
 msgstr "الجزء"
@@ -932,22 +932,22 @@ msgid "Shortcuts"
 msgstr "الاختصارات"
 
 msgid "Show"
-msgstr "تبين"
+msgstr "أضهر"
 
 msgid "Show all"
-msgstr ""
+msgstr "أضهار الكل"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "إظهار النقطتين في العناوين"
 
 msgid "Show comments"
 msgstr "إظهار التعليقات"
 
 msgid "Show detects"
-msgstr ""
+msgstr "أضهار الكشوفات"
 
 msgid "Show in"
-msgstr ""
+msgstr "أضهر في"
 
 msgid "Show logo"
 msgstr "إظهار الشعار"
@@ -977,7 +977,7 @@ msgid "Single application"
 msgstr "تطبيق واحد"
 
 msgid "Size"
-msgstr "مقاس"
+msgstr "حجم"
 
 msgid "Size of image"
 msgstr "حجم الصورة"
@@ -989,7 +989,7 @@ msgid "Sort type"
 msgstr "نوع الفرز"
 
 msgid "Source"
-msgstr ""
+msgstr "مصدر"
 
 msgid "Source code"
 msgstr "مصدر الرمز"
@@ -1001,13 +1001,13 @@ msgid "Stack"
 msgstr "كومة"
 
 msgid "Start"
-msgstr ""
+msgstr "البدء"
 
 msgid "State"
-msgstr ""
+msgstr "حالة"
 
 msgid "Status"
-msgstr "حالة"
+msgstr "الحالة"
 
 msgid "Stay on top"
 msgstr "ابق على القمة"
@@ -1031,7 +1031,7 @@ msgid "Strings"
 msgstr "سلاسل"
 
 msgid "Struct"
-msgstr ""
+msgstr "هيكل"
 
 msgid "Struct and unions"
 msgstr "الهيكل والنقابات"
@@ -1064,7 +1064,7 @@ msgid "Syntax"
 msgstr "بناء الجملة"
 
 msgid "TB"
-msgstr ""
+msgstr "تيرا بايت"
 
 msgid "Table"
 msgstr "طاولة"
@@ -1100,13 +1100,13 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "التوقيع موجود ، لكنه غير مسموح به على وجه التحديد"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "The value copied to clipboard"
 
 msgid "Threads"
 msgstr "الخيوط"
 
 msgid "TiB"
-msgstr ""
+msgstr "تيرا بت"
 
 msgid "Time"
 msgstr "زمن"
@@ -1130,13 +1130,13 @@ msgid "Total"
 msgstr "المجموع"
 
 msgid "Trace"
-msgstr ""
+msgstr "تعقب"
 
 msgid "Tree"
 msgstr "شجرة"
 
 msgid "Two operands"
-msgstr ""
+msgstr "معاملين"
 
 msgid "Type"
 msgstr "نوع"
@@ -1145,37 +1145,37 @@ msgid "Unknown"
 msgstr "مجهول"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "رفع الملف للتحليل؟"
 
 msgid "Upper"
 msgstr "العلوي"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "الأحرف الكبيرة"
 
 msgid "User"
-msgstr ""
+msgstr "مستخدم"
 
 msgid "User mode"
-msgstr ""
+msgstr "وضع المستخدم"
 
 msgid "Value"
 msgstr "قيمة"
 
 msgid "Values"
-msgstr ""
+msgstr "قيم"
 
 msgid "Variable"
 msgstr "عامل"
 
 msgid "Verbose"
-msgstr ""
+msgstr "مطوّل"
 
 msgid "Version"
 msgstr "إصدار"
 
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgid "View"
 msgstr "رأي"
@@ -1190,7 +1190,7 @@ msgid "Virtual machine"
 msgstr "آلة افتراضية"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "الحجم الافتراضي"
 
 msgid "Weak binding"
 msgstr "ربط ضعيف"
