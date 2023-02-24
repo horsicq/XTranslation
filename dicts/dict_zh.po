@@ -22,7 +22,7 @@ msgid "8-bit"
 msgstr "8 位"
 
 msgid "API key"
-msgstr ""
+msgstr "API 密钥"
 
 msgid "About"
 msgstr "关于"
@@ -31,7 +31,7 @@ msgid "Action"
 msgstr "处理"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Add alignment"
 msgstr "添加对齐"
@@ -43,7 +43,7 @@ msgid "Address"
 msgstr "地址"
 
 msgid "Advanced"
-msgstr ""
+msgstr "高级选项"
 
 msgid "Algorithm"
 msgstr "算法"
@@ -67,7 +67,7 @@ msgid "Analyze"
 msgstr "分析"
 
 msgid "Animate"
-msgstr ""
+msgstr "动画"
 
 msgid "Appearance"
 msgstr "外观"
@@ -91,7 +91,7 @@ msgid "Attach"
 msgstr "附加"
 
 msgid "Audio"
-msgstr ""
+msgstr "音频"
 
 msgid "Automatic"
 msgstr "自动"
@@ -112,7 +112,7 @@ msgid "Binding"
 msgstr "捆绑"
 
 msgid "Blinking cursor"
-msgstr ""
+msgstr "光标闪烁"
 
 msgid "Boot application"
 msgstr "启动应用程序"
@@ -145,7 +145,7 @@ msgid "C Strings"
 msgstr "C 字符串"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Calculate"
 msgstr "计算"
@@ -217,7 +217,7 @@ msgid "Close"
 msgstr "关闭"
 
 msgid "Code pages"
-msgstr ""
+msgstr "代码页"
 
 msgid "Code section"
 msgstr "代码段"
@@ -265,7 +265,7 @@ msgid "Data in code"
 msgstr "代码中的数据"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "数据检查器"
 
 msgid "Database"
 msgstr "数据库"
@@ -301,7 +301,7 @@ msgid "Detach"
 msgstr "分离"
 
 msgid "Detect"
-msgstr ""
+msgstr "检测"
 
 msgid "Device"
 msgstr "设备"
@@ -337,7 +337,7 @@ msgid "Dump"
 msgstr "转储"
 
 msgid "Dump all"
-msgstr ""
+msgstr "转储全部"
 
 msgid "Dump to file"
 msgstr "转储到文件"
@@ -352,7 +352,7 @@ msgid "Elapsed"
 msgstr "已耗时"
 
 msgid "End"
-msgstr ""
+msgstr "结束"
 
 msgid "Endianness"
 msgstr "字节序"
@@ -388,16 +388,16 @@ msgid "External references"
 msgstr "外部参考"
 
 msgid "Extract"
-msgstr ""
+msgstr "提取"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "提取所有光标"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "提取所有图标"
 
 msgid "Extractor"
-msgstr ""
+msgstr "提取器"
 
 msgid "File"
 msgstr "文件"
@@ -418,7 +418,7 @@ msgid "File scan"
 msgstr "文件扫描"
 
 msgid "File size"
-msgstr ""
+msgstr "文件大小"
 
 msgid "File type"
 msgstr "文件类型"
@@ -451,13 +451,13 @@ msgid "Folder"
 msgstr "文件夹"
 
 msgid "Follow in"
-msgstr ""
+msgstr "跟进"
 
 msgid "Font"
 msgstr "字体"
 
 msgid "Footer"
-msgstr ""
+msgstr "页脚"
 
 msgid "Form"
 msgstr "表单"
@@ -472,19 +472,19 @@ msgid "Functions"
 msgstr "函数"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "Generic"
 msgstr "通用"
 
 msgid "Get"
-msgstr ""
+msgstr "获取"
 
 msgid "Get element"
 msgstr "获取元素"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid "Go to"
 msgstr "转到"
@@ -493,7 +493,7 @@ msgid "Go to address"
 msgstr "转到地址"
 
 msgid "Grid"
-msgstr ""
+msgstr "网格"
 
 msgid "Handles"
 msgstr "句柄"
@@ -520,7 +520,7 @@ msgid "Hex signature"
 msgstr "十六进制签名"
 
 msgid "Highlight"
-msgstr ""
+msgstr "高亮"
 
 msgid "Image"
 msgstr "镜像"
@@ -574,7 +574,7 @@ msgid "Joiner"
 msgstr "合并工具"
 
 msgid "Jumps"
-msgstr "跳过"
+msgstr "跳转"
 
 msgid "Keep size"
 msgstr "保持大小"
@@ -583,7 +583,7 @@ msgid "Kernel mode"
 msgstr "内核模式"
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Label"
 msgstr "标签"
@@ -625,7 +625,7 @@ msgid "Log"
 msgstr "日志"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "MainWindow"
 msgstr "主窗口"
@@ -655,7 +655,7 @@ msgid "Method"
 msgstr "方法"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Mode"
 msgstr "模式"
@@ -679,7 +679,7 @@ msgid "No"
 msgstr "否"
 
 msgid "Nothing found"
-msgstr "没有找到"
+msgstr "未找到"
 
 msgid "OK"
 msgstr "确定"
@@ -700,7 +700,7 @@ msgid "Opcode"
 msgstr "指令"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "操作码组"
 
 msgid "Opcodes"
 msgstr "指令集"
@@ -808,7 +808,7 @@ msgid "Regions"
 msgstr "区域"
 
 msgid "Register"
-msgstr ""
+msgstr "寄存器"
 
 msgid "Relative address"
 msgstr "相对地址(RA)"
@@ -823,7 +823,7 @@ msgid "Relocs"
 msgstr "重新定位"
 
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 msgid "Rescan"
 msgstr "重新扫描"
@@ -895,7 +895,7 @@ msgid "Search strings"
 msgstr "搜索字符串"
 
 msgid "Search values"
-msgstr ""
+msgstr "搜索值"
 
 msgid "Section"
 msgstr "节"
@@ -937,13 +937,13 @@ msgid "Show all"
 msgstr "全部显示"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "地址中显示冒号"
 
 msgid "Show comments"
 msgstr "显示标注"
 
 msgid "Show detects"
-msgstr ""
+msgstr "显示检测"
 
 msgid "Show in"
 msgstr "显示到"
@@ -1000,10 +1000,10 @@ msgid "Stack"
 msgstr "栈"
 
 msgid "Start"
-msgstr ""
+msgstr "开始"
 
 msgid "State"
-msgstr ""
+msgstr "状态"
 
 msgid "Status"
 msgstr "状态"
@@ -1063,7 +1063,7 @@ msgid "Syntax"
 msgstr "句法"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Table"
 msgstr "表格"
@@ -1099,13 +1099,13 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "签名存在，但已被显式禁用"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "复制值到剪贴板"
 
 msgid "Threads"
 msgstr "线程"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Time"
 msgstr "时间"
@@ -1129,7 +1129,7 @@ msgid "Total"
 msgstr "总计"
 
 msgid "Trace"
-msgstr ""
+msgstr "跟踪"
 
 msgid "Tree"
 msgstr "目录"
@@ -1162,7 +1162,7 @@ msgid "Value"
 msgstr "值"
 
 msgid "Values"
-msgstr ""
+msgstr "值"
 
 msgid "Variable"
 msgstr "变量"
@@ -1174,7 +1174,7 @@ msgid "Version"
 msgstr "版本"
 
 msgid "Video"
-msgstr ""
+msgstr "视频"
 
 msgid "View"
 msgstr "查看"
@@ -1189,7 +1189,7 @@ msgid "Virtual machine"
 msgstr "虚拟机"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "虚拟大小"
 
 msgid "Weak binding"
 msgstr "弱绑定"
@@ -1213,7 +1213,7 @@ msgid "extender"
 msgstr "扩展器"
 
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 msgid "msec"
 msgstr "毫秒"
