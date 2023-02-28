@@ -211,7 +211,7 @@ msgid "Clear"
 msgstr "پاک کردن"
 
 msgid "Clear result"
-msgstr ""
+msgstr "پاک کردن نتایج"
 
 msgid "Close"
 msgstr "بستن"
@@ -304,10 +304,10 @@ msgid "Detect"
 msgstr "شناسایی"
 
 msgid "Device"
-msgstr ""
+msgstr "تجهیز"
 
 msgid "Device scan"
-msgstr ""
+msgstr "اسکن تجهیز"
 
 msgid "Diagram"
 msgstr "نمودار"
@@ -544,7 +544,7 @@ msgid "Information"
 msgstr "اطلاعات"
 
 msgid "Input"
-msgstr ""
+msgstr "ورودی"
 
 msgid "Installer"
 msgstr ""
@@ -580,7 +580,7 @@ msgid "Keep size"
 msgstr ""
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "مد کرنل"
 
 msgid "KiB"
 msgstr ""
@@ -613,7 +613,7 @@ msgid "Linker"
 msgstr ""
 
 msgid "Links"
-msgstr ""
+msgstr "لینک ها"
 
 msgid "Load config"
 msgstr "لود کانفیگ"
@@ -622,7 +622,7 @@ msgid "Local relocation"
 msgstr ""
 
 msgid "Log"
-msgstr ""
+msgstr "لاگ"
 
 msgid "MB"
 msgstr "مگابایت"
@@ -637,16 +637,16 @@ msgid "Match case"
 msgstr ""
 
 msgid "Maximum"
-msgstr ""
+msgstr "حداکثر"
 
 msgid "Memory"
-msgstr ""
+msgstr "حافظه"
 
 msgid "Memory map"
-msgstr ""
+msgstr "نقشه حافظه"
 
 msgid "Memory scan"
-msgstr ""
+msgstr "اسکن حافظه"
 
 msgid "Metadata"
 msgstr "متا دیتا"
@@ -661,10 +661,10 @@ msgid "Mode"
 msgstr ""
 
 msgid "Module"
-msgstr "مدل"
+msgstr "ماژول"
 
 msgid "Modules"
-msgstr ""
+msgstr "ماژول ها"
 
 msgid "More info"
 msgstr "اطلاعات بیشتر"
@@ -709,16 +709,16 @@ msgid "Open"
 msgstr "باز کردن"
 
 msgid "Open directory"
-msgstr ""
+msgstr "باز کردن پوشه"
 
 msgid "Open file"
 msgstr "باز کردن فایل"
 
 msgid "Operation system"
-msgstr ""
+msgstr "سیستم عامل"
 
 msgid "Options"
-msgstr ""
+msgstr "امکانات"
 
 msgid "Overlay"
 msgstr ""
@@ -742,7 +742,7 @@ msgid "Please use valid API key"
 msgstr "کلید API معتبر نیست"
 
 msgid "Pointer"
-msgstr ""
+msgstr "اشاره گر"
 
 msgid "Print"
 msgstr "چاپ"
@@ -775,19 +775,19 @@ msgid "Publisher"
 msgstr ""
 
 msgid "Raw data"
-msgstr ""
+msgstr "داده خام"
 
 msgid "Read error"
 msgstr ""
 
 msgid "Readonly"
-msgstr ""
+msgstr "فقط خواندنی"
 
 msgid "Rebase"
 msgstr ""
 
 msgid "Recent files"
-msgstr ""
+msgstr "فایل های جاری"
 
 msgid "Recursive"
 msgstr ""
@@ -808,13 +808,13 @@ msgid "Regions"
 msgstr ""
 
 msgid "Register"
-msgstr ""
+msgstr "رجیستر"
 
 msgid "Relative address"
-msgstr ""
+msgstr "آدرس نسبی"
 
 msgid "Relative virtual address"
-msgstr ""
+msgstr "آدرس مجازی نسبی"
 
 msgid "Reload"
 msgstr "لود دوباره"
@@ -829,10 +829,10 @@ msgid "Rescan"
 msgstr "اسکن مجدد"
 
 msgid "Resource"
-msgstr ""
+msgstr "منبع"
 
 msgid "Resources"
-msgstr ""
+msgstr "منابع"
 
 msgid "Restart"
 msgstr "شروع دوباره"
@@ -856,7 +856,7 @@ msgid "Save backup"
 msgstr "ذخیره بکاپ"
 
 msgid "Save diagram"
-msgstr ""
+msgstr "ذخیره دیاگرام"
 
 msgid "Save dump"
 msgstr ""
@@ -877,7 +877,7 @@ msgid "Scan"
 msgstr "اسکن"
 
 msgid "Scan after open"
-msgstr ""
+msgstr "اسکن بعد از باز کردن"
 
 msgid "Script"
 msgstr "اسکریپت"
@@ -886,10 +886,10 @@ msgid "Search"
 msgstr "جستجو"
 
 msgid "Search from"
-msgstr ""
+msgstr "جستجو از"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "جستجوی امضا"
 
 msgid "Search strings"
 msgstr "جستجوی رشته"
@@ -898,19 +898,19 @@ msgid "Search values"
 msgstr "جستجوی مقدار"
 
 msgid "Section"
-msgstr ""
+msgstr "بخش"
 
 msgid "Section name"
-msgstr ""
+msgstr "نام بخش"
 
 msgid "Sections"
-msgstr ""
+msgstr "بخش ها"
 
 msgid "Segment"
-msgstr ""
+msgstr "سگمنت"
 
 msgid "Segments"
-msgstr ""
+msgstr "سگمنت ها"
 
 msgid "Select"
 msgstr "انتخاب"
@@ -919,7 +919,7 @@ msgid "Select all"
 msgstr "انتخاب همه"
 
 msgid "Selection"
-msgstr ""
+msgstr "انتخاب"
 
 msgid "Serial number"
 msgstr "سریال نامبر"
@@ -937,31 +937,31 @@ msgid "Show all"
 msgstr "دیدن همه"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "نمایش ویرگول در آدرس ها"
 
 msgid "Show comments"
-msgstr "دیدن کامنت ها"
+msgstr "نمایش کامنت ها"
 
 msgid "Show detects"
-msgstr ""
+msgstr "نمایش یافته ها"
 
 msgid "Show in"
-msgstr "دیدن در"
+msgstr "نمایش در"
 
 msgid "Show logo"
-msgstr "دیدن لوگو"
+msgstr "نمایش لوگو"
 
 msgid "Show options"
-msgstr ""
+msgstr "نمایش گزینه ها"
 
 msgid "Show type"
-msgstr ""
+msgstr "نمایش نوع"
 
 msgid "Show valid"
-msgstr ""
+msgstr "نمایش اعتبار"
 
 msgid "Show version"
-msgstr "دیدن ورژن"
+msgstr "نمایش ورژن"
 
 msgid "Sign tool"
 msgstr ""
@@ -994,7 +994,7 @@ msgid "Source code"
 msgstr "سورس کد"
 
 msgid "Spaces"
-msgstr ""
+msgstr "فضاها"
 
 msgid "Stack"
 msgstr "پشته"
@@ -1003,13 +1003,13 @@ msgid "Start"
 msgstr "شروع"
 
 msgid "State"
-msgstr ""
+msgstr "حالت"
 
 msgid "Status"
 msgstr "وضعیت"
 
 msgid "Stay on top"
-msgstr ""
+msgstr "ماندن در بالا"
 
 msgid "Step into"
 msgstr ""
@@ -1024,40 +1024,40 @@ msgid "String"
 msgstr "رشته"
 
 msgid "String table"
-msgstr ""
+msgstr "جدول رشته"
 
 msgid "Strings"
 msgstr "رشته"
 
 msgid "Struct"
-msgstr ""
+msgstr "ساختار"
 
 msgid "Struct and unions"
 msgstr ""
 
 msgid "Structs"
-msgstr ""
+msgstr "ساختارها"
 
 msgid "Stub"
 msgstr ""
 
 msgid "Style"
-msgstr ""
+msgstr "استیل"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "زیرشاخه ها"
 
 msgid "Subject"
-msgstr ""
+msgstr "موضوع"
 
 msgid "Symbol"
-msgstr ""
+msgstr "سمبل"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "جدول سمبل"
 
 msgid "Symbols"
-msgstr ""
+msgstr "سمبل ها"
 
 msgid "Syntax"
 msgstr "سینتکس"
@@ -1066,13 +1066,13 @@ msgid "TB"
 msgstr "ترابایت"
 
 msgid "Table"
-msgstr ""
+msgstr "فهرست"
 
 msgid "Table of contents"
-msgstr ""
+msgstr "فهرست مطالب"
 
 msgid "Text"
-msgstr ""
+msgstr "متن"
 
 msgid "Text documents"
 msgstr "سند متنی"
@@ -1084,25 +1084,25 @@ msgid "Thanks"
 msgstr "ممنون"
 
 msgid "The file is not signed"
-msgstr ""
+msgstr "فایل امضا نشده است"
 
 msgid "The file is signed and the signature was verified"
-msgstr ""
+msgstr "پرونده امضا شد و امضا تأیید شد"
 
 msgid "The signature error"
-msgstr ""
+msgstr "خطای سیگنیچر"
 
 msgid "The signature is present, but not trusted"
-msgstr ""
+msgstr "سیگنیچر موجود است، اما قابل اعتماد نیست"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr ""
+msgstr "سیگنیچر موجود است، اما به طور خاص مجاز نیست"
 
 msgid "The value copied to clipboard"
 msgstr "مقدار در کلیپبورد کپی شد"
 
 msgid "Threads"
-msgstr ""
+msgstr "نخها"
 
 msgid "TiB"
 msgstr ""
@@ -1126,10 +1126,10 @@ msgid "Tools"
 msgstr "ابزار ها"
 
 msgid "Total"
-msgstr ""
+msgstr "کل"
 
 msgid "Trace"
-msgstr ""
+msgstr "ردیابی"
 
 msgid "Tree"
 msgstr ""
@@ -1150,13 +1150,13 @@ msgid "Upper"
 msgstr ""
 
 msgid "Uppercase"
-msgstr ""
+msgstr "حروف بزرگ"
 
 msgid "User"
-msgstr ""
+msgstr "کاربر"
 
 msgid "User mode"
-msgstr ""
+msgstr "مد کاربر"
 
 msgid "Value"
 msgstr "مقدار"
@@ -1180,37 +1180,37 @@ msgid "View"
 msgstr "مشاهده"
 
 msgid "Viewer"
-msgstr ""
+msgstr "ناظر"
 
 msgid "Virtual address"
-msgstr ""
+msgstr "آدرس مجازی"
 
 msgid "Virtual machine"
-msgstr ""
+msgstr "ماشین مجازی"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "سایز مجازی"
 
 msgid "Weak binding"
-msgstr ""
+msgstr "اتصال ضعیف"
 
 msgid "Website"
 msgstr "وبسایت"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "عام"
 
 msgid "Write error"
-msgstr ""
+msgstr "خطا در نوشتن"
 
 msgid "compressor"
-msgstr ""
+msgstr "کمپرسور"
 
 msgid "data"
 msgstr "دیتا"
 
 msgid "extender"
-msgstr ""
+msgstr "extender"
 
 msgid "kB"
 msgstr "کیلوبایت"
@@ -1222,7 +1222,7 @@ msgid "not packed"
 msgstr "پک نشده"
 
 msgid "obfuscator"
-msgstr ""
+msgstr "مبهم ساز"
 
 msgid "packed"
 msgstr "پک شده"
