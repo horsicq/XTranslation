@@ -1168,7 +1168,7 @@ msgid "Variable"
 msgstr "变量"
 
 msgid "Verbose"
-msgstr ""
+msgstr "详细"
 
 msgid "Version"
 msgstr "版本"
