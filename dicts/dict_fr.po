@@ -58,10 +58,10 @@ msgid "All types"
 msgstr "Tous les types"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "Base d'allocation"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "Indicateurs d'allocation"
 
 msgid "Analyze"
 msgstr "Analyser"
@@ -610,7 +610,7 @@ msgid "Library name"
 msgstr "Nom de la bibliothèque"
 
 msgid "Linker"
-msgstr "Linker"
+msgstr "Lier"
 
 msgid "Links"
 msgstr "Liens"
@@ -808,7 +808,7 @@ msgid "Regions"
 msgstr "Régions"
 
 msgid "Register"
-msgstr ""
+msgstr "Enregistrer"
 
 msgid "Relative address"
 msgstr "Adresse relative"
@@ -943,10 +943,10 @@ msgid "Show comments"
 msgstr "Afficher les commentaires"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Afficher les détections"
 
 msgid "Show in"
-msgstr ""
+msgstr "Afficher les intrants"
 
 msgid "Show logo"
 msgstr "Afficher le logo"
@@ -1129,7 +1129,7 @@ msgid "Total"
 msgstr "Total"
 
 msgid "Trace"
-msgstr ""
+msgstr "Trace"
 
 msgid "Tree"
 msgstr "Arbre"
