@@ -31,7 +31,7 @@ msgid "Action"
 msgstr "Acción"
 
 msgid "Add"
-msgstr ""
+msgstr "Agregar"
 
 msgid "Add alignment"
 msgstr "Añadir alineación"
@@ -43,7 +43,7 @@ msgid "Address"
 msgstr "Dirección"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzado"
 
 msgid "Algorithm"
 msgstr "Algoritmo"
@@ -337,7 +337,7 @@ msgid "Dump"
 msgstr "Volcar"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Volcar todo"
 
 msgid "Dump to file"
 msgstr "Volcar a archivo"
@@ -352,7 +352,7 @@ msgid "Elapsed"
 msgstr "Transcurrido"
 
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 msgid "Endianness"
 msgstr "Endianness"
@@ -388,16 +388,16 @@ msgid "External references"
 msgstr "Referencias externas"
 
 msgid "Extract"
-msgstr ""
+msgstr "Extraer"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Extraer todos los cursores"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Extraer todos los iconos"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Extractor"
 
 msgid "File"
 msgstr "Archivo"
@@ -418,7 +418,7 @@ msgid "File scan"
 msgstr "Escanear archivos"
 
 msgid "File size"
-msgstr ""
+msgstr "Tamaño del archivo"
 
 msgid "File type"
 msgstr "Tipo de archivo"
@@ -457,7 +457,7 @@ msgid "Font"
 msgstr "Fuente"
 
 msgid "Footer"
-msgstr ""
+msgstr "Pie de página"
 
 msgid "Form"
 msgstr "Formulario"
@@ -895,7 +895,7 @@ msgid "Search strings"
 msgstr "Buscar textos"
 
 msgid "Search values"
-msgstr ""
+msgstr "Buscar valores"
 
 msgid "Section"
 msgstr "Sección"
