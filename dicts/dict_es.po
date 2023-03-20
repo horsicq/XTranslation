@@ -91,7 +91,7 @@ msgid "Attach"
 msgstr "Adjuntar"
 
 msgid "Audio"
-msgstr "Audio"
+msgstr ""
 
 msgid "Automatic"
 msgstr "Automático"
@@ -823,7 +823,7 @@ msgid "Relocs"
 msgstr "Relocalizaciones"
 
 msgid "Remove"
-msgstr "Eliminar"
+msgstr ""
 
 msgid "Rescan"
 msgstr "Reescanear"
@@ -1000,7 +1000,7 @@ msgid "Stack"
 msgstr "Pila"
 
 msgid "Start"
-msgstr "Inicio"
+msgstr ""
 
 msgid "State"
 msgstr "Estado"
@@ -1099,7 +1099,7 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "La firma está presente pero ha sido prohibida especificamente"
 
 msgid "The value copied to clipboard"
-msgstr "Valor copiado en el portapapeles"
+msgstr ""
 
 msgid "Threads"
 msgstr "Hilos"
@@ -1162,7 +1162,7 @@ msgid "Value"
 msgstr "Valor"
 
 msgid "Values"
-msgstr "Valores"
+msgstr ""
 
 msgid "Variable"
 msgstr "Variable"
@@ -1174,7 +1174,7 @@ msgid "Version"
 msgstr "Versión"
 
 msgid "Video"
-msgstr "Video"
+msgstr ""
 
 msgid "View"
 msgstr "Vista"
@@ -1189,7 +1189,7 @@ msgid "Virtual machine"
 msgstr "Máquina virtual"
 
 msgid "Virtual size"
-msgstr "Tamaño virtual"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "Enlazado débil"
