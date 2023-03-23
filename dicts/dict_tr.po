@@ -49,7 +49,7 @@ msgid "Algorithm"
 msgstr "Algoritma"
 
 msgid "All"
-msgstr "Hepsi"
+msgstr "Tümü"
 
 msgid "All files"
 msgstr "Bütün Dosyalar"
@@ -316,7 +316,7 @@ msgid "Directory"
 msgstr "Dizin"
 
 msgid "Directory scan"
-msgstr "Dizin tara"
+msgstr "Dizin tarama"
 
 msgid "Disasm"
 msgstr "Disasm"
@@ -454,10 +454,10 @@ msgid "Follow in"
 msgstr "Takip et"
 
 msgid "Font"
-msgstr "Yazı tipi"
+msgstr "Yazı yüzü"
 
 msgid "Footer"
-msgstr "Altı başlık"
+msgstr "Alt başlık"
 
 msgid "Form"
 msgstr "Biçim"
@@ -529,10 +529,10 @@ msgid "Images"
 msgstr "İmajlar"
 
 msgid "Import"
-msgstr "İçe al"
+msgstr "İçe aktarılanlar"
 
 msgid "Import hash"
-msgstr "Hash'i içe aktar"
+msgstr "Özeti içe aktar"
 
 msgid "Indirect symbols"
 msgstr "Dolaylı semboller"
@@ -592,7 +592,7 @@ msgid "Labels"
 msgstr "Etiketler"
 
 msgid "Language"
-msgstr "Diller"
+msgstr "Dil"
 
 msgid "Lazy binding"
 msgstr "Tembel bağlama"
@@ -631,7 +631,7 @@ msgid "MainWindow"
 msgstr "AnaPencere"
 
 msgid "Manifest"
-msgstr "Bildirim"
+msgstr "Bildiri"
 
 msgid "Match case"
 msgstr "Büyük / küçük harf eşleştir"
@@ -793,7 +793,7 @@ msgid "Recursive"
 msgstr "Özyinelemeli"
 
 msgid "Recursive scan"
-msgstr "Özyinelemeli tara"
+msgstr "Özyinelemeli tarama"
 
 msgid "Ref from"
 msgstr "Referanstan"
@@ -868,13 +868,13 @@ msgid "Save history"
 msgstr "Geçmişi kaydet"
 
 msgid "Save last directory"
-msgstr "Son klasöre kaydet"
+msgstr "Son dizine kaydet"
 
 msgid "Save result"
 msgstr "Sonucu kaydet"
 
 msgid "Scan"
-msgstr "Tarama"
+msgstr "Tara"
 
 msgid "Scan after open"
 msgstr "Açtıktan sonra tara"
