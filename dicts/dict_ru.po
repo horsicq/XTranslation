@@ -869,7 +869,7 @@ msgid "Save history"
 msgstr "Сохранить историю"
 
 msgid "Save last directory"
-msgstr "Поминть папку последнего сканирования"
+msgstr "Помнить папку последнего сканирования"
 
 msgid "Save result"
 msgstr "Сохранить"
