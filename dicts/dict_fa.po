@@ -12,6 +12,9 @@ msgstr "128-بیت"
 msgid "16-bit"
 msgstr "16-بیت"
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr "32-بیت"
 
@@ -63,6 +66,9 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr "انالیز"
 
@@ -111,7 +117,10 @@ msgstr ""
 msgid "Binding"
 msgstr ""
 
-msgid "Blinking cursor"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
 msgstr ""
 
 msgid "Boot application"
@@ -168,6 +177,9 @@ msgstr ""
 msgid "Cannot get PDB name"
 msgstr ""
 
+msgid "Cannot load MSDIA library"
+msgstr ""
+
 msgid "Cannot load data from PDB"
 msgstr ""
 
@@ -179,9 +191,6 @@ msgstr ""
 
 msgid "Cannot load file"
 msgstr "نمیتوان فایل را لود کرد"
-
-msgid "Cannot load MSDIA library"
-msgstr ""
 
 msgid "Cannot open file"
 msgstr "نمیتوان فایل را باز کرد"
@@ -465,7 +474,7 @@ msgstr "فرم"
 msgid "Format"
 msgstr "فرمت"
 
-msgid "Function"
+msgid "Full screen"
 msgstr ""
 
 msgid "Functions"
@@ -491,6 +500,9 @@ msgstr "رفتن به"
 
 msgid "Go to address"
 msgstr "رفتن به ادرس"
+
+msgid "Go to download page?"
+msgstr ""
 
 msgid "Grid"
 msgstr ""
@@ -615,6 +627,9 @@ msgstr ""
 msgid "Links"
 msgstr "لینک ها"
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr "لود کانفیگ"
 
@@ -672,11 +687,23 @@ msgstr "اطلاعات بیشتر"
 msgid "Name"
 msgstr "نام"
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr "بعدی"
 
 msgid "No"
 msgstr "نه"
+
+msgid "No update available"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "چیزی پیدا نشد"
@@ -799,6 +826,9 @@ msgid "Ref from"
 msgstr ""
 
 msgid "Ref to"
+msgstr ""
+
+msgid "References"
 msgstr ""
 
 msgid "Region"
@@ -987,9 +1017,6 @@ msgstr ""
 msgid "Sort type"
 msgstr ""
 
-msgid "Source"
-msgstr "سورس"
-
 msgid "Source code"
 msgstr "سورس کد"
 
@@ -1071,6 +1098,9 @@ msgstr "فهرست"
 msgid "Table of contents"
 msgstr "فهرست مطالب"
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr "متن"
 
@@ -1143,6 +1173,12 @@ msgstr "نوع"
 msgid "Unknown"
 msgstr "ناشناخته"
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr "فایل برای انالیز بارگذاری شود ؟"
 
@@ -1151,9 +1187,6 @@ msgstr ""
 
 msgid "Uppercase"
 msgstr "حروف بزرگ"
-
-msgid "User"
-msgstr "کاربر"
 
 msgid "User mode"
 msgstr "مد کاربر"
@@ -1191,11 +1224,17 @@ msgstr "ماشین مجازی"
 msgid "Virtual size"
 msgstr "سایز مجازی"
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "اتصال ضعیف"
 
 msgid "Website"
 msgstr "وبسایت"
+
+msgid "Width"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "عام"
@@ -1229,3 +1268,5 @@ msgstr "پک شده"
 
 msgid "protection"
 msgstr "حفاظت"
+
+

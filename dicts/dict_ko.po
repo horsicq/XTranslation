@@ -19,6 +19,9 @@ msgstr "128비트"
 msgid "16-bit"
 msgstr "16비트"
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr "32비트"
 
@@ -70,6 +73,9 @@ msgstr "할당 베이스"
 msgid "Allocation flags"
 msgstr "할당 플래그"
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr "분석"
 
@@ -118,8 +124,11 @@ msgstr "묶다"
 msgid "Binding"
 msgstr "제본"
 
-msgid "Blinking cursor"
-msgstr "커서 깜빡임"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
 
 msgid "Boot application"
 msgstr "부팅 응용 프로그램"
@@ -175,6 +184,9 @@ msgstr "PDB 연령을 가져올 수 없습니다."
 msgid "Cannot get PDB name"
 msgstr "PDB 이름을 가져올 수 없습니다."
 
+msgid "Cannot load MSDIA library"
+msgstr "MSDIA 라이브러리를 로드할 수 없습니다."
+
 msgid "Cannot load data from PDB"
 msgstr "PDB에서 데이터를 로드할 수 없습니다."
 
@@ -186,9 +198,6 @@ msgstr "드라이버를 불러오지 못함"
 
 msgid "Cannot load file"
 msgstr "파일을 로드할 수 없습니다"
-
-msgid "Cannot load MSDIA library"
-msgstr "MSDIA 라이브러리를 로드할 수 없습니다."
 
 msgid "Cannot open file"
 msgstr "파일을 열 수 없습니다"
@@ -472,8 +481,8 @@ msgstr "형태"
 msgid "Format"
 msgstr "형식"
 
-msgid "Function"
-msgstr "함수"
+msgid "Full screen"
+msgstr ""
 
 msgid "Functions"
 msgstr "함수"
@@ -498,6 +507,9 @@ msgstr "이동"
 
 msgid "Go to address"
 msgstr "주소로 이동"
+
+msgid "Go to download page?"
+msgstr ""
 
 msgid "Grid"
 msgstr "그리드"
@@ -622,6 +634,9 @@ msgstr "링커"
 msgid "Links"
 msgstr "링크"
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr "구성 로드"
 
@@ -679,11 +694,23 @@ msgstr "더 많은 정보"
 msgid "Name"
 msgstr "이름"
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr "다음"
 
 msgid "No"
 msgstr "아니요"
+
+msgid "No update available"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "아무것도 찾을 수 없음"
@@ -807,6 +834,9 @@ msgstr "다음에서 참조"
 
 msgid "Ref to"
 msgstr "다음으로 참조"
+
+msgid "References"
+msgstr ""
 
 msgid "Region"
 msgstr "지역"
@@ -994,9 +1024,6 @@ msgstr "요소 정렬"
 msgid "Sort type"
 msgstr "정렬 유형"
 
-msgid "Source"
-msgstr "소스"
-
 msgid "Source code"
 msgstr "소스 코드"
 
@@ -1078,6 +1105,9 @@ msgstr "테이블"
 msgid "Table of contents"
 msgstr "목차"
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr "텍스트"
 
@@ -1150,6 +1180,12 @@ msgstr "유형"
 msgid "Unknown"
 msgstr "알 수 없음"
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr "분석을 위해 파일을 업로드 하시겠습니까?"
 
@@ -1158,9 +1194,6 @@ msgstr "위쪽"
 
 msgid "Uppercase"
 msgstr "대문자"
-
-msgid "User"
-msgstr "유저"
 
 msgid "User mode"
 msgstr "유저 모드"
@@ -1198,11 +1231,17 @@ msgstr "가상 기기"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "약한 바인딩"
 
 msgid "Website"
 msgstr "웹사이트"
+
+msgid "Width"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "와일드카드"
@@ -1236,3 +1275,7 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
+
+
+
+

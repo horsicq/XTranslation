@@ -12,6 +12,9 @@ msgstr ""
 msgid "16-bit"
 msgstr ""
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr ""
 
@@ -63,6 +66,9 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr ""
 
@@ -111,7 +117,10 @@ msgstr ""
 msgid "Binding"
 msgstr ""
 
-msgid "Blinking cursor"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
 msgstr ""
 
 msgid "Boot application"
@@ -168,6 +177,9 @@ msgstr ""
 msgid "Cannot get PDB name"
 msgstr ""
 
+msgid "Cannot load MSDIA library"
+msgstr ""
+
 msgid "Cannot load data from PDB"
 msgstr ""
 
@@ -178,9 +190,6 @@ msgid "Cannot load driver"
 msgstr ""
 
 msgid "Cannot load file"
-msgstr ""
-
-msgid "Cannot load MSDIA library"
 msgstr ""
 
 msgid "Cannot open file"
@@ -465,7 +474,7 @@ msgstr ""
 msgid "Format"
 msgstr ""
 
-msgid "Function"
+msgid "Full screen"
 msgstr ""
 
 msgid "Functions"
@@ -490,6 +499,9 @@ msgid "Go to"
 msgstr ""
 
 msgid "Go to address"
+msgstr ""
+
+msgid "Go to download page?"
 msgstr ""
 
 msgid "Grid"
@@ -615,6 +627,9 @@ msgstr ""
 msgid "Links"
 msgstr ""
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr ""
 
@@ -672,10 +687,22 @@ msgstr ""
 msgid "Name"
 msgstr ""
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr ""
 
 msgid "No"
+msgstr ""
+
+msgid "No update available"
 msgstr ""
 
 msgid "Nothing found"
@@ -799,6 +826,9 @@ msgid "Ref from"
 msgstr ""
 
 msgid "Ref to"
+msgstr ""
+
+msgid "References"
 msgstr ""
 
 msgid "Region"
@@ -987,9 +1017,6 @@ msgstr ""
 msgid "Sort type"
 msgstr ""
 
-msgid "Source"
-msgstr ""
-
 msgid "Source code"
 msgstr ""
 
@@ -1071,6 +1098,9 @@ msgstr ""
 msgid "Table of contents"
 msgstr ""
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr ""
 
@@ -1143,6 +1173,12 @@ msgstr ""
 msgid "Unknown"
 msgstr ""
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr ""
 
@@ -1150,9 +1186,6 @@ msgid "Upper"
 msgstr ""
 
 msgid "Uppercase"
-msgstr ""
-
-msgid "User"
 msgstr ""
 
 msgid "User mode"
@@ -1191,10 +1224,16 @@ msgstr ""
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr ""
 
 msgid "Website"
+msgstr ""
+
+msgid "Width"
 msgstr ""
 
 msgid "Wildcard"

@@ -13,6 +13,9 @@ msgstr "128 بت"
 msgid "16-bit"
 msgstr "16 بت"
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr "32 بت"
 
@@ -64,6 +67,9 @@ msgstr "قاعدة التخصيص"
 msgid "Allocation flags"
 msgstr "توزيع الاعلام"
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr "حلل"
 
@@ -112,8 +118,11 @@ msgstr "ربط"
 msgid "Binding"
 msgstr "ربط"
 
-msgid "Blinking cursor"
-msgstr "يومض المؤشر"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
 
 msgid "Boot application"
 msgstr "تطبيق التمهيد"
@@ -169,6 +178,9 @@ msgstr "لا يمكن الحصول على عمر PDB"
 msgid "Cannot get PDB name"
 msgstr "لا يمكن الحصول على اسم PDB"
 
+msgid "Cannot load MSDIA library"
+msgstr "لا يمكن تحميل مكتبة MSDIA"
+
 msgid "Cannot load data from PDB"
 msgstr "لا يمكن تحميل البيانات من PDB"
 
@@ -180,9 +192,6 @@ msgstr "لا يمكن تحميل التعريف"
 
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
-
-msgid "Cannot load MSDIA library"
-msgstr "لا يمكن تحميل مكتبة MSDIA"
 
 msgid "Cannot open file"
 msgstr "لا يمكن فتح ملف"
@@ -466,8 +475,8 @@ msgstr "استمارة"
 msgid "Format"
 msgstr "صيغة"
 
-msgid "Function"
-msgstr "وظيفة"
+msgid "Full screen"
+msgstr ""
 
 msgid "Functions"
 msgstr "المهام"
@@ -492,6 +501,9 @@ msgstr "اذهب إلى"
 
 msgid "Go to address"
 msgstr "انتقل إلى العنوان"
+
+msgid "Go to download page?"
+msgstr ""
 
 msgid "Grid"
 msgstr "شبكة"
@@ -616,6 +628,9 @@ msgstr "رابط"
 msgid "Links"
 msgstr "روابط"
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr "تحميل التكوين"
 
@@ -673,11 +688,23 @@ msgstr "مزيد من المعلومات"
 msgid "Name"
 msgstr "اسم"
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr "التالي"
 
 msgid "No"
 msgstr "لا"
+
+msgid "No update available"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "لم يتم العثور على شيء"
@@ -801,6 +828,9 @@ msgstr "المرجع من"
 
 msgid "Ref to"
 msgstr "المرجع"
+
+msgid "References"
+msgstr ""
 
 msgid "Region"
 msgstr "منطقة"
@@ -988,9 +1018,6 @@ msgstr "فرز العناصر"
 msgid "Sort type"
 msgstr "نوع الفرز"
 
-msgid "Source"
-msgstr "مصدر"
-
 msgid "Source code"
 msgstr "مصدر الرمز"
 
@@ -1072,6 +1099,9 @@ msgstr "طاولة"
 msgid "Table of contents"
 msgstr "جدول المحتويات"
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr "نص"
 
@@ -1144,6 +1174,12 @@ msgstr "نوع"
 msgid "Unknown"
 msgstr "مجهول"
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr "رفع الملف للتحليل؟"
 
@@ -1152,9 +1188,6 @@ msgstr "العلوي"
 
 msgid "Uppercase"
 msgstr "الأحرف الكبيرة"
-
-msgid "User"
-msgstr "مستخدم"
 
 msgid "User mode"
 msgstr "وضع المستخدم"
@@ -1192,11 +1225,17 @@ msgstr "آلة افتراضية"
 msgid "Virtual size"
 msgstr "الحجم الافتراضي"
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "ربط ضعيف"
 
 msgid "Website"
 msgstr "موقع إلكتروني"
+
+msgid "Width"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "البدل"
@@ -1230,3 +1269,7 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
+
+
+
+

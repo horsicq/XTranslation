@@ -12,6 +12,9 @@ msgstr "128 位"
 msgid "16-bit"
 msgstr "16 位"
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr "32 位"
 
@@ -63,6 +66,9 @@ msgstr "分配基址"
 msgid "Allocation flags"
 msgstr "分配标识符"
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr "分析"
 
@@ -111,8 +117,11 @@ msgstr "绑定"
 msgid "Binding"
 msgstr "捆绑"
 
-msgid "Blinking cursor"
-msgstr "光标闪烁"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
 
 msgid "Boot application"
 msgstr "启动应用程序"
@@ -168,6 +177,9 @@ msgstr "无法获取 PDB 年龄"
 msgid "Cannot get PDB name"
 msgstr "无法获取 PDB 名称"
 
+msgid "Cannot load MSDIA library"
+msgstr "无法加载 MSDIA 库"
+
 msgid "Cannot load data from PDB"
 msgstr "无法从 PDB 加载数据"
 
@@ -179,9 +191,6 @@ msgstr "无法加载驱动"
 
 msgid "Cannot load file"
 msgstr "无法加载文件"
-
-msgid "Cannot load MSDIA library"
-msgstr "无法加载 MSDIA 库"
 
 msgid "Cannot open file"
 msgstr "无法打开文件"
@@ -465,8 +474,8 @@ msgstr "表单"
 msgid "Format"
 msgstr "格式"
 
-msgid "Function"
-msgstr "函数"
+msgid "Full screen"
+msgstr ""
 
 msgid "Functions"
 msgstr "函数"
@@ -491,6 +500,9 @@ msgstr "转到"
 
 msgid "Go to address"
 msgstr "转到地址"
+
+msgid "Go to download page?"
+msgstr ""
 
 msgid "Grid"
 msgstr "网格"
@@ -615,6 +627,9 @@ msgstr "链接程序"
 msgid "Links"
 msgstr "链接"
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr "加载配置"
 
@@ -672,11 +687,23 @@ msgstr "更多信息"
 msgid "Name"
 msgstr "名称"
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr "下一个"
 
 msgid "No"
 msgstr "否"
+
+msgid "No update available"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "未找到"
@@ -800,6 +827,9 @@ msgstr "引用于"
 
 msgid "Ref to"
 msgstr "引用至"
+
+msgid "References"
+msgstr ""
 
 msgid "Region"
 msgstr "区域"
@@ -987,9 +1017,6 @@ msgstr "排序元素"
 msgid "Sort type"
 msgstr "排序类型"
 
-msgid "Source"
-msgstr "源"
-
 msgid "Source code"
 msgstr "源代码"
 
@@ -1071,6 +1098,9 @@ msgstr "表格"
 msgid "Table of contents"
 msgstr "目录"
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr "文本"
 
@@ -1143,6 +1173,12 @@ msgstr "类型"
 msgid "Unknown"
 msgstr "未知"
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr "上传这个文件进行分析？"
 
@@ -1151,9 +1187,6 @@ msgstr "顶部"
 
 msgid "Uppercase"
 msgstr "大写字母"
-
-msgid "User"
-msgstr "用户"
 
 msgid "User mode"
 msgstr "用户模式"
@@ -1191,11 +1224,17 @@ msgstr "虚拟机"
 msgid "Virtual size"
 msgstr "虚拟大小"
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "弱绑定"
 
 msgid "Website"
 msgstr "网站"
+
+msgid "Width"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "通配符"
@@ -1229,3 +1268,7 @@ msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
+
+
+
+

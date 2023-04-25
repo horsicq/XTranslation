@@ -13,6 +13,9 @@ msgstr "128-битный"
 msgid "16-bit"
 msgstr "16-битный"
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr "32-битный"
 
@@ -64,6 +67,9 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Анализировать"
 
@@ -112,8 +118,11 @@ msgstr "Связывать"
 msgid "Binding"
 msgstr "Привязка"
 
-msgid "Blinking cursor"
-msgstr "Мигающий курсор"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Загрузочное приложение"
@@ -169,6 +178,9 @@ msgstr "Не удается получить возраст PDB"
 msgid "Cannot get PDB name"
 msgstr "Не удается получить имя PDB"
 
+msgid "Cannot load MSDIA library"
+msgstr "Не удается загрузить библиотеку MSDIA"
+
 msgid "Cannot load data from PDB"
 msgstr "Не удается загрузить данные из PDB"
 
@@ -180,9 +192,6 @@ msgstr "Не удаётся загрузить драйвер"
 
 msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
-
-msgid "Cannot load MSDIA library"
-msgstr "Не удается загрузить библиотеку MSDIA"
 
 msgid "Cannot open file"
 msgstr "Невозможно открыть файл"
@@ -466,8 +475,8 @@ msgstr "Форма"
 msgid "Format"
 msgstr "Формат"
 
-msgid "Function"
-msgstr "Функция"
+msgid "Full screen"
+msgstr ""
 
 msgid "Functions"
 msgstr "Функции"
@@ -492,6 +501,9 @@ msgstr "Перейти к"
 
 msgid "Go to address"
 msgstr "Перейти к адресу"
+
+msgid "Go to download page?"
+msgstr ""
 
 msgid "Grid"
 msgstr "Сетка"
@@ -616,6 +628,9 @@ msgstr "Линковщик"
 msgid "Links"
 msgstr "Линки"
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr "Загрузочная конфигурация"
 
@@ -673,11 +688,23 @@ msgstr "Больше информации"
 msgid "Name"
 msgstr "Имя"
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr "Далее"
 
 msgid "No"
 msgstr "Нет"
+
+msgid "No update available"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Ничего не найдено"
@@ -801,6 +828,9 @@ msgstr "Ссылка из"
 
 msgid "Ref to"
 msgstr "Ссылка в"
+
+msgid "References"
+msgstr ""
 
 msgid "Region"
 msgstr "Область"
@@ -988,9 +1018,6 @@ msgstr "Сортировать элементы"
 msgid "Sort type"
 msgstr "Тип сортировки"
 
-msgid "Source"
-msgstr "Источник"
-
 msgid "Source code"
 msgstr "Исходный код"
 
@@ -1072,6 +1099,9 @@ msgstr "Таблица"
 msgid "Table of contents"
 msgstr "Таблица с содержимым"
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr "Текст"
 
@@ -1144,6 +1174,12 @@ msgstr "Тип"
 msgid "Unknown"
 msgstr "Неизвестно"
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr "Загрузить файл для анализа?"
 
@@ -1152,9 +1188,6 @@ msgstr "Верхний регистр"
 
 msgid "Uppercase"
 msgstr "Верхний регистр"
-
-msgid "User"
-msgstr "Пользователь"
 
 msgid "User mode"
 msgstr "Пользовательский режим"
@@ -1192,11 +1225,17 @@ msgstr "Виртуальная машина"
 msgid "Virtual size"
 msgstr "Виртуальный размер"
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "Слабое связывание"
 
 msgid "Website"
 msgstr "Веб-сайт"
+
+msgid "Width"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "Маска"
@@ -1230,3 +1269,7 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
+
+
+
+

@@ -12,6 +12,9 @@ msgstr "128 bit"
 msgid "16-bit"
 msgstr "16 bit"
 
+msgid "256-bit"
+msgstr ""
+
 msgid "32-bit"
 msgstr "32 bit"
 
@@ -63,6 +66,9 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
+msgid "Analysis"
+msgstr ""
+
 msgid "Analyze"
 msgstr "Analizza"
 
@@ -111,8 +117,11 @@ msgstr "Legamento"
 msgid "Binding"
 msgstr "Legame"
 
-msgid "Blinking cursor"
-msgstr "Cursore intermittente"
+msgid "Bookmark"
+msgstr ""
+
+msgid "Bookmarks"
+msgstr ""
 
 msgid "Boot application"
 msgstr "Applicazione di avvio"
@@ -168,6 +177,9 @@ msgstr "Impossibile ottenere l'età PDB"
 msgid "Cannot get PDB name"
 msgstr "Impossibile ottenere il nome PDB"
 
+msgid "Cannot load MSDIA library"
+msgstr "Impossibile caricare la libreria MSDIA"
+
 msgid "Cannot load data from PDB"
 msgstr "Impossibile caricare i dati da PDB"
 
@@ -179,9 +191,6 @@ msgstr "Impossibile caricare il driver"
 
 msgid "Cannot load file"
 msgstr "Impossibile caricare il file"
-
-msgid "Cannot load MSDIA library"
-msgstr "Impossibile caricare la libreria MSDIA"
 
 msgid "Cannot open file"
 msgstr "Impossibile aprire il file"
@@ -465,8 +474,8 @@ msgstr "Modulo"
 msgid "Format"
 msgstr "Formato"
 
-msgid "Function"
-msgstr "Funzione"
+msgid "Full screen"
+msgstr ""
 
 msgid "Functions"
 msgstr "Funzioni"
@@ -491,6 +500,9 @@ msgstr "Vai a"
 
 msgid "Go to address"
 msgstr "Vai all'indirizzo"
+
+msgid "Go to download page?"
+msgstr ""
 
 msgid "Grid"
 msgstr "Griglia"
@@ -615,6 +627,9 @@ msgstr "Linker"
 msgid "Links"
 msgstr "Collegamenti"
 
+msgid "List"
+msgstr ""
+
 msgid "Load config"
 msgstr "Carica configurazione"
 
@@ -672,11 +687,23 @@ msgstr "Ulteriori informazioni"
 msgid "Name"
 msgstr "Nome"
 
+msgid "Network error"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "New version available"
+msgstr ""
+
 msgid "Next"
 msgstr "Successivo"
 
 msgid "No"
 msgstr "No"
+
+msgid "No update available"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Nessun risultato"
@@ -800,6 +827,9 @@ msgstr "Rif. da"
 
 msgid "Ref to"
 msgstr "Rif. a"
+
+msgid "References"
+msgstr ""
 
 msgid "Region"
 msgstr "Regione"
@@ -987,9 +1017,6 @@ msgstr "Ordina elementi"
 msgid "Sort type"
 msgstr "Tipo di ordinamento"
 
-msgid "Source"
-msgstr "Sorgente"
-
 msgid "Source code"
 msgstr "Codice sorgente"
 
@@ -1071,6 +1098,9 @@ msgstr "Tabella"
 msgid "Table of contents"
 msgstr "Sommario"
 
+msgid "Template"
+msgstr ""
+
 msgid "Text"
 msgstr "Testo"
 
@@ -1143,6 +1173,12 @@ msgstr "Tipo"
 msgid "Unknown"
 msgstr "Sconosciuto"
 
+msgid "Unpack"
+msgstr ""
+
+msgid "Update information"
+msgstr ""
+
 msgid "Upload the file for analyze?"
 msgstr "Caricare il file per l'analisi?"
 
@@ -1151,9 +1187,6 @@ msgstr "Superiore"
 
 msgid "Uppercase"
 msgstr "Maiuscolo"
-
-msgid "User"
-msgstr "Utente"
 
 msgid "User mode"
 msgstr "Modalità utente"
@@ -1191,11 +1224,17 @@ msgstr "Macchina virtuale"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualization"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "Legame debole"
 
 msgid "Website"
 msgstr "Sito web"
+
+msgid "Width"
+msgstr ""
 
 msgid "Wildcard"
 msgstr "Carattere jolly"
@@ -1229,3 +1268,7 @@ msgstr "imballato"
 
 msgid "protection"
 msgstr "protezione"
+
+
+
+
