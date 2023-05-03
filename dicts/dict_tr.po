@@ -13,7 +13,7 @@ msgid "16-bit"
 msgstr "16 bit"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256 bit"
 
 msgid "32-bit"
 msgstr "32 bit"
@@ -67,13 +67,13 @@ msgid "Allocation flags"
 msgstr "Tahsis bayrakları"
 
 msgid "Analysis"
-msgstr ""
-
-msgid "Analyze"
 msgstr "Analiz"
 
+msgid "Analyze"
+msgstr "Analiz Et"
+
 msgid "Animate"
-msgstr ""
+msgstr "Animate"
 
 msgid "Appearance"
 msgstr "Görünüm"
@@ -118,10 +118,10 @@ msgid "Binding"
 msgstr "Bağlama"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Yer imi"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Yer imleri"
 
 msgid "Boot application"
 msgstr "Önyükleme uygulaması"
@@ -475,7 +475,7 @@ msgid "Format"
 msgstr "Biçem"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Tam ekran"
 
 msgid "Functions"
 msgstr "Fonksiyonlar"
@@ -502,7 +502,7 @@ msgid "Go to address"
 msgstr "Adrese git"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "İndirme sayfasına git?"
 
 msgid "Grid"
 msgstr "Izgara"
@@ -628,7 +628,7 @@ msgid "Links"
 msgstr "Bağlantılar"
 
 msgid "List"
-msgstr ""
+msgstr "Liste"
 
 msgid "Load config"
 msgstr "Yapılandırmayı yükle"
@@ -688,13 +688,13 @@ msgid "Name"
 msgstr "Ad"
 
 msgid "Network error"
-msgstr ""
+msgstr "Ağ hatası"
 
 msgid "New"
-msgstr ""
+msgstr "Yeni"
 
 msgid "New version available"
-msgstr ""
+msgstr "Yeni sürüm var"
 
 msgid "Next"
 msgstr "İleri"
@@ -703,7 +703,7 @@ msgid "No"
 msgstr "Hayır"
 
 msgid "No update available"
-msgstr ""
+msgstr "Güncelleme yok"
 
 msgid "Nothing found"
 msgstr "Hiçbirşey Bulunamadı"
@@ -829,7 +829,7 @@ msgid "Ref to"
 msgstr "Referansa"
 
 msgid "References"
-msgstr ""
+msgstr "Referanslar"
 
 msgid "Region"
 msgstr "Bölge"
@@ -1099,7 +1099,7 @@ msgid "Table of contents"
 msgstr "İçindekiler"
 
 msgid "Template"
-msgstr ""
+msgstr "Şablon"
 
 msgid "Text"
 msgstr "Metin"
@@ -1174,10 +1174,10 @@ msgid "Unknown"
 msgstr "Bilinmeyen"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Unpack et"
 
 msgid "Update information"
-msgstr ""
+msgstr "Güncelleme bilgisi"
 
 msgid "Upload the file for analyze?"
 msgstr "Analiz için dosyayı yükleyin?"
@@ -1225,7 +1225,7 @@ msgid "Virtual size"
 msgstr "Sanal boyut"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Görselleştirme"
 
 msgid "Weak binding"
 msgstr "Zayıf bağlama"
@@ -1234,7 +1234,7 @@ msgid "Website"
 msgstr "İnternet sitesi"
 
 msgid "Width"
-msgstr ""
+msgstr "En"
 
 msgid "Wildcard"
 msgstr "Genel arama karakteri"
