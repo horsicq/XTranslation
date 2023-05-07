@@ -14,7 +14,7 @@ msgid "16-bit"
 msgstr "16-бітний"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-бітний"
 
 msgid "32-bit"
 msgstr "32-бітний"
@@ -68,7 +68,7 @@ msgid "Allocation flags"
 msgstr "Прапорці виділення"
 
 msgid "Analysis"
-msgstr ""
+msgstr "Аналіз"
 
 msgid "Analyze"
 msgstr "Аналізувати"
@@ -119,10 +119,10 @@ msgid "Binding"
 msgstr "Прив'язка"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Закладка"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 msgid "Boot application"
 msgstr "Завантажувальна програма"
@@ -476,7 +476,7 @@ msgid "Format"
 msgstr "Формат"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Повноекранний"
 
 msgid "Functions"
 msgstr "Функції"
@@ -503,7 +503,7 @@ msgid "Go to address"
 msgstr "Перейти до адреси"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Перейти на сторінку завантаження?"
 
 msgid "Grid"
 msgstr "Сітка"
@@ -629,7 +629,7 @@ msgid "Links"
 msgstr "Лінки"
 
 msgid "List"
-msgstr ""
+msgstr "Список"
 
 msgid "Load config"
 msgstr "Завантажувана конфігурація"
@@ -689,13 +689,13 @@ msgid "Name"
 msgstr "Ім'я"
 
 msgid "Network error"
-msgstr ""
+msgstr "Помилка мережі"
 
 msgid "New"
-msgstr ""
+msgstr "Новий"
 
 msgid "New version available"
-msgstr ""
+msgstr "Доступна нова версія"
 
 msgid "Next"
 msgstr "Далі"
@@ -704,7 +704,7 @@ msgid "No"
 msgstr "Ні"
 
 msgid "No update available"
-msgstr ""
+msgstr "Немає оновлень"
 
 msgid "Nothing found"
 msgstr "Нічого не знайдено"
@@ -830,7 +830,7 @@ msgid "Ref to"
 msgstr "Посилання до"
 
 msgid "References"
-msgstr ""
+msgstr "Посилання"
 
 msgid "Region"
 msgstr "Регіон"
@@ -1100,7 +1100,7 @@ msgid "Table of contents"
 msgstr "Зміст"
 
 msgid "Template"
-msgstr ""
+msgstr "Шаблон"
 
 msgid "Text"
 msgstr "Текст"
@@ -1175,10 +1175,10 @@ msgid "Unknown"
 msgstr "Невідомо"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Розпакувати"
 
 msgid "Update information"
-msgstr ""
+msgstr "Оновити інформацію"
 
 msgid "Upload the file for analyze?"
 msgstr "Завантажити файл для аналізу?"
@@ -1226,7 +1226,7 @@ msgid "Virtual size"
 msgstr "Віртуальний розмір"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Візуалізація"
 
 msgid "Weak binding"
 msgstr "Слабке зв'язування"
@@ -1235,7 +1235,7 @@ msgid "Website"
 msgstr "Веб-сайт"
 
 msgid "Width"
-msgstr ""
+msgstr "Ширина"
 
 msgid "Wildcard"
 msgstr "Маска"
