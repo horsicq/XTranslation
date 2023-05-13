@@ -13,7 +13,7 @@ msgid "16-bit"
 msgstr "16 bits"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-Bits"
 
 msgid "32-bit"
 msgstr "32 bits"
@@ -67,7 +67,7 @@ msgid "Allocation flags"
 msgstr "Flags de Alocação"
 
 msgid "Analysis"
-msgstr ""
+msgstr "Analise"
 
 msgid "Analyze"
 msgstr "Analisar"
@@ -118,10 +118,10 @@ msgid "Binding"
 msgstr "Vinculo"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Favoritar"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Favoritos"
 
 msgid "Boot application"
 msgstr "Aplicativo de inicialização"
@@ -475,7 +475,7 @@ msgid "Format"
 msgstr "Formato"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Tela cheia"
 
 msgid "Functions"
 msgstr "Funções"
@@ -502,7 +502,7 @@ msgid "Go to address"
 msgstr "Ir para o endereço"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Ir para página de Download?"
 
 msgid "Grid"
 msgstr "Grid"
@@ -628,7 +628,7 @@ msgid "Links"
 msgstr "Links"
 
 msgid "List"
-msgstr ""
+msgstr "Listar"
 
 msgid "Load config"
 msgstr "Exibir configuração"
@@ -688,13 +688,13 @@ msgid "Name"
 msgstr "Nome"
 
 msgid "Network error"
-msgstr ""
+msgstr "Erro de rede"
 
 msgid "New"
-msgstr ""
+msgstr "Novo"
 
 msgid "New version available"
-msgstr ""
+msgstr "Nova versão disponível"
 
 msgid "Next"
 msgstr "Próximo"
@@ -703,7 +703,7 @@ msgid "No"
 msgstr "Não"
 
 msgid "No update available"
-msgstr ""
+msgstr "Nenhum update disponvel"
 
 msgid "Nothing found"
 msgstr "Nada encontrado"
@@ -829,7 +829,7 @@ msgid "Ref to"
 msgstr "Ref para"
 
 msgid "References"
-msgstr ""
+msgstr "Referências"
 
 msgid "Region"
 msgstr "Região"
@@ -1099,7 +1099,7 @@ msgid "Table of contents"
 msgstr "Índice"
 
 msgid "Template"
-msgstr ""
+msgstr "Template"
 
 msgid "Text"
 msgstr "Texto"
@@ -1174,10 +1174,10 @@ msgid "Unknown"
 msgstr "Desconhecido"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Unpack"
 
 msgid "Update information"
-msgstr ""
+msgstr "Informações do Update"
 
 msgid "Upload the file for analyze?"
 msgstr "Fazer upload do arquivo para analisar ?"
@@ -1225,7 +1225,7 @@ msgid "Virtual size"
 msgstr "Tamanho Virtual"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Visualização"
 
 msgid "Weak binding"
 msgstr "Ligação fraca"
@@ -1234,7 +1234,7 @@ msgid "Website"
 msgstr "Site"
 
 msgid "Width"
-msgstr ""
+msgstr "Largura"
 
 msgid "Wildcard"
 msgstr "Curinga"
