@@ -14,7 +14,7 @@ msgid "16-bit"
 msgstr "16-битный"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-битный"
 
 msgid "32-bit"
 msgstr "32-битный"
@@ -68,7 +68,7 @@ msgid "Allocation flags"
 msgstr ""
 
 msgid "Analysis"
-msgstr ""
+msgstr "Анализ"
 
 msgid "Analyze"
 msgstr "Анализировать"
@@ -119,10 +119,10 @@ msgid "Binding"
 msgstr "Привязка"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Закладка"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Закладки"
 
 msgid "Boot application"
 msgstr "Загрузочное приложение"
@@ -494,7 +494,7 @@ msgid "Get element"
 msgstr "Получить элемент"
 
 msgid "GiB"
-msgstr ""
+msgstr "ГиБ"
 
 msgid "Go to"
 msgstr "Перейти к"
@@ -503,7 +503,7 @@ msgid "Go to address"
 msgstr "Перейти к адресу"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Перейти на страницу загрузки?"
 
 msgid "Grid"
 msgstr "Сетка"
@@ -629,7 +629,7 @@ msgid "Links"
 msgstr "Линки"
 
 msgid "List"
-msgstr ""
+msgstr "Список"
 
 msgid "Load config"
 msgstr "Загрузочная конфигурация"
@@ -671,7 +671,7 @@ msgid "Method"
 msgstr "Метод"
 
 msgid "MiB"
-msgstr ""
+msgstr "МиБ"
 
 msgid "Mode"
 msgstr "Режим"
@@ -689,7 +689,7 @@ msgid "Name"
 msgstr "Имя"
 
 msgid "Network error"
-msgstr ""
+msgstr "Ошибка сети"
 
 msgid "New"
 msgstr ""
@@ -1100,7 +1100,7 @@ msgid "Table of contents"
 msgstr "Таблица с содержимым"
 
 msgid "Template"
-msgstr ""
+msgstr "Шаблон"
 
 msgid "Text"
 msgstr "Текст"
@@ -1136,7 +1136,7 @@ msgid "Threads"
 msgstr "Потоки"
 
 msgid "TiB"
-msgstr ""
+msgstr "ТиБ"
 
 msgid "Time"
 msgstr "Время"
@@ -1175,10 +1175,10 @@ msgid "Unknown"
 msgstr "Неизвестно"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Распаковать"
 
 msgid "Update information"
-msgstr ""
+msgstr "Обновить информацию"
 
 msgid "Upload the file for analyze?"
 msgstr "Загрузить файл для анализа?"
@@ -1196,7 +1196,7 @@ msgid "Value"
 msgstr "Значение"
 
 msgid "Values"
-msgstr ""
+msgstr "Значения"
 
 msgid "Variable"
 msgstr "Переменная"
@@ -1226,7 +1226,7 @@ msgid "Virtual size"
 msgstr "Виртуальный размер"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Визуализация"
 
 msgid "Weak binding"
 msgstr "Слабое связывание"
@@ -1235,7 +1235,7 @@ msgid "Website"
 msgstr "Веб-сайт"
 
 msgid "Width"
-msgstr ""
+msgstr "Ширина"
 
 msgid "Wildcard"
 msgstr "Маска"
