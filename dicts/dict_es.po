@@ -7,22 +7,22 @@ msgstr ""
 "X-Language: es_ES\n"
 
 msgid "128-bit"
-msgstr "128 bits"
+msgstr "128-bit"
 
 msgid "16-bit"
-msgstr "16 bits"
+msgstr "16-bit"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-bit"
 
 msgid "32-bit"
-msgstr "32 bits"
+msgstr "32-bit"
 
 msgid "64-bit"
-msgstr "64 bits"
+msgstr "64-bit"
 
 msgid "8-bit"
-msgstr "8 bits"
+msgstr "8-bit"
 
 msgid "API key"
 msgstr "Clave API"
@@ -67,7 +67,7 @@ msgid "Allocation flags"
 msgstr "Banderas de asignación"
 
 msgid "Analysis"
-msgstr ""
+msgstr "Análisis"
 
 msgid "Analyze"
 msgstr "Analizar"
@@ -118,10 +118,10 @@ msgid "Binding"
 msgstr "Enlace"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Marcador"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Marcadores"
 
 msgid "Boot application"
 msgstr "Aplicación de arranque"
@@ -475,7 +475,7 @@ msgid "Format"
 msgstr "Formato"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Pantalla completa"
 
 msgid "Functions"
 msgstr "Funciones"
@@ -502,7 +502,7 @@ msgid "Go to address"
 msgstr "Ir a la dirección"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "¿Ir a la página de descargas?"
 
 msgid "Grid"
 msgstr "Rejilla"
@@ -628,7 +628,7 @@ msgid "Links"
 msgstr "Enlaces"
 
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 msgid "Load config"
 msgstr "Cargar configuración"
@@ -688,13 +688,13 @@ msgid "Name"
 msgstr "Nombre"
 
 msgid "Network error"
-msgstr ""
+msgstr "Error de red"
 
 msgid "New"
-msgstr ""
+msgstr "Nuevo"
 
 msgid "New version available"
-msgstr ""
+msgstr "Nueva versión disponible"
 
 msgid "Next"
 msgstr "Siguiente"
@@ -703,7 +703,7 @@ msgid "No"
 msgstr "No"
 
 msgid "No update available"
-msgstr ""
+msgstr "No hay actualizaciones disponibles"
 
 msgid "Nothing found"
 msgstr "No se ha encontrado nada"
@@ -829,7 +829,7 @@ msgid "Ref to"
 msgstr "Referencia a"
 
 msgid "References"
-msgstr ""
+msgstr "Referencias"
 
 msgid "Region"
 msgstr "Región"
@@ -1099,7 +1099,7 @@ msgid "Table of contents"
 msgstr "Tabla de contenidos"
 
 msgid "Template"
-msgstr ""
+msgstr "Plantilla"
 
 msgid "Text"
 msgstr "Texto"
@@ -1174,10 +1174,10 @@ msgid "Unknown"
 msgstr "Desconocido"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Descomprimir"
 
 msgid "Update information"
-msgstr ""
+msgstr "Actualizar información"
 
 msgid "Upload the file for analyze?"
 msgstr "¿Subir el archivo para analizar?"
@@ -1225,7 +1225,7 @@ msgid "Virtual size"
 msgstr "Tamaño virtual"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Visualización"
 
 msgid "Weak binding"
 msgstr "Enlazado débil"
@@ -1234,7 +1234,7 @@ msgid "Website"
 msgstr "Sitio web"
 
 msgid "Width"
-msgstr ""
+msgstr "Ancho"
 
 msgid "Wildcard"
 msgstr "Comodín"
