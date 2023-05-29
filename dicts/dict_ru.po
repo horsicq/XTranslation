@@ -596,7 +596,7 @@ msgid "Kernel mode"
 msgstr "Режим ядра"
 
 msgid "KiB"
-msgstr ""
+msgstr "КиБ"
 
 msgid "Label"
 msgstr "Метка"
@@ -695,7 +695,7 @@ msgid "New"
 msgstr ""
 
 msgid "New version available"
-msgstr ""
+msgstr "Доступна новая версия"
 
 msgid "Next"
 msgstr "Далее"
@@ -704,7 +704,7 @@ msgid "No"
 msgstr "Нет"
 
 msgid "No update available"
-msgstr ""
+msgstr "Нет доступных обновлений"
 
 msgid "Nothing found"
 msgstr "Ничего не найдено"
@@ -926,7 +926,7 @@ msgid "Search strings"
 msgstr "Поиск строк"
 
 msgid "Search values"
-msgstr ""
+msgstr "Поиск значений"
 
 msgid "Section"
 msgstr "Секция"
@@ -1208,7 +1208,7 @@ msgid "Version"
 msgstr "Версия"
 
 msgid "Video"
-msgstr ""
+msgstr "Видео"
 
 msgid "View"
 msgstr "Вид"
