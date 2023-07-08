@@ -66,9 +66,6 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr ""
 
@@ -219,9 +216,6 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
-msgid "Clear result"
-msgstr ""
-
 msgid "Close"
 msgstr ""
 
@@ -309,9 +303,6 @@ msgstr ""
 msgid "Detach"
 msgstr ""
 
-msgid "Detect"
-msgstr ""
-
 msgid "Device"
 msgstr ""
 
@@ -355,9 +346,6 @@ msgid "Edit"
 msgstr ""
 
 msgid "Editor"
-msgstr ""
-
-msgid "Elapsed"
 msgstr ""
 
 msgid "End"
@@ -460,6 +448,9 @@ msgid "Folder"
 msgstr ""
 
 msgid "Follow in"
+msgstr ""
+
+msgid "Follow me"
 msgstr ""
 
 msgid "Font"
@@ -756,6 +747,9 @@ msgstr ""
 msgid "Pause"
 msgstr ""
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr ""
 
@@ -873,6 +867,9 @@ msgstr ""
 msgid "Run"
 msgstr ""
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr ""
 
@@ -907,9 +904,6 @@ msgid "Scan"
 msgstr ""
 
 msgid "Scan after open"
-msgstr ""
-
-msgid "Script"
 msgstr ""
 
 msgid "Search"
@@ -981,16 +975,7 @@ msgstr ""
 msgid "Show logo"
 msgstr ""
 
-msgid "Show options"
-msgstr ""
-
-msgid "Show type"
-msgstr ""
-
 msgid "Show valid"
-msgstr ""
-
-msgid "Show version"
 msgstr ""
 
 msgid "Sign tool"
@@ -1098,9 +1083,6 @@ msgstr ""
 msgid "Table of contents"
 msgstr ""
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr ""
 
@@ -1135,9 +1117,6 @@ msgid "Threads"
 msgstr ""
 
 msgid "TiB"
-msgstr ""
-
-msgid "Time"
 msgstr ""
 
 msgid "Time date stamp"
@@ -1224,6 +1203,9 @@ msgstr ""
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1240,6 +1222,9 @@ msgid "Wildcard"
 msgstr ""
 
 msgid "Write error"
+msgstr ""
+
+msgid "YARA"
 msgstr ""
 
 msgid "compressor"

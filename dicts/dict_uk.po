@@ -3,8 +3,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 
 msgid "128-bit"
@@ -66,9 +66,6 @@ msgstr "Базова адреса виділення"
 
 msgid "Allocation flags"
 msgstr "Прапорці виділення"
-
-msgid "Analysis"
-msgstr "Аналіз"
 
 msgid "Analyze"
 msgstr "Аналізувати"
@@ -220,9 +217,6 @@ msgstr "Перевірити оновлення"
 msgid "Clear"
 msgstr "Очистити"
 
-msgid "Clear result"
-msgstr "Очистити результат"
-
 msgid "Close"
 msgstr "Закрити"
 
@@ -310,9 +304,6 @@ msgstr "Залежності"
 msgid "Detach"
 msgstr "Від'єднати"
 
-msgid "Detect"
-msgstr "Виявити"
-
 msgid "Device"
 msgstr "Пристрій"
 
@@ -357,9 +348,6 @@ msgstr "Редагувати"
 
 msgid "Editor"
 msgstr "Редактор"
-
-msgid "Elapsed"
-msgstr "Минуло"
 
 msgid "End"
 msgstr "Кінець"
@@ -462,6 +450,9 @@ msgstr "Каталог"
 
 msgid "Follow in"
 msgstr "Слідувати"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "Шрифт"
@@ -757,6 +748,9 @@ msgstr "Пакувальник"
 msgid "Pause"
 msgstr "Пауза"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "Гравець"
 
@@ -874,6 +868,9 @@ msgstr "Результат"
 msgid "Run"
 msgstr "Запустити"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "Драйвер часу виконання"
 
@@ -909,9 +906,6 @@ msgstr "Сканувати"
 
 msgid "Scan after open"
 msgstr "Сканування після відкриття"
-
-msgid "Script"
-msgstr "Сценарій"
 
 msgid "Search"
 msgstr "Пошук"
@@ -982,17 +976,8 @@ msgstr "Показати в"
 msgid "Show logo"
 msgstr "Показати логотип"
 
-msgid "Show options"
-msgstr "Показати налаштування"
-
-msgid "Show type"
-msgstr "Показати тип"
-
 msgid "Show valid"
 msgstr "Показати дійсні"
-
-msgid "Show version"
-msgstr "Показати версію"
 
 msgid "Sign tool"
 msgstr "Інструмент підпису"
@@ -1099,9 +1084,6 @@ msgstr "Таблиця"
 msgid "Table of contents"
 msgstr "Зміст"
 
-msgid "Template"
-msgstr "Шаблон"
-
 msgid "Text"
 msgstr "Текст"
 
@@ -1137,9 +1119,6 @@ msgstr "Потоки"
 
 msgid "TiB"
 msgstr "ТіБ"
-
-msgid "Time"
-msgstr "Час"
 
 msgid "Time date stamp"
 msgstr "Часова відмітка"
@@ -1225,6 +1204,9 @@ msgstr "Віртуальна машина"
 msgid "Virtual size"
 msgstr "Віртуальний розмір"
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr "Візуалізація"
 
@@ -1242,6 +1224,9 @@ msgstr "Маска"
 
 msgid "Write error"
 msgstr "Помилка запису"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "Пакувальник"
@@ -1269,6 +1254,12 @@ msgstr "запакований"
 
 msgid "protection"
 msgstr "захист"
+
+
+
+
+
+
 
 
 

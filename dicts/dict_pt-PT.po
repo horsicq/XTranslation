@@ -24,12 +24,6 @@ msgstr "64 bits"
 msgid "8-bit"
 msgstr "8 bits"
 
-msgid "<"
-msgstr ""
-
-msgid ">"
-msgstr ""
-
 msgid "API key"
 msgstr ""
 
@@ -70,9 +64,6 @@ msgid "Allocation base"
 msgstr ""
 
 msgid "Allocation flags"
-msgstr ""
-
-msgid "Analysis"
 msgstr ""
 
 msgid "Analyze"
@@ -225,9 +216,6 @@ msgstr "Verificar actualizações"
 msgid "Clear"
 msgstr "Limpar"
 
-msgid "Clear result"
-msgstr "Limpar resultado"
-
 msgid "Close"
 msgstr "Fechar"
 
@@ -315,9 +303,6 @@ msgstr "Dependências"
 msgid "Detach"
 msgstr "Desanexar"
 
-msgid "Detect"
-msgstr ""
-
 msgid "Device"
 msgstr ""
 
@@ -362,9 +347,6 @@ msgstr "Editar"
 
 msgid "Editor"
 msgstr ""
-
-msgid "Elapsed"
-msgstr "Decorrido"
 
 msgid "End"
 msgstr ""
@@ -466,6 +448,9 @@ msgid "Folder"
 msgstr ""
 
 msgid "Follow in"
+msgstr ""
+
+msgid "Follow me"
 msgstr ""
 
 msgid "Font"
@@ -762,6 +747,9 @@ msgstr "Compactador"
 msgid "Pause"
 msgstr "Pausa"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "Jogador"
 
@@ -879,6 +867,9 @@ msgstr "Resultado"
 msgid "Run"
 msgstr "Executar"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "Driver de tempo de execução"
 
@@ -914,9 +905,6 @@ msgstr "Analisar"
 
 msgid "Scan after open"
 msgstr "Analisar depois de aberto"
-
-msgid "Script"
-msgstr "Roteiro"
 
 msgid "Search"
 msgstr "Procurar"
@@ -987,17 +975,8 @@ msgstr ""
 msgid "Show logo"
 msgstr "Exibir logo"
 
-msgid "Show options"
-msgstr "Mostrar opções"
-
-msgid "Show type"
-msgstr "Mostrar tipo"
-
 msgid "Show valid"
 msgstr "Mostrar válidos"
-
-msgid "Show version"
-msgstr "Mostrar versão"
 
 msgid "Sign tool"
 msgstr "Ferramenta de assinatura"
@@ -1104,9 +1083,6 @@ msgstr "Tabela"
 msgid "Table of contents"
 msgstr "Índice"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "Texto"
 
@@ -1142,9 +1118,6 @@ msgstr "Tópicos"
 
 msgid "TiB"
 msgstr ""
-
-msgid "Time"
-msgstr "Tempo"
 
 msgid "Time date stamp"
 msgstr "Carimbo de data e hora"
@@ -1230,6 +1203,9 @@ msgstr "Máquina virtual"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1247,6 +1223,9 @@ msgstr "Curinga"
 
 msgid "Write error"
 msgstr "Erro de escrita"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "compressor"
@@ -1274,3 +1253,10 @@ msgstr "comprimido"
 
 msgid "protection"
 msgstr "protecção"
+
+
+
+
+
+
+

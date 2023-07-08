@@ -67,9 +67,6 @@ msgstr "Baza alokacji"
 msgid "Allocation flags"
 msgstr "Flagi alokacji"
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "Analizować"
 
@@ -220,9 +217,6 @@ msgstr "Sprawdź aktualizacje"
 msgid "Clear"
 msgstr "Wyczyść"
 
-msgid "Clear result"
-msgstr "Wyczyść wynik"
-
 msgid "Close"
 msgstr "Zamknij"
 
@@ -310,9 +304,6 @@ msgstr "Zależności"
 msgid "Detach"
 msgstr "Odłącz"
 
-msgid "Detect"
-msgstr "Wykryj"
-
 msgid "Device"
 msgstr "Urządzenie"
 
@@ -357,9 +348,6 @@ msgstr "Edytuj"
 
 msgid "Editor"
 msgstr "Edytor"
-
-msgid "Elapsed"
-msgstr "Upłynęło"
 
 msgid "End"
 msgstr ""
@@ -462,6 +450,9 @@ msgstr "Folder"
 
 msgid "Follow in"
 msgstr "Śledź"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "Font"
@@ -757,6 +748,9 @@ msgstr "Pakowacz"
 msgid "Pause"
 msgstr "Pauza"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "Gracz"
 
@@ -874,6 +868,9 @@ msgstr "Wynik"
 msgid "Run"
 msgstr "Uruchom"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "Sterownik wykonawczy"
 
@@ -909,9 +906,6 @@ msgstr "Skanuj"
 
 msgid "Scan after open"
 msgstr "Skanuj po otworzeniu"
-
-msgid "Script"
-msgstr "Skrypt"
 
 msgid "Search"
 msgstr "Szukaj"
@@ -982,17 +976,8 @@ msgstr "Pokaż w"
 msgid "Show logo"
 msgstr "Pokaż logo"
 
-msgid "Show options"
-msgstr "Pokaż opcje"
-
-msgid "Show type"
-msgstr "Pokaż typ"
-
 msgid "Show valid"
 msgstr "Pokaż prawidłowe"
-
-msgid "Show version"
-msgstr "Pokaż wersję"
 
 msgid "Sign tool"
 msgstr "Narzędzie do znakowania"
@@ -1099,9 +1084,6 @@ msgstr "Tabela"
 msgid "Table of contents"
 msgstr "Spis treści"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "Tekst"
 
@@ -1137,9 +1119,6 @@ msgstr "Wątki"
 
 msgid "TiB"
 msgstr "TiB"
-
-msgid "Time"
-msgstr "Czas"
 
 msgid "Time date stamp"
 msgstr "Stempel daty czasu"
@@ -1225,6 +1204,9 @@ msgstr "Maszyna wirtualna"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1242,6 +1224,9 @@ msgstr "Wzór"
 
 msgid "Write error"
 msgstr "Błąd zapisu"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "kompresor"
@@ -1269,6 +1254,10 @@ msgstr "spakowany"
 
 msgid "protection"
 msgstr "zabezpieczenie"
+
+
+
+
 
 
 

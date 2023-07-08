@@ -66,9 +66,6 @@ msgstr "分配基址"
 msgid "Allocation flags"
 msgstr "分配标识符"
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "分析"
 
@@ -219,9 +216,6 @@ msgstr "检查更新"
 msgid "Clear"
 msgstr "清除"
 
-msgid "Clear result"
-msgstr "清除结果"
-
 msgid "Close"
 msgstr "关闭"
 
@@ -309,9 +303,6 @@ msgstr "依赖关系"
 msgid "Detach"
 msgstr "分离"
 
-msgid "Detect"
-msgstr "检测"
-
 msgid "Device"
 msgstr "设备"
 
@@ -356,9 +347,6 @@ msgstr "编辑"
 
 msgid "Editor"
 msgstr "编辑器"
-
-msgid "Elapsed"
-msgstr "已耗时"
 
 msgid "End"
 msgstr "结束"
@@ -461,6 +449,9 @@ msgstr "文件夹"
 
 msgid "Follow in"
 msgstr "跟进"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "字体"
@@ -756,6 +747,9 @@ msgstr "打包工具"
 msgid "Pause"
 msgstr "暂停"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "播放器"
 
@@ -873,6 +867,9 @@ msgstr "结果"
 msgid "Run"
 msgstr "运行"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "运行时驱动程序"
 
@@ -908,9 +905,6 @@ msgstr "扫描"
 
 msgid "Scan after open"
 msgstr "打开后扫描"
-
-msgid "Script"
-msgstr "脚本"
 
 msgid "Search"
 msgstr "搜索"
@@ -981,17 +975,8 @@ msgstr "显示到"
 msgid "Show logo"
 msgstr "显示徽标"
 
-msgid "Show options"
-msgstr "显示选项"
-
-msgid "Show type"
-msgstr "显示类型"
-
 msgid "Show valid"
 msgstr "显示有效项"
-
-msgid "Show version"
-msgstr "显示版本"
 
 msgid "Sign tool"
 msgstr "签名工具"
@@ -1098,9 +1083,6 @@ msgstr "表格"
 msgid "Table of contents"
 msgstr "目录"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "文本"
 
@@ -1136,9 +1118,6 @@ msgstr "线程"
 
 msgid "TiB"
 msgstr "TiB"
-
-msgid "Time"
-msgstr "时间"
 
 msgid "Time date stamp"
 msgstr "时间戳"
@@ -1224,6 +1203,9 @@ msgstr "虚拟机"
 msgid "Virtual size"
 msgstr "虚拟大小"
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1241,6 +1223,9 @@ msgstr "通配符"
 
 msgid "Write error"
 msgstr "写入错误"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "压缩工具"
@@ -1268,6 +1253,10 @@ msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
+
+
+
+
 
 
 

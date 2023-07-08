@@ -66,9 +66,6 @@ msgstr "Allozierungsbasis"
 msgid "Allocation flags"
 msgstr "Allozierungsflags"
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "Analysieren"
 
@@ -219,9 +216,6 @@ msgstr "Auf Updates prüfen"
 msgid "Clear"
 msgstr "Leeren"
 
-msgid "Clear result"
-msgstr "Ergebnis leeren"
-
 msgid "Close"
 msgstr "Schließen"
 
@@ -309,9 +303,6 @@ msgstr "Abhängigkeiten"
 msgid "Detach"
 msgstr "Ablösen"
 
-msgid "Detect"
-msgstr "Erkennen"
-
 msgid "Device"
 msgstr "Gerät"
 
@@ -356,9 +347,6 @@ msgstr "Bearbeiten"
 
 msgid "Editor"
 msgstr "Editor"
-
-msgid "Elapsed"
-msgstr "Verstrichen"
 
 msgid "End"
 msgstr "Ende"
@@ -461,6 +449,9 @@ msgstr "Ordner"
 
 msgid "Follow in"
 msgstr "Verfolgen in"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "Schriftart"
@@ -756,6 +747,9 @@ msgstr "Packer"
 msgid "Pause"
 msgstr "Pause"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "Spieler"
 
@@ -873,6 +867,9 @@ msgstr "Ergebnis"
 msgid "Run"
 msgstr "Ausführen"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "Laufzeittreiber"
 
@@ -908,9 +905,6 @@ msgstr "Scan"
 
 msgid "Scan after open"
 msgstr "Scannen nach dem Öffnen starten"
-
-msgid "Script"
-msgstr "Skript"
 
 msgid "Search"
 msgstr "Suche"
@@ -981,17 +975,8 @@ msgstr "Anzeigen in"
 msgid "Show logo"
 msgstr "Logo anzeigen"
 
-msgid "Show options"
-msgstr "Optionen anzeigen"
-
-msgid "Show type"
-msgstr "Typ anzeigen"
-
 msgid "Show valid"
 msgstr "Gültige anzeigen"
-
-msgid "Show version"
-msgstr "Version anzeigen"
 
 msgid "Sign tool"
 msgstr "Signierungstool"
@@ -1098,9 +1083,6 @@ msgstr "Tabelle"
 msgid "Table of contents"
 msgstr "Inhaltsverzeichnis"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "Text"
 
@@ -1136,9 +1118,6 @@ msgstr "Themen"
 
 msgid "TiB"
 msgstr "TiB"
-
-msgid "Time"
-msgstr "Zeit"
 
 msgid "Time date stamp"
 msgstr "Zeit-Datum-Stempel"
@@ -1224,6 +1203,9 @@ msgstr "Virtuelle Maschine"
 msgid "Virtual size"
 msgstr "Virtuelle Größe"
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1241,6 +1223,9 @@ msgstr "Platzhalter"
 
 msgid "Write error"
 msgstr "Schreibfehler"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "Kompressor"
@@ -1268,6 +1253,10 @@ msgstr "Gepackt"
 
 msgid "protection"
 msgstr "Schutz"
+
+
+
+
 
 
 
