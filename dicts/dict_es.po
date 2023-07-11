@@ -451,7 +451,7 @@ msgid "Follow in"
 msgstr "Seguir en"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Sígueme"
 
 msgid "Font"
 msgstr "Fuente"
@@ -748,7 +748,7 @@ msgid "Pause"
 msgstr "Pausa"
 
 msgid "Paused"
-msgstr ""
+msgstr "Pausado"
 
 msgid "Player"
 msgstr "Jugador"
@@ -868,7 +868,7 @@ msgid "Run"
 msgstr "Ejecutar"
 
 msgid "Running"
-msgstr ""
+msgstr "En ejecución"
 
 msgid "Runtime driver"
 msgstr "Controlador de tiempo de ejecución"
@@ -1204,7 +1204,7 @@ msgid "Virtual size"
 msgstr "Tamaño virtual"
 
 msgid "Visualisation"
-msgstr ""
+msgstr "Visualización"
 
 msgid "Visualization"
 msgstr "Visualización"
@@ -1225,7 +1225,7 @@ msgid "Write error"
 msgstr "Error de escritura"
 
 msgid "YARA"
-msgstr ""
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "compresor"
