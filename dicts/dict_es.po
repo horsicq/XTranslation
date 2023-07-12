@@ -66,9 +66,6 @@ msgstr "Base de asignación"
 msgid "Allocation flags"
 msgstr "Banderas de asignación"
 
-msgid "Analysis"
-msgstr "Análisis"
-
 msgid "Analyze"
 msgstr "Analizar"
 
@@ -219,9 +216,6 @@ msgstr "Comprobar actualizaciones"
 msgid "Clear"
 msgstr "Limpiar"
 
-msgid "Clear result"
-msgstr "Limpiar resultados"
-
 msgid "Close"
 msgstr "Cerrar"
 
@@ -309,9 +303,6 @@ msgstr "Dependencias"
 msgid "Detach"
 msgstr "Separar"
 
-msgid "Detect"
-msgstr "Detectar"
-
 msgid "Device"
 msgstr "Dispositivo"
 
@@ -356,9 +347,6 @@ msgstr "Editar"
 
 msgid "Editor"
 msgstr "Editor"
-
-msgid "Elapsed"
-msgstr "Transcurrido"
 
 msgid "End"
 msgstr "Fin"
@@ -461,6 +449,9 @@ msgstr "Directorio"
 
 msgid "Follow in"
 msgstr "Seguir en"
+
+msgid "Follow me"
+msgstr "Sígueme"
 
 msgid "Font"
 msgstr "Fuente"
@@ -756,6 +747,9 @@ msgstr "Empaquetar"
 msgid "Pause"
 msgstr "Pausa"
 
+msgid "Paused"
+msgstr "Pausado"
+
 msgid "Player"
 msgstr "Jugador"
 
@@ -873,6 +867,9 @@ msgstr "Resultado"
 msgid "Run"
 msgstr "Ejecutar"
 
+msgid "Running"
+msgstr "En ejecución"
+
 msgid "Runtime driver"
 msgstr "Controlador de tiempo de ejecución"
 
@@ -908,9 +905,6 @@ msgstr "Escanear"
 
 msgid "Scan after open"
 msgstr "Escanear después de abrir"
-
-msgid "Script"
-msgstr "Texto"
 
 msgid "Search"
 msgstr "Buscar"
@@ -981,17 +975,8 @@ msgstr "Mostrar en"
 msgid "Show logo"
 msgstr "Mostrar logo"
 
-msgid "Show options"
-msgstr "Mostrar opciones"
-
-msgid "Show type"
-msgstr "Mostrar tipo"
-
 msgid "Show valid"
 msgstr "Mostrar válidos"
-
-msgid "Show version"
-msgstr "Mostrar versión"
 
 msgid "Sign tool"
 msgstr "Herramienta de firmado"
@@ -1098,9 +1083,6 @@ msgstr "Tabla"
 msgid "Table of contents"
 msgstr "Tabla de contenidos"
 
-msgid "Template"
-msgstr "Plantilla"
-
 msgid "Text"
 msgstr "Texto"
 
@@ -1136,9 +1118,6 @@ msgstr "Hilos"
 
 msgid "TiB"
 msgstr "TiB"
-
-msgid "Time"
-msgstr "Hora"
 
 msgid "Time date stamp"
 msgstr "Marca de fecha y hora"
@@ -1224,6 +1203,9 @@ msgstr "Máquina virtual"
 msgid "Virtual size"
 msgstr "Tamaño virtual"
 
+msgid "Visualisation"
+msgstr "Visualización"
+
 msgid "Visualization"
 msgstr "Visualización"
 
@@ -1241,6 +1223,9 @@ msgstr "Comodín"
 
 msgid "Write error"
 msgstr "Error de escritura"
+
+msgid "YARA"
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "compresor"
@@ -1268,6 +1253,12 @@ msgstr "empaquetado"
 
 msgid "protection"
 msgstr "protección"
+
+
+
+
+
+
 
 
 

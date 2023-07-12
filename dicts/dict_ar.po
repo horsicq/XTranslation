@@ -67,9 +67,6 @@ msgstr "قاعدة التخصيص"
 msgid "Allocation flags"
 msgstr "توزيع الاعلام"
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "حلل"
 
@@ -220,9 +217,6 @@ msgstr "تفقد التحديث"
 msgid "Clear"
 msgstr "واضح"
 
-msgid "Clear result"
-msgstr "نتيجة واضحة"
-
 msgid "Close"
 msgstr "قريب"
 
@@ -310,9 +304,6 @@ msgstr "التبعيات"
 msgid "Detach"
 msgstr "فصل"
 
-msgid "Detect"
-msgstr "كشف"
-
 msgid "Device"
 msgstr "جهاز"
 
@@ -357,9 +348,6 @@ msgstr "تعديل"
 
 msgid "Editor"
 msgstr "محرر"
-
-msgid "Elapsed"
-msgstr "انقضى"
 
 msgid "End"
 msgstr "النهاية"
@@ -462,6 +450,9 @@ msgstr "مجلد"
 
 msgid "Follow in"
 msgstr "اتبع في"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "الخط"
@@ -757,6 +748,9 @@ msgstr "باكر"
 msgid "Pause"
 msgstr "يوقف"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "لاعب"
 
@@ -874,6 +868,9 @@ msgstr "نتيجة"
 msgid "Run"
 msgstr "تشغيل"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "وقت تشغيل التعريف"
 
@@ -909,9 +906,6 @@ msgstr "فحص"
 
 msgid "Scan after open"
 msgstr "فحص بعد الفتح"
-
-msgid "Script"
-msgstr "نص"
 
 msgid "Search"
 msgstr "بحث"
@@ -982,17 +976,8 @@ msgstr "أضهر في"
 msgid "Show logo"
 msgstr "إظهار الشعار"
 
-msgid "Show options"
-msgstr "عرض الخيارات"
-
-msgid "Show type"
-msgstr "نوع العرض"
-
 msgid "Show valid"
 msgstr "عرض صالح"
-
-msgid "Show version"
-msgstr "عرض الإصدار"
 
 msgid "Sign tool"
 msgstr "أداة التوقيع"
@@ -1099,9 +1084,6 @@ msgstr "طاولة"
 msgid "Table of contents"
 msgstr "جدول المحتويات"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "نص"
 
@@ -1137,9 +1119,6 @@ msgstr "الخيوط"
 
 msgid "TiB"
 msgstr "تيرا بت"
-
-msgid "Time"
-msgstr "زمن"
 
 msgid "Time date stamp"
 msgstr "طابع تاريخ الوقت"
@@ -1225,6 +1204,9 @@ msgstr "آلة افتراضية"
 msgid "Virtual size"
 msgstr "الحجم الافتراضي"
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1242,6 +1224,9 @@ msgstr "البدل"
 
 msgid "Write error"
 msgstr "خطأ الكتابة"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "ضاغط"
@@ -1269,6 +1254,10 @@ msgstr "معباه"
 
 msgid "protection"
 msgstr "الحماية"
+
+
+
+
 
 
 

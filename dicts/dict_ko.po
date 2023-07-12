@@ -73,9 +73,6 @@ msgstr "할당 베이스"
 msgid "Allocation flags"
 msgstr "할당 플래그"
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "분석"
 
@@ -226,9 +223,6 @@ msgstr "업데이트 확인"
 msgid "Clear"
 msgstr "지우기"
 
-msgid "Clear result"
-msgstr "결과 지우기"
-
 msgid "Close"
 msgstr "닫기"
 
@@ -316,9 +310,6 @@ msgstr "종속성"
 msgid "Detach"
 msgstr "분리"
 
-msgid "Detect"
-msgstr "검사"
-
 msgid "Device"
 msgstr "장치"
 
@@ -363,9 +354,6 @@ msgstr "편집"
 
 msgid "Editor"
 msgstr "편집기"
-
-msgid "Elapsed"
-msgstr "경과"
 
 msgid "End"
 msgstr ""
@@ -467,6 +455,9 @@ msgid "Folder"
 msgstr "폴더"
 
 msgid "Follow in"
+msgstr ""
+
+msgid "Follow me"
 msgstr ""
 
 msgid "Font"
@@ -763,6 +754,9 @@ msgstr "패커"
 msgid "Pause"
 msgstr "정지시키다"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "플레이어"
 
@@ -880,6 +874,9 @@ msgstr "결과"
 msgid "Run"
 msgstr "운영"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "런타임 드라이버"
 
@@ -915,9 +912,6 @@ msgstr "검색"
 
 msgid "Scan after open"
 msgstr "열기 후 검색"
-
-msgid "Script"
-msgstr "스크립트"
 
 msgid "Search"
 msgstr "검색"
@@ -988,17 +982,8 @@ msgstr ""
 msgid "Show logo"
 msgstr "로고 표시"
 
-msgid "Show options"
-msgstr "옵션 표시"
-
-msgid "Show type"
-msgstr "유형 표시"
-
 msgid "Show valid"
 msgstr "유효한 표시"
-
-msgid "Show version"
-msgstr "버전 표시"
 
 msgid "Sign tool"
 msgstr "서명 도구"
@@ -1105,9 +1090,6 @@ msgstr "테이블"
 msgid "Table of contents"
 msgstr "목차"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "텍스트"
 
@@ -1143,9 +1125,6 @@ msgstr "스레드"
 
 msgid "TiB"
 msgstr "TiB"
-
-msgid "Time"
-msgstr "시간"
 
 msgid "Time date stamp"
 msgstr "시간 날짜 스탬프"
@@ -1231,6 +1210,9 @@ msgstr "가상 기기"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1248,6 +1230,9 @@ msgstr "와일드카드"
 
 msgid "Write error"
 msgstr "쓰기 오류"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "압축기"
@@ -1275,6 +1260,10 @@ msgstr "패킹됨"
 
 msgid "protection"
 msgstr "보호"
+
+
+
+
 
 
 

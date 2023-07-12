@@ -66,9 +66,6 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "分析"
 
@@ -219,9 +216,6 @@ msgstr "檢查更新"
 msgid "Clear"
 msgstr "清除"
 
-msgid "Clear result"
-msgstr "保存結果"
-
 msgid "Close"
 msgstr "關閉"
 
@@ -309,9 +303,6 @@ msgstr "依賴關係"
 msgid "Detach"
 msgstr "分離"
 
-msgid "Detect"
-msgstr ""
-
 msgid "Device"
 msgstr ""
 
@@ -356,9 +347,6 @@ msgstr "編輯"
 
 msgid "Editor"
 msgstr ""
-
-msgid "Elapsed"
-msgstr "過去"
 
 msgid "End"
 msgstr ""
@@ -460,6 +448,9 @@ msgid "Folder"
 msgstr ""
 
 msgid "Follow in"
+msgstr ""
+
+msgid "Follow me"
 msgstr ""
 
 msgid "Font"
@@ -756,6 +747,9 @@ msgstr "封隔器"
 msgid "Pause"
 msgstr "暫停"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "播放器"
 
@@ -873,6 +867,9 @@ msgstr "結果"
 msgid "Run"
 msgstr "執行"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "運行時驅動程序"
 
@@ -908,9 +905,6 @@ msgstr "掃描"
 
 msgid "Scan after open"
 msgstr "打開後掃描"
-
-msgid "Script"
-msgstr "腳本"
 
 msgid "Search"
 msgstr "搜尋"
@@ -981,17 +975,8 @@ msgstr ""
 msgid "Show logo"
 msgstr "顯示徽標"
 
-msgid "Show options"
-msgstr "選項"
-
-msgid "Show type"
-msgstr "種類"
-
 msgid "Show valid"
 msgstr "顯示有效"
-
-msgid "Show version"
-msgstr "版本"
 
 msgid "Sign tool"
 msgstr "簽章工具"
@@ -1098,9 +1083,6 @@ msgstr "表格"
 msgid "Table of contents"
 msgstr "目錄"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "文字"
 
@@ -1136,9 +1118,6 @@ msgstr "線程"
 
 msgid "TiB"
 msgstr ""
-
-msgid "Time"
-msgstr "時間"
 
 msgid "Time date stamp"
 msgstr "時間日期戳"
@@ -1224,6 +1203,9 @@ msgstr "虛擬機"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1241,6 +1223,9 @@ msgstr "任意符號"
 
 msgid "Write error"
 msgstr "寫入錯誤"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "壓縮軟件"
@@ -1268,4 +1253,10 @@ msgstr "已打包"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+
+
+
 

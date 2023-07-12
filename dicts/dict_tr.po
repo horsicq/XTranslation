@@ -66,9 +66,6 @@ msgstr "Tahsis tabanı"
 msgid "Allocation flags"
 msgstr "Tahsis bayrakları"
 
-msgid "Analysis"
-msgstr "Analiz"
-
 msgid "Analyze"
 msgstr "Analiz Et"
 
@@ -219,9 +216,6 @@ msgstr "Güncellemeleri denetle"
 msgid "Clear"
 msgstr "Temizle"
 
-msgid "Clear result"
-msgstr "Sonucu temizle"
-
 msgid "Close"
 msgstr "Kapat"
 
@@ -309,9 +303,6 @@ msgstr "Bağımlılıklar"
 msgid "Detach"
 msgstr "Ayır"
 
-msgid "Detect"
-msgstr "Tespit et"
-
 msgid "Device"
 msgstr "Aygıt"
 
@@ -356,9 +347,6 @@ msgstr "Düzenle"
 
 msgid "Editor"
 msgstr "Düzenleyici"
-
-msgid "Elapsed"
-msgstr "Geçen"
 
 msgid "End"
 msgstr "Son"
@@ -461,6 +449,9 @@ msgstr "Dizin"
 
 msgid "Follow in"
 msgstr "Takip et"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "Yazı yüzü"
@@ -756,6 +747,9 @@ msgstr "Paketleyici"
 msgid "Pause"
 msgstr "Duraklat"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "Oynatıcı"
 
@@ -873,6 +867,9 @@ msgstr "Sonuç"
 msgid "Run"
 msgstr "Yürüt"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "Çalışma zamanı sürücüsü"
 
@@ -908,9 +905,6 @@ msgstr "Tara"
 
 msgid "Scan after open"
 msgstr "Açtıktan sonra tara"
-
-msgid "Script"
-msgstr "Betik"
 
 msgid "Search"
 msgstr "Ara"
@@ -981,17 +975,8 @@ msgstr "Göster"
 msgid "Show logo"
 msgstr "Logoyu göster"
 
-msgid "Show options"
-msgstr "Seçenekleri göster"
-
-msgid "Show type"
-msgstr "Türü göster"
-
 msgid "Show valid"
 msgstr "Geçerli olanları göster"
-
-msgid "Show version"
-msgstr "Sürümü göster"
 
 msgid "Sign tool"
 msgstr "İmza aracı"
@@ -1098,9 +1083,6 @@ msgstr "Tablo"
 msgid "Table of contents"
 msgstr "İçindekiler"
 
-msgid "Template"
-msgstr "Şablon"
-
 msgid "Text"
 msgstr "Metin"
 
@@ -1136,9 +1118,6 @@ msgstr "İşlemcikler"
 
 msgid "TiB"
 msgstr "TiB"
-
-msgid "Time"
-msgstr "Zaman"
 
 msgid "Time date stamp"
 msgstr "Zaman tarih damgası"
@@ -1224,6 +1203,9 @@ msgstr "Sanal makine"
 msgid "Virtual size"
 msgstr "Sanal boyut"
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr "Görselleştirme"
 
@@ -1241,6 +1223,9 @@ msgstr "Genel arama karakteri"
 
 msgid "Write error"
 msgstr "Yazma hatası"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "sıkıştırıcı"
@@ -1268,6 +1253,12 @@ msgstr "paketlenmiş"
 
 msgid "protection"
 msgstr "koruma"
+
+
+
+
+
+
 
 
 

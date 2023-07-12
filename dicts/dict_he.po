@@ -66,9 +66,6 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "אבחן"
 
@@ -219,9 +216,6 @@ msgstr "בדוק עדכונים"
 msgid "Clear"
 msgstr "נקה"
 
-msgid "Clear result"
-msgstr "תוצאה ברורה"
-
 msgid "Close"
 msgstr "סגור"
 
@@ -309,9 +303,6 @@ msgstr "תלות"
 msgid "Detach"
 msgstr "לנתק"
 
-msgid "Detect"
-msgstr ""
-
 msgid "Device"
 msgstr ""
 
@@ -356,9 +347,6 @@ msgstr "עריכה"
 
 msgid "Editor"
 msgstr ""
-
-msgid "Elapsed"
-msgstr "חלף"
 
 msgid "End"
 msgstr ""
@@ -460,6 +448,9 @@ msgid "Folder"
 msgstr ""
 
 msgid "Follow in"
+msgstr ""
+
+msgid "Follow me"
 msgstr ""
 
 msgid "Font"
@@ -756,6 +747,9 @@ msgstr "דוחס"
 msgid "Pause"
 msgstr "הַפסָקָה"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "שחקן"
 
@@ -873,6 +867,9 @@ msgstr "תוצאה"
 msgid "Run"
 msgstr "לָרוּץ"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "נהג זמן ריצה"
 
@@ -908,9 +905,6 @@ msgstr "סרוק"
 
 msgid "Scan after open"
 msgstr "סרוק לאחר הפתיחה"
-
-msgid "Script"
-msgstr "תַסרִיט"
 
 msgid "Search"
 msgstr "חפש"
@@ -981,17 +975,8 @@ msgstr ""
 msgid "Show logo"
 msgstr "הצג לוגו"
 
-msgid "Show options"
-msgstr "הצג אפשרויות"
-
-msgid "Show type"
-msgstr "סוג הצגה"
-
 msgid "Show valid"
 msgstr "ההצגה תקפה"
-
-msgid "Show version"
-msgstr "הצג גרסה"
 
 msgid "Sign tool"
 msgstr "כלי חתימה"
@@ -1098,9 +1083,6 @@ msgstr "טבלה"
 msgid "Table of contents"
 msgstr "תוכן העניינים"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "טֶקסט"
 
@@ -1136,9 +1118,6 @@ msgstr "שרשורים"
 
 msgid "TiB"
 msgstr ""
-
-msgid "Time"
-msgstr "זְמַן"
 
 msgid "Time date stamp"
 msgstr "חותמת תאריך זמן"
@@ -1224,6 +1203,9 @@ msgstr "מכונה וירטואלית"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1241,6 +1223,9 @@ msgstr "Wildcard"
 
 msgid "Write error"
 msgstr "שגיאת כתיבה"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "דוחס"
@@ -1268,3 +1253,10 @@ msgstr "דחוס"
 
 msgid "protection"
 msgstr "הגנה"
+
+
+
+
+
+
+

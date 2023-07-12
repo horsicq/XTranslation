@@ -66,9 +66,6 @@ msgstr "割り当てbase"
 msgid "Allocation flags"
 msgstr "割り当てフラグ"
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "分析"
 
@@ -219,9 +216,6 @@ msgstr "アップデートの確認"
 msgid "Clear"
 msgstr "消去"
 
-msgid "Clear result"
-msgstr "結果をクリア"
-
 msgid "Close"
 msgstr "閉じる"
 
@@ -309,9 +303,6 @@ msgstr "依存関係"
 msgid "Detach"
 msgstr "デタッチ"
 
-msgid "Detect"
-msgstr "検出対象"
-
 msgid "Device"
 msgstr "デバイス"
 
@@ -356,9 +347,6 @@ msgstr "編集"
 
 msgid "Editor"
 msgstr ""
-
-msgid "Elapsed"
-msgstr "経過"
 
 msgid "End"
 msgstr ""
@@ -460,6 +448,9 @@ msgid "Folder"
 msgstr "フォルダー"
 
 msgid "Follow in"
+msgstr ""
+
+msgid "Follow me"
 msgstr ""
 
 msgid "Font"
@@ -756,6 +747,9 @@ msgstr "パッカー"
 msgid "Pause"
 msgstr "一時停止"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "プレーヤー"
 
@@ -873,6 +867,9 @@ msgstr "結果"
 msgid "Run"
 msgstr "実行"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "ランタイムドライバー"
 
@@ -908,9 +905,6 @@ msgstr "スキャン"
 
 msgid "Scan after open"
 msgstr "開いたらすぐスキャン開始"
-
-msgid "Script"
-msgstr "スクリプト"
 
 msgid "Search"
 msgstr "検索"
@@ -981,17 +975,8 @@ msgstr ""
 msgid "Show logo"
 msgstr "ロゴを表示"
 
-msgid "Show options"
-msgstr "オプションを表示"
-
-msgid "Show type"
-msgstr "種類を表示"
-
 msgid "Show valid"
 msgstr "有効を表示"
-
-msgid "Show version"
-msgstr "バージョンを表示"
 
 msgid "Sign tool"
 msgstr "署名ツール"
@@ -1098,9 +1083,6 @@ msgstr "テーブル"
 msgid "Table of contents"
 msgstr "目次"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "文字"
 
@@ -1136,9 +1118,6 @@ msgstr "スレッド"
 
 msgid "TiB"
 msgstr ""
-
-msgid "Time"
-msgstr "時間"
 
 msgid "Time date stamp"
 msgstr "日付スタンプ"
@@ -1224,6 +1203,9 @@ msgstr "仮想マシン"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1241,6 +1223,9 @@ msgstr "ワイルドカード"
 
 msgid "Write error"
 msgstr "書き込みエラー"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "コンプレッサ"
@@ -1268,6 +1253,11 @@ msgstr "パック済み"
 
 msgid "protection"
 msgstr "保護"
+
+
+
+
+
 
 
 

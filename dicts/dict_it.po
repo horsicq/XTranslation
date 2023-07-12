@@ -66,9 +66,6 @@ msgstr ""
 msgid "Allocation flags"
 msgstr ""
 
-msgid "Analysis"
-msgstr ""
-
 msgid "Analyze"
 msgstr "Analizza"
 
@@ -219,9 +216,6 @@ msgstr "Controlla aggiornamenti"
 msgid "Clear"
 msgstr "Pulisci"
 
-msgid "Clear result"
-msgstr "Pulisci risultati"
-
 msgid "Close"
 msgstr "Chiudi"
 
@@ -309,9 +303,6 @@ msgstr "dipendenze"
 msgid "Detach"
 msgstr "Stacca"
 
-msgid "Detect"
-msgstr "Rileva"
-
 msgid "Device"
 msgstr "Dispositivo"
 
@@ -356,9 +347,6 @@ msgstr "Modifica"
 
 msgid "Editor"
 msgstr "Editor"
-
-msgid "Elapsed"
-msgstr "Trascorso"
 
 msgid "End"
 msgstr ""
@@ -461,6 +449,9 @@ msgstr "Cartella"
 
 msgid "Follow in"
 msgstr "Segui"
+
+msgid "Follow me"
+msgstr ""
 
 msgid "Font"
 msgstr "Font"
@@ -756,6 +747,9 @@ msgstr "Packer"
 msgid "Pause"
 msgstr "Pausa"
 
+msgid "Paused"
+msgstr ""
+
 msgid "Player"
 msgstr "Giocatore"
 
@@ -873,6 +867,9 @@ msgstr "Risultato"
 msgid "Run"
 msgstr "Esegui"
 
+msgid "Running"
+msgstr ""
+
 msgid "Runtime driver"
 msgstr "Driver di runtime"
 
@@ -908,9 +905,6 @@ msgstr "Scansione"
 
 msgid "Scan after open"
 msgstr "Scansiona dopo l'apertura"
-
-msgid "Script"
-msgstr "Script"
 
 msgid "Search"
 msgstr "Cerca"
@@ -981,17 +975,8 @@ msgstr ""
 msgid "Show logo"
 msgstr "Mostra logo"
 
-msgid "Show options"
-msgstr "Opzioni"
-
-msgid "Show type"
-msgstr "Mostra tipo"
-
 msgid "Show valid"
 msgstr "Mostra valide"
-
-msgid "Show version"
-msgstr "Versione"
 
 msgid "Sign tool"
 msgstr "Strumento firma"
@@ -1098,9 +1083,6 @@ msgstr "Tabella"
 msgid "Table of contents"
 msgstr "Sommario"
 
-msgid "Template"
-msgstr ""
-
 msgid "Text"
 msgstr "Testo"
 
@@ -1136,9 +1118,6 @@ msgstr "Discussioni"
 
 msgid "TiB"
 msgstr ""
-
-msgid "Time"
-msgstr "Volta"
 
 msgid "Time date stamp"
 msgstr "Timbro data e ora"
@@ -1224,6 +1203,9 @@ msgstr "Macchina virtuale"
 msgid "Virtual size"
 msgstr ""
 
+msgid "Visualisation"
+msgstr ""
+
 msgid "Visualization"
 msgstr ""
 
@@ -1241,6 +1223,9 @@ msgstr "Carattere jolly"
 
 msgid "Write error"
 msgstr "Errore di scrittura"
+
+msgid "YARA"
+msgstr ""
 
 msgid "compressor"
 msgstr "compressore"
@@ -1268,6 +1253,10 @@ msgstr "imballato"
 
 msgid "protection"
 msgstr "protezione"
+
+
+
+
 
 
 
