@@ -3,8 +3,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Language: en_FA\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Language: fa_IR\n"
+"X-Source-Language: C\n"
 
 msgid "128-bit"
 msgstr "128-بیت"
@@ -13,7 +14,7 @@ msgid "16-bit"
 msgstr "16-بیت"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-بیت"
 
 msgid "32-bit"
 msgstr "32-بیت"
@@ -31,16 +32,17 @@ msgid "About"
 msgstr "درباره"
 
 msgid "Action"
-msgstr ""
+msgstr "عمل"
 
 msgid "Add"
 msgstr "اضافه کردن"
 
+#, fuzzy
 msgid "Add alignment"
-msgstr ""
+msgstr "اضافه کردن تراز"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "اضافه کردن به منوی راست کلیک"
 
 msgid "Address"
 msgstr "ادرس حافظه"
@@ -64,7 +66,7 @@ msgid "Allocation base"
 msgstr ""
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "تخصیص پرچم"
 
 msgid "Analyze"
 msgstr "انالیز"
@@ -76,16 +78,16 @@ msgid "Appearance"
 msgstr ""
 
 msgid "Application"
-msgstr ""
+msgstr "اپلیکیشن"
 
 msgid "Architecture"
-msgstr ""
+msgstr "معماری"
 
 msgid "Archive"
-msgstr ""
+msgstr "ارشیو"
 
 msgid "Archive record"
-msgstr ""
+msgstr "ارشیو رکورد"
 
 msgid "Array"
 msgstr "ارایه"
@@ -97,10 +99,10 @@ msgid "Audio"
 msgstr "صدا"
 
 msgid "Automatic"
-msgstr ""
+msgstr "خودکار"
 
 msgid "Background"
-msgstr ""
+msgstr "پس زمینه"
 
 msgid "Base address"
 msgstr ""
@@ -109,16 +111,16 @@ msgid "Begin"
 msgstr ""
 
 msgid "Bind"
-msgstr ""
+msgstr "سرهم سازی"
 
 msgid "Binding"
-msgstr ""
+msgstr "در حال سر هم سازی"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "بوک مارک"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "بوک مارک ها"
 
 msgid "Boot application"
 msgstr ""
@@ -139,10 +141,10 @@ msgid "Bugreports"
 msgstr "گزارش باگ"
 
 msgid "Byte"
-msgstr ""
+msgstr "بایت"
 
 msgid "Bytes"
-msgstr ""
+msgstr "بایت ها"
 
 msgid "Bytes available"
 msgstr ""
@@ -154,7 +156,7 @@ msgid "CPU"
 msgstr "CPU"
 
 msgid "Calculate"
-msgstr ""
+msgstr "محاسبه"
 
 msgid "Callbacks"
 msgstr ""
@@ -175,16 +177,16 @@ msgid "Cannot get PDB name"
 msgstr ""
 
 msgid "Cannot load MSDIA library"
-msgstr ""
+msgstr "نمیتوان msdia را لود کرد"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "دیتا از pdb لود نمیشود"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "نمیتوان دیتابیس را لود کرد"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "درایور ها لود نمیشوند"
 
 msgid "Cannot load file"
 msgstr "نمیتوان فایل را لود کرد"
@@ -193,19 +195,19 @@ msgid "Cannot open file"
 msgstr "نمیتوان فایل را باز کرد"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "نمیتوان جلسه را باز کرد"
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "نمیتوان حافظه را در این ادرس خواند"
 
 msgid "Cannot save file"
 msgstr "نمیتوان فایل را ذخیره کرد"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "نمیتوان شورت کات اعمال کرد"
 
 msgid "Certificate"
-msgstr ""
+msgstr "مدرک"
 
 msgid "Check"
 msgstr "چک کردن"
@@ -229,7 +231,7 @@ msgid "Colors"
 msgstr "رنگ ها"
 
 msgid "Commands"
-msgstr ""
+msgstr "کامند ها"
 
 msgid "Comment"
 msgstr "کامنت"
@@ -250,7 +252,7 @@ msgid "Copy as"
 msgstr "کپی به عنوان"
 
 msgid "Count"
-msgstr ""
+msgstr "شمارش"
 
 msgid "Create view model"
 msgstr ""
@@ -265,7 +267,7 @@ msgid "Data"
 msgstr "دیتا"
 
 msgid "Data in code"
-msgstr ""
+msgstr "دیتا در کد"
 
 msgid "Data inspector"
 msgstr ""
@@ -301,7 +303,7 @@ msgid "Dependencies"
 msgstr ""
 
 msgid "Detach"
-msgstr ""
+msgstr "جداسازی"
 
 msgid "Device"
 msgstr "تجهیز"
@@ -331,7 +333,7 @@ msgid "Donate"
 msgstr "حمایت کردن"
 
 msgid "Driver"
-msgstr ""
+msgstr "درایور"
 
 msgid "Dump"
 msgstr ""
@@ -367,7 +369,7 @@ msgid "Error"
 msgstr "خطا"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "استثناها"
 
 msgid "Exit"
 msgstr "خروج"
@@ -457,7 +459,7 @@ msgid "Font"
 msgstr "فونت"
 
 msgid "Footer"
-msgstr ""
+msgstr "پا ضفحه"
 
 msgid "Form"
 msgstr "فرم"
@@ -466,7 +468,7 @@ msgid "Format"
 msgstr "فرمت"
 
 msgid "Full screen"
-msgstr ""
+msgstr "تمام صفحه"
 
 msgid "Functions"
 msgstr ""
@@ -481,7 +483,7 @@ msgid "Get"
 msgstr ""
 
 msgid "Get element"
-msgstr ""
+msgstr "برو به عنصر"
 
 msgid "GiB"
 msgstr ""
@@ -535,7 +537,7 @@ msgid "Import"
 msgstr "وارد كردن"
 
 msgid "Import hash"
-msgstr ""
+msgstr "وارد کردن هش"
 
 msgid "Indirect symbols"
 msgstr ""
@@ -550,10 +552,10 @@ msgid "Input"
 msgstr "ورودی"
 
 msgid "Installer"
-msgstr ""
+msgstr "نصب کننده"
 
 msgid "Installer data"
-msgstr ""
+msgstr "نصب کنندخ اطلاعات"
 
 msgid "Interpreter"
 msgstr ""
@@ -565,7 +567,7 @@ msgid "Invalid opcode"
 msgstr ""
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "خطای امضا کننده"
 
 msgid "Issuer"
 msgstr ""
@@ -574,13 +576,13 @@ msgid "It is not a valid file"
 msgstr "فایل معتبر نیست"
 
 msgid "Joiner"
-msgstr ""
+msgstr "اتصال دهنده"
 
 msgid "Jumps"
-msgstr ""
+msgstr "پرش ها"
 
 msgid "Keep size"
-msgstr ""
+msgstr "سایز را نگه دار"
 
 msgid "Kernel mode"
 msgstr "مد کرنل"
@@ -601,25 +603,25 @@ msgid "Lazy binding"
 msgstr ""
 
 msgid "Length"
-msgstr ""
+msgstr "طول"
 
 msgid "Libraries"
-msgstr ""
+msgstr "کتابخانه ها"
 
 msgid "Library"
-msgstr ""
+msgstr "کتابخانه"
 
 msgid "Library name"
-msgstr ""
+msgstr "نام کتابخانه"
 
 msgid "Linker"
-msgstr ""
+msgstr "لینک کننده"
 
 msgid "Links"
 msgstr "لینک ها"
 
 msgid "List"
-msgstr ""
+msgstr "لیست"
 
 msgid "Load config"
 msgstr "لود کانفیگ"
@@ -664,7 +666,7 @@ msgid "MiB"
 msgstr ""
 
 msgid "Mode"
-msgstr ""
+msgstr "حالت"
 
 msgid "Module"
 msgstr "ماژول"
@@ -679,13 +681,13 @@ msgid "Name"
 msgstr "نام"
 
 msgid "Network error"
-msgstr ""
+msgstr "خطای اینترنت"
 
 msgid "New"
-msgstr ""
+msgstr "جدید"
 
 msgid "New version available"
-msgstr ""
+msgstr "ورژن جدید موجود است"
 
 msgid "Next"
 msgstr "بعدی"
@@ -694,7 +696,7 @@ msgid "No"
 msgstr "نه"
 
 msgid "No update available"
-msgstr ""
+msgstr "ورژن جدیدی موجود نیست"
 
 msgid "Nothing found"
 msgstr "چیزی پیدا نشد"
@@ -703,7 +705,7 @@ msgid "OK"
 msgstr "باشه"
 
 msgid "Object"
-msgstr ""
+msgstr "شئ"
 
 msgid "Offset"
 msgstr ""
@@ -742,7 +744,7 @@ msgid "Overlay"
 msgstr ""
 
 msgid "Packer"
-msgstr ""
+msgstr "پک کننده"
 
 msgid "Pause"
 msgstr "توقف"
@@ -778,28 +780,28 @@ msgid "Program name"
 msgstr "نام برنامه"
 
 msgid "Programs"
-msgstr ""
+msgstr "برنامه ها"
 
 msgid "Protection"
-msgstr ""
+msgstr "محافظت"
 
 msgid "Protector"
-msgstr ""
+msgstr "حفاظت کننده"
 
 msgid "Protector data"
-msgstr ""
+msgstr "محافظت کننده اطلاعات"
 
 msgid "Prototype"
 msgstr ""
 
 msgid "Publisher"
-msgstr ""
+msgstr "انتشار دهنده"
 
 msgid "Raw data"
 msgstr "داده خام"
 
 msgid "Read error"
-msgstr ""
+msgstr "خطای خواندن"
 
 msgid "Readonly"
 msgstr "فقط خواندنی"
@@ -826,7 +828,7 @@ msgid "References"
 msgstr ""
 
 msgid "Region"
-msgstr ""
+msgstr "ریجن"
 
 msgid "Regions"
 msgstr ""
@@ -979,10 +981,10 @@ msgid "Show valid"
 msgstr "نمایش اعتبار"
 
 msgid "Sign tool"
-msgstr ""
+msgstr "ابزار امضا"
 
 msgid "Signature"
-msgstr ""
+msgstr "امضا کننده"
 
 msgid "Signatures"
 msgstr ""
@@ -994,13 +996,13 @@ msgid "Size"
 msgstr "سایز"
 
 msgid "Size of image"
-msgstr ""
+msgstr "حجم عکس"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "مرتب کردن عنصر ها"
 
 msgid "Sort type"
-msgstr ""
+msgstr "نوع مرتب سازی"
 
 msgid "Source code"
 msgstr "سورس کد"
@@ -1105,10 +1107,10 @@ msgid "The signature error"
 msgstr "خطای سیگنیچر"
 
 msgid "The signature is present, but not trusted"
-msgstr "سیگنیچر موجود است، اما قابل اعتماد نیست"
+msgstr "امضا کننده موجود است، اما قابل اعتماد نیست"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "سیگنیچر موجود است، اما به طور خاص مجاز نیست"
+msgstr "امضا کننده موجود است، اما به طور خاص مجاز نیست"
 
 msgid "The value copied to clipboard"
 msgstr "مقدار در کلیپبورد کپی شد"
@@ -1141,7 +1143,7 @@ msgid "Trace"
 msgstr "ردیابی"
 
 msgid "Tree"
-msgstr ""
+msgstr "نمایش درختی"
 
 msgid "Two operands"
 msgstr ""
@@ -1153,10 +1155,10 @@ msgid "Unknown"
 msgstr "ناشناخته"
 
 msgid "Unpack"
-msgstr ""
+msgstr "انپک"
 
 msgid "Update information"
-msgstr ""
+msgstr "به روزرسانی اطلاعات"
 
 msgid "Upload the file for analyze?"
 msgstr "فایل برای انالیز بارگذاری شود ؟"
@@ -1207,7 +1209,7 @@ msgid "Visualisation"
 msgstr ""
 
 msgid "Visualization"
-msgstr ""
+msgstr "مجازی سازی"
 
 msgid "Weak binding"
 msgstr "اتصال ضعیف"
@@ -1216,7 +1218,7 @@ msgid "Website"
 msgstr "وبسایت"
 
 msgid "Width"
-msgstr ""
+msgstr "طول"
 
 msgid "Wildcard"
 msgstr "عام"
@@ -1253,10 +1255,3 @@ msgstr "پک شده"
 
 msgid "protection"
 msgstr "حفاظت"
-
-
-
-
-
-
-
