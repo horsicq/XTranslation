@@ -7,22 +7,22 @@ msgstr ""
 "X-Language: it_IT\n"
 
 msgid "128-bit"
-msgstr "128 bit"
+msgstr "128-bit"
 
 msgid "16-bit"
-msgstr "16 bit"
+msgstr "16-bit"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-bit"
 
 msgid "32-bit"
-msgstr "32 bit"
+msgstr "32-bit"
 
 msgid "64-bit"
-msgstr "64 bit"
+msgstr "64-bit"
 
 msgid "8-bit"
-msgstr "8 bit"
+msgstr "8-bit"
 
 msgid "API key"
 msgstr "Chiave API"
@@ -34,7 +34,7 @@ msgid "Action"
 msgstr "Azione"
 
 msgid "Add"
-msgstr ""
+msgstr "Aggiungi"
 
 msgid "Add alignment"
 msgstr "Aggiungi allineamento"
@@ -46,7 +46,7 @@ msgid "Address"
 msgstr "Indirizzo"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Avanzate"
 
 msgid "Algorithm"
 msgstr "Algoritmo"
@@ -94,7 +94,7 @@ msgid "Attach"
 msgstr "Allegare"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Automatic"
 msgstr "Automatico"
@@ -109,16 +109,16 @@ msgid "Begin"
 msgstr "Inizia"
 
 msgid "Bind"
-msgstr "Legamento"
+msgstr "Lega"
 
 msgid "Binding"
 msgstr "Legame"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Segnalibro"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Segnalibri"
 
 msgid "Boot application"
 msgstr "Applicazione di avvio"
@@ -151,13 +151,13 @@ msgid "C Strings"
 msgstr "Stringhe C"
 
 msgid "CPU"
-msgstr "processore"
+msgstr "Processore"
 
 msgid "Calculate"
 msgstr "Calcola"
 
 msgid "Callbacks"
-msgstr "Richiamate"
+msgstr "Callbacks"
 
 msgid "Calls"
 msgstr "Chiamate"
@@ -208,7 +208,7 @@ msgid "Certificate"
 msgstr "Certificato"
 
 msgid "Check"
-msgstr "Dai un'occhiata"
+msgstr "Controlla"
 
 msgid "Check updates"
 msgstr "Controlla aggiornamenti"
@@ -295,10 +295,10 @@ msgid "Delay import"
 msgstr "Importazione ritardata"
 
 msgid "Demangle"
-msgstr "Distruggi"
+msgstr "Demangle"
 
 msgid "Dependencies"
-msgstr "dipendenze"
+msgstr "Dipendenze"
 
 msgid "Detach"
 msgstr "Stacca"
@@ -331,13 +331,13 @@ msgid "Donate"
 msgstr "Dona"
 
 msgid "Driver"
-msgstr "Autista"
+msgstr "Driver"
 
 msgid "Dump"
-msgstr "Scarica"
+msgstr "Dump"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Dump tutti"
 
 msgid "Dump to file"
 msgstr "Dump su file"
@@ -349,10 +349,10 @@ msgid "Editor"
 msgstr "Editor"
 
 msgid "End"
-msgstr ""
+msgstr "Fine"
 
 msgid "Endianness"
-msgstr "Endianità"
+msgstr "Ordine dei byte"
 
 msgid "Entropy"
 msgstr "Entropia"
@@ -385,28 +385,28 @@ msgid "External references"
 msgstr "Riferimenti esterni"
 
 msgid "Extract"
-msgstr ""
+msgstr "Estrai"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Estrai tutti i cursori"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Estrai tutte le icone"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Estrattore"
 
 msgid "File"
 msgstr "File"
 
 msgid "File info"
-msgstr "File info"
+msgstr "Info file"
 
 msgid "File name"
 msgstr "Nome file"
 
 msgid "File offset"
-msgstr "Spostamento file"
+msgstr "File offset"
 
 msgid "File saved"
 msgstr "File salvato"
@@ -415,7 +415,7 @@ msgid "File scan"
 msgstr "Scansione file"
 
 msgid "File size"
-msgstr ""
+msgstr "Dimensione file"
 
 msgid "File type"
 msgstr "Tipo di file"
@@ -439,10 +439,10 @@ msgid "Fix offsets"
 msgstr "Correggi gli offset"
 
 msgid "Fix types"
-msgstr "Tipi di correzione"
+msgstr "Correggi tipi"
 
 msgid "Flags"
-msgstr "Segnali"
+msgstr "Flags"
 
 msgid "Folder"
 msgstr "Cartella"
@@ -451,13 +451,13 @@ msgid "Follow in"
 msgstr "Segui"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Seguimi"
 
 msgid "Font"
 msgstr "Font"
 
 msgid "Footer"
-msgstr ""
+msgstr "Piè di pagina"
 
 msgid "Form"
 msgstr "Modulo"
@@ -466,7 +466,7 @@ msgid "Format"
 msgstr "Formato"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Schermo intero"
 
 msgid "Functions"
 msgstr "Funzioni"
@@ -478,13 +478,13 @@ msgid "Generic"
 msgstr "Generico"
 
 msgid "Get"
-msgstr ""
+msgstr "Ottieni"
 
 msgid "Get element"
 msgstr "Ottieni elemento"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid "Go to"
 msgstr "Vai a"
@@ -493,16 +493,16 @@ msgid "Go to address"
 msgstr "Vai all'indirizzo"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Andare alla pagina di download?"
 
 msgid "Grid"
 msgstr "Griglia"
 
 msgid "Handles"
-msgstr "maniglie"
+msgstr "Handles"
 
 msgid "Hash"
-msgstr "Impronta"
+msgstr "Hash"
 
 msgid "Header"
 msgstr "Intestazione"
@@ -550,10 +550,10 @@ msgid "Input"
 msgstr "Input"
 
 msgid "Installer"
-msgstr "Installatore"
+msgstr "Installazione"
 
 msgid "Installer data"
-msgstr "Data installatore"
+msgstr "Data installazione"
 
 msgid "Interpreter"
 msgstr "Interprete"
@@ -586,7 +586,7 @@ msgid "Kernel mode"
 msgstr "Kernel mode"
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Label"
 msgstr "Etichetta"
@@ -619,7 +619,7 @@ msgid "Links"
 msgstr "Collegamenti"
 
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 msgid "Load config"
 msgstr "Carica configurazione"
@@ -661,7 +661,7 @@ msgid "Method"
 msgstr "Metodo"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Mode"
 msgstr "Modalità"
@@ -679,13 +679,13 @@ msgid "Name"
 msgstr "Nome"
 
 msgid "Network error"
-msgstr ""
+msgstr "Errore di rete"
 
 msgid "New"
-msgstr ""
+msgstr "Nuovo"
 
 msgid "New version available"
-msgstr ""
+msgstr "Nuova versione disponibile"
 
 msgid "Next"
 msgstr "Successivo"
@@ -694,7 +694,7 @@ msgid "No"
 msgstr "No"
 
 msgid "No update available"
-msgstr ""
+msgstr "Nessun aggiornamento disponibile"
 
 msgid "Nothing found"
 msgstr "Nessun risultato"
@@ -718,10 +718,10 @@ msgid "Opcode"
 msgstr "Opcode"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Gruppo opcode"
 
 msgid "Opcodes"
-msgstr "Codici operativi"
+msgstr "Opcodes"
 
 msgid "Open"
 msgstr "Apri"
@@ -748,7 +748,7 @@ msgid "Pause"
 msgstr "Pausa"
 
 msgid "Paused"
-msgstr ""
+msgstr "In pausa"
 
 msgid "Player"
 msgstr "Giocatore"
@@ -763,7 +763,7 @@ msgid "Please use valid API key"
 msgstr "Utilizizza una chiave API valida"
 
 msgid "Pointer"
-msgstr "puntatore"
+msgstr "Puntatore"
 
 msgid "Print"
 msgstr "Stampa"
@@ -823,7 +823,7 @@ msgid "Ref to"
 msgstr "Rif. a"
 
 msgid "References"
-msgstr ""
+msgstr "Riferimenti"
 
 msgid "Region"
 msgstr "Regione"
@@ -847,7 +847,7 @@ msgid "Relocs"
 msgstr "Ricolloca"
 
 msgid "Remove"
-msgstr ""
+msgstr "Rimuovi"
 
 msgid "Rescan"
 msgstr "Scansiona di nuovo"
@@ -868,7 +868,7 @@ msgid "Run"
 msgstr "Esegui"
 
 msgid "Running"
-msgstr ""
+msgstr "In esecuzione"
 
 msgid "Runtime driver"
 msgstr "Driver di runtime"
@@ -913,13 +913,13 @@ msgid "Search from"
 msgstr "Cerca da"
 
 msgid "Search signatures"
-msgstr "Firme di ricerca"
+msgstr "Cerca firme"
 
 msgid "Search strings"
-msgstr "Stringhe di ricerca"
+msgstr "Cerca stringhe"
 
 msgid "Search values"
-msgstr ""
+msgstr "Cerca valori"
 
 msgid "Section"
 msgstr "Sezione"
@@ -967,10 +967,10 @@ msgid "Show comments"
 msgstr "Mostra commenti"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Mostra rilevamenti"
 
 msgid "Show in"
-msgstr ""
+msgstr "Mostra in"
 
 msgid "Show logo"
 msgstr "Mostra logo"
@@ -1045,7 +1045,7 @@ msgid "Struct"
 msgstr "Struttura"
 
 msgid "Struct and unions"
-msgstr "Struttura e sindacati"
+msgstr "Strutture e unioni"
 
 msgid "Structs"
 msgstr "Strutture"
@@ -1111,13 +1111,13 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "La firma è presente, ma specificamente non consentita"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "Il valore copiato sugli appunti"
 
 msgid "Threads"
-msgstr "Discussioni"
+msgstr "Threads"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Time date stamp"
 msgstr "Timbro data e ora"
@@ -1153,10 +1153,10 @@ msgid "Unknown"
 msgstr "Sconosciuto"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Disimballa"
 
 msgid "Update information"
-msgstr ""
+msgstr "Aggiorna informazione"
 
 msgid "Upload the file for analyze?"
 msgstr "Caricare il file per l'analisi?"
@@ -1174,7 +1174,7 @@ msgid "Value"
 msgstr "Valori"
 
 msgid "Values"
-msgstr ""
+msgstr "Valori"
 
 msgid "Variable"
 msgstr "Variabile"
@@ -1186,7 +1186,7 @@ msgid "Version"
 msgstr "Versione"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "View"
 msgstr "Visualizzazione"
@@ -1201,13 +1201,13 @@ msgid "Virtual machine"
 msgstr "Macchina virtuale"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Dimensione virtuale"
 
 msgid "Visualisation"
-msgstr ""
+msgstr "Visualizzazione"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Visualizzazione"
 
 msgid "Weak binding"
 msgstr "Legame debole"
@@ -1216,7 +1216,7 @@ msgid "Website"
 msgstr "Sito web"
 
 msgid "Width"
-msgstr ""
+msgstr "Larghezza"
 
 msgid "Wildcard"
 msgstr "Carattere jolly"
@@ -1225,7 +1225,7 @@ msgid "Write error"
 msgstr "Errore di scrittura"
 
 msgid "YARA"
-msgstr ""
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "compressore"
@@ -1253,11 +1253,3 @@ msgstr "imballato"
 
 msgid "protection"
 msgstr "protezione"
-
-
-
-
-
-
-
-
