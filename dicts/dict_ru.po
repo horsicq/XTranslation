@@ -995,7 +995,7 @@ msgid "Size"
 msgstr "Размер"
 
 msgid "Size of image"
-msgstr "Размер изображения"
+msgstr "Размер образа"
 
 msgid "Sort elements"
 msgstr "Сортировать элементы"
