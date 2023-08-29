@@ -13,7 +13,7 @@ msgid "16-bit"
 msgstr "16 bits"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256 bits"
 
 msgid "32-bit"
 msgstr "32 bits"
@@ -115,10 +115,10 @@ msgid "Binding"
 msgstr "Obligatoire"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Ajouter aux favoris"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Favoris"
 
 msgid "Boot application"
 msgstr "Application de démarrage"
@@ -466,7 +466,7 @@ msgid "Format"
 msgstr "Format"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Plein ecran"
 
 msgid "Functions"
 msgstr "Les fonctions"
@@ -493,7 +493,7 @@ msgid "Go to address"
 msgstr "Aller à l'adresse"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Aller a la page de téléchargement?"
 
 msgid "Grid"
 msgstr "Grille"
@@ -619,7 +619,7 @@ msgid "Links"
 msgstr "Liens"
 
 msgid "List"
-msgstr ""
+msgstr "Liste"
 
 msgid "Load config"
 msgstr "Charger la configuration"
@@ -679,13 +679,13 @@ msgid "Name"
 msgstr "Nom"
 
 msgid "Network error"
-msgstr ""
+msgstr "Erreur de réseau"
 
 msgid "New"
-msgstr ""
+msgstr "Nouvelle"
 
 msgid "New version available"
-msgstr ""
+msgstr "Nouvelle version disponible"
 
 msgid "Next"
 msgstr "Suivant"
@@ -694,7 +694,7 @@ msgid "No"
 msgstr "Non"
 
 msgid "No update available"
-msgstr ""
+msgstr "Aucune mise à jour disponible"
 
 msgid "Nothing found"
 msgstr "Rien de trouvé"
@@ -748,7 +748,7 @@ msgid "Pause"
 msgstr "Pause"
 
 msgid "Paused"
-msgstr ""
+msgstr "En Pause"
 
 msgid "Player"
 msgstr "Joueur"
@@ -823,7 +823,7 @@ msgid "Ref to"
 msgstr "Référence vers"
 
 msgid "References"
-msgstr ""
+msgstr "Références"
 
 msgid "Region"
 msgstr "Région"
@@ -868,7 +868,7 @@ msgid "Run"
 msgstr "Lancer"
 
 msgid "Running"
-msgstr ""
+msgstr "En marche"
 
 msgid "Runtime driver"
 msgstr "Pilote d'exécution"
@@ -1156,7 +1156,7 @@ msgid "Unpack"
 msgstr ""
 
 msgid "Update information"
-msgstr ""
+msgstr "Mettre à jour les informations"
 
 msgid "Upload the file for analyze?"
 msgstr "Envoyer le fichier pour analyse?"
@@ -1204,10 +1204,10 @@ msgid "Virtual size"
 msgstr "Taille virtuelle"
 
 msgid "Visualisation"
-msgstr ""
+msgstr "Visualisation"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Visualisation"
 
 msgid "Weak binding"
 msgstr "Liaison faible"
@@ -1216,7 +1216,7 @@ msgid "Website"
 msgstr "Site Internet"
 
 msgid "Width"
-msgstr ""
+msgstr "Largeur"
 
 msgid "Wildcard"
 msgstr "Joker"
@@ -1225,7 +1225,7 @@ msgid "Write error"
 msgstr "Erreur d'écriture"
 
 msgid "YARA"
-msgstr ""
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "compresseur"
