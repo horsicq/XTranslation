@@ -448,10 +448,10 @@ msgid "Folder"
 msgstr "Dossier"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Suivre en"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Suivez moi"
 
 msgid "Font"
 msgstr "Police de caractère"
@@ -1153,7 +1153,7 @@ msgid "Unknown"
 msgstr "Inconnu"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Décompresser"
 
 msgid "Update information"
 msgstr "Mettre à jour les informations"
