@@ -434,7 +434,7 @@ msgid "Find"
 msgstr "Пошук"
 
 msgid "Find next"
-msgstr "Знайти далі"
+msgstr "Пошук далі"
 
 msgid "Fix offsets"
 msgstr "Виправити зміщення"
@@ -452,7 +452,7 @@ msgid "Follow in"
 msgstr "Слідувати"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Слідуй за мною"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -749,7 +749,7 @@ msgid "Pause"
 msgstr "Пауза"
 
 msgid "Paused"
-msgstr ""
+msgstr "На паузі"
 
 msgid "Player"
 msgstr "Гравець"
@@ -869,7 +869,7 @@ msgid "Run"
 msgstr "Запустити"
 
 msgid "Running"
-msgstr ""
+msgstr "Запущено"
 
 msgid "Runtime driver"
 msgstr "Драйвер часу виконання"
@@ -1226,7 +1226,7 @@ msgid "Write error"
 msgstr "Помилка запису"
 
 msgid "YARA"
-msgstr ""
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "Пакувальник"
