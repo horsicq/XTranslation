@@ -13,7 +13,7 @@ msgid "16-bit"
 msgstr "16 位"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256 位"
 
 msgid "32-bit"
 msgstr "32 位"
@@ -466,7 +466,7 @@ msgid "Format"
 msgstr "格式"
 
 msgid "Full screen"
-msgstr ""
+msgstr "全屏"
 
 msgid "Functions"
 msgstr "函数"
@@ -493,7 +493,7 @@ msgid "Go to address"
 msgstr "转到地址"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "进入下载页面"
 
 msgid "Grid"
 msgstr "网格"
@@ -679,13 +679,13 @@ msgid "Name"
 msgstr "名称"
 
 msgid "Network error"
-msgstr ""
+msgstr "网络错误"
 
 msgid "New"
 msgstr ""
 
 msgid "New version available"
-msgstr ""
+msgstr "发现新版本"
 
 msgid "Next"
 msgstr "下一个"
@@ -694,7 +694,7 @@ msgid "No"
 msgstr "否"
 
 msgid "No update available"
-msgstr ""
+msgstr "未发现更新"
 
 msgid "Nothing found"
 msgstr "未找到"
@@ -748,7 +748,7 @@ msgid "Pause"
 msgstr "暂停"
 
 msgid "Paused"
-msgstr ""
+msgstr "已暂停"
 
 msgid "Player"
 msgstr "播放器"
@@ -868,7 +868,7 @@ msgid "Run"
 msgstr "运行"
 
 msgid "Running"
-msgstr ""
+msgstr "运行中"
 
 msgid "Runtime driver"
 msgstr "运行时驱动程序"
@@ -1216,7 +1216,7 @@ msgid "Website"
 msgstr "网站"
 
 msgid "Width"
-msgstr ""
+msgstr "宽度"
 
 msgid "Wildcard"
 msgstr "通配符"
@@ -1225,7 +1225,7 @@ msgid "Write error"
 msgstr "写入错误"
 
 msgid "YARA"
-msgstr ""
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "压缩工具"
@@ -1253,11 +1253,3 @@ msgstr "已加壳"
 
 msgid "protection"
 msgstr "防护"
-
-
-
-
-
-
-
-
