@@ -14,6 +14,7 @@ Translation for:
 | Language | % |
 | --- | --- |
 | Arabic               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ar.po"> <img src="https://gitlocalize.com/repo/4736/ar/badge.svg" /> </a> |
+| Bangla               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_bn.po"> <img src="https://gitlocalize.com/repo/4736/bn/badge.svg" /> </a> |
 | Chinese              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh.po"> <img src="https://gitlocalize.com/repo/4736/zh/badge.svg" /> </a> |
 | Chinese, Taiwan      | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_zh-TW.po"> <img src="https://gitlocalize.com/repo/4736/zh-TW/badge.svg" /> </a> |
 | French               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_fr.po"> <img src="https://gitlocalize.com/repo/4736/fr/badge.svg" /> </a> |
