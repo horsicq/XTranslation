@@ -62,10 +62,10 @@ msgid "All types"
 msgstr "Все типы"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "Базовый адрес выделения"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "Флаги выделения"
 
 msgid "Analyze"
 msgstr "Анализировать"
@@ -452,7 +452,7 @@ msgid "Follow in"
 msgstr "Следовать в"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Следовать за мной"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -467,7 +467,7 @@ msgid "Format"
 msgstr "Формат"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Полный экран"
 
 msgid "Functions"
 msgstr "Функции"
@@ -683,7 +683,7 @@ msgid "Network error"
 msgstr "Ошибка сети"
 
 msgid "New"
-msgstr ""
+msgstr "Новый"
 
 msgid "New version available"
 msgstr "Доступна новая версия"
@@ -749,7 +749,7 @@ msgid "Pause"
 msgstr "Пауза"
 
 msgid "Paused"
-msgstr ""
+msgstr "На паузе"
 
 msgid "Player"
 msgstr "Игрок"
@@ -824,7 +824,7 @@ msgid "Ref to"
 msgstr "Ссылка в"
 
 msgid "References"
-msgstr ""
+msgstr "Упоминания"
 
 msgid "Region"
 msgstr "Область"
@@ -869,7 +869,7 @@ msgid "Run"
 msgstr "Запустить"
 
 msgid "Running"
-msgstr ""
+msgstr "Запущено"
 
 msgid "Runtime driver"
 msgstr "Драйвер времени выполнения"
@@ -1139,7 +1139,7 @@ msgid "Total"
 msgstr "Всего"
 
 msgid "Trace"
-msgstr ""
+msgstr "Трассировать"
 
 msgid "Tree"
 msgstr "Дерево"
@@ -1205,7 +1205,7 @@ msgid "Virtual size"
 msgstr "Виртуальный размер"
 
 msgid "Visualisation"
-msgstr ""
+msgstr "Визуализация"
 
 msgid "Visualization"
 msgstr "Визуализация"
@@ -1226,7 +1226,7 @@ msgid "Write error"
 msgstr "Ошибка записи"
 
 msgid "YARA"
-msgstr ""
+msgstr "YARA"
 
 msgid "compressor"
 msgstr "упаковщик"
