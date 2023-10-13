@@ -1205,7 +1205,7 @@ msgid "Virtual size"
 msgstr "Віртуальний розмір"
 
 msgid "Visualisation"
-msgstr "Візуалізація"
+msgstr ""
 
 msgid "Visualization"
 msgstr "Візуалізація"
