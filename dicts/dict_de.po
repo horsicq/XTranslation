@@ -679,13 +679,13 @@ msgid "Name"
 msgstr "Name"
 
 msgid "Network error"
-msgstr ""
+msgstr "Netzwerk Fehler"
 
 msgid "New"
-msgstr ""
+msgstr "Neu"
 
 msgid "New version available"
-msgstr ""
+msgstr "Neue Version verfügbar"
 
 msgid "Next"
 msgstr "Weiter"
@@ -694,7 +694,7 @@ msgid "No"
 msgstr "Nein"
 
 msgid "No update available"
-msgstr ""
+msgstr "Kein Update verfügbar"
 
 msgid "Nothing found"
 msgstr "Nichts gefunden"
