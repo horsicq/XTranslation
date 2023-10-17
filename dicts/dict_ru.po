@@ -1256,6 +1256,16 @@ msgid "protection"
 msgstr "защита"
 
 
+msgid "safety"
+msgstr "Безопасность"
+
+
+msgid "baby"
+msgstr "Младенец"
+
+
+msgid "thank you"
+msgstr "Спасибо"
 
 
 
