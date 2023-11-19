@@ -308,7 +308,7 @@ msgid "Device"
 msgstr "Устройство"
 
 msgid "Device scan"
-msgstr "Сканирование устройства"
+msgstr "Скан устройства"
 
 msgid "Diagram"
 msgstr "Диаграмма"
@@ -317,10 +317,10 @@ msgid "Directory"
 msgstr "Папка"
 
 msgid "Directory scan"
-msgstr "Сканирование папки"
+msgstr "Скан папки"
 
 msgid "Disasm"
-msgstr "Дизассемблировать"
+msgstr "Дизасм"
 
 msgid "Document"
 msgstr "Документ"
@@ -344,7 +344,7 @@ msgid "Dump to file"
 msgstr "Дамп в файл"
 
 msgid "Edit"
-msgstr "Редактировать"
+msgstr "Изменить"
 
 msgid "Editor"
 msgstr "Редактор"
@@ -401,7 +401,7 @@ msgid "File"
 msgstr "Файл"
 
 msgid "File info"
-msgstr "Информация о файле"
+msgstr "О файле"
 
 msgid "File name"
 msgstr "Имя файла"
@@ -413,7 +413,7 @@ msgid "File saved"
 msgstr "Файл сохранён"
 
 msgid "File scan"
-msgstr "Сканирование файла"
+msgstr "Скан файла"
 
 msgid "File size"
 msgstr "Размер файла"
@@ -449,10 +449,10 @@ msgid "Folder"
 msgstr "Директория"
 
 msgid "Follow in"
-msgstr "Следовать в"
+msgstr "Представить в"
 
 msgid "Follow me"
-msgstr "Следовать за мной"
+msgstr "Подпишись на меня!"
 
 msgid "Font"
 msgstr "Шрифт"
@@ -515,7 +515,7 @@ msgid "Heuristic"
 msgstr "Эвристика"
 
 msgid "Heuristic scan"
-msgstr "Эвристическое сканирование"
+msgstr "Эвристический скан"
 
 msgid "Hex"
 msgstr "Hex"
@@ -524,7 +524,7 @@ msgid "Hex signature"
 msgstr "16-ричная сигнатура"
 
 msgid "Highlight"
-msgstr "Подсветка синтаксиса"
+msgstr "Цветовое представление"
 
 msgid "Image"
 msgstr "Рисунок"
@@ -623,7 +623,7 @@ msgid "List"
 msgstr "Список"
 
 msgid "Load config"
-msgstr "Загрузочная конфигурация"
+msgstr "Загрузочный конфиг"
 
 msgid "Local relocation"
 msgstr "Локальное перемещение"
@@ -653,7 +653,7 @@ msgid "Memory map"
 msgstr "Карта памяти"
 
 msgid "Memory scan"
-msgstr "Сканирование памяти"
+msgstr "Скан памяти"
 
 msgid "Metadata"
 msgstr "Метаданные"
@@ -674,7 +674,7 @@ msgid "Modules"
 msgstr "Модули"
 
 msgid "More info"
-msgstr "Больше информации"
+msgstr "Больше инфы"
 
 msgid "Name"
 msgstr "Имя"
@@ -815,7 +815,7 @@ msgid "Recursive"
 msgstr "Рекурсивно"
 
 msgid "Recursive scan"
-msgstr "Рекурсивное сканирование"
+msgstr "Рекурсивный скан"
 
 msgid "Ref from"
 msgstr "Ссылка из"
@@ -896,7 +896,7 @@ msgid "Save history"
 msgstr "Сохранить историю"
 
 msgid "Save last directory"
-msgstr "Помнить папку последнего сканирования"
+msgstr "Помнить папку последнего скана"
 
 msgid "Save result"
 msgstr "Сохранить"
@@ -989,7 +989,7 @@ msgid "Signatures"
 msgstr "Сигнатуры"
 
 msgid "Single application"
-msgstr "Запускать только одну копию приложения"
+msgstr "Запускать одну копию приложения"
 
 msgid "Size"
 msgstr "Размер"
@@ -1106,10 +1106,10 @@ msgid "The signature error"
 msgstr "Ошибка подписи"
 
 msgid "The signature is present, but not trusted"
-msgstr "Подпись присутствует, но не доверяет"
+msgstr "Подпись присутствует, но не прошла проверку."
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "Подпись присутствует, но специально не разрешена"
+msgstr "Подпись присутствует, но специально не разрешена."
 
 msgid "The value copied to clipboard"
 msgstr "Значение скопировано в буфер обмена"
@@ -1121,7 +1121,7 @@ msgid "TiB"
 msgstr "ТиБ"
 
 msgid "Time date stamp"
-msgstr "Отметка даты и времени"
+msgstr "Отметка времени"
 
 msgid "To data"
 msgstr "К данным"
@@ -1254,13 +1254,3 @@ msgstr "сжатый"
 
 msgid "protection"
 msgstr "защита"
-
-
-
-
-
-
-
-
-
-
