@@ -115,10 +115,10 @@ msgid "Binding"
 msgstr "Bindung"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Lesezeichen"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Lesezeichen"
 
 msgid "Boot application"
 msgstr "Boot-Anwendung"
@@ -466,7 +466,7 @@ msgid "Format"
 msgstr "Format"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Vollbild"
 
 msgid "Functions"
 msgstr "Funktionen"
@@ -748,7 +748,7 @@ msgid "Pause"
 msgstr "Pause"
 
 msgid "Paused"
-msgstr ""
+msgstr "Pausiert"
 
 msgid "Player"
 msgstr "Spieler"
@@ -823,7 +823,7 @@ msgid "Ref to"
 msgstr "Referenz bis"
 
 msgid "References"
-msgstr ""
+msgstr "Referenzen"
 
 msgid "Region"
 msgstr "Region"
@@ -868,7 +868,7 @@ msgid "Run"
 msgstr "Ausführen"
 
 msgid "Running"
-msgstr ""
+msgstr "wird ausgeführt"
 
 msgid "Runtime driver"
 msgstr "Laufzeittreiber"
@@ -1012,7 +1012,7 @@ msgid "Stack"
 msgstr "Stapel"
 
 msgid "Start"
-msgstr ""
+msgstr "Starten"
 
 msgid "State"
 msgstr "Zustand"
@@ -1174,7 +1174,7 @@ msgid "Value"
 msgstr "Wert"
 
 msgid "Values"
-msgstr ""
+msgstr "Werte"
 
 msgid "Variable"
 msgstr "Variable"
@@ -1216,7 +1216,7 @@ msgid "Website"
 msgstr "Webseite"
 
 msgid "Width"
-msgstr ""
+msgstr "Breite"
 
 msgid "Wildcard"
 msgstr "Platzhalter"
