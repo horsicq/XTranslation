@@ -90,6 +90,9 @@ msgstr ""
 msgid "Array"
 msgstr ""
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr ""
 
@@ -97,9 +100,6 @@ msgid "Audio"
 msgstr ""
 
 msgid "Automatic"
-msgstr ""
-
-msgid "Background"
 msgstr ""
 
 msgid "Base address"
@@ -112,6 +112,9 @@ msgid "Bind"
 msgstr ""
 
 msgid "Binding"
+msgstr ""
+
+msgid "Bits"
 msgstr ""
 
 msgid "Bookmark"
@@ -168,6 +171,9 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr ""
 
@@ -198,6 +204,9 @@ msgstr ""
 msgid "Cannot read memory at address"
 msgstr ""
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr ""
 
@@ -217,6 +226,9 @@ msgid "Clear"
 msgstr ""
 
 msgid "Close"
+msgstr ""
+
+msgid "Code"
 msgstr ""
 
 msgid "Code pages"
@@ -255,13 +267,22 @@ msgstr ""
 msgid "Create view model"
 msgstr ""
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr ""
 
 msgid "Cursor"
 msgstr ""
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
+msgstr ""
+
+msgid "Data convertor"
 msgstr ""
 
 msgid "Data in code"
@@ -280,6 +301,9 @@ msgid "Debug"
 msgstr ""
 
 msgid "Debug data"
+msgstr ""
+
+msgid "Debug registers"
 msgstr ""
 
 msgid "Debugger"
@@ -444,6 +468,9 @@ msgstr ""
 msgid "Flags"
 msgstr ""
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr ""
 
@@ -468,10 +495,19 @@ msgstr ""
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr ""
 
 msgid "GB"
+msgstr ""
+
+msgid "General registers"
 msgstr ""
 
 msgid "Generic"
@@ -499,6 +535,9 @@ msgid "Grid"
 msgstr ""
 
 msgid "Handles"
+msgstr ""
+
+msgid "Hardware"
 msgstr ""
 
 msgid "Hash"
@@ -553,6 +592,9 @@ msgid "Installer"
 msgstr ""
 
 msgid "Installer data"
+msgstr ""
+
+msgid "Instruction pointer register"
 msgstr ""
 
 msgid "Interpreter"
@@ -636,6 +678,9 @@ msgstr ""
 msgid "MainWindow"
 msgstr ""
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr ""
 
@@ -675,6 +720,9 @@ msgstr ""
 msgid "More info"
 msgstr ""
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr ""
 
@@ -697,6 +745,12 @@ msgid "No update available"
 msgstr ""
 
 msgid "Nothing found"
+msgstr ""
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
 msgstr ""
 
 msgid "OK"
@@ -834,6 +888,9 @@ msgstr ""
 msgid "Register"
 msgstr ""
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr ""
 
@@ -850,6 +907,9 @@ msgid "Remove"
 msgstr ""
 
 msgid "Rescan"
+msgstr ""
+
+msgid "Resize"
 msgstr ""
 
 msgid "Resource"
@@ -933,6 +993,9 @@ msgstr ""
 msgid "Segment"
 msgstr ""
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr ""
 
@@ -940,6 +1003,9 @@ msgid "Select"
 msgstr ""
 
 msgid "Select all"
+msgstr ""
+
+msgid "Selected"
 msgstr ""
 
 msgid "Selection"
@@ -1009,6 +1075,9 @@ msgid "Spaces"
 msgstr ""
 
 msgid "Stack"
+msgstr ""
+
+msgid "Stack registers"
 msgstr ""
 
 msgid "Start"
@@ -1140,7 +1209,16 @@ msgstr ""
 msgid "Trace"
 msgstr ""
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
+msgstr ""
+
+msgid "Trojan"
 msgstr ""
 
 msgid "Two operands"
@@ -1203,7 +1281,7 @@ msgstr ""
 msgid "Virtual size"
 msgstr ""
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1224,9 +1302,6 @@ msgstr ""
 msgid "Write error"
 msgstr ""
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr ""
 
@@ -1234,6 +1309,9 @@ msgid "data"
 msgstr ""
 
 msgid "extender"
+msgstr ""
+
+msgid "false"
 msgstr ""
 
 msgid "kB"
@@ -1252,4 +1330,7 @@ msgid "packed"
 msgstr ""
 
 msgid "protection"
+msgstr ""
+
+msgid "true"
 msgstr ""

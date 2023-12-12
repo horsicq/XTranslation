@@ -97,6 +97,9 @@ msgstr "아카이브 레코드"
 msgid "Array"
 msgstr "Array"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "붙이다"
 
@@ -105,9 +108,6 @@ msgstr ""
 
 msgid "Automatic"
 msgstr "자동적 인"
-
-msgid "Background"
-msgstr "백그라운드"
 
 msgid "Base address"
 msgstr "기준 주소"
@@ -120,6 +120,9 @@ msgstr "묶다"
 
 msgid "Binding"
 msgstr "제본"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr ""
@@ -175,6 +178,9 @@ msgstr "콜 스택"
 msgid "Cancel"
 msgstr "취소"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "PDB 연령을 가져올 수 없습니다."
 
@@ -205,6 +211,9 @@ msgstr "세션을 열 수 없습니다"
 msgid "Cannot read memory at address"
 msgstr "주소에서 메모리를 읽을 수 없습니다."
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "파일을 저장할 수 없습니다"
 
@@ -225,6 +234,9 @@ msgstr "지우기"
 
 msgid "Close"
 msgstr "닫기"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "코드 페이지"
@@ -262,14 +274,23 @@ msgstr "카운트"
 msgid "Create view model"
 msgstr "보기 모델 만들기"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "크립터"
 
 msgid "Cursor"
 msgstr "커서"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "데이터"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "코드의 데이터"
@@ -288,6 +309,9 @@ msgstr "디버그"
 
 msgid "Debug data"
 msgstr "디버그 데이터"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "디버거"
@@ -451,6 +475,9 @@ msgstr "타입 수정"
 msgid "Flags"
 msgstr "플래그"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "폴더"
 
@@ -475,11 +502,20 @@ msgstr "형식"
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "함수"
 
 msgid "GB"
 msgstr "GB"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "일반"
@@ -507,6 +543,9 @@ msgstr "그리드"
 
 msgid "Handles"
 msgstr "핸들"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "해시"
@@ -561,6 +600,9 @@ msgstr "인스톨러"
 
 msgid "Installer data"
 msgstr "인스톨러 데이터"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "인터프리터"
@@ -643,6 +685,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "메인 윈도우"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifest"
 
@@ -682,6 +727,9 @@ msgstr "모듈"
 msgid "More info"
 msgstr "더 많은 정보"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "이름"
 
@@ -705,6 +753,12 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "아무것도 찾을 수 없음"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "확인"
@@ -841,6 +895,9 @@ msgstr "영역"
 msgid "Register"
 msgstr "레지스터"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "상대 주소"
 
@@ -858,6 +915,9 @@ msgstr ""
 
 msgid "Rescan"
 msgstr "다시 스캔"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "자원"
@@ -940,6 +1000,9 @@ msgstr "섹션"
 msgid "Segment"
 msgstr "세그먼트"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "세그먼트"
 
@@ -948,6 +1011,9 @@ msgstr "선택"
 
 msgid "Select all"
 msgstr "모두 선택"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "선택"
@@ -1017,6 +1083,9 @@ msgstr "공백"
 
 msgid "Stack"
 msgstr "스택"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr ""
@@ -1147,8 +1216,17 @@ msgstr "전체"
 msgid "Trace"
 msgstr "트레이스"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "나무"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "Two operands"
@@ -1210,7 +1288,7 @@ msgstr "가상 기기"
 msgid "Virtual size"
 msgstr ""
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1231,9 +1309,6 @@ msgstr "와일드카드"
 msgid "Write error"
 msgstr "쓰기 오류"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "압축기"
 
@@ -1242,6 +1317,9 @@ msgstr "데이터"
 
 msgid "extender"
 msgstr "확장기"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "KB"
@@ -1261,10 +1339,6 @@ msgstr "패킹됨"
 msgid "protection"
 msgstr "보호"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 

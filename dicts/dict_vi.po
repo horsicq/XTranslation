@@ -90,6 +90,9 @@ msgstr "Bản ghi lưu trữ"
 msgid "Array"
 msgstr "Mảng"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "Gắn"
 
@@ -98,9 +101,6 @@ msgstr ""
 
 msgid "Automatic"
 msgstr "Tự động"
-
-msgid "Background"
-msgstr ""
 
 msgid "Base address"
 msgstr "Địa chỉ gốc"
@@ -113,6 +113,9 @@ msgstr "Trói buộc"
 
 msgid "Binding"
 msgstr "Ràng buộc"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr ""
@@ -168,6 +171,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "Hủy"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "Không thể nhận PDB tuổi"
 
@@ -198,6 +204,9 @@ msgstr "Không thể mở phiên"
 msgid "Cannot read memory at address"
 msgstr "Không thể đọc bộ nhớ tại địa chỉ"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "Không thể lưu tập tin"
 
@@ -218,6 +227,9 @@ msgstr "Xóa"
 
 msgid "Close"
 msgstr "Đóng"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr ""
@@ -255,14 +267,23 @@ msgstr "Đếm"
 msgid "Create view model"
 msgstr "Tạo mẫu  xem"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "Cryptor"
 
 msgid "Cursor"
 msgstr "Con trỏ"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "Dữ liệu"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Dữ liệu trong mã"
@@ -281,6 +302,9 @@ msgstr "Gỡ lỗi"
 
 msgid "Debug data"
 msgstr "Gỡ lỗi dữ liệu"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "Trình gỡ lỗi"
@@ -444,6 +468,9 @@ msgstr "Sửa chữa các loại"
 msgid "Flags"
 msgstr "Cờ"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr ""
 
@@ -468,11 +495,20 @@ msgstr "Sự sắp xếp"
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "Chức năng"
 
 msgid "GB"
 msgstr "GB"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "Chung"
@@ -500,6 +536,9 @@ msgstr ""
 
 msgid "Handles"
 msgstr "Xử lý"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "Băm"
@@ -554,6 +593,9 @@ msgstr "Trình cài đặt"
 
 msgid "Installer data"
 msgstr "Dữ liệu trình cài đặt"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "Thông dịch viên"
@@ -636,6 +678,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "Cửa sổ chính"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Xuất hiện"
 
@@ -675,6 +720,9 @@ msgstr "Mô-đun"
 msgid "More info"
 msgstr "Thêm thông tin"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "Tên"
 
@@ -698,6 +746,12 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "Không kết quả"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -834,6 +888,9 @@ msgstr "Vùng"
 msgid "Register"
 msgstr ""
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Địa chỉ tương đối"
 
@@ -850,6 +907,9 @@ msgid "Remove"
 msgstr ""
 
 msgid "Rescan"
+msgstr ""
+
+msgid "Resize"
 msgstr ""
 
 msgid "Resource"
@@ -933,6 +993,9 @@ msgstr "Mục"
 msgid "Segment"
 msgstr "Đoạn"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "Đoạn"
 
@@ -941,6 +1004,9 @@ msgstr "Chọn"
 
 msgid "Select all"
 msgstr "Chọn tất cả"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "Lựa chọn"
@@ -1010,6 +1076,9 @@ msgstr "Khoảng trống"
 
 msgid "Stack"
 msgstr "Cây rơm"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr ""
@@ -1140,8 +1209,17 @@ msgstr "Tổng"
 msgid "Trace"
 msgstr ""
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "Cây"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr ""
@@ -1203,7 +1281,7 @@ msgstr "Máy ảo"
 msgid "Virtual size"
 msgstr ""
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1224,9 +1302,6 @@ msgstr "Ký tự đại diện"
 msgid "Write error"
 msgstr "Ghi lỗi"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "bộ nén"
 
@@ -1235,6 +1310,9 @@ msgstr "dữ liệu"
 
 msgid "extender"
 msgstr "bộ mở rộng"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "kB"
@@ -1254,9 +1332,5 @@ msgstr "nén"
 msgid "protection"
 msgstr "bảo vệ"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""

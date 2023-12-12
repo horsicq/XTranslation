@@ -90,6 +90,9 @@ msgstr "Registro de archivo"
 msgid "Array"
 msgstr "Array"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "Adjuntar"
 
@@ -98,9 +101,6 @@ msgstr "Audio"
 
 msgid "Automatic"
 msgstr "Automático"
-
-msgid "Background"
-msgstr "Fondo"
 
 msgid "Base address"
 msgstr "Dirección base"
@@ -113,6 +113,9 @@ msgstr "Enlazar"
 
 msgid "Binding"
 msgstr "Enlace"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr "Marcador"
@@ -168,6 +171,9 @@ msgstr "Pila de llamadas"
 msgid "Cancel"
 msgstr "Cancelar"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "No se puede obtener la antigüedad del PDB"
 
@@ -198,6 +204,9 @@ msgstr "No se puede abrir la sesión"
 msgid "Cannot read memory at address"
 msgstr "No se puede leer la memoria en la dirección"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "No se puede guardar el archivo"
 
@@ -218,6 +227,9 @@ msgstr "Limpiar"
 
 msgid "Close"
 msgstr "Cerrar"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "Páginas de códigos"
@@ -255,14 +267,23 @@ msgstr "Contar"
 msgid "Create view model"
 msgstr "Crear modelo de vista"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "Encriptador"
 
 msgid "Cursor"
 msgstr "Cursor"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "Datos"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Datos en el código"
@@ -281,6 +302,9 @@ msgstr "Depurar"
 
 msgid "Debug data"
 msgstr "Datos de depuración"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "Depurador"
@@ -444,6 +468,9 @@ msgstr "Corregir tipos"
 msgid "Flags"
 msgstr "Banderas"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "Directorio"
 
@@ -468,11 +495,20 @@ msgstr "Formato"
 msgid "Full screen"
 msgstr "Pantalla completa"
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "Funciones"
 
 msgid "GB"
 msgstr "GB"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "Genérico"
@@ -500,6 +536,9 @@ msgstr "Rejilla"
 
 msgid "Handles"
 msgstr "Manipuladores"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "Hash"
@@ -554,6 +593,9 @@ msgstr "Instalador"
 
 msgid "Installer data"
 msgstr "Datos del instalador"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "Intérprete"
@@ -636,6 +678,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "Ventana principal"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifiesto"
 
@@ -675,6 +720,9 @@ msgstr "Módulos"
 msgid "More info"
 msgstr "Más info"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "Nombre"
 
@@ -698,6 +746,12 @@ msgstr "No hay actualizaciones disponibles"
 
 msgid "Nothing found"
 msgstr "No se ha encontrado nada"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -834,6 +888,9 @@ msgstr "Regiones"
 msgid "Register"
 msgstr "Registro"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Dirección relativa"
 
@@ -851,6 +908,9 @@ msgstr "Eliminar"
 
 msgid "Rescan"
 msgstr "Reescanear"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "Recurso"
@@ -933,6 +993,9 @@ msgstr "Secciones"
 msgid "Segment"
 msgstr "Segmento"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "Segmentos"
 
@@ -941,6 +1004,9 @@ msgstr "Seleccionar"
 
 msgid "Select all"
 msgstr "Seleccionar todo"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "Selección"
@@ -1010,6 +1076,9 @@ msgstr "Espacios"
 
 msgid "Stack"
 msgstr "Pila"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr "Inicio"
@@ -1140,8 +1209,17 @@ msgstr "Total"
 msgid "Trace"
 msgstr "Tracear"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "Árbol"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "Dos operandos"
@@ -1203,8 +1281,8 @@ msgstr "Máquina virtual"
 msgid "Virtual size"
 msgstr "Tamaño virtual"
 
-msgid "Visualisation"
-msgstr "Visualización"
+msgid "Virus"
+msgstr ""
 
 msgid "Visualization"
 msgstr "Visualización"
@@ -1224,9 +1302,6 @@ msgstr "Comodín"
 msgid "Write error"
 msgstr "Error de escritura"
 
-msgid "YARA"
-msgstr "YARA"
-
 msgid "compressor"
 msgstr "compresor"
 
@@ -1235,6 +1310,9 @@ msgstr "datos"
 
 msgid "extender"
 msgstr "extensor"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "kB"
@@ -1254,12 +1332,8 @@ msgstr "empaquetado"
 msgid "protection"
 msgstr "protección"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 
 
 

@@ -90,6 +90,9 @@ msgstr "アーカイブ レコード"
 msgid "Array"
 msgstr "配列"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "添付"
 
@@ -98,9 +101,6 @@ msgstr ""
 
 msgid "Automatic"
 msgstr "自動"
-
-msgid "Background"
-msgstr "背景"
 
 msgid "Base address"
 msgstr "基準アドレス"
@@ -113,6 +113,9 @@ msgstr "バインド"
 
 msgid "Binding"
 msgstr "バインディング"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr ""
@@ -168,6 +171,9 @@ msgstr "コールスタック"
 msgid "Cancel"
 msgstr "キャンセル"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "PDBの年齢を取得できません"
 
@@ -198,6 +204,9 @@ msgstr "セッションを開くことができません"
 msgid "Cannot read memory at address"
 msgstr "アドレスのメモリを読み取れません"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "ファイルを保存できません"
 
@@ -218,6 +227,9 @@ msgstr "消去"
 
 msgid "Close"
 msgstr "閉じる"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "コードページ"
@@ -255,14 +267,23 @@ msgstr "個数"
 msgid "Create view model"
 msgstr "ビューモデル作成"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "暗号化"
 
 msgid "Cursor"
 msgstr "カーソル"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "データ"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "コードのデータ"
@@ -281,6 +302,9 @@ msgstr "デバッグ"
 
 msgid "Debug data"
 msgstr "デバッグ データ"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "デバッガ"
@@ -444,6 +468,9 @@ msgstr "型を修正"
 msgid "Flags"
 msgstr "フラグ"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "フォルダー"
 
@@ -468,11 +495,20 @@ msgstr "書式"
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "関数"
 
 msgid "GB"
 msgstr "GB"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "汎用"
@@ -500,6 +536,9 @@ msgstr "グリッド"
 
 msgid "Handles"
 msgstr "ハンドル"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "ハッシュ"
@@ -554,6 +593,9 @@ msgstr "インストーラ"
 
 msgid "Installer data"
 msgstr "インストーラ データ"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "通訳者"
@@ -636,6 +678,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "MainWindow"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Manifest"
 
@@ -675,6 +720,9 @@ msgstr "モジュール"
 msgid "More info"
 msgstr "詳細情報"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "名前"
 
@@ -698,6 +746,12 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "見つかりません"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "OK"
@@ -834,6 +888,9 @@ msgstr "領域"
 msgid "Register"
 msgstr "レジスター"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "相対アドレス"
 
@@ -851,6 +908,9 @@ msgstr ""
 
 msgid "Rescan"
 msgstr "再スキャン"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "リソース"
@@ -933,6 +993,9 @@ msgstr "セクション"
 msgid "Segment"
 msgstr "セグメント"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "セグメント"
 
@@ -941,6 +1004,9 @@ msgstr "選択"
 
 msgid "Select all"
 msgstr "すべて選択"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "選択"
@@ -1010,6 +1076,9 @@ msgstr "スペース"
 
 msgid "Stack"
 msgstr "スタック"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr ""
@@ -1140,8 +1209,17 @@ msgstr "合計"
 msgid "Trace"
 msgstr "追跡"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "ツリー"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "2オペランド"
@@ -1203,7 +1281,7 @@ msgstr "仮想マシン"
 msgid "Virtual size"
 msgstr ""
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1224,9 +1302,6 @@ msgstr "ワイルドカード"
 msgid "Write error"
 msgstr "書き込みエラー"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "コンプレッサ"
 
@@ -1235,6 +1310,9 @@ msgstr "データ"
 
 msgid "extender"
 msgstr "エクステンダ"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "kB"
@@ -1254,10 +1332,6 @@ msgstr "パック済み"
 msgid "protection"
 msgstr "保護"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 

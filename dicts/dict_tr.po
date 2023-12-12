@@ -90,6 +90,9 @@ msgstr "Arşiv kayıtları"
 msgid "Array"
 msgstr "Dizi"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "Ekle"
 
@@ -98,9 +101,6 @@ msgstr "Ses"
 
 msgid "Automatic"
 msgstr "Otomatik"
-
-msgid "Background"
-msgstr "Arkaplan"
 
 msgid "Base address"
 msgstr "Taban adres"
@@ -113,6 +113,9 @@ msgstr "Bağla"
 
 msgid "Binding"
 msgstr "Bağlama"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr "Yer imi"
@@ -168,6 +171,9 @@ msgstr "Çağrı yığını"
 msgid "Cancel"
 msgstr "İptal"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "PDB yaşı alınamıyor"
 
@@ -198,6 +204,9 @@ msgstr "Oturum açılamıyor"
 msgid "Cannot read memory at address"
 msgstr "Adresteki bellek okunamıyor"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "Dosya kayıt edilemiyor"
 
@@ -218,6 +227,9 @@ msgstr "Temizle"
 
 msgid "Close"
 msgstr "Kapat"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "Kod sayfaları"
@@ -255,14 +267,23 @@ msgstr "Say"
 msgid "Create view model"
 msgstr "Görünüm modeli oluştur"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "Cryptor"
 
 msgid "Cursor"
 msgstr "İmleç"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "Veri"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Koddaki veriler"
@@ -281,6 +302,9 @@ msgstr "Hata ayıklama"
 
 msgid "Debug data"
 msgstr "Debug verisi"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "Hata ayıklayıcı"
@@ -444,6 +468,9 @@ msgstr "Türleri düzelt"
 msgid "Flags"
 msgstr "Bayraklar"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "Dizin"
 
@@ -468,11 +495,20 @@ msgstr "Biçem"
 msgid "Full screen"
 msgstr "Tam ekran"
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "Fonksiyonlar"
 
 msgid "GB"
 msgstr "GB"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "Kapsamlı"
@@ -500,6 +536,9 @@ msgstr "Izgara"
 
 msgid "Handles"
 msgstr "Tutamaçlar"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "Özet"
@@ -554,6 +593,9 @@ msgstr "Yükleyici"
 
 msgid "Installer data"
 msgstr "Yükleyici verileri"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "Yorumlayıcı"
@@ -636,6 +678,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "AnaPencere"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Bildiri"
 
@@ -675,6 +720,9 @@ msgstr "Modüller"
 msgid "More info"
 msgstr "Daha fazla bilgi"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "Ad"
 
@@ -698,6 +746,12 @@ msgstr "Güncelleme yok"
 
 msgid "Nothing found"
 msgstr "Hiçbirşey Bulunamadı"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "Tamam"
@@ -834,6 +888,9 @@ msgstr "Bölge"
 msgid "Register"
 msgstr "Yazmaç"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Göreceli adres"
 
@@ -851,6 +908,9 @@ msgstr "Kaldır"
 
 msgid "Rescan"
 msgstr "Yeniden tara"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "Kaynak"
@@ -933,6 +993,9 @@ msgstr "Bölümler"
 msgid "Segment"
 msgstr "Segment"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "Segmentler"
 
@@ -941,6 +1004,9 @@ msgstr "Seç"
 
 msgid "Select all"
 msgstr "Hepsini seç"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "Seçim"
@@ -1010,6 +1076,9 @@ msgstr "Alanlar"
 
 msgid "Stack"
 msgstr "Yığın"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr "Başlat"
@@ -1140,8 +1209,17 @@ msgstr "Toplam"
 msgid "Trace"
 msgstr "İz"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "Ağaç"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "İki işlenen"
@@ -1203,7 +1281,7 @@ msgstr "Sanal makine"
 msgid "Virtual size"
 msgstr "Sanal boyut"
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1224,9 +1302,6 @@ msgstr "Genel arama karakteri"
 msgid "Write error"
 msgstr "Yazma hatası"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "sıkıştırıcı"
 
@@ -1235,6 +1310,9 @@ msgstr "veri"
 
 msgid "extender"
 msgstr "genişletici"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "kB"
@@ -1254,12 +1332,6 @@ msgstr "paketlenmiş"
 msgid "protection"
 msgstr "koruma"
 
-
-
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 

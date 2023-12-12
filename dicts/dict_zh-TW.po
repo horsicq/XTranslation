@@ -90,6 +90,9 @@ msgstr "存檔記錄"
 msgid "Array"
 msgstr "大批"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "附"
 
@@ -98,9 +101,6 @@ msgstr ""
 
 msgid "Automatic"
 msgstr "自動"
-
-msgid "Background"
-msgstr ""
 
 msgid "Base address"
 msgstr "基底位址"
@@ -113,6 +113,9 @@ msgstr "綁定"
 
 msgid "Binding"
 msgstr "捆綁"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr ""
@@ -168,6 +171,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "取消"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "無法獲取 PDB 年齡"
 
@@ -198,6 +204,9 @@ msgstr "無法打開會話"
 msgid "Cannot read memory at address"
 msgstr "無法讀取地址處的內存"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "無法保存檔案"
 
@@ -218,6 +227,9 @@ msgstr "清除"
 
 msgid "Close"
 msgstr "關閉"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr ""
@@ -255,14 +267,23 @@ msgstr "數量"
 msgid "Create view model"
 msgstr "建立視圖模型"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "加密器"
 
 msgid "Cursor"
 msgstr "目前位址"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "數據"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "代碼中的數據"
@@ -281,6 +302,9 @@ msgstr "除錯"
 
 msgid "Debug data"
 msgstr "調試數據"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "除錯器"
@@ -444,6 +468,9 @@ msgstr "修復類型"
 msgid "Flags"
 msgstr "標記"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr ""
 
@@ -468,11 +495,20 @@ msgstr "格式"
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "職能"
 
 msgid "GB"
 msgstr "國標"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "通用"
@@ -500,6 +536,9 @@ msgstr ""
 
 msgid "Handles"
 msgstr "把手"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "雜湊值"
@@ -554,6 +593,9 @@ msgstr "安裝程序"
 
 msgid "Installer data"
 msgstr "安裝人員數據"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "口譯員"
@@ -636,6 +678,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "主窗口"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "資訊"
 
@@ -675,6 +720,9 @@ msgstr "模塊"
 msgid "More info"
 msgstr "更多信息"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "名稱"
 
@@ -698,6 +746,12 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "沒有找到"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "確定"
@@ -834,6 +888,9 @@ msgstr "區域"
 msgid "Register"
 msgstr ""
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "相對位址"
 
@@ -850,6 +907,9 @@ msgid "Remove"
 msgstr ""
 
 msgid "Rescan"
+msgstr ""
+
+msgid "Resize"
 msgstr ""
 
 msgid "Resource"
@@ -933,6 +993,9 @@ msgstr "部分"
 msgid "Segment"
 msgstr "部分"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "細分市場"
 
@@ -941,6 +1004,9 @@ msgstr "選擇"
 
 msgid "Select all"
 msgstr "全選"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "選擇"
@@ -1010,6 +1076,9 @@ msgstr "空格"
 
 msgid "Stack"
 msgstr "堆"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr ""
@@ -1140,8 +1209,17 @@ msgstr "總計"
 msgid "Trace"
 msgstr ""
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "樹狀圖"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr ""
@@ -1203,7 +1281,7 @@ msgstr "虛擬機"
 msgid "Virtual size"
 msgstr ""
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1224,9 +1302,6 @@ msgstr "任意符號"
 msgid "Write error"
 msgstr "寫入錯誤"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "壓縮軟件"
 
@@ -1235,6 +1310,9 @@ msgstr "資料"
 
 msgid "extender"
 msgstr "擴展器"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "千字節"
@@ -1254,9 +1332,5 @@ msgstr "已打包"
 msgid "protection"
 msgstr "保護"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""

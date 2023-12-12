@@ -3,8 +3,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: uk_UA\n"
 
 msgid "128-bit"
@@ -91,6 +91,9 @@ msgstr "Архів запису"
 msgid "Array"
 msgstr "Масив"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "Приєднати"
 
@@ -99,9 +102,6 @@ msgstr "Аудіо"
 
 msgid "Automatic"
 msgstr "Автоматично"
-
-msgid "Background"
-msgstr "Фон"
 
 msgid "Base address"
 msgstr "Базова адреса"
@@ -114,6 +114,9 @@ msgstr "Зв'язувати"
 
 msgid "Binding"
 msgstr "Прив'язка"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr "Закладка"
@@ -169,6 +172,9 @@ msgstr "Стек викликів"
 msgid "Cancel"
 msgstr "Скасувати"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "Не вдалося отримати вік PDB"
 
@@ -199,6 +205,9 @@ msgstr "Не вдалося відкрити сесію"
 msgid "Cannot read memory at address"
 msgstr "Не вдалося прочитать пам'ять по адресі"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "Не вдалося зберегти файл"
 
@@ -219,6 +228,9 @@ msgstr "Очистити"
 
 msgid "Close"
 msgstr "Закрити"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "Кодові сторінки"
@@ -256,14 +268,23 @@ msgstr "Кількість"
 msgid "Create view model"
 msgstr "Створити модель виду"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "Криптор"
 
 msgid "Cursor"
 msgstr "Курсор"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "Дані"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "Дані в коді"
@@ -282,6 +303,9 @@ msgstr "Відлагодження"
 
 msgid "Debug data"
 msgstr "Відлагоджувальні дані"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "Відлагоджувач"
@@ -445,6 +469,9 @@ msgstr "Типи виправлень"
 msgid "Flags"
 msgstr "Прапорці"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "Каталог"
 
@@ -469,11 +496,20 @@ msgstr "Формат"
 msgid "Full screen"
 msgstr "Повноекранний"
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "Функції"
 
 msgid "GB"
 msgstr "ГБ"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "Узагальнене"
@@ -501,6 +537,9 @@ msgstr "Сітка"
 
 msgid "Handles"
 msgstr "Дескриптори"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "Хеш"
@@ -555,6 +594,9 @@ msgstr "Інсталятор"
 
 msgid "Installer data"
 msgstr "Дані інсталятора"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "Інтерпретатор"
@@ -637,6 +679,9 @@ msgstr "МБ"
 msgid "MainWindow"
 msgstr "Головне вікно"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "Маніфест"
 
@@ -676,6 +721,9 @@ msgstr "Модулі"
 msgid "More info"
 msgstr "Більше інфо"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "Ім'я"
 
@@ -699,6 +747,12 @@ msgstr "Немає оновлень"
 
 msgid "Nothing found"
 msgstr "Нічого не знайдено"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "Гаразд"
@@ -835,6 +889,9 @@ msgstr "Регіони"
 msgid "Register"
 msgstr "Реєстрація"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Відносна адреса"
 
@@ -852,6 +909,9 @@ msgstr "Видалити"
 
 msgid "Rescan"
 msgstr "Пересканувати"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -934,6 +994,9 @@ msgstr "Секції"
 msgid "Segment"
 msgstr "Сегмент"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "Сегменти"
 
@@ -942,6 +1005,9 @@ msgstr "Вибрати"
 
 msgid "Select all"
 msgstr "Вибрати все"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "Виділення"
@@ -1011,6 +1077,9 @@ msgstr "Пробіли"
 
 msgid "Stack"
 msgstr "Стек"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr "Початок"
@@ -1141,8 +1210,17 @@ msgstr "Всього"
 msgid "Trace"
 msgstr "Трасувати"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "Дерево"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "Два операнди"
@@ -1204,8 +1282,8 @@ msgstr "Віртуальна машина"
 msgid "Virtual size"
 msgstr "Віртуальний розмір"
 
-msgid "Visualisation"
-msgstr "Візуалізація"
+msgid "Virus"
+msgstr ""
 
 msgid "Visualization"
 msgstr "Візуалізація"
@@ -1225,9 +1303,6 @@ msgstr "Маска"
 msgid "Write error"
 msgstr "Помилка запису"
 
-msgid "YARA"
-msgstr "YARA"
-
 msgid "compressor"
 msgstr "Пакувальник"
 
@@ -1236,6 +1311,9 @@ msgstr "дані"
 
 msgid "extender"
 msgstr "розширення"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "кБ"
@@ -1255,12 +1333,8 @@ msgstr "запакований"
 msgid "protection"
 msgstr "захист"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 
 
 

@@ -37,7 +37,6 @@ msgstr "عمل"
 msgid "Add"
 msgstr "اضافه کردن"
 
-#, fuzzy
 msgid "Add alignment"
 msgstr "اضافه کردن تراز"
 
@@ -92,6 +91,9 @@ msgstr "ارشیو رکورد"
 msgid "Array"
 msgstr "ارایه"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "ضمیمه کردن"
 
@@ -100,9 +102,6 @@ msgstr "صدا"
 
 msgid "Automatic"
 msgstr "خودکار"
-
-msgid "Background"
-msgstr "پس زمینه"
 
 msgid "Base address"
 msgstr ""
@@ -115,6 +114,9 @@ msgstr "سرهم سازی"
 
 msgid "Binding"
 msgstr "در حال سر هم سازی"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr "بوک مارک"
@@ -170,6 +172,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "لغو"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr ""
 
@@ -200,6 +205,9 @@ msgstr "نمیتوان جلسه را باز کرد"
 msgid "Cannot read memory at address"
 msgstr "نمیتوان حافظه را در این ادرس خواند"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "نمیتوان فایل را ذخیره کرد"
 
@@ -220,6 +228,9 @@ msgstr "پاک کردن"
 
 msgid "Close"
 msgstr "بستن"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr ""
@@ -257,14 +268,23 @@ msgstr "شمارش"
 msgid "Create view model"
 msgstr ""
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr ""
 
 msgid "Cursor"
 msgstr ""
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "دیتا"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "دیتا در کد"
@@ -283,6 +303,9 @@ msgstr "دیباگ"
 
 msgid "Debug data"
 msgstr "دیباگ داده"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "دیباگر"
@@ -446,6 +469,9 @@ msgstr ""
 msgid "Flags"
 msgstr "پرچم ها"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "پوشه"
 
@@ -470,11 +496,20 @@ msgstr "فرمت"
 msgid "Full screen"
 msgstr "تمام صفحه"
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr ""
 
 msgid "GB"
 msgstr "گیگابایت"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr ""
@@ -501,6 +536,9 @@ msgid "Grid"
 msgstr ""
 
 msgid "Handles"
+msgstr ""
+
+msgid "Hardware"
 msgstr ""
 
 msgid "Hash"
@@ -556,6 +594,9 @@ msgstr "نصب کننده"
 
 msgid "Installer data"
 msgstr "نصب کنندخ اطلاعات"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr ""
@@ -638,6 +679,9 @@ msgstr "مگابایت"
 msgid "MainWindow"
 msgstr "پنجره اصلی"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr ""
 
@@ -677,6 +721,9 @@ msgstr "ماژول ها"
 msgid "More info"
 msgstr "اطلاعات بیشتر"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "نام"
 
@@ -700,6 +747,12 @@ msgstr "ورژن جدیدی موجود نیست"
 
 msgid "Nothing found"
 msgstr "چیزی پیدا نشد"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "باشه"
@@ -836,6 +889,9 @@ msgstr ""
 msgid "Register"
 msgstr "رجیستر"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "آدرس نسبی"
 
@@ -853,6 +909,9 @@ msgstr "حذف"
 
 msgid "Rescan"
 msgstr "اسکن مجدد"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "منبع"
@@ -935,6 +994,9 @@ msgstr "بخش ها"
 msgid "Segment"
 msgstr "سگمنت"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "سگمنت ها"
 
@@ -943,6 +1005,9 @@ msgstr "انتخاب"
 
 msgid "Select all"
 msgstr "انتخاب همه"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "انتخاب"
@@ -1012,6 +1077,9 @@ msgstr "فضاها"
 
 msgid "Stack"
 msgstr "پشته"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr "شروع"
@@ -1142,8 +1210,17 @@ msgstr "کل"
 msgid "Trace"
 msgstr "ردیابی"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "نمایش درختی"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr ""
@@ -1205,7 +1282,7 @@ msgstr "ماشین مجازی"
 msgid "Virtual size"
 msgstr "سایز مجازی"
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1226,9 +1303,6 @@ msgstr "عام"
 msgid "Write error"
 msgstr "خطا در نوشتن"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "کمپرسور"
 
@@ -1237,6 +1311,9 @@ msgstr "دیتا"
 
 msgid "extender"
 msgstr "extender"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "کیلوبایت"
@@ -1255,3 +1332,7 @@ msgstr "پک شده"
 
 msgid "protection"
 msgstr "حفاظت"
+
+msgid "true"
+msgstr ""
+

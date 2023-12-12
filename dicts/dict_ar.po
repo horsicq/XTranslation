@@ -91,6 +91,9 @@ msgstr "سجل الأرشيف"
 msgid "Array"
 msgstr "مجموعة مصفوفة"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "يربط"
 
@@ -99,9 +102,6 @@ msgstr "صوت"
 
 msgid "Automatic"
 msgstr "تلقائي"
-
-msgid "Background"
-msgstr "الخلفية"
 
 msgid "Base address"
 msgstr "العنوان الأساسي"
@@ -114,6 +114,9 @@ msgstr "ربط"
 
 msgid "Binding"
 msgstr "ربط"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr ""
@@ -169,6 +172,9 @@ msgstr "Callstack"
 msgid "Cancel"
 msgstr "يلغي"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "لا يمكن الحصول على عمر PDB"
 
@@ -199,6 +205,9 @@ msgstr "لا يمكن فتح الجلسة"
 msgid "Cannot read memory at address"
 msgstr "لا يمكن قراءة الذاكرة على العنوان"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "لا يمكن حفظ الملف"
 
@@ -219,6 +228,9 @@ msgstr "واضح"
 
 msgid "Close"
 msgstr "قريب"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "كود الصفحات"
@@ -256,14 +268,23 @@ msgstr "عدد"
 msgid "Create view model"
 msgstr "إنشاء نموذج العرض"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "كريبتور"
 
 msgid "Cursor"
 msgstr "المؤشر"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "البيانات"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "البيانات في التعليمات البرمجية"
@@ -282,6 +303,9 @@ msgstr "تصحيح"
 
 msgid "Debug data"
 msgstr "بيانات التصحيح"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "المصحح"
@@ -445,6 +469,9 @@ msgstr "أنواع الإصلاح"
 msgid "Flags"
 msgstr "أعلام"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "مجلد"
 
@@ -469,11 +496,20 @@ msgstr "صيغة"
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "المهام"
 
 msgid "GB"
 msgstr "غيغابايت"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "نوعي"
@@ -501,6 +537,9 @@ msgstr "شبكة"
 
 msgid "Handles"
 msgstr "مقابض"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "تجزئة"
@@ -555,6 +594,9 @@ msgstr "المثبت"
 
 msgid "Installer data"
 msgstr "بيانات المثبت"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "مترجم"
@@ -637,6 +679,9 @@ msgstr "ميغا بايت"
 msgid "MainWindow"
 msgstr "النافذة الرئيسية"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "يظهر"
 
@@ -676,6 +721,9 @@ msgstr "الوحدات"
 msgid "More info"
 msgstr "مزيد من المعلومات"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "اسم"
 
@@ -699,6 +747,12 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "لم يتم العثور على شيء"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "نعم"
@@ -835,6 +889,9 @@ msgstr "المناطق"
 msgid "Register"
 msgstr "Register"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "العنوان النسبي"
 
@@ -852,6 +909,9 @@ msgstr "أزالة"
 
 msgid "Rescan"
 msgstr "اعادة الفحص"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "مصدر"
@@ -934,6 +994,9 @@ msgstr "الأقسام"
 msgid "Segment"
 msgstr "قطعة"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "شرائح"
 
@@ -942,6 +1005,9 @@ msgstr "يختار"
 
 msgid "Select all"
 msgstr "اختر الكل"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "اختيار"
@@ -1011,6 +1077,9 @@ msgstr "المساحات"
 
 msgid "Stack"
 msgstr "كومة"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr "البدء"
@@ -1141,8 +1210,17 @@ msgstr "المجموع"
 msgid "Trace"
 msgstr "تعقب"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "شجرة"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "معاملين"
@@ -1204,7 +1282,7 @@ msgstr "آلة افتراضية"
 msgid "Virtual size"
 msgstr "الحجم الافتراضي"
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1225,9 +1303,6 @@ msgstr "البدل"
 msgid "Write error"
 msgstr "خطأ الكتابة"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "ضاغط"
 
@@ -1236,6 +1311,9 @@ msgstr "البيانات"
 
 msgid "extender"
 msgstr "موسع"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "كيلو بايت"
@@ -1255,10 +1333,6 @@ msgstr "معباه"
 msgid "protection"
 msgstr "الحماية"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 

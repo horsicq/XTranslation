@@ -3,8 +3,8 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Language: bn\n"
 
 msgid "128-bit"
@@ -91,6 +91,9 @@ msgstr "সংরক্ষণাগার নথি"
 msgid "Array"
 msgstr "পৃষ্ঠানুযায়ী সাজান"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "সংযুক্ত করা"
 
@@ -99,9 +102,6 @@ msgstr "শ্রুতি"
 
 msgid "Automatic"
 msgstr "স্বয়ংক্রিয়"
-
-msgid "Background"
-msgstr "পটভূমি"
 
 msgid "Base address"
 msgstr "মূল ঠিকানা"
@@ -114,6 +114,9 @@ msgstr "বাঁধাই করা"
 
 msgid "Binding"
 msgstr "বাঁধাই"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr "পুস্তক-চিহ্ন"
@@ -169,6 +172,9 @@ msgstr "কলের স্তূপ"
 msgid "Cancel"
 msgstr "বাতিল করুন"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "PDB বয়স পেতে পারে না"
 
@@ -199,6 +205,9 @@ msgstr "অধিবেশন খুলতে পারবেন না"
 msgid "Cannot read memory at address"
 msgstr "ঠিকানায় মেমরি পড়তে পারে না"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "ফাইল সংরক্ষণ করা যাবে না"
 
@@ -219,6 +228,9 @@ msgstr "পরিষ্কার"
 
 msgid "Close"
 msgstr "বন্ধ"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr "সংকেতপদ্ধতির পাতাগুলো"
@@ -256,14 +268,23 @@ msgstr "গণনা"
 msgid "Create view model"
 msgstr "ভিউ মডেল তৈরি করুন"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "ক্রিপ্টর"
 
 msgid "Cursor"
 msgstr "কার্সার"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "উপাত্ত"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "সংকেতপদ্ধতিতে উপাত্ত"
@@ -282,6 +303,9 @@ msgstr "ডিবাগ(সংশোধন)"
 
 msgid "Debug data"
 msgstr "উপাত্তের সংশোধন"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "সংশোধনকারী"
@@ -445,6 +469,9 @@ msgstr "ধরন ঠিক করুন"
 msgid "Flags"
 msgstr "পতাকা"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr "ফোল্ডার"
 
@@ -469,11 +496,20 @@ msgstr "গঠন"
 msgid "Full screen"
 msgstr "পূর্ণ পর্দা"
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "ফাংশন"
 
 msgid "GB"
 msgstr "জিবি"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "বর্গীয়"
@@ -501,6 +537,9 @@ msgstr "গ্রিড"
 
 msgid "Handles"
 msgstr "হ্যান্ডেল"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "হ্যাশ"
@@ -555,6 +594,9 @@ msgstr "ইনস্টলার"
 
 msgid "Installer data"
 msgstr "ইনস্টলার ডেটা"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "দোভাষী"
@@ -637,6 +679,9 @@ msgstr "এমবি (মেগাবাইট)"
 msgid "MainWindow"
 msgstr "মূল জানালা"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "উদ্ভিন্ন"
 
@@ -676,6 +721,9 @@ msgstr "মডিউলগুলো"
 msgid "More info"
 msgstr "অধিক তথ্য"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "নাম"
 
@@ -699,6 +747,12 @@ msgstr "নতুন কোন সংস্করণ হয়নি"
 
 msgid "Nothing found"
 msgstr "কোনকিছু পাওয়া যায়নি"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "ঠিক আছে"
@@ -805,8 +859,8 @@ msgstr "ত্রুটি পড়া"
 msgid "Readonly"
 msgstr "শুধুমাত্র পাঠযোগ্য"
 
-msgid "রিবেস (Rebase)"
-msgstr "Перебазувати"
+msgid "Rebase"
+msgstr ""
 
 msgid "Recent files"
 msgstr "সাম্প্রতিক নথিপত্র"
@@ -835,6 +889,9 @@ msgstr "অঞ্চলগুলো"
 msgid "Register"
 msgstr "নিবন্ধন"
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "আপেক্ষিক ঠিকানা"
 
@@ -852,6 +909,9 @@ msgstr "অপসারণ"
 
 msgid "Rescan"
 msgstr "পুনরায় স্ক্যান করা"
+
+msgid "Resize"
+msgstr ""
 
 msgid "Resource"
 msgstr "সম্পদ"
@@ -934,6 +994,9 @@ msgstr "বিভাগগুলো"
 msgid "Segment"
 msgstr "অংশ"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "অংশগুলো"
 
@@ -942,6 +1005,9 @@ msgstr "নির্বাচন করুন"
 
 msgid "Select all"
 msgstr "সবগুলো নির্বাচন করুন"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "নির্বাচন"
@@ -1011,6 +1077,9 @@ msgstr "স্পেস"
 
 msgid "Stack"
 msgstr "স্তূপ"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr "শুরু করুন"
@@ -1141,8 +1210,17 @@ msgstr "মোট"
 msgid "Trace"
 msgstr "ট্রেস (Trace)"
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "ট্রি"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr "দুটি অপারেন্ড"
@@ -1204,7 +1282,7 @@ msgstr "ভার্চুয়াল মেশিন"
 msgid "Virtual size"
 msgstr "ভার্চুয়াল আকার"
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1225,9 +1303,6 @@ msgstr "ওয়াইল্ডকার্ড"
 msgid "Write error"
 msgstr "ভুল লিখুন"
 
-msgid "YARA"
-msgstr "YARA"
-
 msgid "compressor"
 msgstr "সংকোচকারী"
 
@@ -1236,6 +1311,9 @@ msgstr "উপাত্ত"
 
 msgid "extender"
 msgstr "প্রসারক"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "কে বি (কিলোবাইট)"
@@ -1255,12 +1333,8 @@ msgstr "বস্তাবন্দী"
 msgid "protection"
 msgstr "সুরক্ষা"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
 
 
 

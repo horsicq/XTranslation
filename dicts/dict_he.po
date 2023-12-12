@@ -90,6 +90,9 @@ msgstr "רשומה"
 msgid "Array"
 msgstr "מַעֲרָך"
 
+msgid "Arrows"
+msgstr ""
+
 msgid "Attach"
 msgstr "לְצַרֵף"
 
@@ -98,9 +101,6 @@ msgstr ""
 
 msgid "Automatic"
 msgstr "אוֹטוֹמָטִי"
-
-msgid "Background"
-msgstr ""
 
 msgid "Base address"
 msgstr "כתובת בסיס"
@@ -113,6 +113,9 @@ msgstr "לִקְשׁוֹר"
 
 msgid "Binding"
 msgstr "כריכה"
+
+msgid "Bits"
+msgstr ""
 
 msgid "Bookmark"
 msgstr ""
@@ -168,6 +171,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "בטל"
 
+msgid "Cannot find file"
+msgstr ""
+
 msgid "Cannot get PDB age"
 msgstr "לא ניתן לקבל גיל PDB"
 
@@ -198,6 +204,9 @@ msgstr "לא ניתן לפתוח את ההפעלה"
 msgid "Cannot read memory at address"
 msgstr "לא ניתן לקרוא זיכרון בכתובת"
 
+msgid "Cannot resize"
+msgstr ""
+
 msgid "Cannot save file"
 msgstr "לא ניתן לשמור את הקובץ"
 
@@ -218,6 +227,9 @@ msgstr "נקה"
 
 msgid "Close"
 msgstr "סגור"
+
+msgid "Code"
+msgstr ""
 
 msgid "Code pages"
 msgstr ""
@@ -255,14 +267,23 @@ msgstr "ספירה"
 msgid "Create view model"
 msgstr "צור מודל תצוגה"
 
+msgid "Crypter"
+msgstr ""
+
 msgid "Cryptor"
 msgstr "מצפין"
 
 msgid "Cursor"
 msgstr "סמן"
 
+msgid "Custom database"
+msgstr ""
+
 msgid "Data"
 msgstr "נתונים"
+
+msgid "Data convertor"
+msgstr ""
 
 msgid "Data in code"
 msgstr "נתונים בקוד"
@@ -281,6 +302,9 @@ msgstr "לנפות"
 
 msgid "Debug data"
 msgstr "נתוני מנפה שגיאות"
+
+msgid "Debug registers"
+msgstr ""
 
 msgid "Debugger"
 msgstr "מנפה שגיאות"
@@ -444,6 +468,9 @@ msgstr "תקן סוגים"
 msgid "Flags"
 msgstr "דגלים"
 
+msgid "Flags register"
+msgstr ""
+
 msgid "Folder"
 msgstr ""
 
@@ -468,11 +495,20 @@ msgstr "פורמט"
 msgid "Full screen"
 msgstr ""
 
+msgid "Function enter"
+msgstr ""
+
+msgid "Function leave"
+msgstr ""
+
 msgid "Functions"
 msgstr "פונקציות"
 
 msgid "GB"
 msgstr "GB"
+
+msgid "General registers"
+msgstr ""
 
 msgid "Generic"
 msgstr "כללי"
@@ -500,6 +536,9 @@ msgstr ""
 
 msgid "Handles"
 msgstr "ידיות"
+
+msgid "Hardware"
+msgstr ""
 
 msgid "Hash"
 msgstr "פונקציית גיבוב"
@@ -554,6 +593,9 @@ msgstr "קובץ התקנה"
 
 msgid "Installer data"
 msgstr "מידע קובץ התקנה"
+
+msgid "Instruction pointer register"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "מְתוּרגְמָן"
@@ -636,6 +678,9 @@ msgstr "MB"
 msgid "MainWindow"
 msgstr "חלון ראשי"
 
+msgid "Malware"
+msgstr ""
+
 msgid "Manifest"
 msgstr "פרטי מדיניות"
 
@@ -675,6 +720,9 @@ msgstr "מודולים"
 msgid "More info"
 msgstr "עוד מידע"
 
+msgid "Multisearch"
+msgstr ""
+
 msgid "Name"
 msgstr "שם"
 
@@ -698,6 +746,12 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "שום דבר לא נמצא"
+
+msgid "Number"
+msgstr ""
+
+msgid "Numbers"
+msgstr ""
 
 msgid "OK"
 msgstr "אישור"
@@ -834,6 +888,9 @@ msgstr "אזורים"
 msgid "Register"
 msgstr ""
 
+msgid "Registers"
+msgstr ""
+
 msgid "Relative address"
 msgstr "כתובת יחסית"
 
@@ -850,6 +907,9 @@ msgid "Remove"
 msgstr ""
 
 msgid "Rescan"
+msgstr ""
+
+msgid "Resize"
 msgstr ""
 
 msgid "Resource"
@@ -933,6 +993,9 @@ msgstr "אזורים"
 msgid "Segment"
 msgstr "חלק"
 
+msgid "Segment registers"
+msgstr ""
+
 msgid "Segments"
 msgstr "חלקים"
 
@@ -941,6 +1004,9 @@ msgstr "בחר"
 
 msgid "Select all"
 msgstr "בחר הכל"
+
+msgid "Selected"
+msgstr ""
 
 msgid "Selection"
 msgstr "בחירה"
@@ -1010,6 +1076,9 @@ msgstr "רווחים"
 
 msgid "Stack"
 msgstr "לַעֲרוֹם"
+
+msgid "Stack registers"
+msgstr ""
 
 msgid "Start"
 msgstr ""
@@ -1140,8 +1209,17 @@ msgstr "סך הכל"
 msgid "Trace"
 msgstr ""
 
+msgid "Trace into"
+msgstr ""
+
+msgid "Trace over"
+msgstr ""
+
 msgid "Tree"
 msgstr "עץ"
+
+msgid "Trojan"
+msgstr ""
 
 msgid "Two operands"
 msgstr ""
@@ -1203,7 +1281,7 @@ msgstr "מכונה וירטואלית"
 msgid "Virtual size"
 msgstr ""
 
-msgid "Visualisation"
+msgid "Virus"
 msgstr ""
 
 msgid "Visualization"
@@ -1224,9 +1302,6 @@ msgstr "Wildcard"
 msgid "Write error"
 msgstr "שגיאת כתיבה"
 
-msgid "YARA"
-msgstr ""
-
 msgid "compressor"
 msgstr "דוחס"
 
@@ -1235,6 +1310,9 @@ msgstr "מידע"
 
 msgid "extender"
 msgstr "מרחיב"
+
+msgid "false"
+msgstr ""
 
 msgid "kB"
 msgstr "kB"
@@ -1254,9 +1332,5 @@ msgstr "דחוס"
 msgid "protection"
 msgstr "הגנה"
 
-
-
-
-
-
-
+msgid "true"
+msgstr ""
