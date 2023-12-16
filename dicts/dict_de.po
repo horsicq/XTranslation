@@ -87,6 +87,9 @@ msgstr "Archiv"
 msgid "Archive record"
 msgstr "Archivaufzeichnung"
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr "Array"
 
@@ -102,6 +105,9 @@ msgstr "Audio"
 msgid "Automatic"
 msgstr "Automatisch"
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr "Basisadresse"
 
@@ -115,6 +121,9 @@ msgid "Binding"
 msgstr "Bindung"
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -225,6 +234,9 @@ msgstr "Auf Updates prüfen"
 msgid "Clear"
 msgstr "Leeren"
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr "Schließen"
 
@@ -237,6 +249,9 @@ msgstr "Zeichensätze"
 msgid "Code section"
 msgstr "Codeabschnitt"
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr "Farben"
 
@@ -248,6 +263,9 @@ msgstr "Kommentar"
 
 msgid "Compiler"
 msgstr "Compiler"
+
+msgid "Conditional"
+msgstr ""
 
 msgid "Console"
 msgstr "Konsole"
@@ -309,6 +327,9 @@ msgstr ""
 msgid "Debugger"
 msgstr "Debugger"
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr "Tiefen-Scan"
 
@@ -326,6 +347,9 @@ msgstr "Abhängigkeiten"
 
 msgid "Detach"
 msgstr "Ablösen"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "Gerät"
@@ -371,6 +395,12 @@ msgstr "Bearbeiten"
 
 msgid "Editor"
 msgstr "Editor"
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
+msgstr ""
 
 msgid "End"
 msgstr "Ende"
@@ -546,6 +576,9 @@ msgstr "Hash"
 msgid "Header"
 msgstr "Header"
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr "Hilfe"
 
@@ -563,6 +596,9 @@ msgstr "Hex Signatur"
 
 msgid "Highlight"
 msgstr "Hervorheben"
+
+msgid "Highlights"
+msgstr ""
 
 msgid "Image"
 msgstr "Speicherabbild"
@@ -608,6 +644,9 @@ msgstr "Ungültiger Opcode"
 
 msgid "Invalid signature"
 msgstr "Ungültige Signatur"
+
+msgid "Invalid size"
+msgstr ""
 
 msgid "Issuer"
 msgstr "Aussteller"
@@ -668,6 +707,9 @@ msgstr "Konfiguration laden"
 
 msgid "Local relocation"
 msgstr "Lokale Relokation"
+
+msgid "Location"
+msgstr ""
 
 msgid "Log"
 msgstr "Log"
@@ -924,6 +966,9 @@ msgstr "Neu starten"
 msgid "Result"
 msgstr "Ergebnis"
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr "Ausführen"
 
@@ -965,6 +1010,9 @@ msgstr "Scan"
 
 msgid "Scan after open"
 msgstr "Scannen nach dem Öffnen starten"
+
+msgid "Script"
+msgstr ""
 
 msgid "Search"
 msgstr "Suche"
@@ -1041,8 +1089,17 @@ msgstr "Anzeigen in"
 msgid "Show logo"
 msgstr "Logo anzeigen"
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
 msgstr "Gültige anzeigen"
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "Signierungstool"
@@ -1052,6 +1109,9 @@ msgstr "Signatur"
 
 msgid "Signatures"
 msgstr "Signaturen"
+
+msgid "Signed"
+msgstr ""
 
 msgid "Single application"
 msgstr "Einzelanwendung"
@@ -1188,6 +1248,9 @@ msgstr "Themen"
 msgid "TiB"
 msgstr "TiB"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "Zeit-Datum-Stempel"
 
@@ -1231,6 +1294,9 @@ msgid "Unknown"
 msgstr "Unbekannt"
 
 msgid "Unpack"
+msgstr ""
+
+msgid "Unsigned"
 msgstr ""
 
 msgid "Update information"
@@ -1334,4 +1400,3 @@ msgstr "Schutz"
 
 msgid "true"
 msgstr ""
-

@@ -88,6 +88,9 @@ msgstr "Архив"
 msgid "Archive record"
 msgstr "Архивная запись"
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr "Массив"
 
@@ -103,6 +106,9 @@ msgstr "Аудио"
 msgid "Automatic"
 msgstr "Автоматически"
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr "Базовый адрес"
 
@@ -116,6 +122,9 @@ msgid "Binding"
 msgstr "Привязка"
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -226,6 +235,9 @@ msgstr "Проверить обновления"
 msgid "Clear"
 msgstr "Очистить"
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr "Закрыть"
 
@@ -238,6 +250,9 @@ msgstr "Кодовые страницы"
 msgid "Code section"
 msgstr "Секция кода"
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr "Цвета"
 
@@ -249,6 +264,9 @@ msgstr "Комментарий"
 
 msgid "Compiler"
 msgstr "Компилятор"
+
+msgid "Conditional"
+msgstr ""
 
 msgid "Console"
 msgstr "Консоль"
@@ -310,6 +328,9 @@ msgstr ""
 msgid "Debugger"
 msgstr "Отладчик"
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr "Глубокий анализ"
 
@@ -327,6 +348,9 @@ msgstr "Зависимости"
 
 msgid "Detach"
 msgstr "Отсоединить"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "Устройство"
@@ -372,6 +396,12 @@ msgstr "Изменить"
 
 msgid "Editor"
 msgstr "Редактор"
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
+msgstr ""
 
 msgid "End"
 msgstr "Конец"
@@ -547,6 +577,9 @@ msgstr "Хеш"
 msgid "Header"
 msgstr "Заголовок"
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr "Справка"
 
@@ -564,6 +597,9 @@ msgstr "16-ричная сигнатура"
 
 msgid "Highlight"
 msgstr "Цветовое представление"
+
+msgid "Highlights"
+msgstr ""
 
 msgid "Image"
 msgstr "Рисунок"
@@ -609,6 +645,9 @@ msgstr "Неверный опкод"
 
 msgid "Invalid signature"
 msgstr "Неправильная сигнатура"
+
+msgid "Invalid size"
+msgstr ""
 
 msgid "Issuer"
 msgstr "Эмитент"
@@ -669,6 +708,9 @@ msgstr "Загрузочный конфиг"
 
 msgid "Local relocation"
 msgstr "Локальное перемещение"
+
+msgid "Location"
+msgstr ""
 
 msgid "Log"
 msgstr "Журнал"
@@ -925,6 +967,9 @@ msgstr "Рестарт"
 msgid "Result"
 msgstr "Результат"
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr "Запустить"
 
@@ -966,6 +1011,9 @@ msgstr "Сканировать"
 
 msgid "Scan after open"
 msgstr "Сразу сканировать"
+
+msgid "Script"
+msgstr ""
 
 msgid "Search"
 msgstr "Поиск"
@@ -1042,8 +1090,17 @@ msgstr "Показать в"
 msgid "Show logo"
 msgstr "Показать логотип"
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
 msgstr "Показать правильно"
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "Инструмент подписания"
@@ -1053,6 +1110,9 @@ msgstr "Сигнатура"
 
 msgid "Signatures"
 msgstr "Сигнатуры"
+
+msgid "Signed"
+msgstr ""
 
 msgid "Single application"
 msgstr "Запускать одну копию приложения"
@@ -1189,6 +1249,9 @@ msgstr "Потоки"
 msgid "TiB"
 msgstr "ТиБ"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "Отметка времени"
 
@@ -1233,6 +1296,9 @@ msgstr "Неизвестно"
 
 msgid "Unpack"
 msgstr "Распаковать"
+
+msgid "Unsigned"
+msgstr ""
 
 msgid "Update information"
 msgstr "Обновить информацию"
@@ -1335,6 +1401,3 @@ msgstr "защита"
 
 msgid "true"
 msgstr ""
-
-
-

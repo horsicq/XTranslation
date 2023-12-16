@@ -87,6 +87,9 @@ msgstr "存档"
 msgid "Archive record"
 msgstr "存档记录"
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr "数组"
 
@@ -102,6 +105,9 @@ msgstr "音频"
 msgid "Automatic"
 msgstr "自动"
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr "基址"
 
@@ -115,6 +121,9 @@ msgid "Binding"
 msgstr "捆绑"
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -225,6 +234,9 @@ msgstr "检查更新"
 msgid "Clear"
 msgstr "清除"
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr "关闭"
 
@@ -237,6 +249,9 @@ msgstr "代码页"
 msgid "Code section"
 msgstr "代码段"
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr "颜色"
 
@@ -248,6 +263,9 @@ msgstr "注释"
 
 msgid "Compiler"
 msgstr "编译器"
+
+msgid "Conditional"
+msgstr ""
 
 msgid "Console"
 msgstr "控制台"
@@ -309,6 +327,9 @@ msgstr ""
 msgid "Debugger"
 msgstr "调试器"
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr "深度扫描"
 
@@ -326,6 +347,9 @@ msgstr "依赖关系"
 
 msgid "Detach"
 msgstr "分离"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "设备"
@@ -371,6 +395,12 @@ msgstr "编辑"
 
 msgid "Editor"
 msgstr "编辑器"
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
+msgstr ""
 
 msgid "End"
 msgstr "结束"
@@ -546,6 +576,9 @@ msgstr "哈希"
 msgid "Header"
 msgstr "文件头"
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr "帮助"
 
@@ -563,6 +596,9 @@ msgstr "十六进制签名"
 
 msgid "Highlight"
 msgstr "高亮"
+
+msgid "Highlights"
+msgstr ""
 
 msgid "Image"
 msgstr "镜像"
@@ -608,6 +644,9 @@ msgstr "无效的操作码"
 
 msgid "Invalid signature"
 msgstr "无效的签名"
+
+msgid "Invalid size"
+msgstr ""
 
 msgid "Issuer"
 msgstr "发行人"
@@ -668,6 +707,9 @@ msgstr "加载配置"
 
 msgid "Local relocation"
 msgstr "局部重定位"
+
+msgid "Location"
+msgstr ""
 
 msgid "Log"
 msgstr "日志"
@@ -924,6 +966,9 @@ msgstr "重新开始"
 msgid "Result"
 msgstr "结果"
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr "运行"
 
@@ -965,6 +1010,9 @@ msgstr "扫描"
 
 msgid "Scan after open"
 msgstr "打开后扫描"
+
+msgid "Script"
+msgstr ""
 
 msgid "Search"
 msgstr "搜索"
@@ -1041,8 +1089,17 @@ msgstr "显示到"
 msgid "Show logo"
 msgstr "显示徽标"
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
 msgstr "显示有效项"
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "签名工具"
@@ -1052,6 +1109,9 @@ msgstr "签名"
 
 msgid "Signatures"
 msgstr "签名"
+
+msgid "Signed"
+msgstr ""
 
 msgid "Single application"
 msgstr "单个应用程序"
@@ -1188,6 +1248,9 @@ msgstr "线程"
 msgid "TiB"
 msgstr "TiB"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "时间戳"
 
@@ -1231,6 +1294,9 @@ msgid "Unknown"
 msgstr "未知"
 
 msgid "Unpack"
+msgstr ""
+
+msgid "Unsigned"
 msgstr ""
 
 msgid "Update information"
@@ -1334,5 +1400,3 @@ msgstr "防护"
 
 msgid "true"
 msgstr ""
-
-

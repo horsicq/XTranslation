@@ -87,6 +87,9 @@ msgstr ""
 msgid "Archive record"
 msgstr ""
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr ""
 
@@ -102,6 +105,9 @@ msgstr ""
 msgid "Automatic"
 msgstr ""
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr ""
 
@@ -115,6 +121,9 @@ msgid "Binding"
 msgstr ""
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -225,6 +234,9 @@ msgstr ""
 msgid "Clear"
 msgstr ""
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr ""
 
@@ -237,6 +249,9 @@ msgstr ""
 msgid "Code section"
 msgstr ""
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr ""
 
@@ -247,6 +262,9 @@ msgid "Comment"
 msgstr ""
 
 msgid "Compiler"
+msgstr ""
+
+msgid "Conditional"
 msgstr ""
 
 msgid "Console"
@@ -309,6 +327,9 @@ msgstr ""
 msgid "Debugger"
 msgstr ""
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr ""
 
@@ -325,6 +346,9 @@ msgid "Dependencies"
 msgstr ""
 
 msgid "Detach"
+msgstr ""
+
+msgid "Detect"
 msgstr ""
 
 msgid "Device"
@@ -370,6 +394,12 @@ msgid "Edit"
 msgstr ""
 
 msgid "Editor"
+msgstr ""
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
 msgstr ""
 
 msgid "End"
@@ -546,6 +576,9 @@ msgstr ""
 msgid "Header"
 msgstr ""
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr ""
 
@@ -562,6 +595,9 @@ msgid "Hex signature"
 msgstr ""
 
 msgid "Highlight"
+msgstr ""
+
+msgid "Highlights"
 msgstr ""
 
 msgid "Image"
@@ -607,6 +643,9 @@ msgid "Invalid opcode"
 msgstr ""
 
 msgid "Invalid signature"
+msgstr ""
+
+msgid "Invalid size"
 msgstr ""
 
 msgid "Issuer"
@@ -667,6 +706,9 @@ msgid "Load config"
 msgstr ""
 
 msgid "Local relocation"
+msgstr ""
+
+msgid "Location"
 msgstr ""
 
 msgid "Log"
@@ -924,6 +966,9 @@ msgstr ""
 msgid "Result"
 msgstr ""
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr ""
 
@@ -964,6 +1009,9 @@ msgid "Scan"
 msgstr ""
 
 msgid "Scan after open"
+msgstr ""
+
+msgid "Script"
 msgstr ""
 
 msgid "Search"
@@ -1041,7 +1089,16 @@ msgstr ""
 msgid "Show logo"
 msgstr ""
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
+msgstr ""
+
+msgid "Show version"
 msgstr ""
 
 msgid "Sign tool"
@@ -1051,6 +1108,9 @@ msgid "Signature"
 msgstr ""
 
 msgid "Signatures"
+msgstr ""
+
+msgid "Signed"
 msgstr ""
 
 msgid "Single application"
@@ -1188,6 +1248,9 @@ msgstr ""
 msgid "TiB"
 msgstr ""
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr ""
 
@@ -1231,6 +1294,9 @@ msgid "Unknown"
 msgstr ""
 
 msgid "Unpack"
+msgstr ""
+
+msgid "Unsigned"
 msgstr ""
 
 msgid "Update information"

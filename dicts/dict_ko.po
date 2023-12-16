@@ -94,6 +94,9 @@ msgstr "아카이브"
 msgid "Archive record"
 msgstr "아카이브 레코드"
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr "Array"
 
@@ -109,6 +112,9 @@ msgstr ""
 msgid "Automatic"
 msgstr "자동적 인"
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr "기준 주소"
 
@@ -122,6 +128,9 @@ msgid "Binding"
 msgstr "제본"
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -232,6 +241,9 @@ msgstr "업데이트 확인"
 msgid "Clear"
 msgstr "지우기"
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr "닫기"
 
@@ -244,6 +256,9 @@ msgstr "코드 페이지"
 msgid "Code section"
 msgstr "코드 섹션"
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr "색상"
 
@@ -255,6 +270,9 @@ msgstr "주석"
 
 msgid "Compiler"
 msgstr "컴파일러"
+
+msgid "Conditional"
+msgstr ""
 
 msgid "Console"
 msgstr "콘솔"
@@ -316,6 +334,9 @@ msgstr ""
 msgid "Debugger"
 msgstr "디버거"
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr "정밀 검사"
 
@@ -333,6 +354,9 @@ msgstr "종속성"
 
 msgid "Detach"
 msgstr "분리"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "장치"
@@ -378,6 +402,12 @@ msgstr "편집"
 
 msgid "Editor"
 msgstr "편집기"
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
+msgstr ""
 
 msgid "End"
 msgstr ""
@@ -553,6 +583,9 @@ msgstr "해시"
 msgid "Header"
 msgstr "헤더"
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr "도움말"
 
@@ -570,6 +603,9 @@ msgstr "16진수 서명"
 
 msgid "Highlight"
 msgstr "하이라이트"
+
+msgid "Highlights"
+msgstr ""
 
 msgid "Image"
 msgstr "이미지"
@@ -615,6 +651,9 @@ msgstr "유효하지 않은 옵코드"
 
 msgid "Invalid signature"
 msgstr "유효하지 않은 시그니처"
+
+msgid "Invalid size"
+msgstr ""
 
 msgid "Issuer"
 msgstr "발급사"
@@ -675,6 +714,9 @@ msgstr "구성 로드"
 
 msgid "Local relocation"
 msgstr "지역 이전"
+
+msgid "Location"
+msgstr ""
 
 msgid "Log"
 msgstr "로그"
@@ -931,6 +973,9 @@ msgstr "재시작"
 msgid "Result"
 msgstr "결과"
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr "운영"
 
@@ -972,6 +1017,9 @@ msgstr "검색"
 
 msgid "Scan after open"
 msgstr "열기 후 검색"
+
+msgid "Script"
+msgstr ""
 
 msgid "Search"
 msgstr "검색"
@@ -1048,8 +1096,17 @@ msgstr ""
 msgid "Show logo"
 msgstr "로고 표시"
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
 msgstr "유효한 표시"
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "서명 도구"
@@ -1059,6 +1116,9 @@ msgstr "시그니처"
 
 msgid "Signatures"
 msgstr "시그니처"
+
+msgid "Signed"
+msgstr ""
 
 msgid "Single application"
 msgstr "단일 애플리케이션"
@@ -1195,6 +1255,9 @@ msgstr "스레드"
 msgid "TiB"
 msgstr "TiB"
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "시간 날짜 스탬프"
 
@@ -1238,6 +1301,9 @@ msgid "Unknown"
 msgstr "알 수 없음"
 
 msgid "Unpack"
+msgstr ""
+
+msgid "Unsigned"
 msgstr ""
 
 msgid "Update information"
@@ -1341,4 +1407,3 @@ msgstr "보호"
 
 msgid "true"
 msgstr ""
-

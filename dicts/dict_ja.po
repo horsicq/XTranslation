@@ -87,6 +87,9 @@ msgstr "アーカイブ"
 msgid "Archive record"
 msgstr "アーカイブ レコード"
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr "配列"
 
@@ -102,6 +105,9 @@ msgstr ""
 msgid "Automatic"
 msgstr "自動"
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr "基準アドレス"
 
@@ -115,6 +121,9 @@ msgid "Binding"
 msgstr "バインディング"
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -225,6 +234,9 @@ msgstr "アップデートの確認"
 msgid "Clear"
 msgstr "消去"
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr "閉じる"
 
@@ -237,6 +249,9 @@ msgstr "コードページ"
 msgid "Code section"
 msgstr "コード セクション"
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr "色"
 
@@ -248,6 +263,9 @@ msgstr "コメント"
 
 msgid "Compiler"
 msgstr "コンパイラ"
+
+msgid "Conditional"
+msgstr ""
 
 msgid "Console"
 msgstr "コンソール"
@@ -309,6 +327,9 @@ msgstr ""
 msgid "Debugger"
 msgstr "デバッガ"
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr "ディープスキャン"
 
@@ -326,6 +347,9 @@ msgstr "依存関係"
 
 msgid "Detach"
 msgstr "デタッチ"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr "デバイス"
@@ -370,6 +394,12 @@ msgid "Edit"
 msgstr "編集"
 
 msgid "Editor"
+msgstr ""
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
 msgstr ""
 
 msgid "End"
@@ -546,6 +576,9 @@ msgstr "ハッシュ"
 msgid "Header"
 msgstr "ヘッダ"
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr "ヘルプ"
 
@@ -562,6 +595,9 @@ msgid "Hex signature"
 msgstr "署名"
 
 msgid "Highlight"
+msgstr ""
+
+msgid "Highlights"
 msgstr ""
 
 msgid "Image"
@@ -608,6 +644,9 @@ msgstr "無効な Opcode"
 
 msgid "Invalid signature"
 msgstr "無効な 署名"
+
+msgid "Invalid size"
+msgstr ""
 
 msgid "Issuer"
 msgstr "発行者"
@@ -668,6 +707,9 @@ msgstr "構成を読み込み"
 
 msgid "Local relocation"
 msgstr "ローカル再割り当て"
+
+msgid "Location"
+msgstr ""
 
 msgid "Log"
 msgstr "ログ"
@@ -924,6 +966,9 @@ msgstr "再起動"
 msgid "Result"
 msgstr "結果"
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr "実行"
 
@@ -965,6 +1010,9 @@ msgstr "スキャン"
 
 msgid "Scan after open"
 msgstr "開いたらすぐスキャン開始"
+
+msgid "Script"
+msgstr ""
 
 msgid "Search"
 msgstr "検索"
@@ -1041,8 +1089,17 @@ msgstr ""
 msgid "Show logo"
 msgstr "ロゴを表示"
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
 msgstr "有効を表示"
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "署名ツール"
@@ -1052,6 +1109,9 @@ msgstr "署名"
 
 msgid "Signatures"
 msgstr "署名"
+
+msgid "Signed"
+msgstr ""
 
 msgid "Single application"
 msgstr "単一のアプリケーション"
@@ -1188,6 +1248,9 @@ msgstr "スレッド"
 msgid "TiB"
 msgstr ""
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "日付スタンプ"
 
@@ -1231,6 +1294,9 @@ msgid "Unknown"
 msgstr "不明"
 
 msgid "Unpack"
+msgstr ""
+
+msgid "Unsigned"
 msgstr ""
 
 msgid "Update information"
@@ -1334,4 +1400,3 @@ msgstr "保護"
 
 msgid "true"
 msgstr ""
-

@@ -87,6 +87,9 @@ msgstr "Arsip"
 msgid "Archive record"
 msgstr "Catatan arsip"
 
+msgid "Are you sure?"
+msgstr ""
+
 msgid "Array"
 msgstr "Himpunan"
 
@@ -102,6 +105,9 @@ msgstr ""
 msgid "Automatic"
 msgstr "Otomatis"
 
+msgid "Background"
+msgstr ""
+
 msgid "Base address"
 msgstr "Alamat dasar"
 
@@ -115,6 +121,9 @@ msgid "Binding"
 msgstr "Mengikat"
 
 msgid "Bits"
+msgstr ""
+
+msgid "Block size"
 msgstr ""
 
 msgid "Bookmark"
@@ -225,6 +234,9 @@ msgstr "Periksa pembaruan"
 msgid "Clear"
 msgstr "Bersihkan"
 
+msgid "Clear result"
+msgstr ""
+
 msgid "Close"
 msgstr "Tutup"
 
@@ -237,6 +249,9 @@ msgstr ""
 msgid "Code section"
 msgstr "Bagian Kode"
 
+msgid "Color"
+msgstr ""
+
 msgid "Colors"
 msgstr ""
 
@@ -248,6 +263,9 @@ msgstr "Komentar"
 
 msgid "Compiler"
 msgstr "Penyusun"
+
+msgid "Conditional"
+msgstr ""
 
 msgid "Console"
 msgstr "Menghibur"
@@ -309,6 +327,9 @@ msgstr ""
 msgid "Debugger"
 msgstr "Debugger"
 
+msgid "Decode"
+msgstr ""
+
 msgid "Deep scan"
 msgstr "Pemindaian seksama"
 
@@ -326,6 +347,9 @@ msgstr "Ketergantungan"
 
 msgid "Detach"
 msgstr "Melepaskan"
+
+msgid "Detect"
+msgstr ""
 
 msgid "Device"
 msgstr ""
@@ -370,6 +394,12 @@ msgid "Edit"
 msgstr "Edit"
 
 msgid "Editor"
+msgstr ""
+
+msgid "Elapsed"
+msgstr ""
+
+msgid "Encode"
 msgstr ""
 
 msgid "End"
@@ -546,6 +576,9 @@ msgstr "Hash"
 msgid "Header"
 msgstr "Tajuk"
 
+msgid "Height"
+msgstr ""
+
 msgid "Help"
 msgstr "Bantuan"
 
@@ -562,6 +595,9 @@ msgid "Hex signature"
 msgstr "Tanda tangan heksagonal"
 
 msgid "Highlight"
+msgstr ""
+
+msgid "Highlights"
 msgstr ""
 
 msgid "Image"
@@ -607,6 +643,9 @@ msgid "Invalid opcode"
 msgstr "opcode tidak valid"
 
 msgid "Invalid signature"
+msgstr ""
+
+msgid "Invalid size"
 msgstr ""
 
 msgid "Issuer"
@@ -668,6 +707,9 @@ msgstr "Muat konfigurasi"
 
 msgid "Local relocation"
 msgstr "relokasi lokal"
+
+msgid "Location"
+msgstr ""
 
 msgid "Log"
 msgstr "Log"
@@ -924,6 +966,9 @@ msgstr "Mengulang kembali"
 msgid "Result"
 msgstr "Hasil"
 
+msgid "Rules"
+msgstr ""
+
 msgid "Run"
 msgstr "Lari"
 
@@ -965,6 +1010,9 @@ msgstr "Pindai"
 
 msgid "Scan after open"
 msgstr "Pindai setelah buka"
+
+msgid "Script"
+msgstr ""
 
 msgid "Search"
 msgstr "Cari"
@@ -1041,8 +1089,17 @@ msgstr ""
 msgid "Show logo"
 msgstr "Tampilkan logo"
 
+msgid "Show options"
+msgstr ""
+
+msgid "Show type"
+msgstr ""
+
 msgid "Show valid"
 msgstr "Tampilkan yang valid"
+
+msgid "Show version"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "Alat penanda"
@@ -1052,6 +1109,9 @@ msgstr "Markah"
 
 msgid "Signatures"
 msgstr "Markah"
+
+msgid "Signed"
+msgstr ""
 
 msgid "Single application"
 msgstr "Aplikasi tunggal"
@@ -1188,6 +1248,9 @@ msgstr "Utas"
 msgid "TiB"
 msgstr ""
 
+msgid "Time"
+msgstr ""
+
 msgid "Time date stamp"
 msgstr "Stempel tanggal waktu"
 
@@ -1231,6 +1294,9 @@ msgid "Unknown"
 msgstr "Tidak diketahui"
 
 msgid "Unpack"
+msgstr ""
+
+msgid "Unsigned"
 msgstr ""
 
 msgid "Update information"
@@ -1334,4 +1400,3 @@ msgstr "proteksi"
 
 msgid "true"
 msgstr ""
-
