@@ -397,7 +397,7 @@ msgid "Editor"
 msgstr "Düzenleyici"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Geçen"
 
 msgid "Encode"
 msgstr "Encode"
@@ -1111,7 +1111,7 @@ msgid "Signatures"
 msgstr "İmzalar"
 
 msgid "Signed"
-msgstr "İmzalı"
+msgstr "İşaretli"
 
 msgid "Single application"
 msgstr "Tek uygulama"
@@ -1270,7 +1270,7 @@ msgid "Total"
 msgstr "Toplam"
 
 msgid "Trace"
-msgstr "İz"
+msgstr ""
 
 msgid "Trace into"
 msgstr ""
@@ -1288,7 +1288,7 @@ msgid "Two operands"
 msgstr "İki işlenen"
 
 msgid "Type"
-msgstr "Tip"
+msgstr "Tür"
 
 msgid "Unknown"
 msgstr "Bilinmeyen"
@@ -1297,7 +1297,7 @@ msgid "Unpack"
 msgstr "Unpack et"
 
 msgid "Unsigned"
-msgstr "İmzasız"
+msgstr "İşaretsiz"
 
 msgid "Update information"
 msgstr "Güncelleme bilgisi"
@@ -1348,7 +1348,7 @@ msgid "Virtual size"
 msgstr "Sanal boyut"
 
 msgid "Virus"
-msgstr "Virus"
+msgstr "Virüs"
 
 msgid "Visualization"
 msgstr "Görselleştirme"
@@ -1378,7 +1378,7 @@ msgid "extender"
 msgstr "genişletici"
 
 msgid "false"
-msgstr "yanlış"
+msgstr "false"
 
 msgid "kB"
 msgstr "kB"
@@ -1399,4 +1399,4 @@ msgid "protection"
 msgstr "koruma"
 
 msgid "true"
-msgstr "doğru"
+msgstr "true"
