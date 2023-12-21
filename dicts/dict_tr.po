@@ -88,13 +88,13 @@ msgid "Archive record"
 msgstr "Arşiv kayıtları"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Emin misiniz?"
 
 msgid "Array"
 msgstr "Dizi"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Oklar"
 
 msgid "Attach"
 msgstr "Ekle"
@@ -106,7 +106,7 @@ msgid "Automatic"
 msgstr "Otomatik"
 
 msgid "Background"
-msgstr ""
+msgstr "Arkaplan"
 
 msgid "Base address"
 msgstr "Taban adres"
@@ -121,10 +121,10 @@ msgid "Binding"
 msgstr "Bağlama"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bitler"
 
 msgid "Block size"
-msgstr ""
+msgstr "Blok boyu"
 
 msgid "Bookmark"
 msgstr "Yer imi"
@@ -181,7 +181,7 @@ msgid "Cancel"
 msgstr "İptal"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Dosya bulunamıyor"
 
 msgid "Cannot get PDB age"
 msgstr "PDB yaşı alınamıyor"
@@ -214,7 +214,7 @@ msgid "Cannot read memory at address"
 msgstr "Adresteki bellek okunamıyor"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Yeniden boyutlandırılamıyor"
 
 msgid "Cannot save file"
 msgstr "Dosya kayıt edilemiyor"
@@ -235,13 +235,13 @@ msgid "Clear"
 msgstr "Temizle"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Sonucu temizle"
 
 msgid "Close"
 msgstr "Kapat"
 
 msgid "Code"
-msgstr ""
+msgstr "Kod"
 
 msgid "Code pages"
 msgstr "Kod sayfaları"
@@ -250,7 +250,7 @@ msgid "Code section"
 msgstr "Kod bölümü"
 
 msgid "Color"
-msgstr ""
+msgstr "Renk"
 
 msgid "Colors"
 msgstr "Renkler"
@@ -265,7 +265,7 @@ msgid "Compiler"
 msgstr "Derleyici"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Koşullu"
 
 msgid "Console"
 msgstr "Konsol"
@@ -286,7 +286,7 @@ msgid "Create view model"
 msgstr "Görünüm modeli oluştur"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Crypter"
 
 msgid "Cryptor"
 msgstr "Cryptor"
@@ -295,13 +295,13 @@ msgid "Cursor"
 msgstr "İmleç"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Özel veritabanı"
 
 msgid "Data"
 msgstr "Veri"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Veri dönüştürücüsü"
 
 msgid "Data in code"
 msgstr "Koddaki veriler"
@@ -322,13 +322,13 @@ msgid "Debug data"
 msgstr "Debug verisi"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Hata ayıklama yazmaçları"
 
 msgid "Debugger"
 msgstr "Hata ayıklayıcı"
 
 msgid "Decode"
-msgstr ""
+msgstr "Decode"
 
 msgid "Deep scan"
 msgstr "Derin tarama"
@@ -349,7 +349,7 @@ msgid "Detach"
 msgstr "Ayır"
 
 msgid "Detect"
-msgstr ""
+msgstr "Tespit et"
 
 msgid "Device"
 msgstr "Aygıt"
@@ -400,7 +400,7 @@ msgid "Elapsed"
 msgstr ""
 
 msgid "Encode"
-msgstr ""
+msgstr "Encode"
 
 msgid "End"
 msgstr "Son"
@@ -499,7 +499,7 @@ msgid "Flags"
 msgstr "Bayraklar"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Bayrak yazmaçları"
 
 msgid "Folder"
 msgstr "Dizin"
@@ -508,7 +508,7 @@ msgid "Follow in"
 msgstr "Takip et"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Beni izle"
 
 msgid "Font"
 msgstr "Yazı yüzü"
@@ -526,10 +526,10 @@ msgid "Full screen"
 msgstr "Tam ekran"
 
 msgid "Function enter"
-msgstr ""
+msgstr "İşlev başı"
 
 msgid "Function leave"
-msgstr ""
+msgstr "İşlev sonu"
 
 msgid "Functions"
 msgstr "Fonksiyonlar"
@@ -538,7 +538,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "General registers"
-msgstr ""
+msgstr "Genel amaçlı yazmaçlar"
 
 msgid "Generic"
 msgstr "Kapsamlı"
@@ -568,7 +568,7 @@ msgid "Handles"
 msgstr "Tutamaçlar"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Donanım"
 
 msgid "Hash"
 msgstr "Özet"
@@ -577,7 +577,7 @@ msgid "Header"
 msgstr "Başlık"
 
 msgid "Height"
-msgstr ""
+msgstr "Boy"
 
 msgid "Help"
 msgstr "Yardım"
@@ -598,7 +598,7 @@ msgid "Highlight"
 msgstr "Vurgula"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Öne çıkanlar"
 
 msgid "Image"
 msgstr "İmaj"
@@ -631,7 +631,7 @@ msgid "Installer data"
 msgstr "Yükleyici verileri"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "Instruction pointer yazmaçları"
 
 msgid "Interpreter"
 msgstr "Yorumlayıcı"
@@ -646,7 +646,7 @@ msgid "Invalid signature"
 msgstr "Geçersiz imza"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Geçersiz boy"
 
 msgid "Issuer"
 msgstr "Sorunu bildiren"
@@ -709,7 +709,7 @@ msgid "Local relocation"
 msgstr "Yerel yer değiştirme"
 
 msgid "Location"
-msgstr ""
+msgstr "Konum"
 
 msgid "Log"
 msgstr "Log"
@@ -721,7 +721,7 @@ msgid "MainWindow"
 msgstr "AnaPencere"
 
 msgid "Malware"
-msgstr ""
+msgstr "Zararlı yazılım"
 
 msgid "Manifest"
 msgstr "Bildiri"
@@ -763,7 +763,7 @@ msgid "More info"
 msgstr "Daha fazla bilgi"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Çoklu arama"
 
 msgid "Name"
 msgstr "Ad"
@@ -790,10 +790,10 @@ msgid "Nothing found"
 msgstr "Hiçbirşey Bulunamadı"
 
 msgid "Number"
-msgstr ""
+msgstr "Sayı"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Sayılar"
 
 msgid "OK"
 msgstr "Tamam"
@@ -844,7 +844,7 @@ msgid "Pause"
 msgstr "Duraklat"
 
 msgid "Paused"
-msgstr ""
+msgstr "Duraklatıldı"
 
 msgid "Player"
 msgstr "Oynatıcı"
@@ -931,7 +931,7 @@ msgid "Register"
 msgstr "Yazmaç"
 
 msgid "Registers"
-msgstr ""
+msgstr "Yazmaçlar"
 
 msgid "Relative address"
 msgstr "Göreceli adres"
@@ -952,7 +952,7 @@ msgid "Rescan"
 msgstr "Yeniden tara"
 
 msgid "Resize"
-msgstr ""
+msgstr "Yeniden boyutlandır"
 
 msgid "Resource"
 msgstr "Kaynak"
@@ -967,13 +967,13 @@ msgid "Result"
 msgstr "Sonuç"
 
 msgid "Rules"
-msgstr ""
+msgstr "Kurallar"
 
 msgid "Run"
 msgstr "Yürüt"
 
 msgid "Running"
-msgstr ""
+msgstr "Yürütülüyor"
 
 msgid "Runtime driver"
 msgstr "Çalışma zamanı sürücüsü"
@@ -1012,7 +1012,7 @@ msgid "Scan after open"
 msgstr "Açtıktan sonra tara"
 
 msgid "Script"
-msgstr ""
+msgstr "Betik"
 
 msgid "Search"
 msgstr "Ara"
@@ -1042,7 +1042,7 @@ msgid "Segment"
 msgstr "Segment"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "Segment yazmaçları"
 
 msgid "Segments"
 msgstr "Segmentler"
@@ -1054,7 +1054,7 @@ msgid "Select all"
 msgstr "Hepsini seç"
 
 msgid "Selected"
-msgstr ""
+msgstr "Seçili"
 
 msgid "Selection"
 msgstr "Seçim"
@@ -1090,16 +1090,16 @@ msgid "Show logo"
 msgstr "Logoyu göster"
 
 msgid "Show options"
-msgstr ""
+msgstr "Seçenekleri göster"
 
 msgid "Show type"
-msgstr ""
+msgstr "Türünü göster"
 
 msgid "Show valid"
 msgstr "Geçerli olanları göster"
 
 msgid "Show version"
-msgstr ""
+msgstr "Sürüm bilgisini göster"
 
 msgid "Sign tool"
 msgstr "İmza aracı"
@@ -1111,7 +1111,7 @@ msgid "Signatures"
 msgstr "İmzalar"
 
 msgid "Signed"
-msgstr ""
+msgstr "İmzalı"
 
 msgid "Single application"
 msgstr "Tek uygulama"
@@ -1138,7 +1138,7 @@ msgid "Stack"
 msgstr "Yığın"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "Yığın yazmaçları"
 
 msgid "Start"
 msgstr "Başlat"
@@ -1249,7 +1249,7 @@ msgid "TiB"
 msgstr "TiB"
 
 msgid "Time"
-msgstr ""
+msgstr "Zaman"
 
 msgid "Time date stamp"
 msgstr "Zaman tarih damgası"
@@ -1282,7 +1282,7 @@ msgid "Tree"
 msgstr "Ağaç"
 
 msgid "Trojan"
-msgstr ""
+msgstr "Truva atı"
 
 msgid "Two operands"
 msgstr "İki işlenen"
@@ -1297,7 +1297,7 @@ msgid "Unpack"
 msgstr "Unpack et"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "İmzasız"
 
 msgid "Update information"
 msgstr "Güncelleme bilgisi"
@@ -1348,7 +1348,7 @@ msgid "Virtual size"
 msgstr "Sanal boyut"
 
 msgid "Virus"
-msgstr ""
+msgstr "Virus"
 
 msgid "Visualization"
 msgstr "Görselleştirme"
@@ -1378,7 +1378,7 @@ msgid "extender"
 msgstr "genişletici"
 
 msgid "false"
-msgstr ""
+msgstr "yanlış"
 
 msgid "kB"
 msgstr "kB"
@@ -1399,4 +1399,4 @@ msgid "protection"
 msgstr "koruma"
 
 msgid "true"
-msgstr ""
+msgstr "doğru"
