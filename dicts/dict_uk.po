@@ -89,13 +89,13 @@ msgid "Archive record"
 msgstr "Архів запису"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Ви впевнені?"
 
 msgid "Array"
 msgstr "Масив"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Стрілки"
 
 msgid "Attach"
 msgstr "Приєднати"
@@ -107,7 +107,7 @@ msgid "Automatic"
 msgstr "Автоматично"
 
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 msgid "Base address"
 msgstr "Базова адреса"
@@ -122,10 +122,10 @@ msgid "Binding"
 msgstr "Прив'язка"
 
 msgid "Bits"
-msgstr ""
+msgstr "Біти"
 
 msgid "Block size"
-msgstr ""
+msgstr "Розмір блоку"
 
 msgid "Bookmark"
 msgstr "Закладка"
@@ -182,7 +182,7 @@ msgid "Cancel"
 msgstr "Скасувати"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Не вдалося знайти файл"
 
 msgid "Cannot get PDB age"
 msgstr "Не вдалося отримати вік PDB"
@@ -215,7 +215,7 @@ msgid "Cannot read memory at address"
 msgstr "Не вдалося прочитать пам'ять по адресі"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Не вдалося змінити розмір"
 
 msgid "Cannot save file"
 msgstr "Не вдалося зберегти файл"
@@ -236,13 +236,13 @@ msgid "Clear"
 msgstr "Очистити"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Очистити результат"
 
 msgid "Close"
 msgstr "Закрити"
 
 msgid "Code"
-msgstr ""
+msgstr "Код"
 
 msgid "Code pages"
 msgstr "Кодові сторінки"
@@ -251,7 +251,7 @@ msgid "Code section"
 msgstr "Секція коду"
 
 msgid "Color"
-msgstr ""
+msgstr "Колір"
 
 msgid "Colors"
 msgstr "Кольори"
@@ -266,7 +266,7 @@ msgid "Compiler"
 msgstr "Компілятор"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Умовний"
 
 msgid "Console"
 msgstr "Консоль"
@@ -287,7 +287,7 @@ msgid "Create view model"
 msgstr "Створити модель виду"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Шифрувальник"
 
 msgid "Cryptor"
 msgstr "Криптор"
@@ -296,13 +296,13 @@ msgid "Cursor"
 msgstr "Курсор"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Користувацька БД"
 
 msgid "Data"
 msgstr "Дані"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Конвертер даних"
 
 msgid "Data in code"
 msgstr "Дані в коді"
@@ -323,13 +323,13 @@ msgid "Debug data"
 msgstr "Відлагоджувальні дані"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Дебаг регістри"
 
 msgid "Debugger"
 msgstr "Відлагоджувач"
 
 msgid "Decode"
-msgstr ""
+msgstr "Декодувати"
 
 msgid "Deep scan"
 msgstr "Глибоке сканування"
@@ -350,7 +350,7 @@ msgid "Detach"
 msgstr "Від'єднати"
 
 msgid "Detect"
-msgstr ""
+msgstr "Детектувати"
 
 msgid "Device"
 msgstr "Пристрій"
@@ -398,10 +398,10 @@ msgid "Editor"
 msgstr "Редактор"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Пройшло"
 
 msgid "Encode"
-msgstr ""
+msgstr "Закодувати"
 
 msgid "End"
 msgstr "Кінець"
@@ -500,7 +500,7 @@ msgid "Flags"
 msgstr "Прапорці"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Регістр прапорців"
 
 msgid "Folder"
 msgstr "Каталог"
@@ -527,10 +527,10 @@ msgid "Full screen"
 msgstr "Повноекранний"
 
 msgid "Function enter"
-msgstr ""
+msgstr "Вхід у функцію"
 
 msgid "Function leave"
-msgstr ""
+msgstr "Вихід з функції"
 
 msgid "Functions"
 msgstr "Функції"
@@ -539,7 +539,7 @@ msgid "GB"
 msgstr "ГБ"
 
 msgid "General registers"
-msgstr ""
+msgstr "Загальні регістри"
 
 msgid "Generic"
 msgstr "Узагальнене"
@@ -569,7 +569,7 @@ msgid "Handles"
 msgstr "Дескриптори"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Апаратне забезпечення"
 
 msgid "Hash"
 msgstr "Хеш"
@@ -578,7 +578,7 @@ msgid "Header"
 msgstr "Заголовок"
 
 msgid "Height"
-msgstr ""
+msgstr "Висота"
 
 msgid "Help"
 msgstr "Довідка"
@@ -599,7 +599,7 @@ msgid "Highlight"
 msgstr "Виділяти"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Головні моменти"
 
 msgid "Image"
 msgstr "Малюнок"
@@ -632,7 +632,7 @@ msgid "Installer data"
 msgstr "Дані інсталятора"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "Регістр інструкції"
 
 msgid "Interpreter"
 msgstr "Інтерпретатор"
@@ -647,7 +647,7 @@ msgid "Invalid signature"
 msgstr "Невірний підпис"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Невірний розмір"
 
 msgid "Issuer"
 msgstr "Видавач"
@@ -710,7 +710,7 @@ msgid "Local relocation"
 msgstr "Локальна релокація"
 
 msgid "Location"
-msgstr ""
+msgstr "Розташування"
 
 msgid "Log"
 msgstr "Журнал"
@@ -722,7 +722,7 @@ msgid "MainWindow"
 msgstr "Головне вікно"
 
 msgid "Malware"
-msgstr ""
+msgstr "Шкідливе програмне забезпечення"
 
 msgid "Manifest"
 msgstr "Маніфест"
@@ -764,7 +764,7 @@ msgid "More info"
 msgstr "Більше інфо"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Мультипошук"
 
 msgid "Name"
 msgstr "Ім'я"
@@ -791,10 +791,10 @@ msgid "Nothing found"
 msgstr "Нічого не знайдено"
 
 msgid "Number"
-msgstr ""
+msgstr "Номер"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Номери"
 
 msgid "OK"
 msgstr "Гаразд"
@@ -932,7 +932,7 @@ msgid "Register"
 msgstr "Реєстрація"
 
 msgid "Registers"
-msgstr ""
+msgstr "Регістри"
 
 msgid "Relative address"
 msgstr "Відносна адреса"
@@ -953,7 +953,7 @@ msgid "Rescan"
 msgstr "Пересканувати"
 
 msgid "Resize"
-msgstr ""
+msgstr "Змінити розмір"
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -968,7 +968,7 @@ msgid "Result"
 msgstr "Результат"
 
 msgid "Rules"
-msgstr ""
+msgstr "Правила"
 
 msgid "Run"
 msgstr "Запустити"
@@ -1013,7 +1013,7 @@ msgid "Scan after open"
 msgstr "Сканування після відкриття"
 
 msgid "Script"
-msgstr ""
+msgstr "Скрипт"
 
 msgid "Search"
 msgstr "Пошук"
@@ -1043,7 +1043,7 @@ msgid "Segment"
 msgstr "Сегмент"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "Сегментрі регістри"
 
 msgid "Segments"
 msgstr "Сегменти"
@@ -1055,7 +1055,7 @@ msgid "Select all"
 msgstr "Вибрати все"
 
 msgid "Selected"
-msgstr ""
+msgstr "Виділено"
 
 msgid "Selection"
 msgstr "Виділення"
@@ -1091,16 +1091,16 @@ msgid "Show logo"
 msgstr "Показати логотип"
 
 msgid "Show options"
-msgstr ""
+msgstr "Показати параметри"
 
 msgid "Show type"
-msgstr ""
+msgstr "Показати тип"
 
 msgid "Show valid"
 msgstr "Показати дійсні"
 
 msgid "Show version"
-msgstr ""
+msgstr "Показати версію"
 
 msgid "Sign tool"
 msgstr "Інструмент підпису"
@@ -1112,7 +1112,7 @@ msgid "Signatures"
 msgstr "Сигнатури"
 
 msgid "Signed"
-msgstr ""
+msgstr "Зі знаком"
 
 msgid "Single application"
 msgstr "Один застосунок"
@@ -1139,7 +1139,7 @@ msgid "Stack"
 msgstr "Стек"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "Регістри стеку"
 
 msgid "Start"
 msgstr "Початок"
@@ -1250,7 +1250,7 @@ msgid "TiB"
 msgstr "ТіБ"
 
 msgid "Time"
-msgstr ""
+msgstr "Час"
 
 msgid "Time date stamp"
 msgstr "Часова відмітка"
@@ -1274,16 +1274,16 @@ msgid "Trace"
 msgstr "Трасувати"
 
 msgid "Trace into"
-msgstr ""
+msgstr "Трасувати із заходом всередину"
 
 msgid "Trace over"
-msgstr ""
+msgstr "Трасувати поверх"
 
 msgid "Tree"
 msgstr "Дерево"
 
 msgid "Trojan"
-msgstr ""
+msgstr "Троян"
 
 msgid "Two operands"
 msgstr "Два операнди"
@@ -1298,7 +1298,7 @@ msgid "Unpack"
 msgstr "Розпакувати"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "Без знаку"
 
 msgid "Update information"
 msgstr "Оновити інформацію"
@@ -1349,7 +1349,7 @@ msgid "Virtual size"
 msgstr "Віртуальний розмір"
 
 msgid "Virus"
-msgstr ""
+msgstr "Вірус"
 
 msgid "Visualization"
 msgstr "Візуалізація"
@@ -1379,7 +1379,7 @@ msgid "extender"
 msgstr "розширення"
 
 msgid "false"
-msgstr ""
+msgstr "false"
 
 msgid "kB"
 msgstr "кБ"
@@ -1400,4 +1400,4 @@ msgid "protection"
 msgstr "захист"
 
 msgid "true"
-msgstr ""
+msgstr "true"
