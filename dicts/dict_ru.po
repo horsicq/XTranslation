@@ -89,13 +89,13 @@ msgid "Archive record"
 msgstr "Архивная запись"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Вы уверены?"
 
 msgid "Array"
 msgstr "Массив"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Стрелки"
 
 msgid "Attach"
 msgstr "Прикрепить"
@@ -107,7 +107,7 @@ msgid "Automatic"
 msgstr "Автоматически"
 
 msgid "Background"
-msgstr ""
+msgstr "Фон"
 
 msgid "Base address"
 msgstr "Базовый адрес"
@@ -122,10 +122,10 @@ msgid "Binding"
 msgstr "Привязка"
 
 msgid "Bits"
-msgstr ""
+msgstr "Биты"
 
 msgid "Block size"
-msgstr ""
+msgstr "Размер блока"
 
 msgid "Bookmark"
 msgstr "Закладка"
@@ -182,22 +182,22 @@ msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Не удаётся найти файл"
 
 msgid "Cannot get PDB age"
 msgstr "Не удается получить возраст PDB"
 
 msgid "Cannot get PDB name"
-msgstr "Не удается получить имя PDB"
+msgstr "Не удаётся получить имя PDB"
 
 msgid "Cannot load MSDIA library"
-msgstr "Не удается загрузить библиотеку MSDIA"
+msgstr "Не удаётся загрузить библиотеку MSDIA"
 
 msgid "Cannot load data from PDB"
-msgstr "Не удается загрузить данные из PDB"
+msgstr "Не удаётся загрузить данные из PDB"
 
 msgid "Cannot load database"
-msgstr "Не удается загрузить базу данных"
+msgstr "Не удаётся загрузить базу данных"
 
 msgid "Cannot load driver"
 msgstr "Не удаётся загрузить драйвер"
@@ -215,7 +215,7 @@ msgid "Cannot read memory at address"
 msgstr "Невозможно прочитать память по адресу"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Невозможно изменить размер"
 
 msgid "Cannot save file"
 msgstr "Невозможно сохранить файл"
@@ -236,13 +236,13 @@ msgid "Clear"
 msgstr "Очистить"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Очистить результат"
 
 msgid "Close"
 msgstr "Закрыть"
 
 msgid "Code"
-msgstr ""
+msgstr "Код"
 
 msgid "Code pages"
 msgstr "Кодовые страницы"
@@ -251,7 +251,7 @@ msgid "Code section"
 msgstr "Секция кода"
 
 msgid "Color"
-msgstr ""
+msgstr "Цвет"
 
 msgid "Colors"
 msgstr "Цвета"
@@ -266,7 +266,7 @@ msgid "Compiler"
 msgstr "Компилятор"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Условный"
 
 msgid "Console"
 msgstr "Консоль"
@@ -287,7 +287,7 @@ msgid "Create view model"
 msgstr "Создать модель вида"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Шифровальщик"
 
 msgid "Cryptor"
 msgstr "Криптор"
@@ -296,13 +296,13 @@ msgid "Cursor"
 msgstr "Курсор"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Пользовательская база данных"
 
 msgid "Data"
 msgstr "Данные"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Конвертер данных"
 
 msgid "Data in code"
 msgstr "Данные в коде"
@@ -323,13 +323,13 @@ msgid "Debug data"
 msgstr "Отладочная информация"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Регистры отладки"
 
 msgid "Debugger"
 msgstr "Отладчик"
 
 msgid "Decode"
-msgstr ""
+msgstr "Декодировать"
 
 msgid "Deep scan"
 msgstr "Глубокий анализ"
@@ -350,7 +350,7 @@ msgid "Detach"
 msgstr "Отсоединить"
 
 msgid "Detect"
-msgstr ""
+msgstr "Определить"
 
 msgid "Device"
 msgstr "Устройство"
@@ -398,10 +398,10 @@ msgid "Editor"
 msgstr "Редактор"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Прошло"
 
 msgid "Encode"
-msgstr ""
+msgstr "Кодировать"
 
 msgid "End"
 msgstr "Конец"
@@ -500,7 +500,7 @@ msgid "Flags"
 msgstr "Флаги"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Регистр флагов"
 
 msgid "Folder"
 msgstr "Директория"
@@ -527,10 +527,10 @@ msgid "Full screen"
 msgstr "Полный экран"
 
 msgid "Function enter"
-msgstr ""
+msgstr "Вход в функцию"
 
 msgid "Function leave"
-msgstr ""
+msgstr "Выход из функции"
 
 msgid "Functions"
 msgstr "Функции"
@@ -539,7 +539,7 @@ msgid "GB"
 msgstr "ГБ"
 
 msgid "General registers"
-msgstr ""
+msgstr "Общие регистры"
 
 msgid "Generic"
 msgstr "Обобщенный"
@@ -569,7 +569,7 @@ msgid "Handles"
 msgstr "Хэндлы"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Аппаратное обеспечение"
 
 msgid "Hash"
 msgstr "Хеш"
@@ -578,7 +578,7 @@ msgid "Header"
 msgstr "Заголовок"
 
 msgid "Height"
-msgstr ""
+msgstr "Высота"
 
 msgid "Help"
 msgstr "Справка"
@@ -599,7 +599,7 @@ msgid "Highlight"
 msgstr "Цветовое представление"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Основные моменты"
 
 msgid "Image"
 msgstr "Рисунок"
@@ -632,7 +632,7 @@ msgid "Installer data"
 msgstr "Данные установщика"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "Регистр указателя инструкций"
 
 msgid "Interpreter"
 msgstr "Интерпретатор"
@@ -647,7 +647,7 @@ msgid "Invalid signature"
 msgstr "Неправильная сигнатура"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Неверный размер"
 
 msgid "Issuer"
 msgstr "Эмитент"
@@ -710,7 +710,7 @@ msgid "Local relocation"
 msgstr "Локальное перемещение"
 
 msgid "Location"
-msgstr ""
+msgstr "Расположение"
 
 msgid "Log"
 msgstr "Журнал"
@@ -722,7 +722,7 @@ msgid "MainWindow"
 msgstr "MainWindow"
 
 msgid "Malware"
-msgstr ""
+msgstr "Вредоносное ПО"
 
 msgid "Manifest"
 msgstr "Манифест"
@@ -764,7 +764,7 @@ msgid "More info"
 msgstr "Больше инфы"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Мультипоиск"
 
 msgid "Name"
 msgstr "Имя"
@@ -791,10 +791,10 @@ msgid "Nothing found"
 msgstr "Ничего не найдено"
 
 msgid "Number"
-msgstr ""
+msgstr "Номер"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Номера"
 
 msgid "OK"
 msgstr "ОК"
@@ -932,7 +932,7 @@ msgid "Register"
 msgstr "Регистр"
 
 msgid "Registers"
-msgstr ""
+msgstr "Регистры"
 
 msgid "Relative address"
 msgstr "Относительный адрес"
@@ -953,7 +953,7 @@ msgid "Rescan"
 msgstr "Пересканировать"
 
 msgid "Resize"
-msgstr ""
+msgstr "Изменить размер"
 
 msgid "Resource"
 msgstr "Ресурс"
@@ -968,7 +968,7 @@ msgid "Result"
 msgstr "Результат"
 
 msgid "Rules"
-msgstr ""
+msgstr "Правила"
 
 msgid "Run"
 msgstr "Запустить"
@@ -1013,7 +1013,7 @@ msgid "Scan after open"
 msgstr "Сразу сканировать"
 
 msgid "Script"
-msgstr ""
+msgstr "Скрипт"
 
 msgid "Search"
 msgstr "Поиск"
@@ -1043,7 +1043,7 @@ msgid "Segment"
 msgstr "Сегмент"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "Сегментные регистры"
 
 msgid "Segments"
 msgstr "Сегменты"
@@ -1055,7 +1055,7 @@ msgid "Select all"
 msgstr "Выбрать все"
 
 msgid "Selected"
-msgstr ""
+msgstr "Выбрано"
 
 msgid "Selection"
 msgstr "Выделение"
@@ -1091,16 +1091,16 @@ msgid "Show logo"
 msgstr "Показать логотип"
 
 msgid "Show options"
-msgstr ""
+msgstr "Показать параметры"
 
 msgid "Show type"
-msgstr ""
+msgstr "Показать тип"
 
 msgid "Show valid"
 msgstr "Показать правильно"
 
 msgid "Show version"
-msgstr ""
+msgstr "Показать версию"
 
 msgid "Sign tool"
 msgstr "Инструмент подписания"
@@ -1112,7 +1112,7 @@ msgid "Signatures"
 msgstr "Сигнатуры"
 
 msgid "Signed"
-msgstr ""
+msgstr "Подписано"
 
 msgid "Single application"
 msgstr "Запускать одну копию приложения"
@@ -1139,7 +1139,7 @@ msgid "Stack"
 msgstr "Стек"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "Регистры стека"
 
 msgid "Start"
 msgstr "Начало"
@@ -1250,7 +1250,7 @@ msgid "TiB"
 msgstr "ТиБ"
 
 msgid "Time"
-msgstr ""
+msgstr "Время"
 
 msgid "Time date stamp"
 msgstr "Отметка времени"
@@ -1283,7 +1283,7 @@ msgid "Tree"
 msgstr "Дерево"
 
 msgid "Trojan"
-msgstr ""
+msgstr "Троян"
 
 msgid "Two operands"
 msgstr "Два операнда"
@@ -1298,7 +1298,7 @@ msgid "Unpack"
 msgstr "Распаковать"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "Без подписи"
 
 msgid "Update information"
 msgstr "Обновить информацию"
@@ -1349,7 +1349,7 @@ msgid "Virtual size"
 msgstr "Виртуальный размер"
 
 msgid "Virus"
-msgstr ""
+msgstr "Вирус"
 
 msgid "Visualization"
 msgstr "Визуализация"
@@ -1379,7 +1379,7 @@ msgid "extender"
 msgstr "расширение"
 
 msgid "false"
-msgstr ""
+msgstr "ложь"
 
 msgid "kB"
 msgstr "кБ"
@@ -1400,4 +1400,4 @@ msgid "protection"
 msgstr "защита"
 
 msgid "true"
-msgstr ""
+msgstr "истина"
