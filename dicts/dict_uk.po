@@ -1043,7 +1043,7 @@ msgid "Segment"
 msgstr "Сегмент"
 
 msgid "Segment registers"
-msgstr "Сегментрі регістри"
+msgstr "Сегментні регістри"
 
 msgid "Segments"
 msgstr "Сегменти"
