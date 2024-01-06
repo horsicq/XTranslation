@@ -88,13 +88,13 @@ msgid "Archive record"
 msgstr "Registro de arquivo"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Você tem certeza ?"
 
 msgid "Array"
 msgstr "Array"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Setas"
 
 msgid "Attach"
 msgstr "Anexar"
@@ -106,7 +106,7 @@ msgid "Automatic"
 msgstr "Automático"
 
 msgid "Background"
-msgstr ""
+msgstr "Background"
 
 msgid "Base address"
 msgstr "Endereço base"
@@ -121,10 +121,10 @@ msgid "Binding"
 msgstr "Vinculo"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Block size"
-msgstr ""
+msgstr "Tamanho do Bloco"
 
 msgid "Bookmark"
 msgstr "Favoritar"
@@ -181,7 +181,7 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Não foi possível encontrar o arquivo"
 
 msgid "Cannot get PDB age"
 msgstr "Não é possível obter idade do PDB"
@@ -214,7 +214,7 @@ msgid "Cannot read memory at address"
 msgstr "Não é possível ler a memória no endereço"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Não é possível fazer resize"
 
 msgid "Cannot save file"
 msgstr "Impossível salvar arquivo"
@@ -235,13 +235,13 @@ msgid "Clear"
 msgstr "Limpar"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Limpar resultados"
 
 msgid "Close"
 msgstr "Fechar"
 
 msgid "Code"
-msgstr ""
+msgstr "Código"
 
 msgid "Code pages"
 msgstr "Code pages"
@@ -250,7 +250,7 @@ msgid "Code section"
 msgstr "Seção de código"
 
 msgid "Color"
-msgstr ""
+msgstr "Cor"
 
 msgid "Colors"
 msgstr "Cores"
@@ -265,7 +265,7 @@ msgid "Compiler"
 msgstr "Compilador"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Condicional"
 
 msgid "Console"
 msgstr "Console"
@@ -286,7 +286,7 @@ msgid "Create view model"
 msgstr "Criar modelo de visualização"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Crypter"
 
 msgid "Cryptor"
 msgstr "Criptor"
@@ -295,13 +295,13 @@ msgid "Cursor"
 msgstr "Cursor"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Custom database"
 
 msgid "Data"
 msgstr "Dados"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Data convertor"
 
 msgid "Data in code"
 msgstr "Dados em código"
@@ -322,13 +322,13 @@ msgid "Debug data"
 msgstr "Dados de depuração"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Debugar registradores"
 
 msgid "Debugger"
 msgstr "Depurador"
 
 msgid "Decode"
-msgstr ""
+msgstr "Decodificar"
 
 msgid "Deep scan"
 msgstr "Varredura profunda"
@@ -349,7 +349,7 @@ msgid "Detach"
 msgstr "Desanexar"
 
 msgid "Detect"
-msgstr ""
+msgstr "Detectar"
 
 msgid "Device"
 msgstr "Dispositivo"
@@ -397,10 +397,10 @@ msgid "Editor"
 msgstr "Editor"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Decorrido"
 
 msgid "Encode"
-msgstr ""
+msgstr "Codificar"
 
 msgid "End"
 msgstr "Fim"
@@ -499,7 +499,7 @@ msgid "Flags"
 msgstr "Flags"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Registrador de Flags"
 
 msgid "Folder"
 msgstr "Pasta"
@@ -526,10 +526,10 @@ msgid "Full screen"
 msgstr "Tela cheia"
 
 msgid "Function enter"
-msgstr ""
+msgstr "Entrada da função"
 
 msgid "Function leave"
-msgstr ""
+msgstr "Saída da função"
 
 msgid "Functions"
 msgstr "Funções"
@@ -538,7 +538,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "General registers"
-msgstr ""
+msgstr "Registradores de uso geral"
 
 msgid "Generic"
 msgstr "Genérico"
@@ -568,7 +568,7 @@ msgid "Handles"
 msgstr "Handles"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 msgid "Hash"
 msgstr "Hash"
@@ -577,7 +577,7 @@ msgid "Header"
 msgstr "Header"
 
 msgid "Height"
-msgstr ""
+msgstr "Altura"
 
 msgid "Help"
 msgstr "Ajuda"
@@ -598,7 +598,7 @@ msgid "Highlight"
 msgstr "Destacar"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Destaques"
 
 msgid "Image"
 msgstr "Imagem"
@@ -631,7 +631,7 @@ msgid "Installer data"
 msgstr "Dados do instalador"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "Instruction pointer register"
 
 msgid "Interpreter"
 msgstr "Interpretador"
@@ -646,7 +646,7 @@ msgid "Invalid signature"
 msgstr "Assinatura Inválida"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Tamanho inválido"
 
 msgid "Issuer"
 msgstr "Emitente"
@@ -709,7 +709,7 @@ msgid "Local relocation"
 msgstr "Relocação local"
 
 msgid "Location"
-msgstr ""
+msgstr "Localização"
 
 msgid "Log"
 msgstr "Log"
@@ -721,7 +721,7 @@ msgid "MainWindow"
 msgstr "Janela principal"
 
 msgid "Malware"
-msgstr ""
+msgstr "Malware"
 
 msgid "Manifest"
 msgstr "Manifest"
@@ -763,7 +763,7 @@ msgid "More info"
 msgstr "Mais informações"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Pesquisa multipla"
 
 msgid "Name"
 msgstr "Nome"
@@ -790,10 +790,10 @@ msgid "Nothing found"
 msgstr "Nada encontrado"
 
 msgid "Number"
-msgstr ""
+msgstr "Número"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Números"
 
 msgid "OK"
 msgstr "OK"
@@ -931,7 +931,7 @@ msgid "Register"
 msgstr "Registrador"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registradores"
 
 msgid "Relative address"
 msgstr "Endereço relativo"
@@ -952,7 +952,7 @@ msgid "Rescan"
 msgstr "Verificar novamente"
 
 msgid "Resize"
-msgstr ""
+msgstr "Resize"
 
 msgid "Resource"
 msgstr "Recurso"
@@ -967,7 +967,7 @@ msgid "Result"
 msgstr "Resultado"
 
 msgid "Rules"
-msgstr ""
+msgstr "Regras"
 
 msgid "Run"
 msgstr "Executar"
@@ -1012,7 +1012,7 @@ msgid "Scan after open"
 msgstr "Escanear depois de aberto"
 
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 msgid "Search"
 msgstr "Procurar"
@@ -1042,7 +1042,7 @@ msgid "Segment"
 msgstr "Segmento"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "Segment registers"
 
 msgid "Segments"
 msgstr "Segmentos"
@@ -1054,7 +1054,7 @@ msgid "Select all"
 msgstr "Selecionar todos"
 
 msgid "Selected"
-msgstr ""
+msgstr "Selecionado"
 
 msgid "Selection"
 msgstr "Seleção"
@@ -1090,16 +1090,16 @@ msgid "Show logo"
 msgstr "Exibir logo"
 
 msgid "Show options"
-msgstr ""
+msgstr "Mostrar opções"
 
 msgid "Show type"
-msgstr ""
+msgstr "Mostrar tipo"
 
 msgid "Show valid"
 msgstr "Mostrar válido"
 
 msgid "Show version"
-msgstr ""
+msgstr "Mostrar versão"
 
 msgid "Sign tool"
 msgstr "Ferramenta de assinatura"
@@ -1111,7 +1111,7 @@ msgid "Signatures"
 msgstr "Assinaturas"
 
 msgid "Signed"
-msgstr ""
+msgstr "Assinado"
 
 msgid "Single application"
 msgstr "Aplicação única"
@@ -1138,7 +1138,7 @@ msgid "Stack"
 msgstr "Pilha"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "Registradores de Stack"
 
 msgid "Start"
 msgstr "Iniciar"
@@ -1249,7 +1249,7 @@ msgid "TiB"
 msgstr "TiB"
 
 msgid "Time"
-msgstr ""
+msgstr "Tempo"
 
 msgid "Time date stamp"
 msgstr "Carimbo de data e hora"
@@ -1273,16 +1273,16 @@ msgid "Trace"
 msgstr "Rastro"
 
 msgid "Trace into"
-msgstr ""
+msgstr "Trace into"
 
 msgid "Trace over"
-msgstr ""
+msgstr "Trace over"
 
 msgid "Tree"
 msgstr "Árvore"
 
 msgid "Trojan"
-msgstr ""
+msgstr "Trojan"
 
 msgid "Two operands"
 msgstr "Dois operadores"
@@ -1297,7 +1297,7 @@ msgid "Unpack"
 msgstr "Unpack"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "Não assinado"
 
 msgid "Update information"
 msgstr "Informações do Update"
@@ -1348,7 +1348,7 @@ msgid "Virtual size"
 msgstr "Tamanho Virtual"
 
 msgid "Virus"
-msgstr ""
+msgstr "Vírus"
 
 msgid "Visualization"
 msgstr "Visualização"
@@ -1378,7 +1378,7 @@ msgid "extender"
 msgstr "extensor"
 
 msgid "false"
-msgstr ""
+msgstr "false"
 
 msgid "kB"
 msgstr "kB"
@@ -1399,4 +1399,4 @@ msgid "protection"
 msgstr "proteção"
 
 msgid "true"
-msgstr ""
+msgstr "true"
