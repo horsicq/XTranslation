@@ -88,13 +88,13 @@ msgid "Archive record"
 msgstr "存档记录"
 
 msgid "Are you sure?"
-msgstr "你确定吗？"
+msgstr ""
 
 msgid "Array"
 msgstr "数组"
 
 msgid "Arrows"
-msgstr "箭头"
+msgstr ""
 
 msgid "Attach"
 msgstr "附加"
@@ -106,10 +106,10 @@ msgid "Automatic"
 msgstr "自动"
 
 msgid "Background"
-msgstr "背景"
+msgstr ""
 
 msgid "Base address"
-msgstr "基址（BA）"
+msgstr "基址"
 
 msgid "Begin"
 msgstr "开始"
@@ -121,19 +121,19 @@ msgid "Binding"
 msgstr "捆绑"
 
 msgid "Bits"
-msgstr "位"
+msgstr ""
 
 msgid "Block size"
-msgstr "块大小"
+msgstr ""
 
 msgid "Bookmark"
-msgstr "书签"
+msgstr ""
 
 msgid "Bookmarks"
-msgstr "书签集"
+msgstr ""
 
 msgid "Boot application"
-msgstr "引导应用程序"
+msgstr "启动应用程序"
 
 msgid "Boot service driver"
 msgstr "引导服务驱动程序"
@@ -145,7 +145,7 @@ msgid "Breakpoint"
 msgstr "断点"
 
 msgid "Breakpoints"
-msgstr "断点集"
+msgstr "断点"
 
 msgid "Bugreports"
 msgstr "错误报告"
@@ -181,7 +181,7 @@ msgid "Cancel"
 msgstr "取消"
 
 msgid "Cannot find file"
-msgstr "无法获取 文件"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr "无法获取 PDB 年龄"
@@ -214,7 +214,7 @@ msgid "Cannot read memory at address"
 msgstr "无法读取地址处的内存"
 
 msgid "Cannot resize"
-msgstr "无法调整大小"
+msgstr ""
 
 msgid "Cannot save file"
 msgstr "无法保存文件"
@@ -235,13 +235,13 @@ msgid "Clear"
 msgstr "清除"
 
 msgid "Clear result"
-msgstr "清除结果"
+msgstr ""
 
 msgid "Close"
 msgstr "关闭"
 
 msgid "Code"
-msgstr "代码"
+msgstr ""
 
 msgid "Code pages"
 msgstr "代码页"
@@ -250,7 +250,7 @@ msgid "Code section"
 msgstr "代码段"
 
 msgid "Color"
-msgstr "颜色"
+msgstr ""
 
 msgid "Colors"
 msgstr "颜色"
@@ -265,7 +265,7 @@ msgid "Compiler"
 msgstr "编译器"
 
 msgid "Conditional"
-msgstr "条件从句"
+msgstr ""
 
 msgid "Console"
 msgstr "控制台"
@@ -286,7 +286,7 @@ msgid "Create view model"
 msgstr "创建视图模型"
 
 msgid "Crypter"
-msgstr "密码器"
+msgstr ""
 
 msgid "Cryptor"
 msgstr "加密库"
@@ -295,13 +295,13 @@ msgid "Cursor"
 msgstr "光标"
 
 msgid "Custom database"
-msgstr "自定义数据库"
+msgstr ""
 
 msgid "Data"
 msgstr "数据"
 
 msgid "Data convertor"
-msgstr "数据转换器"
+msgstr ""
 
 msgid "Data in code"
 msgstr "代码中的数据"
@@ -322,13 +322,13 @@ msgid "Debug data"
 msgstr "调试数据"
 
 msgid "Debug registers"
-msgstr "调试寄存器"
+msgstr ""
 
 msgid "Debugger"
 msgstr "调试器"
 
 msgid "Decode"
-msgstr "解码"
+msgstr ""
 
 msgid "Deep scan"
 msgstr "深度扫描"
@@ -349,7 +349,7 @@ msgid "Detach"
 msgstr "分离"
 
 msgid "Detect"
-msgstr "检测"
+msgstr ""
 
 msgid "Device"
 msgstr "设备"
@@ -397,10 +397,10 @@ msgid "Editor"
 msgstr "编辑器"
 
 msgid "Elapsed"
-msgstr "经过"
+msgstr ""
 
 msgid "Encode"
-msgstr "编码"
+msgstr ""
 
 msgid "End"
 msgstr "结束"
@@ -496,10 +496,10 @@ msgid "Fix types"
 msgstr "修复类型"
 
 msgid "Flags"
-msgstr "标志"
+msgstr "标志寄存器"
 
 msgid "Flags register"
-msgstr "标志寄存器"
+msgstr ""
 
 msgid "Folder"
 msgstr "文件夹"
@@ -508,7 +508,7 @@ msgid "Follow in"
 msgstr "跟进"
 
 msgid "Follow me"
-msgstr "跟我"
+msgstr ""
 
 msgid "Font"
 msgstr "字体"
@@ -526,10 +526,10 @@ msgid "Full screen"
 msgstr "全屏"
 
 msgid "Function enter"
-msgstr "函数入口"
+msgstr ""
 
 msgid "Function leave"
-msgstr "函数返回"
+msgstr ""
 
 msgid "Functions"
 msgstr "函数"
@@ -538,7 +538,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "General registers"
-msgstr "通用寄存器"
+msgstr ""
 
 msgid "Generic"
 msgstr "通用"
@@ -559,7 +559,7 @@ msgid "Go to address"
 msgstr "转到地址"
 
 msgid "Go to download page?"
-msgstr "前往下载页面？"
+msgstr "进入下载页面"
 
 msgid "Grid"
 msgstr "网格"
@@ -568,7 +568,7 @@ msgid "Handles"
 msgstr "句柄"
 
 msgid "Hardware"
-msgstr "硬件"
+msgstr ""
 
 msgid "Hash"
 msgstr "哈希"
@@ -577,7 +577,7 @@ msgid "Header"
 msgstr "文件头"
 
 msgid "Height"
-msgstr "高度"
+msgstr ""
 
 msgid "Help"
 msgstr "帮助"
@@ -598,7 +598,7 @@ msgid "Highlight"
 msgstr "高亮"
 
 msgid "Highlights"
-msgstr "高亮"
+msgstr ""
 
 msgid "Image"
 msgstr "镜像"
@@ -631,7 +631,7 @@ msgid "Installer data"
 msgstr "安装程序数据"
 
 msgid "Instruction pointer register"
-msgstr "指令指针寄存器"
+msgstr ""
 
 msgid "Interpreter"
 msgstr "解释器"
@@ -646,7 +646,7 @@ msgid "Invalid signature"
 msgstr "无效的签名"
 
 msgid "Invalid size"
-msgstr "无效的大小"
+msgstr ""
 
 msgid "Issuer"
 msgstr "发行人"
@@ -700,7 +700,7 @@ msgid "Links"
 msgstr "链接"
 
 msgid "List"
-msgstr "列表"
+msgstr ""
 
 msgid "Load config"
 msgstr "加载配置"
@@ -709,7 +709,7 @@ msgid "Local relocation"
 msgstr "局部重定位"
 
 msgid "Location"
-msgstr "定位"
+msgstr ""
 
 msgid "Log"
 msgstr "日志"
@@ -721,10 +721,10 @@ msgid "MainWindow"
 msgstr "主窗口"
 
 msgid "Malware"
-msgstr "恶意软件"
+msgstr ""
 
 msgid "Manifest"
-msgstr "清单文件"
+msgstr "显示"
 
 msgid "Match case"
 msgstr "区分大小写"
@@ -763,7 +763,7 @@ msgid "More info"
 msgstr "更多信息"
 
 msgid "Multisearch"
-msgstr "多重搜索"
+msgstr ""
 
 msgid "Name"
 msgstr "名称"
@@ -772,7 +772,7 @@ msgid "Network error"
 msgstr "网络错误"
 
 msgid "New"
-msgstr "新"
+msgstr ""
 
 msgid "New version available"
 msgstr "发现新版本"
@@ -790,10 +790,10 @@ msgid "Nothing found"
 msgstr "未找到"
 
 msgid "Number"
-msgstr "数字"
+msgstr ""
 
 msgid "Numbers"
-msgstr "数字"
+msgstr ""
 
 msgid "OK"
 msgstr "确定"
@@ -919,7 +919,7 @@ msgid "Ref to"
 msgstr "引用至"
 
 msgid "References"
-msgstr "引用"
+msgstr ""
 
 msgid "Region"
 msgstr "区域"
@@ -931,13 +931,13 @@ msgid "Register"
 msgstr "寄存器"
 
 msgid "Registers"
-msgstr "寄存器"
+msgstr ""
 
 msgid "Relative address"
-msgstr "相对地址（RA）"
+msgstr "相对地址(RA)"
 
 msgid "Relative virtual address"
-msgstr "相对虚拟地址（RVA）"
+msgstr "相对虚拟地址(RVA)"
 
 msgid "Reload"
 msgstr "重新加载"
@@ -952,7 +952,7 @@ msgid "Rescan"
 msgstr "重新扫描"
 
 msgid "Resize"
-msgstr "调整"
+msgstr ""
 
 msgid "Resource"
 msgstr "资源"
@@ -967,7 +967,7 @@ msgid "Result"
 msgstr "结果"
 
 msgid "Rules"
-msgstr "规则"
+msgstr ""
 
 msgid "Run"
 msgstr "运行"
@@ -1012,7 +1012,7 @@ msgid "Scan after open"
 msgstr "打开后扫描"
 
 msgid "Script"
-msgstr "脚本"
+msgstr ""
 
 msgid "Search"
 msgstr "搜索"
@@ -1042,7 +1042,7 @@ msgid "Segment"
 msgstr "段"
 
 msgid "Segment registers"
-msgstr "段寄存器"
+msgstr ""
 
 msgid "Segments"
 msgstr "段"
@@ -1054,7 +1054,7 @@ msgid "Select all"
 msgstr "全选"
 
 msgid "Selected"
-msgstr "已选择"
+msgstr ""
 
 msgid "Selection"
 msgstr "选区"
@@ -1090,16 +1090,16 @@ msgid "Show logo"
 msgstr "显示徽标"
 
 msgid "Show options"
-msgstr "显示选项"
+msgstr ""
 
 msgid "Show type"
-msgstr "显示类型"
+msgstr ""
 
 msgid "Show valid"
 msgstr "显示有效项"
 
 msgid "Show version"
-msgstr "显示版本"
+msgstr ""
 
 msgid "Sign tool"
 msgstr "签名工具"
@@ -1111,7 +1111,7 @@ msgid "Signatures"
 msgstr "签名"
 
 msgid "Signed"
-msgstr "已签名"
+msgstr ""
 
 msgid "Single application"
 msgstr "单个应用程序"
@@ -1138,7 +1138,7 @@ msgid "Stack"
 msgstr "栈"
 
 msgid "Stack registers"
-msgstr "栈寄存器"
+msgstr ""
 
 msgid "Start"
 msgstr "开始"
@@ -1174,7 +1174,7 @@ msgid "Struct"
 msgstr "结构体"
 
 msgid "Struct and unions"
-msgstr "结构体和联合体"
+msgstr "结构体和共用体"
 
 msgid "Structs"
 msgstr "结构"
@@ -1249,7 +1249,7 @@ msgid "TiB"
 msgstr "TiB"
 
 msgid "Time"
-msgstr "时间"
+msgstr ""
 
 msgid "Time date stamp"
 msgstr "时间戳"
@@ -1273,16 +1273,16 @@ msgid "Trace"
 msgstr "跟踪"
 
 msgid "Trace into"
-msgstr "跟踪进入"
+msgstr ""
 
 msgid "Trace over"
-msgstr "跟踪越过"
+msgstr ""
 
 msgid "Tree"
 msgstr "目录"
 
 msgid "Trojan"
-msgstr "木马"
+msgstr ""
 
 msgid "Two operands"
 msgstr "两个操作数"
@@ -1294,16 +1294,16 @@ msgid "Unknown"
 msgstr "未知"
 
 msgid "Unpack"
-msgstr "解包"
+msgstr ""
 
 msgid "Unsigned"
-msgstr "未签名"
+msgstr ""
 
 msgid "Update information"
-msgstr "更新信息"
+msgstr ""
 
 msgid "Upload the file for analyze?"
-msgstr "上传这个文件以进行分析？"
+msgstr "上传这个文件进行分析？"
 
 msgid "Upper"
 msgstr "顶部"
@@ -1339,7 +1339,7 @@ msgid "Viewer"
 msgstr "查看器"
 
 msgid "Virtual address"
-msgstr "虚拟地址（VA）"
+msgstr "虚拟地址"
 
 msgid "Virtual machine"
 msgstr "虚拟机"
@@ -1348,10 +1348,10 @@ msgid "Virtual size"
 msgstr "虚拟大小"
 
 msgid "Virus"
-msgstr "病毒"
+msgstr ""
 
 msgid "Visualization"
-msgstr "可视化"
+msgstr ""
 
 msgid "Weak binding"
 msgstr "弱绑定"
@@ -1378,7 +1378,7 @@ msgid "extender"
 msgstr "扩展器"
 
 msgid "false"
-msgstr "false"
+msgstr ""
 
 msgid "kB"
 msgstr "kB"
@@ -1399,4 +1399,4 @@ msgid "protection"
 msgstr "防护"
 
 msgid "true"
-msgstr "true"
+msgstr ""
