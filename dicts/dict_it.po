@@ -64,7 +64,7 @@ msgid "Allocation base"
 msgstr "Base di assegnazione"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "Flags di assegnazione"
 
 msgid "Analyze"
 msgstr "Analizza"
@@ -121,10 +121,10 @@ msgid "Binding"
 msgstr "Legame"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Block size"
-msgstr ""
+msgstr "Dimensione blocco"
 
 msgid "Bookmark"
 msgstr "Segnalibro"
@@ -286,7 +286,7 @@ msgid "Create view model"
 msgstr "Crea modello vista"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Crypter"
 
 msgid "Cryptor"
 msgstr "Cryptor"
@@ -568,7 +568,7 @@ msgid "Handles"
 msgstr "Handles"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 msgid "Hash"
 msgstr "Hash"
@@ -763,7 +763,7 @@ msgid "More info"
 msgstr "Ulteriori informazioni"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Ricerca multipla"
 
 msgid "Name"
 msgstr "Nome"
@@ -931,7 +931,7 @@ msgid "Register"
 msgstr "Registra"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registri"
 
 msgid "Relative address"
 msgstr "Indirizzo relativo"
@@ -1012,7 +1012,7 @@ msgid "Scan after open"
 msgstr "Scansiona dopo l'apertura"
 
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 msgid "Search"
 msgstr "Cerca"
@@ -1297,7 +1297,7 @@ msgid "Unpack"
 msgstr "Disimballa"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "Senza segno"
 
 msgid "Update information"
 msgstr "Aggiorna informazione"
