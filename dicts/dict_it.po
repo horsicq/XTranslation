@@ -61,10 +61,10 @@ msgid "All types"
 msgstr "Tutti i tipi"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "Base di assegnazione"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "Flags di assegnazione"
 
 msgid "Analyze"
 msgstr "Analizza"
@@ -88,13 +88,13 @@ msgid "Archive record"
 msgstr "Voce di archivio"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Sei sicuro?"
 
 msgid "Array"
 msgstr "Vettore"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Frecce"
 
 msgid "Attach"
 msgstr "Allegare"
@@ -106,7 +106,7 @@ msgid "Automatic"
 msgstr "Automatico"
 
 msgid "Background"
-msgstr ""
+msgstr "Sfondo"
 
 msgid "Base address"
 msgstr "Indirizzo base"
@@ -121,10 +121,10 @@ msgid "Binding"
 msgstr "Legame"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Block size"
-msgstr ""
+msgstr "Dimensione blocco"
 
 msgid "Bookmark"
 msgstr "Segnalibro"
@@ -181,7 +181,7 @@ msgid "Cancel"
 msgstr "Annulla"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Impossibile trovare il file"
 
 msgid "Cannot get PDB age"
 msgstr "Impossibile ottenere l'età PDB"
@@ -214,7 +214,7 @@ msgid "Cannot read memory at address"
 msgstr "Impossibile leggere la memoria all'indirizzo"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Impossibile ridimensionare"
 
 msgid "Cannot save file"
 msgstr "Impossibile salvare il file"
@@ -235,22 +235,22 @@ msgid "Clear"
 msgstr "Pulisci"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Pulisci risultato"
 
 msgid "Close"
 msgstr "Chiudi"
 
 msgid "Code"
-msgstr ""
+msgstr "Codice"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Pagine di codice"
 
 msgid "Code section"
 msgstr "Sezione codice"
 
 msgid "Color"
-msgstr ""
+msgstr "Colore"
 
 msgid "Colors"
 msgstr "Colori"
@@ -265,7 +265,7 @@ msgid "Compiler"
 msgstr "Compilatore"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Condizionale"
 
 msgid "Console"
 msgstr "Console"
@@ -286,7 +286,7 @@ msgid "Create view model"
 msgstr "Crea modello vista"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Crypter"
 
 msgid "Cryptor"
 msgstr "Cryptor"
@@ -295,13 +295,13 @@ msgid "Cursor"
 msgstr "Cursore"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Database personalizzato"
 
 msgid "Data"
 msgstr "Dati"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Convertitore dati"
 
 msgid "Data in code"
 msgstr "Dati nel codice"
@@ -328,7 +328,7 @@ msgid "Debugger"
 msgstr "Debugger"
 
 msgid "Decode"
-msgstr ""
+msgstr "Decodifica"
 
 msgid "Deep scan"
 msgstr "Scansione approfondita"
@@ -349,7 +349,7 @@ msgid "Detach"
 msgstr "Stacca"
 
 msgid "Detect"
-msgstr ""
+msgstr "Rileva"
 
 msgid "Device"
 msgstr "Dispositivo"
@@ -397,10 +397,10 @@ msgid "Editor"
 msgstr "Editor"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Trascorso"
 
 msgid "Encode"
-msgstr ""
+msgstr "Codifica"
 
 msgid "End"
 msgstr "Fine"
@@ -568,7 +568,7 @@ msgid "Handles"
 msgstr "Handles"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 msgid "Hash"
 msgstr "Hash"
@@ -577,7 +577,7 @@ msgid "Header"
 msgstr "Intestazione"
 
 msgid "Height"
-msgstr ""
+msgstr "Altezza"
 
 msgid "Help"
 msgstr "Aiuto"
@@ -598,7 +598,7 @@ msgid "Highlight"
 msgstr "Evidenzia"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Evidenziazioni"
 
 msgid "Image"
 msgstr "Immagine"
@@ -646,7 +646,7 @@ msgid "Invalid signature"
 msgstr "Firma non valida"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Dimensione non valida"
 
 msgid "Issuer"
 msgstr "Emittente"
@@ -709,7 +709,7 @@ msgid "Local relocation"
 msgstr "Trasferimento locale"
 
 msgid "Location"
-msgstr ""
+msgstr "Posizione"
 
 msgid "Log"
 msgstr "Registro"
@@ -763,7 +763,7 @@ msgid "More info"
 msgstr "Ulteriori informazioni"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Ricerca multipla"
 
 msgid "Name"
 msgstr "Nome"
@@ -790,10 +790,10 @@ msgid "Nothing found"
 msgstr "Nessun risultato"
 
 msgid "Number"
-msgstr ""
+msgstr "Numero"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Numeri"
 
 msgid "OK"
 msgstr "OK"
@@ -931,7 +931,7 @@ msgid "Register"
 msgstr "Registra"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registri"
 
 msgid "Relative address"
 msgstr "Indirizzo relativo"
@@ -952,7 +952,7 @@ msgid "Rescan"
 msgstr "Scansiona di nuovo"
 
 msgid "Resize"
-msgstr ""
+msgstr "Ridimensiona"
 
 msgid "Resource"
 msgstr "Risorsa"
@@ -967,7 +967,7 @@ msgid "Result"
 msgstr "Risultato"
 
 msgid "Rules"
-msgstr ""
+msgstr "Regole"
 
 msgid "Run"
 msgstr "Esegui"
@@ -1012,7 +1012,7 @@ msgid "Scan after open"
 msgstr "Scansiona dopo l'apertura"
 
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 msgid "Search"
 msgstr "Cerca"
@@ -1054,7 +1054,7 @@ msgid "Select all"
 msgstr "Seleziona tutto"
 
 msgid "Selected"
-msgstr ""
+msgstr "Selezionato"
 
 msgid "Selection"
 msgstr "Selezione"
@@ -1090,16 +1090,16 @@ msgid "Show logo"
 msgstr "Mostra logo"
 
 msgid "Show options"
-msgstr ""
+msgstr "Mostra opzioni"
 
 msgid "Show type"
-msgstr ""
+msgstr "Mostra tipo"
 
 msgid "Show valid"
 msgstr "Mostra valide"
 
 msgid "Show version"
-msgstr ""
+msgstr "Mostra versione"
 
 msgid "Sign tool"
 msgstr "Strumento firma"
@@ -1111,7 +1111,7 @@ msgid "Signatures"
 msgstr "Firme"
 
 msgid "Signed"
-msgstr ""
+msgstr "Firmato"
 
 msgid "Single application"
 msgstr "Applicazione singola"
@@ -1141,7 +1141,7 @@ msgid "Stack registers"
 msgstr ""
 
 msgid "Start"
-msgstr ""
+msgstr "Inizio"
 
 msgid "State"
 msgstr "Stato"
@@ -1249,7 +1249,7 @@ msgid "TiB"
 msgstr "TiB"
 
 msgid "Time"
-msgstr ""
+msgstr "Tempo"
 
 msgid "Time date stamp"
 msgstr "Timbro data e ora"
@@ -1297,7 +1297,7 @@ msgid "Unpack"
 msgstr "Disimballa"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "Senza segno"
 
 msgid "Update information"
 msgstr "Aggiorna informazione"
