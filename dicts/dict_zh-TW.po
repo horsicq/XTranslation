@@ -7,34 +7,34 @@ msgstr ""
 "X-Language: zh_TW\n"
 
 msgid "128-bit"
-msgstr "128 位"
+msgstr "128位"
 
 msgid "16-bit"
-msgstr "16 位"
+msgstr "16位"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256位"
 
 msgid "32-bit"
 msgstr "32位"
 
 msgid "64-bit"
-msgstr "64 位"
+msgstr "64位"
 
 msgid "8-bit"
-msgstr "8 位"
+msgstr "8位"
 
 msgid "API key"
-msgstr ""
+msgstr "API金鑰"
 
 msgid "About"
 msgstr "關於"
 
 msgid "Action"
-msgstr "行動"
+msgstr "行為"
 
 msgid "Add"
-msgstr ""
+msgstr "添加"
 
 msgid "Add alignment"
 msgstr "添加對齊"
@@ -46,7 +46,7 @@ msgid "Address"
 msgstr "位址"
 
 msgid "Advanced"
-msgstr ""
+msgstr "進階"
 
 msgid "Algorithm"
 msgstr "算法"
@@ -61,16 +61,16 @@ msgid "All types"
 msgstr "所有類型"
 
 msgid "Allocation base"
-msgstr ""
+msgstr "分配基底"
 
 msgid "Allocation flags"
-msgstr ""
+msgstr "分配旗標"
 
 msgid "Analyze"
 msgstr "分析"
 
 msgid "Animate"
-msgstr ""
+msgstr "動畫"
 
 msgid "Appearance"
 msgstr "外觀"
@@ -88,25 +88,25 @@ msgid "Archive record"
 msgstr "存檔記錄"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "你確定嗎？"
 
 msgid "Array"
 msgstr "大批"
 
 msgid "Arrows"
-msgstr ""
+msgstr "箭頭"
 
 msgid "Attach"
 msgstr "附"
 
 msgid "Audio"
-msgstr ""
+msgstr "音頻"
 
 msgid "Automatic"
 msgstr "自動"
 
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 msgid "Base address"
 msgstr "基底位址"
@@ -121,16 +121,16 @@ msgid "Binding"
 msgstr "捆綁"
 
 msgid "Bits"
-msgstr ""
+msgstr "位元"
 
 msgid "Block size"
-msgstr ""
+msgstr "代碼塊大小"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "書籤"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "書籤"
 
 msgid "Boot application"
 msgstr "啟動應用程序"
@@ -142,7 +142,7 @@ msgid "Bound import"
 msgstr "綁定導入"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "斷點"
 
 msgid "Breakpoints"
 msgstr "斷點"
@@ -157,10 +157,10 @@ msgid "Bytes"
 msgstr "位元組"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "可使用的位元組"
 
 msgid "C Strings"
-msgstr ""
+msgstr "C字串"
 
 msgid "CPU"
 msgstr "中央處理器"
@@ -172,16 +172,16 @@ msgid "Callbacks"
 msgstr "回調"
 
 msgid "Calls"
-msgstr "通話"
+msgstr "呼叫"
 
 msgid "Callstack"
-msgstr ""
+msgstr "呼叫堆疊"
 
 msgid "Cancel"
 msgstr "取消"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "找不到檔案"
 
 msgid "Cannot get PDB age"
 msgstr "無法獲取 PDB 年齡"
@@ -190,7 +190,7 @@ msgid "Cannot get PDB name"
 msgstr "無法獲取 PDB 名稱"
 
 msgid "Cannot load MSDIA library"
-msgstr ""
+msgstr "無法讀取 MSDIA 函式庫"
 
 msgid "Cannot load data from PDB"
 msgstr "無法從 PDB 加載數據"
@@ -199,7 +199,7 @@ msgid "Cannot load database"
 msgstr "無法加載數據庫"
 
 msgid "Cannot load driver"
-msgstr ""
+msgstr "無法加載驅動程式"
 
 msgid "Cannot load file"
 msgstr "無法加載文件"
@@ -214,7 +214,7 @@ msgid "Cannot read memory at address"
 msgstr "無法讀取地址處的內存"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "無法縮放大小"
 
 msgid "Cannot save file"
 msgstr "無法保存檔案"
@@ -235,25 +235,25 @@ msgid "Clear"
 msgstr "清除"
 
 msgid "Clear result"
-msgstr ""
+msgstr "清除結果"
 
 msgid "Close"
 msgstr "關閉"
 
 msgid "Code"
-msgstr ""
+msgstr "代碼"
 
 msgid "Code pages"
-msgstr ""
+msgstr "頁碼"
 
 msgid "Code section"
 msgstr "代碼段"
 
 msgid "Color"
-msgstr ""
+msgstr "顏色"
 
 msgid "Colors"
-msgstr ""
+msgstr "顏色"
 
 msgid "Commands"
 msgstr "指令"
@@ -265,10 +265,10 @@ msgid "Compiler"
 msgstr "編譯器"
 
 msgid "Conditional"
-msgstr ""
+msgstr "條件化"
 
 msgid "Console"
-msgstr "安慰"
+msgstr "系統控制臺"
 
 msgid "Converter"
 msgstr "轉換器"
@@ -295,25 +295,25 @@ msgid "Cursor"
 msgstr "目前位址"
 
 msgid "Custom database"
-msgstr ""
+msgstr "自訂資料庫"
 
 msgid "Data"
-msgstr "數據"
+msgstr "資料"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "資料轉換器"
 
 msgid "Data in code"
-msgstr "代碼中的數據"
+msgstr "代碼中的資料"
 
 msgid "Data inspector"
-msgstr ""
+msgstr "資料檢驗器"
 
 msgid "Database"
 msgstr "資料庫"
 
 msgid "Date"
-msgstr ""
+msgstr "日期"
 
 msgid "Debug"
 msgstr "除錯"
@@ -322,13 +322,13 @@ msgid "Debug data"
 msgstr "調試數據"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "調試暫存器"
 
 msgid "Debugger"
 msgstr "除錯器"
 
 msgid "Decode"
-msgstr ""
+msgstr "解碼"
 
 msgid "Deep scan"
 msgstr "深層掃描"
@@ -349,16 +349,16 @@ msgid "Detach"
 msgstr "分離"
 
 msgid "Detect"
-msgstr ""
+msgstr "偵測"
 
 msgid "Device"
-msgstr ""
+msgstr "裝置"
 
 msgid "Device scan"
 msgstr "裝置掃描"
 
 msgid "Diagram"
-msgstr ""
+msgstr "圖表"
 
 msgid "Directory"
 msgstr "目錄"
@@ -385,7 +385,7 @@ msgid "Dump"
 msgstr "轉存"
 
 msgid "Dump all"
-msgstr ""
+msgstr "全部轉存"
 
 msgid "Dump to file"
 msgstr "轉存到檔案"
@@ -394,16 +394,16 @@ msgid "Edit"
 msgstr "編輯"
 
 msgid "Editor"
-msgstr ""
+msgstr "編輯器"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "經過時間"
 
 msgid "Encode"
-msgstr ""
+msgstr "編碼"
 
 msgid "End"
-msgstr ""
+msgstr "結束"
 
 msgid "Endianness"
 msgstr "位元組順序"
@@ -439,22 +439,22 @@ msgid "External references"
 msgstr "外部參考"
 
 msgid "Extract"
-msgstr ""
+msgstr "擷取"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "擷取所有游標"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "擷取所有圖標"
 
 msgid "Extractor"
-msgstr ""
+msgstr "擷取器"
 
 msgid "File"
 msgstr "檔案"
 
 msgid "File info"
-msgstr ""
+msgstr "檔案內容"
 
 msgid "File name"
 msgstr "檔名"
@@ -469,7 +469,7 @@ msgid "File scan"
 msgstr "檔案掃描"
 
 msgid "File size"
-msgstr ""
+msgstr "檔案大小"
 
 msgid "File type"
 msgstr "檔案類型"
@@ -496,13 +496,13 @@ msgid "Fix types"
 msgstr "修復類型"
 
 msgid "Flags"
-msgstr "標記"
+msgstr "旗標"
 
 msgid "Flags register"
-msgstr ""
+msgstr "旗標暫存器"
 
 msgid "Folder"
-msgstr ""
+msgstr "資料夾"
 
 msgid "Follow in"
 msgstr ""
@@ -523,34 +523,34 @@ msgid "Format"
 msgstr "格式"
 
 msgid "Full screen"
-msgstr ""
+msgstr "全螢幕"
 
 msgid "Function enter"
-msgstr ""
+msgstr "函式起點"
 
 msgid "Function leave"
-msgstr ""
+msgstr "函式終點"
 
 msgid "Functions"
-msgstr "職能"
+msgstr "函式"
 
 msgid "GB"
-msgstr "國標"
+msgstr "GB"
 
 msgid "General registers"
-msgstr ""
+msgstr "通用暫存器"
 
 msgid "Generic"
 msgstr "通用"
 
 msgid "Get"
-msgstr ""
+msgstr "獲取"
 
 msgid "Get element"
 msgstr "獲取元素"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid "Go to"
 msgstr "跳至"
@@ -559,16 +559,16 @@ msgid "Go to address"
 msgstr "跳至位址"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "要跳轉至下載頁面嗎？"
 
 msgid "Grid"
-msgstr ""
+msgstr "網格"
 
 msgid "Handles"
-msgstr "把手"
+msgstr "控制代碼"
 
 msgid "Hardware"
-msgstr ""
+msgstr "硬體"
 
 msgid "Hash"
 msgstr "雜湊值"
@@ -577,7 +577,7 @@ msgid "Header"
 msgstr "標頭"
 
 msgid "Height"
-msgstr ""
+msgstr "高度"
 
 msgid "Help"
 msgstr "幫助"
@@ -595,10 +595,10 @@ msgid "Hex signature"
 msgstr "十六進制簽名"
 
 msgid "Highlight"
-msgstr ""
+msgstr "標記"
 
 msgid "Highlights"
-msgstr ""
+msgstr "標記"
 
 msgid "Image"
 msgstr "映像檔"
@@ -622,7 +622,7 @@ msgid "Information"
 msgstr "資訊"
 
 msgid "Input"
-msgstr ""
+msgstr "輸入"
 
 msgid "Installer"
 msgstr "安裝程序"
@@ -631,7 +631,7 @@ msgid "Installer data"
 msgstr "安裝人員數據"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "指令指標暫存器"
 
 msgid "Interpreter"
 msgstr "口譯員"
@@ -640,13 +640,13 @@ msgid "Invalid"
 msgstr "無效"
 
 msgid "Invalid opcode"
-msgstr "無效"
+msgstr "無效的操作碼"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "無效的簽證"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "大小無效"
 
 msgid "Issuer"
 msgstr "發行人"
@@ -661,13 +661,13 @@ msgid "Jumps"
 msgstr "跳數"
 
 msgid "Keep size"
-msgstr ""
+msgstr "保持相同的大小"
 
 msgid "Kernel mode"
-msgstr ""
+msgstr "核心模式"
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Label"
 msgstr "標簽"
@@ -697,10 +697,10 @@ msgid "Linker"
 msgstr "鏈接器"
 
 msgid "Links"
-msgstr ""
+msgstr "連結"
 
 msgid "List"
-msgstr ""
+msgstr "列表"
 
 msgid "Load config"
 msgstr "加載配置"
@@ -709,7 +709,7 @@ msgid "Local relocation"
 msgstr "本地搬遷"
 
 msgid "Location"
-msgstr ""
+msgstr "位置"
 
 msgid "Log"
 msgstr "日誌"
@@ -721,7 +721,7 @@ msgid "MainWindow"
 msgstr "主窗口"
 
 msgid "Malware"
-msgstr ""
+msgstr "惡意軟體"
 
 msgid "Manifest"
 msgstr "資訊"
@@ -748,13 +748,13 @@ msgid "Method"
 msgstr "方法"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Mode"
 msgstr "模式"
 
 msgid "Module"
-msgstr ""
+msgstr "模塊"
 
 msgid "Modules"
 msgstr "模塊"
@@ -763,58 +763,58 @@ msgid "More info"
 msgstr "更多信息"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "多重搜尋"
 
 msgid "Name"
 msgstr "名稱"
 
 msgid "Network error"
-msgstr ""
+msgstr "網路錯誤"
 
 msgid "New"
-msgstr ""
+msgstr "新"
 
 msgid "New version available"
-msgstr ""
+msgstr "有可用的新版本"
 
 msgid "Next"
-msgstr ""
+msgstr "下一個"
 
 msgid "No"
 msgstr "不"
 
 msgid "No update available"
-msgstr ""
+msgstr "無可用的更新"
 
 msgid "Nothing found"
 msgstr "沒有找到"
 
 msgid "Number"
-msgstr ""
+msgstr "數字"
 
 msgid "Numbers"
-msgstr ""
+msgstr "數字"
 
 msgid "OK"
 msgstr "確定"
 
 msgid "Object"
-msgstr "目的"
+msgstr "物件"
 
 msgid "Offset"
 msgstr "偏移"
 
 msgid "One operand"
-msgstr ""
+msgstr "一個運算元"
 
 msgid "Online tools"
-msgstr ""
+msgstr "線上工具"
 
 msgid "Opcode"
 msgstr "操作碼"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "操作碼組"
 
 msgid "Opcodes"
 msgstr "操作碼"
@@ -844,7 +844,7 @@ msgid "Pause"
 msgstr "暫停"
 
 msgid "Paused"
-msgstr ""
+msgstr "暫停"
 
 msgid "Player"
 msgstr "播放器"
@@ -856,7 +856,7 @@ msgid "Please run the program as an administrator"
 msgstr "請以管理員身份運行程序"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "請使用有效的API金鑰"
 
 msgid "Pointer"
 msgstr "指針"
@@ -904,7 +904,7 @@ msgid "Rebase"
 msgstr "變基"
 
 msgid "Recent files"
-msgstr ""
+msgstr "最近的檔案"
 
 msgid "Recursive"
 msgstr "遞迴"
@@ -919,7 +919,7 @@ msgid "Ref to"
 msgstr "提及於"
 
 msgid "References"
-msgstr ""
+msgstr "引用"
 
 msgid "Region"
 msgstr "地區"
@@ -928,10 +928,10 @@ msgid "Regions"
 msgstr "區域"
 
 msgid "Register"
-msgstr ""
+msgstr "暫存器"
 
 msgid "Registers"
-msgstr ""
+msgstr "暫存器"
 
 msgid "Relative address"
 msgstr "相對位址"
@@ -946,13 +946,13 @@ msgid "Relocs"
 msgstr "重新定位"
 
 msgid "Remove"
-msgstr ""
+msgstr "移除"
 
 msgid "Rescan"
-msgstr ""
+msgstr "重新掃描"
 
 msgid "Resize"
-msgstr ""
+msgstr "變更大小"
 
 msgid "Resource"
 msgstr "資源"
@@ -967,13 +967,13 @@ msgid "Result"
 msgstr "結果"
 
 msgid "Rules"
-msgstr ""
+msgstr "規則"
 
 msgid "Run"
 msgstr "執行"
 
 msgid "Running"
-msgstr ""
+msgstr "正在執行"
 
 msgid "Runtime driver"
 msgstr "運行時驅動程序"
@@ -982,7 +982,7 @@ msgid "Save"
 msgstr "保存"
 
 msgid "Save as"
-msgstr ""
+msgstr "另存新檔"
 
 msgid "Save backup"
 msgstr "保存備份"
@@ -997,7 +997,7 @@ msgid "Save file"
 msgstr "保存檔案"
 
 msgid "Save history"
-msgstr ""
+msgstr "保存紀錄"
 
 msgid "Save last directory"
 msgstr "保存最後一個路徑"
@@ -1012,7 +1012,7 @@ msgid "Scan after open"
 msgstr "打開後掃描"
 
 msgid "Script"
-msgstr ""
+msgstr "腳本"
 
 msgid "Search"
 msgstr "搜尋"
@@ -1027,7 +1027,7 @@ msgid "Search strings"
 msgstr "搜索字串"
 
 msgid "Search values"
-msgstr ""
+msgstr "搜尋值"
 
 msgid "Section"
 msgstr "部分"
@@ -1039,13 +1039,13 @@ msgid "Sections"
 msgstr "部分"
 
 msgid "Segment"
-msgstr "部分"
+msgstr "分段"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "分段暫存器"
 
 msgid "Segments"
-msgstr "細分市場"
+msgstr "分段"
 
 msgid "Select"
 msgstr "選擇"
@@ -1054,7 +1054,7 @@ msgid "Select all"
 msgstr "全選"
 
 msgid "Selected"
-msgstr ""
+msgstr "已選擇"
 
 msgid "Selection"
 msgstr "選擇"
@@ -1069,19 +1069,19 @@ msgid "Shortcuts"
 msgstr "捷徑"
 
 msgid "Show"
-msgstr "展示"
+msgstr "顯示"
 
 msgid "Show all"
-msgstr ""
+msgstr "顯示全部"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "在位址裡顯示冒號"
 
 msgid "Show comments"
 msgstr "顯示評論"
 
 msgid "Show detects"
-msgstr ""
+msgstr "顯示偵測"
 
 msgid "Show in"
 msgstr ""
@@ -1090,16 +1090,16 @@ msgid "Show logo"
 msgstr "顯示徽標"
 
 msgid "Show options"
-msgstr ""
+msgstr "顯示選項"
 
 msgid "Show type"
-msgstr ""
+msgstr "顯示型態"
 
 msgid "Show valid"
 msgstr "顯示有效"
 
 msgid "Show version"
-msgstr ""
+msgstr "顯示版本"
 
 msgid "Sign tool"
 msgstr "簽章工具"
@@ -1111,7 +1111,7 @@ msgid "Signatures"
 msgstr "簽章"
 
 msgid "Signed"
-msgstr ""
+msgstr "已簽章"
 
 msgid "Single application"
 msgstr "單一應用程式"
@@ -1135,16 +1135,16 @@ msgid "Spaces"
 msgstr "空格"
 
 msgid "Stack"
-msgstr "堆"
+msgstr "堆疊"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "堆疊暫存器"
 
 msgid "Start"
-msgstr ""
+msgstr "開始"
 
 msgid "State"
-msgstr ""
+msgstr "狀態"
 
 msgid "Status"
 msgstr "狀態"
@@ -1171,7 +1171,7 @@ msgid "Strings"
 msgstr "字串"
 
 msgid "Struct"
-msgstr ""
+msgstr "結構"
 
 msgid "Struct and unions"
 msgstr "結構體和工會"
@@ -1192,7 +1192,7 @@ msgid "Subject"
 msgstr "主題"
 
 msgid "Symbol"
-msgstr "象徵"
+msgstr "符號"
 
 msgid "Symbol table"
 msgstr "符號表"
@@ -1204,7 +1204,7 @@ msgid "Syntax"
 msgstr "句法"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Table"
 msgstr "表格"
@@ -1240,16 +1240,16 @@ msgid "The signature is present, but specifically disallowed"
 msgstr "簽名存在，但明確不允許"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "值已複製到剪貼版"
 
 msgid "Threads"
 msgstr "線程"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 msgid "Time date stamp"
 msgstr "時間日期戳"
@@ -1282,10 +1282,10 @@ msgid "Tree"
 msgstr "樹狀圖"
 
 msgid "Trojan"
-msgstr ""
+msgstr "木馬"
 
 msgid "Two operands"
-msgstr ""
+msgstr "兩個運算元"
 
 msgid "Type"
 msgstr "類型"
@@ -1294,43 +1294,43 @@ msgid "Unknown"
 msgstr "未知"
 
 msgid "Unpack"
-msgstr ""
+msgstr "解包"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "取消簽章"
 
 msgid "Update information"
-msgstr ""
+msgstr "更新資訊"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "要上傳檔案分析嗎？"
 
 msgid "Upper"
 msgstr "大寫"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "大寫"
 
 msgid "User mode"
-msgstr ""
+msgstr "使用者模式"
 
 msgid "Value"
 msgstr "值"
 
 msgid "Values"
-msgstr ""
+msgstr "值"
 
 msgid "Variable"
-msgstr "多變的"
+msgstr "變數"
 
 msgid "Verbose"
-msgstr ""
+msgstr "詳細模式"
 
 msgid "Version"
 msgstr "版本"
 
 msgid "Video"
-msgstr ""
+msgstr "影片"
 
 msgid "View"
 msgstr "看法"
@@ -1345,13 +1345,13 @@ msgid "Virtual machine"
 msgstr "虛擬機"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "虛擬大小"
 
 msgid "Virus"
-msgstr ""
+msgstr "病毒"
 
 msgid "Visualization"
-msgstr ""
+msgstr "虛擬化"
 
 msgid "Weak binding"
 msgstr "弱綁定"
@@ -1360,7 +1360,7 @@ msgid "Website"
 msgstr "網站"
 
 msgid "Width"
-msgstr ""
+msgstr "寬度"
 
 msgid "Wildcard"
 msgstr "任意符號"
@@ -1378,10 +1378,10 @@ msgid "extender"
 msgstr "擴展器"
 
 msgid "false"
-msgstr ""
+msgstr "false"
 
 msgid "kB"
-msgstr "千字節"
+msgstr "kB"
 
 msgid "msec"
 msgstr "毫秒"
@@ -1399,4 +1399,4 @@ msgid "protection"
 msgstr "保護"
 
 msgid "true"
-msgstr ""
+msgstr "true"
