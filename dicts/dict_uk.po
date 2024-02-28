@@ -35,7 +35,7 @@ msgid "Action"
 msgstr "Дія"
 
 msgid "Add"
-msgstr "Добавити"
+msgstr "Додати"
 
 msgid "Add alignment"
 msgstr "Додати вирівнювання"
@@ -137,7 +137,7 @@ msgid "Boot application"
 msgstr "Завантажувальна програма"
 
 msgid "Boot service driver"
-msgstr "Драйвер завантаження"
+msgstr "Драйвер служби завантаження"
 
 msgid "Bound import"
 msgstr "Зв'язаний імпорт"
