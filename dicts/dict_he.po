@@ -13,7 +13,7 @@ msgid "16-bit"
 msgstr "16 סיביות"
 
 msgid "256-bit"
-msgstr "256 סיביות"
+msgstr ""
 
 msgid "32-bit"
 msgstr "32 סיביות"
@@ -25,7 +25,7 @@ msgid "8-bit"
 msgstr "8 סיביות"
 
 msgid "API key"
-msgstr "מפתח API"
+msgstr ""
 
 msgid "About"
 msgstr "אודות"
@@ -34,7 +34,7 @@ msgid "Action"
 msgstr "פעולה"
 
 msgid "Add"
-msgstr "הוספה"
+msgstr ""
 
 msgid "Add alignment"
 msgstr "הוסף יישור"
@@ -46,7 +46,7 @@ msgid "Address"
 msgstr "כתובת"
 
 msgid "Advanced"
-msgstr "מתקדם"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "אַלגוֹרִיתְם"
@@ -61,16 +61,16 @@ msgid "All types"
 msgstr "כל הסוגים"
 
 msgid "Allocation base"
-msgstr "בסיס הקצאה"
+msgstr ""
 
 msgid "Allocation flags"
-msgstr "דגלי הקצאה"
+msgstr ""
 
 msgid "Analyze"
 msgstr "אבחן"
 
 msgid "Animate"
-msgstr "הנפשה"
+msgstr ""
 
 msgid "Appearance"
 msgstr "מראה"
@@ -88,25 +88,25 @@ msgid "Archive record"
 msgstr "רשומה"
 
 msgid "Are you sure?"
-msgstr "האם אתה בטוח?"
+msgstr ""
 
 msgid "Array"
 msgstr "מַעֲרָך"
 
 msgid "Arrows"
-msgstr "חצים"
+msgstr ""
 
 msgid "Attach"
 msgstr "לְצַרֵף"
 
 msgid "Audio"
-msgstr "אודיו"
+msgstr ""
 
 msgid "Automatic"
 msgstr "אוֹטוֹמָטִי"
 
 msgid "Background"
-msgstr "רקע"
+msgstr ""
 
 msgid "Base address"
 msgstr "כתובת בסיס"
@@ -121,16 +121,16 @@ msgid "Binding"
 msgstr "כריכה"
 
 msgid "Bits"
-msgstr "ביטים"
+msgstr ""
 
 msgid "Block size"
-msgstr "גודל בלוק"
+msgstr ""
 
 msgid "Bookmark"
-msgstr "סימניה"
+msgstr ""
 
 msgid "Bookmarks"
-msgstr "סימניות"
+msgstr ""
 
 msgid "Boot application"
 msgstr "יישום אתחול"
@@ -142,7 +142,7 @@ msgid "Bound import"
 msgstr "יבוא כבול"
 
 msgid "Breakpoint"
-msgstr "נקודות עצירה"
+msgstr ""
 
 msgid "Breakpoints"
 msgstr "נקודות שבירה"
@@ -157,10 +157,10 @@ msgid "Bytes"
 msgstr "בתים"
 
 msgid "Bytes available"
-msgstr "בייטים זמינים"
+msgstr ""
 
 msgid "C Strings"
-msgstr "חוטי C"
+msgstr ""
 
 msgid "CPU"
 msgstr "מעבד"
