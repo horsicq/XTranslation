@@ -89,7 +89,7 @@ msgid "Archive record"
 msgstr "ارشیو رکورد"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "آیا مطمئن هستید؟"
 
 msgid "Array"
 msgstr "ارایه"
@@ -107,7 +107,7 @@ msgid "Automatic"
 msgstr "خودکار"
 
 msgid "Background"
-msgstr ""
+msgstr "پس‌زمینه"
 
 msgid "Base address"
 msgstr ""
@@ -182,7 +182,7 @@ msgid "Cancel"
 msgstr "لغو"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "فایل پیدا نشد"
 
 msgid "Cannot get PDB age"
 msgstr ""
@@ -215,7 +215,7 @@ msgid "Cannot read memory at address"
 msgstr "نمیتوان حافظه را در این ادرس خواند"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "امکان تغییر سایز وجود ندارد"
 
 msgid "Cannot save file"
 msgstr "نمیتوان فایل را ذخیره کرد"
@@ -251,7 +251,7 @@ msgid "Code section"
 msgstr ""
 
 msgid "Color"
-msgstr ""
+msgstr "رنگ"
 
 msgid "Colors"
 msgstr "رنگ ها"
@@ -272,7 +272,7 @@ msgid "Console"
 msgstr "کنسول"
 
 msgid "Converter"
-msgstr ""
+msgstr "مبدل"
 
 msgid "Copy"
 msgstr "کپی"
@@ -293,7 +293,7 @@ msgid "Cryptor"
 msgstr ""
 
 msgid "Cursor"
-msgstr ""
+msgstr "نشانگر"
 
 msgid "Custom database"
 msgstr ""
@@ -329,7 +329,7 @@ msgid "Debugger"
 msgstr "دیباگر"
 
 msgid "Decode"
-msgstr ""
+msgstr "رمزگشایی"
 
 msgid "Deep scan"
 msgstr "اسکن عمیق"
@@ -410,7 +410,7 @@ msgid "Endianness"
 msgstr ""
 
 msgid "Entropy"
-msgstr ""
+msgstr "انتروپی"
 
 msgid "Entry point"
 msgstr "نقطه شروع"
@@ -467,7 +467,7 @@ msgid "File saved"
 msgstr "فایل ذخیره شد"
 
 msgid "File scan"
-msgstr ""
+msgstr "اسکن‌ فایل"
 
 msgid "File size"
 msgstr "حجم فایل"
@@ -491,7 +491,7 @@ msgid "Find next"
 msgstr "پیدا کردن بعدی"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "تصحیح آفست‌ها"
 
 msgid "Fix types"
 msgstr ""
@@ -533,7 +533,7 @@ msgid "Function leave"
 msgstr ""
 
 msgid "Functions"
-msgstr ""
+msgstr "فانکشن‌ها"
 
 msgid "GB"
 msgstr "گیگابایت"
@@ -569,7 +569,7 @@ msgid "Handles"
 msgstr ""
 
 msgid "Hardware"
-msgstr ""
+msgstr "سخت‌افزار"
 
 msgid "Hash"
 msgstr "هش"
@@ -635,7 +635,7 @@ msgid "Instruction pointer register"
 msgstr ""
 
 msgid "Interpreter"
-msgstr ""
+msgstr "مفسر"
 
 msgid "Invalid"
 msgstr "نامعتبر"
@@ -791,10 +791,10 @@ msgid "Nothing found"
 msgstr "چیزی پیدا نشد"
 
 msgid "Number"
-msgstr ""
+msgstr "عدد"
 
 msgid "Numbers"
-msgstr ""
+msgstr "اعداد"
 
 msgid "OK"
 msgstr "باشه"
@@ -803,7 +803,7 @@ msgid "Object"
 msgstr "شئ"
 
 msgid "Offset"
-msgstr ""
+msgstr "آفست"
 
 msgid "One operand"
 msgstr ""
@@ -908,7 +908,7 @@ msgid "Recent files"
 msgstr "فایل های جاری"
 
 msgid "Recursive"
-msgstr ""
+msgstr "بازگشتی"
 
 msgid "Recursive scan"
 msgstr ""
@@ -920,7 +920,7 @@ msgid "Ref to"
 msgstr ""
 
 msgid "References"
-msgstr ""
+msgstr "ارجاع‌ها"
 
 msgid "Region"
 msgstr "ریجن"
@@ -932,7 +932,7 @@ msgid "Register"
 msgstr "رجیستر"
 
 msgid "Registers"
-msgstr ""
+msgstr "رجیسترها"
 
 msgid "Relative address"
 msgstr "آدرس نسبی"
@@ -953,7 +953,7 @@ msgid "Rescan"
 msgstr "اسکن مجدد"
 
 msgid "Resize"
-msgstr ""
+msgstr "تغییر سایز"
 
 msgid "Resource"
 msgstr "منبع"
@@ -974,7 +974,7 @@ msgid "Run"
 msgstr "اجرا"
 
 msgid "Running"
-msgstr ""
+msgstr "در حال اجرا"
 
 msgid "Runtime driver"
 msgstr ""
@@ -1013,7 +1013,7 @@ msgid "Scan after open"
 msgstr "اسکن بعد از باز کردن"
 
 msgid "Script"
-msgstr ""
+msgstr "اسکریپت"
 
 msgid "Search"
 msgstr "جستجو"
@@ -1091,7 +1091,7 @@ msgid "Show logo"
 msgstr "نمایش لوگو"
 
 msgid "Show options"
-msgstr ""
+msgstr "نمایش آپشن‌ها"
 
 msgid "Show type"
 msgstr ""
@@ -1100,7 +1100,7 @@ msgid "Show valid"
 msgstr "نمایش اعتبار"
 
 msgid "Show version"
-msgstr ""
+msgstr "نمایش نسخه"
 
 msgid "Sign tool"
 msgstr "ابزار امضا"
@@ -1250,7 +1250,7 @@ msgid "TiB"
 msgstr ""
 
 msgid "Time"
-msgstr ""
+msgstr "زمان"
 
 msgid "Time date stamp"
 msgstr ""
@@ -1283,7 +1283,7 @@ msgid "Tree"
 msgstr "نمایش درختی"
 
 msgid "Trojan"
-msgstr ""
+msgstr "تروجان"
 
 msgid "Two operands"
 msgstr ""
@@ -1349,7 +1349,7 @@ msgid "Virtual size"
 msgstr "سایز مجازی"
 
 msgid "Virus"
-msgstr ""
+msgstr "ویروس"
 
 msgid "Visualization"
 msgstr "مجازی سازی"
@@ -1379,13 +1379,13 @@ msgid "extender"
 msgstr "extender"
 
 msgid "false"
-msgstr ""
+msgstr "غلط"
 
 msgid "kB"
 msgstr "کیلوبایت"
 
 msgid "msec"
-msgstr ""
+msgstr "میلی‌ثانیه"
 
 msgid "not packed"
 msgstr "پک نشده"
@@ -1400,4 +1400,4 @@ msgid "protection"
 msgstr "حفاظت"
 
 msgid "true"
-msgstr ""
+msgstr "صحیح"
