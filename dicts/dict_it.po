@@ -60,12 +60,6 @@ msgstr "Tutti i file"
 msgid "All types"
 msgstr "Tutti i tipi"
 
-msgid "Allocation base"
-msgstr "Base di assegnazione"
-
-msgid "Allocation flags"
-msgstr "Flags di assegnazione"
-
 msgid "Analyze"
 msgstr "Analizza"
 
@@ -114,6 +108,9 @@ msgstr "Indirizzo base"
 msgid "Begin"
 msgstr "Inizia"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "Lega"
 
@@ -147,6 +144,9 @@ msgstr "Punto di interruzione"
 msgid "Breakpoints"
 msgstr "Punti di interruzione"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "Segnalazioni di bug"
 
@@ -158,9 +158,6 @@ msgstr "Bytes"
 
 msgid "Bytes available"
 msgstr "Bytes disponibili"
-
-msgid "C Strings"
-msgstr "Stringhe C"
 
 msgid "CPU"
 msgstr "Processore"
@@ -180,8 +177,14 @@ msgstr "Stack di chiamata"
 msgid "Cancel"
 msgstr "Annulla"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
 msgstr "Impossibile trovare il file"
+
+msgid "Cannot fix dump file"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr "Impossibile ottenere l'età PDB"
@@ -198,17 +201,20 @@ msgstr "Impossibile caricare i dati da PDB"
 msgid "Cannot load database"
 msgstr "Impossibile caricare il database"
 
-msgid "Cannot load driver"
-msgstr "Impossibile caricare il driver"
-
 msgid "Cannot load file"
 msgstr "Impossibile caricare il file"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "Impossibile aprire il file"
 
 msgid "Cannot open session"
 msgstr "Impossibile aprire la sessione"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "Impossibile leggere la memoria all'indirizzo"
@@ -221,6 +227,9 @@ msgstr "Impossibile salvare il file"
 
 msgid "Cannot set shortcut"
 msgstr "Impossibile impostare la scorciatoia"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "Certificato"
@@ -242,6 +251,9 @@ msgstr "Chiudi"
 
 msgid "Code"
 msgstr "Codice"
+
+msgid "Code page"
+msgstr ""
 
 msgid "Code pages"
 msgstr "Pagine di codice"
@@ -269,6 +281,9 @@ msgstr "Condizionale"
 
 msgid "Console"
 msgstr "Console"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "Convertitore"
@@ -345,14 +360,14 @@ msgstr "Demangle"
 msgid "Dependencies"
 msgstr "Dipendenze"
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "Stacca"
 
 msgid "Detect"
 msgstr "Rileva"
-
-msgid "Device"
-msgstr "Dispositivo"
 
 msgid "Device scan"
 msgstr "Scansione dispositivo"
@@ -474,9 +489,6 @@ msgstr "Dimensione file"
 msgid "File type"
 msgstr "Tipo di file"
 
-msgid "Filename"
-msgstr "Nome file"
-
 msgid "Files"
 msgstr "File"
 
@@ -510,8 +522,8 @@ msgstr "Segui"
 msgid "Follow me"
 msgstr "Seguimi"
 
-msgid "Font"
-msgstr "Font"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr "Piè di pagina"
@@ -546,6 +558,9 @@ msgstr "Generico"
 msgid "Get"
 msgstr "Ottieni"
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "Ottieni elemento"
 
@@ -561,8 +576,14 @@ msgstr "Vai all'indirizzo"
 msgid "Go to download page?"
 msgstr "Andare alla pagina di download?"
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
 msgstr "Griglia"
+
+msgid "Group"
+msgstr ""
 
 msgid "Handles"
 msgstr "Handles"
@@ -639,6 +660,15 @@ msgstr "Interprete"
 msgid "Invalid"
 msgstr "Non valido"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "Opcode invalido"
 
@@ -651,9 +681,6 @@ msgstr "Dimensione non valida"
 msgid "Issuer"
 msgstr "Emittente"
 
-msgid "It is not a valid file"
-msgstr "Non è un file valido"
-
 msgid "Joiner"
 msgstr "Assemblatore"
 
@@ -662,9 +689,6 @@ msgstr "Salti"
 
 msgid "Keep size"
 msgstr "Mantieni le dimensioni"
-
-msgid "Kernel mode"
-msgstr "Kernel mode"
 
 msgid "KiB"
 msgstr "KiB"
@@ -744,23 +768,29 @@ msgstr "Scansione della memoria"
 msgid "Metadata"
 msgstr "Metadati"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "Metodo"
 
 msgid "MiB"
 msgstr "MiB"
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "Modalità"
-
-msgid "Module"
-msgstr "Modulo"
 
 msgid "Modules"
 msgstr "Moduli"
 
 msgid "More info"
 msgstr "Ulteriori informazioni"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr "Ricerca multipla"
@@ -788,6 +818,9 @@ msgstr "Nessun aggiornamento disponibile"
 
 msgid "Nothing found"
 msgstr "Nessun risultato"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr "Numero"
@@ -834,17 +867,32 @@ msgstr "Sistema operativo"
 msgid "Options"
 msgstr "Opzioni"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "Sovrapposizione"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "Packer"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "Pausa"
 
 msgid "Paused"
 msgstr "In pausa"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
 
 msgid "Player"
 msgstr "Giocatore"
@@ -867,8 +915,8 @@ msgstr "Stampa"
 msgid "Process"
 msgstr "Processo"
 
-msgid "Processes"
-msgstr "Processi"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "Nome del programma"
@@ -1011,8 +1059,17 @@ msgstr "Scansione"
 msgid "Scan after open"
 msgstr "Scansiona dopo l'apertura"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
 msgstr "Script"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "Search"
 msgstr "Cerca"
@@ -1128,6 +1185,9 @@ msgstr "Ordina elementi"
 msgid "Sort type"
 msgstr "Tipo di ordinamento"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "Codice sorgente"
 
@@ -1142,9 +1202,6 @@ msgstr ""
 
 msgid "Start"
 msgstr "Inizio"
-
-msgid "State"
-msgstr "Stato"
 
 msgid "Status"
 msgstr "Stato"
@@ -1212,11 +1269,20 @@ msgstr "Tabella"
 msgid "Table of contents"
 msgstr "Sommario"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "Testo"
 
 msgid "Text documents"
 msgstr "Documenti di testo"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "File di testo"
@@ -1281,6 +1347,9 @@ msgstr ""
 msgid "Tree"
 msgstr "Albero"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr ""
 
@@ -1289,6 +1358,12 @@ msgstr "Due operandi"
 
 msgid "Type"
 msgstr "Tipo"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "Sconosciuto"
@@ -1310,9 +1385,6 @@ msgstr "Superiore"
 
 msgid "Uppercase"
 msgstr "Maiuscolo"
-
-msgid "User mode"
-msgstr "Modalità utente"
 
 msgid "Value"
 msgstr "Valori"
@@ -1368,6 +1440,9 @@ msgstr "Carattere jolly"
 msgid "Write error"
 msgstr "Errore di scrittura"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "compressore"
 
@@ -1398,5 +1473,24 @@ msgstr "imballato"
 msgid "protection"
 msgstr "protezione"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+

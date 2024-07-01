@@ -61,12 +61,6 @@ msgstr "Все файлы"
 msgid "All types"
 msgstr "Все типы"
 
-msgid "Allocation base"
-msgstr "Базовый адрес выделения"
-
-msgid "Allocation flags"
-msgstr "Флаги выделения"
-
 msgid "Analyze"
 msgstr "Анализировать"
 
@@ -115,6 +109,9 @@ msgstr "Базовый адрес"
 msgid "Begin"
 msgstr "Начало"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "Связывать"
 
@@ -148,6 +145,9 @@ msgstr "Контрольная точка"
 msgid "Breakpoints"
 msgstr "Контрольные точки"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "Сообщения об ошибках"
 
@@ -159,9 +159,6 @@ msgstr "Байты"
 
 msgid "Bytes available"
 msgstr "Байт доступно"
-
-msgid "C Strings"
-msgstr "C строки"
 
 msgid "CPU"
 msgstr "Процессор"
@@ -181,8 +178,14 @@ msgstr "Стек вызовов"
 msgid "Cancel"
 msgstr "Отмена"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
 msgstr "Не удаётся найти файл"
+
+msgid "Cannot fix dump file"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr "Не удается получить возраст PDB"
@@ -199,17 +202,20 @@ msgstr "Не удаётся загрузить данные из PDB"
 msgid "Cannot load database"
 msgstr "Не удаётся загрузить базу данных"
 
-msgid "Cannot load driver"
-msgstr "Не удаётся загрузить драйвер"
-
 msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "Невозможно открыть файл"
 
 msgid "Cannot open session"
 msgstr "Невозможно открыть сеанс"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "Невозможно прочитать память по адресу"
@@ -222,6 +228,9 @@ msgstr "Невозможно сохранить файл"
 
 msgid "Cannot set shortcut"
 msgstr "Невозможно создать ссылку"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "Сертификат"
@@ -243,6 +252,9 @@ msgstr "Закрыть"
 
 msgid "Code"
 msgstr "Код"
+
+msgid "Code page"
+msgstr ""
 
 msgid "Code pages"
 msgstr "Кодовые страницы"
@@ -270,6 +282,9 @@ msgstr "Условный"
 
 msgid "Console"
 msgstr "Консоль"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "Конвертер"
@@ -346,14 +361,14 @@ msgstr "Demangle"
 msgid "Dependencies"
 msgstr "Зависимости"
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "Отсоединить"
 
 msgid "Detect"
 msgstr "Определить"
-
-msgid "Device"
-msgstr "Устройство"
 
 msgid "Device scan"
 msgstr "Скан устройства"
@@ -475,9 +490,6 @@ msgstr "Размер файла"
 msgid "File type"
 msgstr "Тип файла"
 
-msgid "Filename"
-msgstr "Имя файла"
-
 msgid "Files"
 msgstr "Файлы"
 
@@ -511,8 +523,8 @@ msgstr "Представить в"
 msgid "Follow me"
 msgstr "Подпишись на меня!"
 
-msgid "Font"
-msgstr "Шрифт"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr "Футер"
@@ -547,6 +559,9 @@ msgstr "Обобщенный"
 msgid "Get"
 msgstr "Получить"
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "Получить элемент"
 
@@ -562,8 +577,14 @@ msgstr "Перейти к адресу"
 msgid "Go to download page?"
 msgstr "Перейти на страницу загрузки?"
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
 msgstr "Сетка"
+
+msgid "Group"
+msgstr ""
 
 msgid "Handles"
 msgstr "Хэндлы"
@@ -640,6 +661,15 @@ msgstr "Интерпретатор"
 msgid "Invalid"
 msgstr "Неверный"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "Неверный опкод"
 
@@ -652,9 +682,6 @@ msgstr "Неверный размер"
 msgid "Issuer"
 msgstr "Эмитент"
 
-msgid "It is not a valid file"
-msgstr "Неверный файл"
-
 msgid "Joiner"
 msgstr "Джойнер"
 
@@ -663,9 +690,6 @@ msgstr "Переходы"
 
 msgid "Keep size"
 msgstr "Сохранять размер"
-
-msgid "Kernel mode"
-msgstr "Режим ядра"
 
 msgid "KiB"
 msgstr "КиБ"
@@ -745,23 +769,29 @@ msgstr "Скан памяти"
 msgid "Metadata"
 msgstr "Метаданные"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "Метод"
 
 msgid "MiB"
 msgstr "МиБ"
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "Режим"
-
-msgid "Module"
-msgstr "Модуль"
 
 msgid "Modules"
 msgstr "Модули"
 
 msgid "More info"
 msgstr "Больше инфы"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr "Мультипоиск"
@@ -789,6 +819,9 @@ msgstr "Нет доступных обновлений"
 
 msgid "Nothing found"
 msgstr "Ничего не найдено"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr "Номер"
@@ -835,17 +868,32 @@ msgstr "Операционная система"
 msgid "Options"
 msgstr "Настройки"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "Оверлей"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "Упаковщик"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "Пауза"
 
 msgid "Paused"
 msgstr "На паузе"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
 
 msgid "Player"
 msgstr "Игрок"
@@ -868,8 +916,8 @@ msgstr "Распечатать"
 msgid "Process"
 msgstr "Процесс"
 
-msgid "Processes"
-msgstr "Процессы"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "Название программы"
@@ -1012,8 +1060,17 @@ msgstr "Сканировать"
 msgid "Scan after open"
 msgstr "Сразу сканировать"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
 msgstr "Скрипт"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "Search"
 msgstr "Поиск"
@@ -1129,6 +1186,9 @@ msgstr "Сортировать элементы"
 msgid "Sort type"
 msgstr "Тип сортировки"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "Исходный код"
 
@@ -1143,9 +1203,6 @@ msgstr "Регистры стека"
 
 msgid "Start"
 msgstr "Начало"
-
-msgid "State"
-msgstr "Состояние"
 
 msgid "Status"
 msgstr "Статус"
@@ -1213,11 +1270,20 @@ msgstr "Таблица"
 msgid "Table of contents"
 msgstr "Таблица с содержимым"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "Текст"
 
 msgid "Text documents"
 msgstr "Текстовые документы"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "Текстовые файлы"
@@ -1282,6 +1348,9 @@ msgstr ""
 msgid "Tree"
 msgstr "Дерево"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr "Троян"
 
@@ -1290,6 +1359,12 @@ msgstr "Два операнда"
 
 msgid "Type"
 msgstr "Тип"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "Неизвестно"
@@ -1311,9 +1386,6 @@ msgstr "Верхний регистр"
 
 msgid "Uppercase"
 msgstr "Верхний регистр"
-
-msgid "User mode"
-msgstr "Пользовательский режим"
 
 msgid "Value"
 msgstr "Значение"
@@ -1369,6 +1441,9 @@ msgstr "Маска"
 msgid "Write error"
 msgstr "Ошибка записи"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "упаковщик"
 
@@ -1399,5 +1474,24 @@ msgstr "сжатый"
 msgid "protection"
 msgstr "защита"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr "истина"
+
+
+
+
+
+
+
+
+
+
+
+
+

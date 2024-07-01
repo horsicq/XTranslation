@@ -61,12 +61,6 @@ msgstr "كل الملفات"
 msgid "All types"
 msgstr "كل الانواع"
 
-msgid "Allocation base"
-msgstr "قاعدة التخصيص"
-
-msgid "Allocation flags"
-msgstr "توزيع الاعلام"
-
 msgid "Analyze"
 msgstr "تحليل"
 
@@ -115,6 +109,9 @@ msgstr "العنوان الأساسي"
 msgid "Begin"
 msgstr "بدأ"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "ربط"
 
@@ -148,6 +145,9 @@ msgstr "نقطة توقف"
 msgid "Breakpoints"
 msgstr "نقاط توقف"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "تقارير الأخطاء"
 
@@ -159,9 +159,6 @@ msgstr "بايتات"
 
 msgid "Bytes available"
 msgstr "بايتات متاحة"
-
-msgid "C Strings"
-msgstr "C Strings"
 
 msgid "CPU"
 msgstr "وحدة المعالجة المركزية"
@@ -181,8 +178,14 @@ msgstr "Callstack"
 msgid "Cancel"
 msgstr "إلغاء"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
 msgstr "لا يمكن ايجاد الملف"
+
+msgid "Cannot fix dump file"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr "لا يمكن الحصول على عمر PDB"
@@ -199,17 +202,20 @@ msgstr "لا يمكن تحميل البيانات من PDB"
 msgid "Cannot load database"
 msgstr "لا يمكن تحميل قاعدة البيانات"
 
-msgid "Cannot load driver"
-msgstr "لا يمكن تحميل التعريف"
-
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "لا يمكن فتح ملف"
 
 msgid "Cannot open session"
 msgstr "لا يمكن فتح الجلسة"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "لا يمكن قراءة الذاكرة عند العنوان"
@@ -222,6 +228,9 @@ msgstr "لا يمكن حفظ الملف"
 
 msgid "Cannot set shortcut"
 msgstr "لا يمكن تعيين الاختصار"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "شهادة"
@@ -243,6 +252,9 @@ msgstr "إغلاق"
 
 msgid "Code"
 msgstr "الشفرة"
+
+msgid "Code page"
+msgstr ""
 
 msgid "Code pages"
 msgstr "صفحات الشفرة"
@@ -270,6 +282,9 @@ msgstr "شرطي"
 
 msgid "Console"
 msgstr "وحدة التحكم"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "محول"
@@ -346,14 +361,14 @@ msgstr "تفكيك"
 msgid "Dependencies"
 msgstr "التبعيات"
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "فصل"
 
 msgid "Detect"
 msgstr "كشف"
-
-msgid "Device"
-msgstr "جهاز"
 
 msgid "Device scan"
 msgstr "فحص الجهاز"
@@ -475,9 +490,6 @@ msgstr "حجم الملف"
 msgid "File type"
 msgstr "نوع الملف"
 
-msgid "Filename"
-msgstr "اسم الملف"
-
 msgid "Files"
 msgstr "الملفات"
 
@@ -511,8 +523,8 @@ msgstr "تابع في"
 msgid "Follow me"
 msgstr "تابعني"
 
-msgid "Font"
-msgstr "الخط"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr "تذييل"
@@ -539,13 +551,16 @@ msgid "GB"
 msgstr "قيقابايت"
 
 msgid "General registers"
-msgstr "سجلات" 
+msgstr "سجلات"
 
 msgid "Generic"
 msgstr "نوعي"
 
 msgid "Get"
 msgstr "أحصل"
+
+msgid "Get IAT"
+msgstr ""
 
 msgid "Get element"
 msgstr "احصل على العنصر"
@@ -562,8 +577,14 @@ msgstr "انتقل إلى العنوان"
 msgid "Go to download page?"
 msgstr "الذهاب إلى صفحة التحميل؟"
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
 msgstr "شبكة"
+
+msgid "Group"
+msgstr ""
 
 msgid "Handles"
 msgstr "مقابض"
@@ -640,6 +661,15 @@ msgstr "مفسر"
 msgid "Invalid"
 msgstr "غير صالح"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "رمز التشغيل غير صالح"
 
@@ -652,9 +682,6 @@ msgstr "حجم غير صالح"
 msgid "Issuer"
 msgstr "المُصدر"
 
-msgid "It is not a valid file"
-msgstr "هذا ليس ملفًا صالحًا"
-
 msgid "Joiner"
 msgstr "موصل"
 
@@ -663,9 +690,6 @@ msgstr "قفزات"
 
 msgid "Keep size"
 msgstr "إبقاء الحجم"
-
-msgid "Kernel mode"
-msgstr "وضع النواة"
 
 msgid "KiB"
 msgstr "كليوبت"
@@ -745,23 +769,29 @@ msgstr "مسح الذاكرة"
 msgid "Metadata"
 msgstr "البيانات الوصفية"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "طريقة"
 
 msgid "MiB"
 msgstr "ميقابت"
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "الوضع"
-
-msgid "Module"
-msgstr "وحدة"
 
 msgid "Modules"
 msgstr "الوحدات"
 
 msgid "More info"
 msgstr "المزيد من المعلومات"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr "بحث متعدد"
@@ -789,6 +819,9 @@ msgstr "لا يوجد تحديثات متوفره"
 
 msgid "Nothing found"
 msgstr "لم يتم العثور على شيء"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr "رقم"
@@ -835,17 +868,32 @@ msgstr "نظام تشغيل"
 msgid "Options"
 msgstr "خيارات"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "طبقة"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "رازم"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "ايقاف مؤقت"
 
 msgid "Paused"
 msgstr "متوقف مؤقت"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
 
 msgid "Player"
 msgstr "مشغل"
@@ -868,8 +916,8 @@ msgstr "طباعة"
 msgid "Process"
 msgstr "معالجة"
 
-msgid "Processes"
-msgstr "العمليات"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "إسم البرنامج"
@@ -1012,8 +1060,17 @@ msgstr "فحص"
 msgid "Scan after open"
 msgstr "فحص بعد الفتح"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
 msgstr "نص برمجي"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "Search"
 msgstr "بحث"
@@ -1021,8 +1078,8 @@ msgstr "بحث"
 msgid "Search from"
 msgstr "البحث من"
 
-msgid "البحث عن التوقيعات"
-msgstr "التوقيعات البحث"
+msgid "Search signatures"
+msgstr ""
 
 msgid "Search strings"
 msgstr "بحث عن السلاسل"
@@ -1129,6 +1186,9 @@ msgstr "فرز العناصر"
 msgid "Sort type"
 msgstr "نوع الفرز"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "الشفرة المصدرية"
 
@@ -1143,9 +1203,6 @@ msgstr "مسجلات الكومة"
 
 msgid "Start"
 msgstr "البدء"
-
-msgid "State"
-msgstr "حالة"
 
 msgid "Status"
 msgstr "الحالة"
@@ -1213,11 +1270,20 @@ msgstr "جدول"
 msgid "Table of contents"
 msgstr "جدول المحتويات"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "نص"
 
 msgid "Text documents"
 msgstr "مستندات نصية"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "ملفات نصية"
@@ -1282,6 +1348,9 @@ msgstr "تتبع"
 msgid "Tree"
 msgstr "شجرة"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr "حصان طروادة"
 
@@ -1290,6 +1359,12 @@ msgstr "معاملين"
 
 msgid "Type"
 msgstr "نوع"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "مجهول"
@@ -1311,9 +1386,6 @@ msgstr "أعلى"
 
 msgid "Uppercase"
 msgstr "أحرف كبيرة"
-
-msgid "User mode"
-msgstr "وضع المستخدم"
 
 msgid "Value"
 msgstr "قيمة"
@@ -1369,6 +1441,9 @@ msgstr "حرف البدل"
 msgid "Write error"
 msgstr "خطأ في الكتابة"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "ضاغط"
 
@@ -1399,5 +1474,25 @@ msgstr "محزوم"
 msgid "protection"
 msgstr "حماية"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr "صح"
+
+
+
+
+
+
+
+
+
+
+
+
+
+

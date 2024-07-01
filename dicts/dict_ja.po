@@ -60,12 +60,6 @@ msgstr "すべてのファイル"
 msgid "All types"
 msgstr "すべての種類"
 
-msgid "Allocation base"
-msgstr "割り当てbase"
-
-msgid "Allocation flags"
-msgstr "割り当てフラグ"
-
 msgid "Analyze"
 msgstr "分析"
 
@@ -114,6 +108,9 @@ msgstr "基準アドレス"
 msgid "Begin"
 msgstr "先頭"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "バインド"
 
@@ -147,6 +144,9 @@ msgstr "ブレークポイント"
 msgid "Breakpoints"
 msgstr "ブレークポイント"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "バグ報告"
 
@@ -158,9 +158,6 @@ msgstr "バイト"
 
 msgid "Bytes available"
 msgstr ""
-
-msgid "C Strings"
-msgstr "C 文字列"
 
 msgid "CPU"
 msgstr "CPU"
@@ -180,7 +177,13 @@ msgstr "コールスタック"
 msgid "Cancel"
 msgstr "キャンセル"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
+msgstr ""
+
+msgid "Cannot fix dump file"
 msgstr ""
 
 msgid "Cannot get PDB age"
@@ -198,17 +201,20 @@ msgstr "PDBからデータを読み込めません"
 msgid "Cannot load database"
 msgstr "データベースを読み込めません"
 
-msgid "Cannot load driver"
-msgstr "ドライバーを読み込めません"
-
 msgid "Cannot load file"
 msgstr "ファイルを読み込めません"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "ファイルを開けません"
 
 msgid "Cannot open session"
 msgstr "セッションを開くことができません"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "アドレスのメモリを読み取れません"
@@ -221,6 +227,9 @@ msgstr "ファイルを保存できません"
 
 msgid "Cannot set shortcut"
 msgstr "ショートカットの設定に失敗"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "証明書"
@@ -241,6 +250,9 @@ msgid "Close"
 msgstr "閉じる"
 
 msgid "Code"
+msgstr ""
+
+msgid "Code page"
 msgstr ""
 
 msgid "Code pages"
@@ -269,6 +281,9 @@ msgstr ""
 
 msgid "Console"
 msgstr "コンソール"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "コンバータ"
@@ -345,14 +360,14 @@ msgstr "デマングル"
 msgid "Dependencies"
 msgstr "依存関係"
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "デタッチ"
 
 msgid "Detect"
 msgstr ""
-
-msgid "Device"
-msgstr "デバイス"
 
 msgid "Device scan"
 msgstr "デバイスのスキャン"
@@ -474,9 +489,6 @@ msgstr ""
 msgid "File type"
 msgstr "ファイルの種類"
 
-msgid "Filename"
-msgstr "ファイル名"
-
 msgid "Files"
 msgstr "ファイル"
 
@@ -510,8 +522,8 @@ msgstr ""
 msgid "Follow me"
 msgstr ""
 
-msgid "Font"
-msgstr "フォント"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr ""
@@ -546,6 +558,9 @@ msgstr "汎用"
 msgid "Get"
 msgstr "取得"
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "要素を取得"
 
@@ -561,8 +576,14 @@ msgstr "アドレスに移動"
 msgid "Go to download page?"
 msgstr ""
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
 msgstr "グリッド"
+
+msgid "Group"
+msgstr ""
 
 msgid "Handles"
 msgstr "ハンドル"
@@ -639,6 +660,15 @@ msgstr "通訳者"
 msgid "Invalid"
 msgstr "無効"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "無効な Opcode"
 
@@ -651,9 +681,6 @@ msgstr ""
 msgid "Issuer"
 msgstr "発行者"
 
-msgid "It is not a valid file"
-msgstr "有効なファイルではありません"
-
 msgid "Joiner"
 msgstr "ジョイナ"
 
@@ -662,9 +689,6 @@ msgstr "ジャンプ"
 
 msgid "Keep size"
 msgstr "サイズを保持"
-
-msgid "Kernel mode"
-msgstr "カーネルモード"
 
 msgid "KiB"
 msgstr ""
@@ -744,23 +768,29 @@ msgstr "メモリスキャン"
 msgid "Metadata"
 msgstr "メタデータ"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "方法"
 
 msgid "MiB"
 msgstr ""
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "モード"
-
-msgid "Module"
-msgstr "モジュール"
 
 msgid "Modules"
 msgstr "モジュール"
 
 msgid "More info"
 msgstr "詳細情報"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr ""
@@ -788,6 +818,9 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "見つかりません"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr ""
@@ -834,16 +867,31 @@ msgstr "オペレーション システム"
 msgid "Options"
 msgstr "設定"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "オーバーレイ"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "パッカー"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "一時停止"
 
 msgid "Paused"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
 msgstr ""
 
 msgid "Player"
@@ -867,8 +915,8 @@ msgstr "印刷"
 msgid "Process"
 msgstr "プロセス"
 
-msgid "Processes"
-msgstr "処理中"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "プログラム名"
@@ -1011,7 +1059,16 @@ msgstr "スキャン"
 msgid "Scan after open"
 msgstr "開いたらすぐスキャン開始"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
+msgstr ""
+
+msgid "Scripts"
 msgstr ""
 
 msgid "Search"
@@ -1128,6 +1185,9 @@ msgstr "要素を並べ替える"
 msgid "Sort type"
 msgstr "並び替え種別"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "ソース コード"
 
@@ -1142,9 +1202,6 @@ msgstr ""
 
 msgid "Start"
 msgstr ""
-
-msgid "State"
-msgstr "状態"
 
 msgid "Status"
 msgstr "状態"
@@ -1212,11 +1269,20 @@ msgstr "テーブル"
 msgid "Table of contents"
 msgstr "目次"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "文字"
 
 msgid "Text documents"
 msgstr "テキスト文書"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "テキスト ファイル"
@@ -1281,6 +1347,9 @@ msgstr ""
 msgid "Tree"
 msgstr "ツリー"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr ""
 
@@ -1289,6 +1358,12 @@ msgstr "2オペランド"
 
 msgid "Type"
 msgstr "種類"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "不明"
@@ -1310,9 +1385,6 @@ msgstr "大文字"
 
 msgid "Uppercase"
 msgstr "大文字"
-
-msgid "User mode"
-msgstr "ユーザー種別"
 
 msgid "Value"
 msgstr "値"
@@ -1368,6 +1440,9 @@ msgstr "ワイルドカード"
 msgid "Write error"
 msgstr "書き込みエラー"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "コンプレッサ"
 
@@ -1398,5 +1473,24 @@ msgstr "パック済み"
 msgid "protection"
 msgstr "保護"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+

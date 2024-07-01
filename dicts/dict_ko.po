@@ -67,12 +67,6 @@ msgstr "모든 파일"
 msgid "All types"
 msgstr "모든 유형"
 
-msgid "Allocation base"
-msgstr "할당 베이스"
-
-msgid "Allocation flags"
-msgstr "할당 플래그"
-
 msgid "Analyze"
 msgstr "분석"
 
@@ -121,6 +115,9 @@ msgstr "기준 주소"
 msgid "Begin"
 msgstr "시작"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "묶다"
 
@@ -154,6 +151,9 @@ msgstr "중단점"
 msgid "Breakpoints"
 msgstr "중단점"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "버그 신고"
 
@@ -165,9 +165,6 @@ msgstr "Bytes"
 
 msgid "Bytes available"
 msgstr "Bytes 존재함"
-
-msgid "C Strings"
-msgstr "C 문자열"
 
 msgid "CPU"
 msgstr "CPU"
@@ -187,7 +184,13 @@ msgstr "콜 스택"
 msgid "Cancel"
 msgstr "취소"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
+msgstr ""
+
+msgid "Cannot fix dump file"
 msgstr ""
 
 msgid "Cannot get PDB age"
@@ -205,17 +208,20 @@ msgstr "PDB에서 데이터를 로드할 수 없습니다."
 msgid "Cannot load database"
 msgstr "데이터베이스를 로드할 수 없습니다."
 
-msgid "Cannot load driver"
-msgstr "드라이버를 불러오지 못함"
-
 msgid "Cannot load file"
 msgstr "파일을 로드할 수 없습니다"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "파일을 열 수 없습니다"
 
 msgid "Cannot open session"
 msgstr "세션을 열 수 없습니다"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "주소에서 메모리를 읽을 수 없습니다."
@@ -228,6 +234,9 @@ msgstr "파일을 저장할 수 없습니다"
 
 msgid "Cannot set shortcut"
 msgstr "바로가기를 설정할 수 없습니다"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "인증서"
@@ -248,6 +257,9 @@ msgid "Close"
 msgstr "닫기"
 
 msgid "Code"
+msgstr ""
+
+msgid "Code page"
 msgstr ""
 
 msgid "Code pages"
@@ -276,6 +288,9 @@ msgstr ""
 
 msgid "Console"
 msgstr "콘솔"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "변환기"
@@ -352,14 +367,14 @@ msgstr "Demangle"
 msgid "Dependencies"
 msgstr "종속성"
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "분리"
 
 msgid "Detect"
 msgstr ""
-
-msgid "Device"
-msgstr "장치"
 
 msgid "Device scan"
 msgstr "장치 검색"
@@ -481,9 +496,6 @@ msgstr ""
 msgid "File type"
 msgstr "파일 타입"
 
-msgid "Filename"
-msgstr "파일 이름"
-
 msgid "Files"
 msgstr "파일"
 
@@ -517,8 +529,8 @@ msgstr ""
 msgid "Follow me"
 msgstr ""
 
-msgid "Font"
-msgstr "폰트"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr ""
@@ -553,6 +565,9 @@ msgstr "일반"
 msgid "Get"
 msgstr "가져오기"
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "요소 가져오기"
 
@@ -568,8 +583,14 @@ msgstr "주소로 이동"
 msgid "Go to download page?"
 msgstr ""
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
 msgstr "그리드"
+
+msgid "Group"
+msgstr ""
 
 msgid "Handles"
 msgstr "핸들"
@@ -646,6 +667,15 @@ msgstr "인터프리터"
 msgid "Invalid"
 msgstr "무효함"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "유효하지 않은 옵코드"
 
@@ -658,9 +688,6 @@ msgstr ""
 msgid "Issuer"
 msgstr "발급사"
 
-msgid "It is not a valid file"
-msgstr "유효한 파일이 아닙니다"
-
 msgid "Joiner"
 msgstr "병합기"
 
@@ -669,9 +696,6 @@ msgstr "점프"
 
 msgid "Keep size"
 msgstr "크기 유지"
-
-msgid "Kernel mode"
-msgstr "커널 모드"
 
 msgid "KiB"
 msgstr "KiB"
@@ -751,23 +775,29 @@ msgstr "메모리 스캔"
 msgid "Metadata"
 msgstr "메타데이터"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "방법"
 
 msgid "MiB"
 msgstr "MiB"
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "모드"
-
-msgid "Module"
-msgstr "모듈"
 
 msgid "Modules"
 msgstr "모듈"
 
 msgid "More info"
 msgstr "더 많은 정보"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr ""
@@ -795,6 +825,9 @@ msgstr ""
 
 msgid "Nothing found"
 msgstr "아무것도 찾을 수 없음"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr ""
@@ -841,16 +874,31 @@ msgstr "운영 시스템"
 msgid "Options"
 msgstr "옵션"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "오버레이"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "패커"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "정지시키다"
 
 msgid "Paused"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
 msgstr ""
 
 msgid "Player"
@@ -874,8 +922,8 @@ msgstr "프린트"
 msgid "Process"
 msgstr "프로세스"
 
-msgid "Processes"
-msgstr "프로세스"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "프로그램 이름"
@@ -1018,7 +1066,16 @@ msgstr "검색"
 msgid "Scan after open"
 msgstr "열기 후 검색"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
+msgstr ""
+
+msgid "Scripts"
 msgstr ""
 
 msgid "Search"
@@ -1135,6 +1192,9 @@ msgstr "요소 정렬"
 msgid "Sort type"
 msgstr "정렬 유형"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "소스 코드"
 
@@ -1149,9 +1209,6 @@ msgstr ""
 
 msgid "Start"
 msgstr ""
-
-msgid "State"
-msgstr "상태"
 
 msgid "Status"
 msgstr "상태"
@@ -1219,11 +1276,20 @@ msgstr "테이블"
 msgid "Table of contents"
 msgstr "목차"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "텍스트"
 
 msgid "Text documents"
 msgstr "텍스트 문서"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "텍스트 파일"
@@ -1288,6 +1354,9 @@ msgstr ""
 msgid "Tree"
 msgstr "나무"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr ""
 
@@ -1296,6 +1365,12 @@ msgstr "Two operands"
 
 msgid "Type"
 msgstr "유형"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "알 수 없음"
@@ -1317,9 +1392,6 @@ msgstr "위쪽"
 
 msgid "Uppercase"
 msgstr "대문자"
-
-msgid "User mode"
-msgstr "유저 모드"
 
 msgid "Value"
 msgstr "값"
@@ -1375,6 +1447,9 @@ msgstr "와일드카드"
 msgid "Write error"
 msgstr "쓰기 오류"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "압축기"
 
@@ -1405,5 +1480,24 @@ msgstr "패킹됨"
 msgid "protection"
 msgstr "보호"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
