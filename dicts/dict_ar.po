@@ -539,7 +539,7 @@ msgid "GB"
 msgstr "قيقابايت"
 
 msgid "General registers"
-msgstr "سسجلات عامة"
+msgstr "سجلات" 
 
 msgid "Generic"
 msgstr "نوعي"
