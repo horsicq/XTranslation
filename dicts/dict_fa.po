@@ -61,12 +61,6 @@ msgstr "همه فایل ها"
 msgid "All types"
 msgstr "همه فرمت ها"
 
-msgid "Allocation base"
-msgstr ""
-
-msgid "Allocation flags"
-msgstr "تخصیص پرچم"
-
 msgid "Analyze"
 msgstr "انالیز"
 
@@ -115,6 +109,9 @@ msgstr ""
 msgid "Begin"
 msgstr ""
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "سرهم سازی"
 
@@ -148,6 +145,9 @@ msgstr "بریک پوینت"
 msgid "Breakpoints"
 msgstr "بریک پوینت ها"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "گزارش باگ"
 
@@ -158,9 +158,6 @@ msgid "Bytes"
 msgstr "بایت ها"
 
 msgid "Bytes available"
-msgstr ""
-
-msgid "C Strings"
 msgstr ""
 
 msgid "CPU"
@@ -181,8 +178,14 @@ msgstr ""
 msgid "Cancel"
 msgstr "لغو"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
 msgstr "فایل پیدا نشد"
+
+msgid "Cannot fix dump file"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr ""
@@ -199,17 +202,20 @@ msgstr "دیتا از pdb لود نمیشود"
 msgid "Cannot load database"
 msgstr "نمیتوان دیتابیس را لود کرد"
 
-msgid "Cannot load driver"
-msgstr "درایور ها لود نمیشوند"
-
 msgid "Cannot load file"
 msgstr "نمیتوان فایل را لود کرد"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "نمیتوان فایل را باز کرد"
 
 msgid "Cannot open session"
 msgstr "نمیتوان جلسه را باز کرد"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "نمیتوان حافظه را در این ادرس خواند"
@@ -222,6 +228,9 @@ msgstr "نمیتوان فایل را ذخیره کرد"
 
 msgid "Cannot set shortcut"
 msgstr "نمیتوان شورت کات اعمال کرد"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "مدرک"
@@ -242,6 +251,9 @@ msgid "Close"
 msgstr "بستن"
 
 msgid "Code"
+msgstr ""
+
+msgid "Code page"
 msgstr ""
 
 msgid "Code pages"
@@ -270,6 +282,9 @@ msgstr ""
 
 msgid "Console"
 msgstr "کنسول"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "مبدل"
@@ -346,14 +361,14 @@ msgstr ""
 msgid "Dependencies"
 msgstr ""
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "جداسازی"
 
 msgid "Detect"
 msgstr ""
-
-msgid "Device"
-msgstr "تجهیز"
 
 msgid "Device scan"
 msgstr "اسکن تجهیز"
@@ -475,9 +490,6 @@ msgstr "حجم فایل"
 msgid "File type"
 msgstr "نوع فایل"
 
-msgid "Filename"
-msgstr "اسم فایل"
-
 msgid "Files"
 msgstr "فایل ها"
 
@@ -511,8 +523,8 @@ msgstr ""
 msgid "Follow me"
 msgstr ""
 
-msgid "Font"
-msgstr "فونت"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr "پا ضفحه"
@@ -547,6 +559,9 @@ msgstr ""
 msgid "Get"
 msgstr ""
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "برو به عنصر"
 
@@ -562,7 +577,13 @@ msgstr "رفتن به ادرس"
 msgid "Go to download page?"
 msgstr ""
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
+msgstr ""
+
+msgid "Group"
 msgstr ""
 
 msgid "Handles"
@@ -640,6 +661,15 @@ msgstr "مفسر"
 msgid "Invalid"
 msgstr "نامعتبر"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr ""
 
@@ -652,9 +682,6 @@ msgstr ""
 msgid "Issuer"
 msgstr ""
 
-msgid "It is not a valid file"
-msgstr "فایل معتبر نیست"
-
 msgid "Joiner"
 msgstr "اتصال دهنده"
 
@@ -663,9 +690,6 @@ msgstr "پرش ها"
 
 msgid "Keep size"
 msgstr "سایز را نگه دار"
-
-msgid "Kernel mode"
-msgstr "مد کرنل"
 
 msgid "KiB"
 msgstr ""
@@ -745,23 +769,29 @@ msgstr "اسکن حافظه"
 msgid "Metadata"
 msgstr "متا دیتا"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "متود"
 
 msgid "MiB"
 msgstr ""
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "حالت"
-
-msgid "Module"
-msgstr "ماژول"
 
 msgid "Modules"
 msgstr "ماژول ها"
 
 msgid "More info"
 msgstr "اطلاعات بیشتر"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr ""
@@ -789,6 +819,9 @@ msgstr "ورژن جدیدی موجود نیست"
 
 msgid "Nothing found"
 msgstr "چیزی پیدا نشد"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr "عدد"
@@ -835,16 +868,31 @@ msgstr "سیستم عامل"
 msgid "Options"
 msgstr "امکانات"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
+msgstr ""
+
+msgid "Package"
 msgstr ""
 
 msgid "Packer"
 msgstr "پک کننده"
 
+msgid "Patch"
+msgstr ""
+
 msgid "Pause"
 msgstr "توقف"
 
 msgid "Paused"
+msgstr ""
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
 msgstr ""
 
 msgid "Player"
@@ -868,7 +916,7 @@ msgstr "چاپ"
 msgid "Process"
 msgstr ""
 
-msgid "Processes"
+msgid "Profiling"
 msgstr ""
 
 msgid "Program name"
@@ -1012,8 +1060,17 @@ msgstr "اسکن"
 msgid "Scan after open"
 msgstr "اسکن بعد از باز کردن"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
 msgstr "اسکریپت"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "Search"
 msgstr "جستجو"
@@ -1129,6 +1186,9 @@ msgstr "مرتب کردن عنصر ها"
 msgid "Sort type"
 msgstr "نوع مرتب سازی"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "سورس کد"
 
@@ -1143,9 +1203,6 @@ msgstr ""
 
 msgid "Start"
 msgstr "شروع"
-
-msgid "State"
-msgstr "حالت"
 
 msgid "Status"
 msgstr "وضعیت"
@@ -1213,11 +1270,20 @@ msgstr "فهرست"
 msgid "Table of contents"
 msgstr "فهرست مطالب"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "متن"
 
 msgid "Text documents"
 msgstr "سند متنی"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "فایل های متنی"
@@ -1282,6 +1348,9 @@ msgstr ""
 msgid "Tree"
 msgstr "نمایش درختی"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr "تروجان"
 
@@ -1290,6 +1359,12 @@ msgstr ""
 
 msgid "Type"
 msgstr "نوع"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "ناشناخته"
@@ -1311,9 +1386,6 @@ msgstr ""
 
 msgid "Uppercase"
 msgstr "حروف بزرگ"
-
-msgid "User mode"
-msgstr "مد کاربر"
 
 msgid "Value"
 msgstr "مقدار"
@@ -1369,6 +1441,9 @@ msgstr "عام"
 msgid "Write error"
 msgstr "خطا در نوشتن"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "کمپرسور"
 
@@ -1399,5 +1474,21 @@ msgstr "پک شده"
 msgid "protection"
 msgstr "حفاظت"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr "صحیح"
+
+
+
+
+
+
+
+
+
+

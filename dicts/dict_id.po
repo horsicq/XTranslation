@@ -60,12 +60,6 @@ msgstr "Semua file"
 msgid "All types"
 msgstr "Semua jenis"
 
-msgid "Allocation base"
-msgstr ""
-
-msgid "Allocation flags"
-msgstr ""
-
 msgid "Analyze"
 msgstr "Analisa"
 
@@ -114,6 +108,9 @@ msgstr "Alamat dasar"
 msgid "Begin"
 msgstr "Mulai"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "Mengikat"
 
@@ -147,6 +144,9 @@ msgstr ""
 msgid "Breakpoints"
 msgstr "Breakpoint"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "laporan bug"
 
@@ -158,9 +158,6 @@ msgstr "Bytes"
 
 msgid "Bytes available"
 msgstr "Byte tersedia"
-
-msgid "C Strings"
-msgstr ""
 
 msgid "CPU"
 msgstr "CPU"
@@ -180,8 +177,14 @@ msgstr ""
 msgid "Cancel"
 msgstr "Batal"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
 msgstr "Tidak dapat menemukan berkas"
+
+msgid "Cannot fix dump file"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr "Tidak bisa mendapatkan usia PDB"
@@ -204,11 +207,17 @@ msgstr "Tidak dapat memuat driver"
 msgid "Cannot load file"
 msgstr "Tidak dapat memuat file"
 
+msgid "Cannot open dump file"
+msgstr ""
+
 msgid "Cannot open file"
 msgstr "Tidak dapat membuka file"
 
 msgid "Cannot open session"
 msgstr "Tidak dapat membuka sesi"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "Tidak dapat membaca memori di alamat"
@@ -221,6 +230,9 @@ msgstr "Tidak dapat menyimpan file"
 
 msgid "Cannot set shortcut"
 msgstr "Tidak dapat mengatur pintasan"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "Sertifikat"
@@ -242,6 +254,9 @@ msgstr "Tutup"
 
 msgid "Code"
 msgstr "Kode"
+
+msgid "Code page"
+msgstr ""
 
 msgid "Code pages"
 msgstr "Halaman kode"
@@ -269,6 +284,9 @@ msgstr "Kondisional"
 
 msgid "Console"
 msgstr "Konsol"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "Konverter"
@@ -344,6 +362,9 @@ msgstr "Demangle"
 
 msgid "Dependencies"
 msgstr "Ketergantungan"
+
+msgid "Description"
+msgstr ""
 
 msgid "Detach"
 msgstr "Melepaskan"
@@ -474,9 +495,6 @@ msgstr "Ukuran file"
 msgid "File type"
 msgstr "Jenis file"
 
-msgid "Filename"
-msgstr "Nama file"
-
 msgid "Files"
 msgstr "File"
 
@@ -510,8 +528,8 @@ msgstr "Ikuti"
 msgid "Follow me"
 msgstr "Ikuti saya"
 
-msgid "Font"
-msgstr "Jenis huruf"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr ""
@@ -546,6 +564,9 @@ msgstr "Generik"
 msgid "Get"
 msgstr ""
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "Dapatkan elemen"
 
@@ -561,7 +582,13 @@ msgstr "Pergi ke alamat"
 msgid "Go to download page?"
 msgstr ""
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
+msgstr ""
+
+msgid "Group"
 msgstr ""
 
 msgid "Handles"
@@ -639,6 +666,15 @@ msgstr "Penerjemah"
 msgid "Invalid"
 msgstr "Tidak valid"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "Opcode tidak valid"
 
@@ -651,9 +687,6 @@ msgstr "Ukuran tidak valid"
 msgid "Issuer"
 msgstr "Penerbit"
 
-msgid "It is not a valid file"
-msgstr "Ini bukan file yang valid"
-
 msgid "Joiner"
 msgstr "Penggabung"
 
@@ -662,9 +695,6 @@ msgstr "Lompat"
 
 msgid "Keep size"
 msgstr "Pertahankan ukuran"
-
-msgid "Kernel mode"
-msgstr ""
 
 msgid "KiB"
 msgstr ""
@@ -744,23 +774,29 @@ msgstr "Pemindaian memori"
 msgid "Metadata"
 msgstr "Metadata"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "Metode"
 
 msgid "MiB"
 msgstr ""
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "Mode"
-
-msgid "Module"
-msgstr ""
 
 msgid "Modules"
 msgstr "Modul"
 
 msgid "More info"
 msgstr "Info lebih lanjut"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr ""
@@ -788,6 +824,9 @@ msgstr "Tidak ada pembaruan yang tersedia"
 
 msgid "Nothing found"
 msgstr "Tidak ada yang ditemukan"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr "Nomor"
@@ -834,17 +873,32 @@ msgstr "Sistem operasi"
 msgid "Options"
 msgstr "Pilihan"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "Overlay"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "Pengepak"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "Berhenti sebentar"
 
 msgid "Paused"
 msgstr "Dijeda"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
 
 msgid "Player"
 msgstr "Pemain"
@@ -867,8 +921,8 @@ msgstr "Mencetak"
 msgid "Process"
 msgstr "Proses"
 
-msgid "Processes"
-msgstr "Proses"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "Nama program"
@@ -1011,8 +1065,17 @@ msgstr "Pindai"
 msgid "Scan after open"
 msgstr "Pindai setelah buka"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
 msgstr "Skrip"
+
+msgid "Scripts"
+msgstr ""
 
 msgid "Search"
 msgstr "Cari"
@@ -1128,6 +1191,9 @@ msgstr "Urutkan elemen"
 msgid "Sort type"
 msgstr "Jenis pengurutan"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "Sumber kode"
 
@@ -1212,11 +1278,20 @@ msgstr "Meja"
 msgid "Table of contents"
 msgstr "Daftar Isi"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "Teks"
 
 msgid "Text documents"
 msgstr "Dokumen teks"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "File teks"
@@ -1281,6 +1356,9 @@ msgstr ""
 msgid "Tree"
 msgstr "Pohon"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr ""
 
@@ -1289,6 +1367,12 @@ msgstr "Dua operan"
 
 msgid "Type"
 msgstr "Jenis"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "Tidak diketahui"
@@ -1368,6 +1452,9 @@ msgstr "Wildcard"
 msgid "Write error"
 msgstr "Kesalahan penulisan"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "Kompresor"
 
@@ -1398,5 +1485,15 @@ msgstr "dikemas"
 msgid "protection"
 msgstr "proteksi"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr ""
+
+
+
+

@@ -61,12 +61,6 @@ msgstr "সকল নথি"
 msgid "All types"
 msgstr "সব ধরনের"
 
-msgid "Allocation base"
-msgstr "বরাদ্দের ভিত্তি"
-
-msgid "Allocation flags"
-msgstr "বরাদ্দ পতাকা"
-
 msgid "Analyze"
 msgstr "বিশ্লেষণ"
 
@@ -115,6 +109,9 @@ msgstr "মূল ঠিকানা"
 msgid "Begin"
 msgstr "শুরু করুন"
 
+msgid "Binary"
+msgstr ""
+
 msgid "Bind"
 msgstr "বাঁধাই করা"
 
@@ -148,6 +145,9 @@ msgstr "ব্রেকপয়েন্ট"
 msgid "Breakpoints"
 msgstr "ব্রেকপয়েন্টগুলো"
 
+msgid "Buffer size"
+msgstr ""
+
 msgid "Bugreports"
 msgstr "ত্রুটি প্রতিবেদন"
 
@@ -159,9 +159,6 @@ msgstr "বাইটগুলো"
 
 msgid "Bytes available"
 msgstr "বাইটগুলো ব্যবহারযোগ্য"
-
-msgid "C Strings"
-msgstr "সি স্ট্রিং"
 
 msgid "CPU"
 msgstr "সিপিইউ(কেন্দ্রীয় প্রক্রিয়াজাতকরণ ইউনিট)"
@@ -181,7 +178,13 @@ msgstr "কলের স্তূপ"
 msgid "Cancel"
 msgstr "বাতিল করুন"
 
+msgid "Cannot find"
+msgstr ""
+
 msgid "Cannot find file"
+msgstr ""
+
+msgid "Cannot fix dump file"
 msgstr ""
 
 msgid "Cannot get PDB age"
@@ -199,17 +202,20 @@ msgstr "PDB থেকে ডেটা লোড করা যাবে না"
 msgid "Cannot load database"
 msgstr "ডাটাবেস লোড করা যাবে না"
 
-msgid "Cannot load driver"
-msgstr "ড্রাইভার লোড করা যাবে না"
-
 msgid "Cannot load file"
 msgstr "ফাইল লোড করা যাবে না"
+
+msgid "Cannot open dump file"
+msgstr ""
 
 msgid "Cannot open file"
 msgstr "ফাইলটি খুলতে পারছি না"
 
 msgid "Cannot open session"
 msgstr "অধিবেশন খুলতে পারবেন না"
+
+msgid "Cannot read file"
+msgstr ""
 
 msgid "Cannot read memory at address"
 msgstr "ঠিকানায় মেমরি পড়তে পারে না"
@@ -222,6 +228,9 @@ msgstr "ফাইল সংরক্ষণ করা যাবে না"
 
 msgid "Cannot set shortcut"
 msgstr "সহজতর পদ্ধতি সেট করা যাবে না"
+
+msgid "Cannot write data to file"
+msgstr ""
 
 msgid "Certificate"
 msgstr "সনদপত্র"
@@ -242,6 +251,9 @@ msgid "Close"
 msgstr "বন্ধ"
 
 msgid "Code"
+msgstr ""
+
+msgid "Code page"
 msgstr ""
 
 msgid "Code pages"
@@ -270,6 +282,9 @@ msgstr ""
 
 msgid "Console"
 msgstr "কনসোল"
+
+msgid "Controls"
+msgstr ""
 
 msgid "Converter"
 msgstr "রূপান্তরকারী"
@@ -346,14 +361,14 @@ msgstr "Demangle"
 msgid "Dependencies"
 msgstr "নির্ভরতা"
 
+msgid "Description"
+msgstr ""
+
 msgid "Detach"
 msgstr "বিচ্ছিন্ন করুন"
 
 msgid "Detect"
 msgstr ""
-
-msgid "Device"
-msgstr "যন্ত্র"
 
 msgid "Device scan"
 msgstr "ডিভাইস স্ক্যান"
@@ -475,9 +490,6 @@ msgstr "ফাইলের আকার"
 msgid "File type"
 msgstr "ফাইলের ধরন"
 
-msgid "Filename"
-msgstr "ফাইলের নাম"
-
 msgid "Files"
 msgstr "নথি পত্র"
 
@@ -511,8 +523,8 @@ msgstr "অনুসরণ করুন"
 msgid "Follow me"
 msgstr "আমাকে অনুসরণ করুন"
 
-msgid "Font"
-msgstr "হরফ"
+msgid "Fonts"
+msgstr ""
 
 msgid "Footer"
 msgstr "ফুটার"
@@ -547,6 +559,9 @@ msgstr "বর্গীয়"
 msgid "Get"
 msgstr "পাওয়া"
 
+msgid "Get IAT"
+msgstr ""
+
 msgid "Get element"
 msgstr "উপাদান পাওয়া"
 
@@ -562,8 +577,14 @@ msgstr "ঠিকানায় যান"
 msgid "Go to download page?"
 msgstr "ডাউনলোড পৃষ্ঠায় যান?"
 
+msgid "Gradient"
+msgstr ""
+
 msgid "Grid"
 msgstr "গ্রিড"
+
+msgid "Group"
+msgstr ""
 
 msgid "Handles"
 msgstr "হ্যান্ডেল"
@@ -640,6 +661,15 @@ msgstr "দোভাষী"
 msgid "Invalid"
 msgstr "অবৈধ"
 
+msgid "Invalid font"
+msgstr ""
+
+msgid "Invalid handle"
+msgstr ""
+
+msgid "Invalid offset"
+msgstr ""
+
 msgid "Invalid opcode"
 msgstr "অবৈধ opcode"
 
@@ -652,9 +682,6 @@ msgstr ""
 msgid "Issuer"
 msgstr "ইস্যুকারী"
 
-msgid "It is not a valid file"
-msgstr "এটি একটি বৈধ ফাইল নয়"
-
 msgid "Joiner"
 msgstr "যোগদানকারী"
 
@@ -663,9 +690,6 @@ msgstr "লাফ দেয়"
 
 msgid "Keep size"
 msgstr "আকার রাখুন"
-
-msgid "Kernel mode"
-msgstr "কার্নেল মোড"
 
 msgid "KiB"
 msgstr "কেআইবি (Kibibyte)"
@@ -745,23 +769,29 @@ msgstr "মস্তিষ্কের স্ক্যান"
 msgid "Metadata"
 msgstr "মেটাডাটা"
 
+msgid "Metadata table"
+msgstr ""
+
 msgid "Method"
 msgstr "পদ্ধতি"
 
 msgid "MiB"
 msgstr "এমআইবি (Mebibyte)"
 
+msgid "Min size"
+msgstr ""
+
 msgid "Mode"
 msgstr "মোড"
-
-msgid "Module"
-msgstr "মডিউল"
 
 msgid "Modules"
 msgstr "মডিউলগুলো"
 
 msgid "More info"
 msgstr "অধিক তথ্য"
+
+msgid "Multiplatform"
+msgstr ""
 
 msgid "Multisearch"
 msgstr ""
@@ -789,6 +819,9 @@ msgstr "নতুন কোন সংস্করণ হয়নি"
 
 msgid "Nothing found"
 msgstr "কোনকিছু পাওয়া যায়নি"
+
+msgid "Null-terminated"
+msgstr ""
 
 msgid "Number"
 msgstr ""
@@ -835,17 +868,32 @@ msgstr "অপারেটিং সিস্টেম"
 msgid "Options"
 msgstr "বিকল্প"
 
+msgid "Output"
+msgstr ""
+
 msgid "Overlay"
 msgstr "আস্তরণ"
 
+msgid "Package"
+msgstr ""
+
 msgid "Packer"
 msgstr "ভরক (Packer)"
+
+msgid "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "বিরতি"
 
 msgid "Paused"
 msgstr "বিরতি দেওয়া হয়েছে"
+
+msgid "Plain Text"
+msgstr ""
+
+msgid "Platform"
+msgstr ""
 
 msgid "Player"
 msgstr "ক্রীড়ক"
@@ -868,8 +916,8 @@ msgstr "ছাপা"
 msgid "Process"
 msgstr "প্রক্রিয়া"
 
-msgid "Processes"
-msgstr "প্রক্রিয়াগুলো"
+msgid "Profiling"
+msgstr ""
 
 msgid "Program name"
 msgstr "অনুষ্ঠানের নাম"
@@ -1012,7 +1060,16 @@ msgstr "স্ক্যান"
 msgid "Scan after open"
 msgstr "খোলার পরে স্ক্যান করুন"
 
+msgid "Scan for IAT"
+msgstr ""
+
+msgid "Schema"
+msgstr ""
+
 msgid "Script"
+msgstr ""
+
+msgid "Scripts"
 msgstr ""
 
 msgid "Search"
@@ -1129,6 +1186,9 @@ msgstr "উপাদান সাজান"
 msgid "Sort type"
 msgstr "সাজানোর ধরন"
 
+msgid "Sorted"
+msgstr ""
+
 msgid "Source code"
 msgstr "সোর্স কোড"
 
@@ -1143,9 +1203,6 @@ msgstr ""
 
 msgid "Start"
 msgstr "শুরু করুন"
-
-msgid "State"
-msgstr "অবস্থা"
 
 msgid "Status"
 msgstr "পদমর্যাদা"
@@ -1213,11 +1270,20 @@ msgstr "টেবিল"
 msgid "Table of contents"
 msgstr "সুচিপত্র"
 
+msgid "Table views"
+msgstr ""
+
+msgid "Tags"
+msgstr ""
+
 msgid "Text"
 msgstr "পাঠ্য"
 
 msgid "Text documents"
 msgstr "পাঠ্য নথি"
+
+msgid "Text editors"
+msgstr ""
 
 msgid "Text files"
 msgstr "পাঠ্য ফাইল"
@@ -1282,6 +1348,9 @@ msgstr ""
 msgid "Tree"
 msgstr "ট্রি"
 
+msgid "Tree views"
+msgstr ""
+
 msgid "Trojan"
 msgstr ""
 
@@ -1290,6 +1359,12 @@ msgstr "দুটি অপারেন্ড"
 
 msgid "Type"
 msgstr "টাইপ"
+
+msgid "Unicode"
+msgstr ""
+
+msgid "Universal"
+msgstr ""
 
 msgid "Unknown"
 msgstr "অজানা"
@@ -1311,9 +1386,6 @@ msgstr "উপরের"
 
 msgid "Uppercase"
 msgstr "বড় হাতের অক্ষর"
-
-msgid "User mode"
-msgstr "ব্যবহারকারী মোড"
 
 msgid "Value"
 msgstr "মান"
@@ -1369,6 +1441,9 @@ msgstr "ওয়াইল্ডকার্ড"
 msgid "Write error"
 msgstr "ভুল লিখুন"
 
+msgid "Zeros"
+msgstr ""
+
 msgid "compressor"
 msgstr "সংকোচকারী"
 
@@ -1399,5 +1474,24 @@ msgstr "বস্তাবন্দী"
 msgid "protection"
 msgstr "সুরক্ষা"
 
+msgid "tar"
+msgstr ""
+
+msgid "tar.gz"
+msgstr ""
+
 msgid "true"
 msgstr ""
+
+
+
+
+
+
+
+
+
+
+
+
+
