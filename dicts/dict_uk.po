@@ -110,7 +110,7 @@ msgid "Begin"
 msgstr "Початок"
 
 msgid "Binary"
-msgstr ""
+msgstr "Двійковий"
 
 msgid "Bind"
 msgstr "Зв'язувати"
@@ -146,7 +146,7 @@ msgid "Breakpoints"
 msgstr "Точки зупину"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "Розмір буферу"
 
 msgid "Bugreports"
 msgstr "Звіти про помилки"
@@ -179,13 +179,13 @@ msgid "Cancel"
 msgstr "Скасувати"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "Не вдалось знайти"
 
 msgid "Cannot find file"
 msgstr "Не вдалося знайти файл"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "Не вдалось поремонтувати дамп файл"
 
 msgid "Cannot get PDB age"
 msgstr "Не вдалося отримати вік PDB"
@@ -206,7 +206,7 @@ msgid "Cannot load file"
 msgstr "Не вдалося завантажити файл"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "Не вдалося завантажити дамп файл"
 
 msgid "Cannot open file"
 msgstr "Не вдалося відкрити файл"
@@ -215,10 +215,10 @@ msgid "Cannot open session"
 msgstr "Не вдалося відкрити сесію"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "Не вдалося прочитати файл"
 
 msgid "Cannot read memory at address"
-msgstr "Не вдалося прочитать пам'ять по адресі"
+msgstr "Не вдалося прочитати пам'ять по адресі"
 
 msgid "Cannot resize"
 msgstr "Не вдалося змінити розмір"
@@ -230,7 +230,7 @@ msgid "Cannot set shortcut"
 msgstr "Не вдалося створити ярлик"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "Не вдалося записати дані в файл"
 
 msgid "Certificate"
 msgstr "Сертифікат"
@@ -254,7 +254,7 @@ msgid "Code"
 msgstr "Код"
 
 msgid "Code page"
-msgstr ""
+msgstr "Кодова сторінка"
 
 msgid "Code pages"
 msgstr "Кодові сторінки"
@@ -362,7 +362,7 @@ msgid "Dependencies"
 msgstr "Залежності"
 
 msgid "Description"
-msgstr ""
+msgstr "Опис"
 
 msgid "Detach"
 msgstr "Від'єднати"
@@ -524,7 +524,7 @@ msgid "Follow me"
 msgstr "Слідуй за мною"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Шрифти"
 
 msgid "Footer"
 msgstr "Футер"
@@ -560,7 +560,7 @@ msgid "Get"
 msgstr "Отримати"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "Отримати IAT"
 
 msgid "Get element"
 msgstr "Отримати елемент"
@@ -578,13 +578,13 @@ msgid "Go to download page?"
 msgstr "Перейти на сторінку завантаження?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "Градієнт"
 
 msgid "Grid"
 msgstr "Сітка"
 
 msgid "Group"
-msgstr ""
+msgstr "Групувати"
 
 msgid "Handles"
 msgstr "Дескриптори"
@@ -662,13 +662,13 @@ msgid "Invalid"
 msgstr "Невірний"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Невірний шрифт"
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "Невірний хендл"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "Невірний офсет"
 
 msgid "Invalid opcode"
 msgstr "Невірний опкод"
@@ -770,7 +770,7 @@ msgid "Metadata"
 msgstr "Метадані"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "Таблиця метаданих"
 
 msgid "Method"
 msgstr "Метод"
@@ -779,7 +779,7 @@ msgid "MiB"
 msgstr "МіБ"
 
 msgid "Min size"
-msgstr ""
+msgstr "Мін розмір"
 
 msgid "Mode"
 msgstr "Режим"
@@ -791,7 +791,7 @@ msgid "More info"
 msgstr "Більше інфо"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "Мультиплатформа"
 
 msgid "Multisearch"
 msgstr "Мультипошук"
@@ -821,7 +821,7 @@ msgid "Nothing found"
 msgstr "Нічого не знайдено"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "Нуль-терміновано"
 
 msgid "Number"
 msgstr "Номер"
@@ -869,19 +869,19 @@ msgid "Options"
 msgstr "Налаштування"
 
 msgid "Output"
-msgstr ""
+msgstr "Вивід"
 
 msgid "Overlay"
 msgstr "Оверлей"
 
 msgid "Package"
-msgstr ""
+msgstr "Пакет"
 
 msgid "Packer"
 msgstr "Пакувальник"
 
 msgid "Patch"
-msgstr ""
+msgstr "Патч"
 
 msgid "Pause"
 msgstr "Пауза"
@@ -890,10 +890,10 @@ msgid "Paused"
 msgstr "На паузі"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "Простий Текст"
 
 msgid "Platform"
-msgstr ""
+msgstr "Платформа"
 
 msgid "Player"
 msgstr "Гравець"
@@ -917,7 +917,7 @@ msgid "Process"
 msgstr "Процес"
 
 msgid "Profiling"
-msgstr ""
+msgstr "Профілювання"
 
 msgid "Program name"
 msgstr "Назва програми"
@@ -1061,16 +1061,16 @@ msgid "Scan after open"
 msgstr "Сканування після відкриття"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "Сканування IAT"
 
 msgid "Schema"
-msgstr ""
+msgstr "Схема"
 
 msgid "Script"
 msgstr "Скрипт"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Скрипти"
 
 msgid "Search"
 msgstr "Пошук"
@@ -1187,7 +1187,7 @@ msgid "Sort type"
 msgstr "Тип сортування"
 
 msgid "Sorted"
-msgstr ""
+msgstr "Сортовано"
 
 msgid "Source code"
 msgstr "Джерельний код"
@@ -1271,10 +1271,10 @@ msgid "Table of contents"
 msgstr "Зміст"
 
 msgid "Table views"
-msgstr ""
+msgstr "Табличний вигляд"
 
 msgid "Tags"
-msgstr ""
+msgstr "Таги"
 
 msgid "Text"
 msgstr "Текст"
@@ -1283,7 +1283,7 @@ msgid "Text documents"
 msgstr "Текстові документи"
 
 msgid "Text editors"
-msgstr ""
+msgstr "Текстові редактори"
 
 msgid "Text files"
 msgstr "Текстові файли"
@@ -1349,7 +1349,7 @@ msgid "Tree"
 msgstr "Дерево"
 
 msgid "Tree views"
-msgstr ""
+msgstr "Деревоподібний вигляд"
 
 msgid "Trojan"
 msgstr "Троян"
@@ -1361,10 +1361,10 @@ msgid "Type"
 msgstr "Тип"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Юнікод"
 
 msgid "Universal"
-msgstr ""
+msgstr "Універсальний"
 
 msgid "Unknown"
 msgstr "Невідомо"
@@ -1442,7 +1442,7 @@ msgid "Write error"
 msgstr "Помилка запису"
 
 msgid "Zeros"
-msgstr ""
+msgstr "Нулі"
 
 msgid "compressor"
 msgstr "Пакувальник"
@@ -1475,10 +1475,10 @@ msgid "protection"
 msgstr "захист"
 
 msgid "tar"
-msgstr ""
+msgstr "tar"
 
 msgid "tar.gz"
-msgstr ""
+msgstr "tar.gz"
 
 msgid "true"
 msgstr "true"
