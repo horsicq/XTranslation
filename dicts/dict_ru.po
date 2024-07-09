@@ -179,13 +179,13 @@ msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "Не удается найти"
 
 msgid "Cannot find file"
 msgstr "Не удаётся найти файл"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "Не удается починить файл дампа"
 
 msgid "Cannot get PDB age"
 msgstr "Не удается получить возраст PDB"
@@ -206,7 +206,7 @@ msgid "Cannot load file"
 msgstr "Невозможно загрузить файл"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "Не удается открыть файл дампа"
 
 msgid "Cannot open file"
 msgstr "Невозможно открыть файл"
@@ -215,7 +215,7 @@ msgid "Cannot open session"
 msgstr "Невозможно открыть сеанс"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "Не удается прочитать файл"
 
 msgid "Cannot read memory at address"
 msgstr "Невозможно прочитать память по адресу"
@@ -230,7 +230,7 @@ msgid "Cannot set shortcut"
 msgstr "Невозможно создать ссылку"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "Не удается записать данные в файл"
 
 msgid "Certificate"
 msgstr "Сертификат"
@@ -254,7 +254,7 @@ msgid "Code"
 msgstr "Код"
 
 msgid "Code page"
-msgstr ""
+msgstr "Кодовая страница"
 
 msgid "Code pages"
 msgstr "Кодовые страницы"
@@ -362,7 +362,7 @@ msgid "Dependencies"
 msgstr "Зависимости"
 
 msgid "Description"
-msgstr ""
+msgstr "Описание"
 
 msgid "Detach"
 msgstr "Отсоединить"
@@ -524,7 +524,7 @@ msgid "Follow me"
 msgstr "Подпишись на меня!"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Шрифты"
 
 msgid "Footer"
 msgstr "Футер"
@@ -560,7 +560,7 @@ msgid "Get"
 msgstr "Получить"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "Получить IAT"
 
 msgid "Get element"
 msgstr "Получить элемент"
@@ -578,13 +578,13 @@ msgid "Go to download page?"
 msgstr "Перейти на страницу загрузки?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "Градиент"
 
 msgid "Grid"
 msgstr "Сетка"
 
 msgid "Group"
-msgstr ""
+msgstr "Группа"
 
 msgid "Handles"
 msgstr "Хэндлы"
@@ -662,10 +662,10 @@ msgid "Invalid"
 msgstr "Неверный"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Неверный шрифт"
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "Неверный хэндлер"
 
 msgid "Invalid offset"
 msgstr ""
@@ -770,7 +770,7 @@ msgid "Metadata"
 msgstr "Метаданные"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "Таблица метаданных"
 
 msgid "Method"
 msgstr "Метод"
@@ -779,7 +779,7 @@ msgid "MiB"
 msgstr "МиБ"
 
 msgid "Min size"
-msgstr ""
+msgstr "Мин. размер"
 
 msgid "Mode"
 msgstr "Режим"
@@ -791,7 +791,7 @@ msgid "More info"
 msgstr "Больше инфы"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "Мультиплатформа"
 
 msgid "Multisearch"
 msgstr "Мультипоиск"
@@ -875,13 +875,13 @@ msgid "Overlay"
 msgstr "Оверлей"
 
 msgid "Package"
-msgstr ""
+msgstr "Пакет"
 
 msgid "Packer"
 msgstr "Упаковщик"
 
 msgid "Patch"
-msgstr ""
+msgstr "Патч"
 
 msgid "Pause"
 msgstr "Пауза"
@@ -890,10 +890,10 @@ msgid "Paused"
 msgstr "На паузе"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "Простой Текст"
 
 msgid "Platform"
-msgstr ""
+msgstr "Платформа"
 
 msgid "Player"
 msgstr "Игрок"
@@ -917,7 +917,7 @@ msgid "Process"
 msgstr "Процесс"
 
 msgid "Profiling"
-msgstr ""
+msgstr "Профайлинг"
 
 msgid "Program name"
 msgstr "Название программы"
@@ -1061,16 +1061,16 @@ msgid "Scan after open"
 msgstr "Сразу сканировать"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "Просканировать на IAT"
 
 msgid "Schema"
-msgstr ""
+msgstr "Схема"
 
 msgid "Script"
 msgstr "Скрипт"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Скрипты"
 
 msgid "Search"
 msgstr "Поиск"
@@ -1187,7 +1187,7 @@ msgid "Sort type"
 msgstr "Тип сортировки"
 
 msgid "Sorted"
-msgstr ""
+msgstr "Сортированно"
 
 msgid "Source code"
 msgstr "Исходный код"
@@ -1274,7 +1274,7 @@ msgid "Table views"
 msgstr ""
 
 msgid "Tags"
-msgstr ""
+msgstr "Тэги"
 
 msgid "Text"
 msgstr "Текст"
@@ -1283,7 +1283,7 @@ msgid "Text documents"
 msgstr "Текстовые документы"
 
 msgid "Text editors"
-msgstr ""
+msgstr "Текстовые редакторы"
 
 msgid "Text files"
 msgstr "Текстовые файлы"
@@ -1361,10 +1361,10 @@ msgid "Type"
 msgstr "Тип"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Юникод"
 
 msgid "Universal"
-msgstr ""
+msgstr "Универсальный"
 
 msgid "Unknown"
 msgstr "Неизвестно"
