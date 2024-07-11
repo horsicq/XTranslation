@@ -110,7 +110,7 @@ msgid "Begin"
 msgstr "Начало"
 
 msgid "Binary"
-msgstr ""
+msgstr "Бинарный"
 
 msgid "Bind"
 msgstr "Связывать"
@@ -146,7 +146,7 @@ msgid "Breakpoints"
 msgstr "Контрольные точки"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "Размер буфера"
 
 msgid "Bugreports"
 msgstr "Сообщения об ошибках"
@@ -284,7 +284,7 @@ msgid "Console"
 msgstr "Консоль"
 
 msgid "Controls"
-msgstr ""
+msgstr "Управление"
 
 msgid "Converter"
 msgstr "Конвертер"
@@ -821,7 +821,7 @@ msgid "Nothing found"
 msgstr "Ничего не найдено"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "Завершен с Null"
 
 msgid "Number"
 msgstr "Номер"
@@ -869,7 +869,7 @@ msgid "Options"
 msgstr "Настройки"
 
 msgid "Output"
-msgstr ""
+msgstr "Вывод"
 
 msgid "Overlay"
 msgstr "Оверлей"
@@ -1271,7 +1271,7 @@ msgid "Table of contents"
 msgstr "Таблица с содержимым"
 
 msgid "Table views"
-msgstr ""
+msgstr "Виды таблиц"
 
 msgid "Tags"
 msgstr "Тэги"
@@ -1340,16 +1340,16 @@ msgid "Trace"
 msgstr "Трассировать"
 
 msgid "Trace into"
-msgstr ""
+msgstr "Проследить в"
 
 msgid "Trace over"
-msgstr ""
+msgstr "Проследить за"
 
 msgid "Tree"
 msgstr "Дерево"
 
 msgid "Tree views"
-msgstr ""
+msgstr "Виды древа"
 
 msgid "Trojan"
 msgstr "Троян"
@@ -1442,7 +1442,7 @@ msgid "Write error"
 msgstr "Ошибка записи"
 
 msgid "Zeros"
-msgstr ""
+msgstr "Нули"
 
 msgid "compressor"
 msgstr "упаковщик"
