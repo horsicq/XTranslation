@@ -109,7 +109,7 @@ msgid "Begin"
 msgstr "Começar"
 
 msgid "Binary"
-msgstr ""
+msgstr "Binário"
 
 msgid "Bind"
 msgstr "Vincular"
@@ -145,7 +145,7 @@ msgid "Breakpoints"
 msgstr "Breakpoints"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "Tamanho do Buffer"
 
 msgid "Bugreports"
 msgstr "Relatório de erros"
@@ -178,13 +178,13 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "Não encontrado"
 
 msgid "Cannot find file"
 msgstr "Não foi possível encontrar o arquivo"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "Não foi possível consertar o dump"
 
 msgid "Cannot get PDB age"
 msgstr "Não é possível obter idade do PDB"
@@ -205,7 +205,7 @@ msgid "Cannot load file"
 msgstr "Não é possível carregar o arquivo"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "Não foi possível abrir o dump"
 
 msgid "Cannot open file"
 msgstr "Não é possível abrir o arquivo"
@@ -214,7 +214,7 @@ msgid "Cannot open session"
 msgstr "Não é possível abrir a sessão"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "Não foi possível ler o arquivo"
 
 msgid "Cannot read memory at address"
 msgstr "Não é possível ler a memória no endereço"
@@ -229,7 +229,7 @@ msgid "Cannot set shortcut"
 msgstr "Não é possível definir o atalho"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "Não foi possível escrever dados no arquivo"
 
 msgid "Certificate"
 msgstr "Certificado"
@@ -253,7 +253,7 @@ msgid "Code"
 msgstr "Código"
 
 msgid "Code page"
-msgstr ""
+msgstr "Code page"
 
 msgid "Code pages"
 msgstr "Code pages"
@@ -283,7 +283,7 @@ msgid "Console"
 msgstr "Console"
 
 msgid "Controls"
-msgstr ""
+msgstr "Controles"
 
 msgid "Converter"
 msgstr "Conversor"
@@ -361,7 +361,7 @@ msgid "Dependencies"
 msgstr "Dependências"
 
 msgid "Description"
-msgstr ""
+msgstr "Descrição"
 
 msgid "Detach"
 msgstr "Desanexar"
@@ -523,7 +523,7 @@ msgid "Follow me"
 msgstr "Siga-me"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Fontes"
 
 msgid "Footer"
 msgstr "Rodapé"
@@ -559,7 +559,7 @@ msgid "Get"
 msgstr "Get"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "Obter IAT"
 
 msgid "Get element"
 msgstr "Obter elemento"
@@ -577,13 +577,13 @@ msgid "Go to download page?"
 msgstr "Ir para página de Download?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "Gradient"
 
 msgid "Grid"
 msgstr "Grid"
 
 msgid "Group"
-msgstr ""
+msgstr "Grupo"
 
 msgid "Handles"
 msgstr "Handles"
@@ -661,13 +661,13 @@ msgid "Invalid"
 msgstr "Inválido"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Fonte inválida"
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "Handle inválido"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "Offset inválido"
 
 msgid "Invalid opcode"
 msgstr "Opcode inválido"
@@ -769,7 +769,7 @@ msgid "Metadata"
 msgstr "Metadados"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "Metadata table"
 
 msgid "Method"
 msgstr "Método"
@@ -778,7 +778,7 @@ msgid "MiB"
 msgstr "MiB"
 
 msgid "Min size"
-msgstr ""
+msgstr "Tamanho minímo"
 
 msgid "Mode"
 msgstr "Modo"
@@ -790,7 +790,7 @@ msgid "More info"
 msgstr "Mais informações"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "Multiplataforma"
 
 msgid "Multisearch"
 msgstr "Pesquisa multipla"
@@ -820,7 +820,7 @@ msgid "Nothing found"
 msgstr "Nada encontrado"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "Terminador-Nulo"
 
 msgid "Number"
 msgstr "Número"
@@ -868,19 +868,19 @@ msgid "Options"
 msgstr "Opções"
 
 msgid "Output"
-msgstr ""
+msgstr "Saída"
 
 msgid "Overlay"
 msgstr "Overlay"
 
 msgid "Package"
-msgstr ""
+msgstr "Package"
 
 msgid "Packer"
 msgstr "Empacotador"
 
 msgid "Patch"
-msgstr ""
+msgstr "Patch"
 
 msgid "Pause"
 msgstr "Pausa"
@@ -889,10 +889,10 @@ msgid "Paused"
 msgstr "Pausado"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "Texto Simples"
 
 msgid "Platform"
-msgstr ""
+msgstr "Plataforma"
 
 msgid "Player"
 msgstr "Jogador"
@@ -916,7 +916,7 @@ msgid "Process"
 msgstr "Processo"
 
 msgid "Profiling"
-msgstr ""
+msgstr "Perfil"
 
 msgid "Program name"
 msgstr "Nome do programa"
@@ -1060,16 +1060,16 @@ msgid "Scan after open"
 msgstr "Escanear depois de aberto"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "Procurar pela IAT"
 
 msgid "Schema"
-msgstr ""
+msgstr "Schema"
 
 msgid "Script"
 msgstr "Script"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Scripts"
 
 msgid "Search"
 msgstr "Procurar"
@@ -1186,7 +1186,7 @@ msgid "Sort type"
 msgstr "Tipo de classificação"
 
 msgid "Sorted"
-msgstr ""
+msgstr "Classificado"
 
 msgid "Source code"
 msgstr "Código Fonte"
@@ -1270,10 +1270,10 @@ msgid "Table of contents"
 msgstr "Índice"
 
 msgid "Table views"
-msgstr ""
+msgstr "Visualização de Tabela"
 
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 msgid "Text"
 msgstr "Texto"
@@ -1282,7 +1282,7 @@ msgid "Text documents"
 msgstr "Documentos de texto"
 
 msgid "Text editors"
-msgstr ""
+msgstr "Editores de texto"
 
 msgid "Text files"
 msgstr "Arquivos de texto"
@@ -1348,7 +1348,7 @@ msgid "Tree"
 msgstr "Árvore"
 
 msgid "Tree views"
-msgstr ""
+msgstr "Tree views"
 
 msgid "Trojan"
 msgstr "Trojan"
@@ -1360,10 +1360,10 @@ msgid "Type"
 msgstr "Tipo"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "Universal"
-msgstr ""
+msgstr "Universal"
 
 msgid "Unknown"
 msgstr "Desconhecido"
@@ -1441,7 +1441,7 @@ msgid "Write error"
 msgstr "Erro de escrita"
 
 msgid "Zeros"
-msgstr ""
+msgstr "Zeros"
 
 msgid "compressor"
 msgstr "compressor"
@@ -1474,10 +1474,10 @@ msgid "protection"
 msgstr "proteção"
 
 msgid "tar"
-msgstr ""
+msgstr "tar"
 
 msgid "tar.gz"
-msgstr ""
+msgstr "tar.gz"
 
 msgid "true"
 msgstr "true"
