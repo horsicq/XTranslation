@@ -1,4 +1,4 @@
-msgid ""
+﻿msgid ""
 msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -109,7 +109,7 @@ msgid "Begin"
 msgstr "开始"
 
 msgid "Binary"
-msgstr ""
+msgstr "二进制"
 
 msgid "Bind"
 msgstr "绑定"
@@ -145,7 +145,7 @@ msgid "Breakpoints"
 msgstr "断点集"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "缓存大小"
 
 msgid "Bugreports"
 msgstr "错误报告"
@@ -178,13 +178,13 @@ msgid "Cancel"
 msgstr "取消"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "无法获取"
 
 msgid "Cannot find file"
 msgstr "无法获取 文件"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "无法修复转储文件"
 
 msgid "Cannot get PDB age"
 msgstr "无法获取 PDB 年龄"
@@ -205,7 +205,7 @@ msgid "Cannot load file"
 msgstr "无法加载文件"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "无法打开转储文件"
 
 msgid "Cannot open file"
 msgstr "无法打开文件"
@@ -214,7 +214,7 @@ msgid "Cannot open session"
 msgstr "无法打开会话"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "无法读取文件"
 
 msgid "Cannot read memory at address"
 msgstr "无法读取地址处的内存"
@@ -229,7 +229,7 @@ msgid "Cannot set shortcut"
 msgstr "无法设置快捷键"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "无法将数据写入文件"
 
 msgid "Certificate"
 msgstr "证书"
@@ -253,7 +253,7 @@ msgid "Code"
 msgstr "代码"
 
 msgid "Code page"
-msgstr ""
+msgstr "代码页"
 
 msgid "Code pages"
 msgstr "代码页"
@@ -283,7 +283,7 @@ msgid "Console"
 msgstr "控制台"
 
 msgid "Controls"
-msgstr ""
+msgstr "控件"
 
 msgid "Converter"
 msgstr "转换器"
@@ -361,7 +361,7 @@ msgid "Dependencies"
 msgstr "依赖关系"
 
 msgid "Description"
-msgstr ""
+msgstr "说明"
 
 msgid "Detach"
 msgstr "分离"
@@ -523,7 +523,7 @@ msgid "Follow me"
 msgstr "跟我"
 
 msgid "Fonts"
-msgstr ""
+msgstr "字体"
 
 msgid "Footer"
 msgstr "页脚"
@@ -559,7 +559,7 @@ msgid "Get"
 msgstr "获取"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "获取 IAT"
 
 msgid "Get element"
 msgstr "获取元素"
@@ -577,13 +577,13 @@ msgid "Go to download page?"
 msgstr "前往下载页面？"
 
 msgid "Gradient"
-msgstr ""
+msgstr "梯度"
 
 msgid "Grid"
 msgstr "网格"
 
 msgid "Group"
-msgstr ""
+msgstr "组"
 
 msgid "Handles"
 msgstr "句柄"
@@ -661,13 +661,13 @@ msgid "Invalid"
 msgstr "无效"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "无效字体"
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "无效句柄"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "无效偏移"
 
 msgid "Invalid opcode"
 msgstr "无效的操作码"
@@ -769,7 +769,7 @@ msgid "Metadata"
 msgstr "元数据"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "元数据表"
 
 msgid "Method"
 msgstr "方法"
@@ -778,7 +778,7 @@ msgid "MiB"
 msgstr "MiB"
 
 msgid "Min size"
-msgstr ""
+msgstr "最小尺寸"
 
 msgid "Mode"
 msgstr "模式"
@@ -790,7 +790,7 @@ msgid "More info"
 msgstr "更多信息"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "多平台"
 
 msgid "Multisearch"
 msgstr "多重搜索"
@@ -820,7 +820,7 @@ msgid "Nothing found"
 msgstr "未找到"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "空终止符"
 
 msgid "Number"
 msgstr "数字"
@@ -868,19 +868,19 @@ msgid "Options"
 msgstr "选项"
 
 msgid "Output"
-msgstr ""
+msgstr "输出"
 
 msgid "Overlay"
 msgstr "附加"
 
 msgid "Package"
-msgstr ""
+msgstr "包"
 
 msgid "Packer"
 msgstr "打包工具"
 
 msgid "Patch"
-msgstr ""
+msgstr "补丁"
 
 msgid "Pause"
 msgstr "暂停"
@@ -889,10 +889,10 @@ msgid "Paused"
 msgstr "已暂停"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "纯文本"
 
 msgid "Platform"
-msgstr ""
+msgstr "平台"
 
 msgid "Player"
 msgstr "播放器"
@@ -916,7 +916,7 @@ msgid "Process"
 msgstr "进程"
 
 msgid "Profiling"
-msgstr ""
+msgstr "分析"
 
 msgid "Program name"
 msgstr "程序名称"
@@ -1060,16 +1060,16 @@ msgid "Scan after open"
 msgstr "打开后扫描"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "扫描 IAT"
 
 msgid "Schema"
-msgstr ""
+msgstr "架构"
 
 msgid "Script"
 msgstr "脚本"
 
 msgid "Scripts"
-msgstr ""
+msgstr "脚本"
 
 msgid "Search"
 msgstr "搜索"
@@ -1186,7 +1186,7 @@ msgid "Sort type"
 msgstr "排序类型"
 
 msgid "Sorted"
-msgstr ""
+msgstr "已排序"
 
 msgid "Source code"
 msgstr "源代码"
@@ -1270,10 +1270,10 @@ msgid "Table of contents"
 msgstr "目录"
 
 msgid "Table views"
-msgstr ""
+msgstr "表格试图"
 
 msgid "Tags"
-msgstr ""
+msgstr "标签"
 
 msgid "Text"
 msgstr "文本"
@@ -1282,7 +1282,7 @@ msgid "Text documents"
 msgstr "文本文档"
 
 msgid "Text editors"
-msgstr ""
+msgstr "文本编辑器"
 
 msgid "Text files"
 msgstr "文本文件"
@@ -1348,7 +1348,7 @@ msgid "Tree"
 msgstr "目录"
 
 msgid "Tree views"
-msgstr ""
+msgstr "目录视图"
 
 msgid "Trojan"
 msgstr "木马"
@@ -1360,10 +1360,10 @@ msgid "Type"
 msgstr "类型"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "Universal"
-msgstr ""
+msgstr "通用"
 
 msgid "Unknown"
 msgstr "未知"
@@ -1441,7 +1441,7 @@ msgid "Write error"
 msgstr "写入错误"
 
 msgid "Zeros"
-msgstr ""
+msgstr "零填充"
 
 msgid "compressor"
 msgstr "压缩工具"
@@ -1453,7 +1453,7 @@ msgid "extender"
 msgstr "扩展器"
 
 msgid "false"
-msgstr "false"
+msgstr "假"
 
 msgid "kB"
 msgstr "kB"
@@ -1474,13 +1474,13 @@ msgid "protection"
 msgstr "防护"
 
 msgid "tar"
-msgstr ""
+msgstr "tar"
 
 msgid "tar.gz"
-msgstr ""
+msgstr "tar.gz"
 
 msgid "true"
-msgstr "true"
+msgstr "真"
 
 
 
