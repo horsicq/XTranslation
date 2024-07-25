@@ -13,7 +13,7 @@ msgid "16-bit"
 msgstr "16ビット"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256ビット"
 
 msgid "32-bit"
 msgstr "32ビット"
@@ -34,10 +34,10 @@ msgid "Action"
 msgstr "操作"
 
 msgid "Add"
-msgstr ""
+msgstr "追加"
 
 msgid "Add alignment"
-msgstr "配置を追加"
+msgstr "パディングを追加"
 
 msgid "Add to context menu"
 msgstr "コンテキストメニューに追加"
@@ -46,7 +46,7 @@ msgid "Address"
 msgstr "アドレス"
 
 msgid "Advanced"
-msgstr ""
+msgstr "高度な"
 
 msgid "Algorithm"
 msgstr "アルゴリズム"
@@ -82,25 +82,25 @@ msgid "Archive record"
 msgstr "アーカイブ レコード"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "本当に大丈夫ですか？"
 
 msgid "Array"
 msgstr "配列"
 
 msgid "Arrows"
-msgstr ""
+msgstr "矢印"
 
 msgid "Attach"
 msgstr "添付"
 
 msgid "Audio"
-msgstr ""
+msgstr "オーディオ"
 
 msgid "Automatic"
 msgstr "自動"
 
 msgid "Background"
-msgstr ""
+msgstr "背景"
 
 msgid "Base address"
 msgstr "基準アドレス"
@@ -109,7 +109,7 @@ msgid "Begin"
 msgstr "先頭"
 
 msgid "Binary"
-msgstr ""
+msgstr "バイナリ"
 
 msgid "Bind"
 msgstr "バインド"
@@ -118,16 +118,16 @@ msgid "Binding"
 msgstr "バインディング"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Block size"
-msgstr ""
+msgstr "ブロックサイズ"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "ブックマーク"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "ブックマーク"
 
 msgid "Boot application"
 msgstr "ブートアプリケーション"
@@ -145,7 +145,7 @@ msgid "Breakpoints"
 msgstr "ブレークポイント"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "バッファーサイズ"
 
 msgid "Bugreports"
 msgstr "バグ報告"
@@ -157,7 +157,7 @@ msgid "Bytes"
 msgstr "バイト"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "利用可能なバイト"
 
 msgid "CPU"
 msgstr "CPU"
@@ -178,58 +178,58 @@ msgid "Cancel"
 msgstr "キャンセル"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "見つけられませんでした"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "ファイルを見つけられませんでした"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "ダンプを修正できませんでした"
 
 msgid "Cannot get PDB age"
-msgstr "PDBの年齢を取得できません"
+msgstr "PDBの年齢を取得できませんでした"
 
 msgid "Cannot get PDB name"
-msgstr "PDB名を取得できません"
+msgstr "PDB名を取得できませんでした"
 
 msgid "Cannot load MSDIA library"
-msgstr "MSDIAライブラリを読み込めません"
+msgstr "MSDIAライブラリを読み込めませんでした"
 
 msgid "Cannot load data from PDB"
-msgstr "PDBからデータを読み込めません"
+msgstr "PDBからデータを読み込めませんでした"
 
 msgid "Cannot load database"
-msgstr "データベースを読み込めません"
+msgstr "データベースを読み込めませんでした"
 
 msgid "Cannot load file"
-msgstr "ファイルを読み込めません"
+msgstr "ファイルを読み込めませんでした"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "ダンプファイルを開けませんでした"
 
 msgid "Cannot open file"
-msgstr "ファイルを開けません"
+msgstr "ファイルを開けませんでした"
 
 msgid "Cannot open session"
-msgstr "セッションを開くことができません"
+msgstr "セッションを開くことができませんでした"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "ファイルの読み込みに失敗しました"
 
 msgid "Cannot read memory at address"
-msgstr "アドレスのメモリを読み取れません"
+msgstr "アドレスのメモリを読み取れませんでした"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "リサイズができませんでした"
 
 msgid "Cannot save file"
-msgstr "ファイルを保存できません"
+msgstr "ファイルを保存できませんでした"
 
 msgid "Cannot set shortcut"
-msgstr "ショートカットの設定に失敗"
+msgstr "ショートカットの設定に失敗しました"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "ファイルへのデータ書き込みに失敗しました"
 
 msgid "Certificate"
 msgstr "証明書"
@@ -1481,16 +1481,3 @@ msgstr ""
 
 msgid "true"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
