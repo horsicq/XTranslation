@@ -1,10 +1,17 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_DE\n"
+"X-Generator: Poedit 3.4.3\n"
 
 msgid "128-bit"
 msgstr "128-Bit"
@@ -109,7 +116,7 @@ msgid "Begin"
 msgstr "Start"
 
 msgid "Binary"
-msgstr ""
+msgstr "Binär"
 
 msgid "Bind"
 msgstr "Binden"
@@ -145,7 +152,7 @@ msgid "Breakpoints"
 msgstr "Haltepunkte"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "Buffergröße"
 
 msgid "Bugreports"
 msgstr "Fehlerberichte"
@@ -178,7 +185,7 @@ msgid "Cancel"
 msgstr "Abbrechen"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "Kann nicht gefunden"
 
 msgid "Cannot find file"
 msgstr "Datei kann nicht gefunden werden"
@@ -205,7 +212,7 @@ msgid "Cannot load file"
 msgstr "Kann Datei nicht laden"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "Kann nicht die Datei speichern"
 
 msgid "Cannot open file"
 msgstr "Kann die Datei nicht öffnen"
@@ -214,13 +221,13 @@ msgid "Cannot open session"
 msgstr "Sitzung kann nicht geöffnet werden"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "Kann nicht die Datei lesen"
 
 msgid "Cannot read memory at address"
 msgstr "Speicher an Adresse kann nicht gelesen werden"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Kann nicht die Größe ändern"
 
 msgid "Cannot save file"
 msgstr "Kann die Datei nicht speichern"
@@ -229,7 +236,7 @@ msgid "Cannot set shortcut"
 msgstr "Kann die Verknüpfung nicht setzen"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "Kann nicht in die Datei schreiben"
 
 msgid "Certificate"
 msgstr "Zertifikat"
@@ -253,7 +260,7 @@ msgid "Code"
 msgstr "Code"
 
 msgid "Code page"
-msgstr ""
+msgstr "Zeichensatz"
 
 msgid "Code pages"
 msgstr "Zeichensätze"
@@ -361,7 +368,7 @@ msgid "Dependencies"
 msgstr "Abhängigkeiten"
 
 msgid "Description"
-msgstr ""
+msgstr "Beschreibung"
 
 msgid "Detach"
 msgstr "Ablösen"
@@ -523,7 +530,7 @@ msgid "Follow me"
 msgstr "Folge mir"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Schriftarten"
 
 msgid "Footer"
 msgstr "Fußzeile"
@@ -550,7 +557,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "General registers"
-msgstr ""
+msgstr "Generische Registers"
 
 msgid "Generic"
 msgstr "Generisch"
@@ -559,7 +566,7 @@ msgid "Get"
 msgstr "Abrufen"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "IAT abrufen"
 
 msgid "Get element"
 msgstr "Element abrufen"
@@ -583,7 +590,7 @@ msgid "Grid"
 msgstr "Gitter"
 
 msgid "Group"
-msgstr ""
+msgstr "Gruppe"
 
 msgid "Handles"
 msgstr "Handles"
@@ -661,13 +668,13 @@ msgid "Invalid"
 msgstr "Ungültig"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Ungültige Schriftart"
 
 msgid "Invalid handle"
 msgstr ""
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "Ungültiger Offset"
 
 msgid "Invalid opcode"
 msgstr "Ungültiger Opcode"
@@ -769,7 +776,7 @@ msgid "Metadata"
 msgstr "Metadaten"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "Metadatentabelle"
 
 msgid "Method"
 msgstr "Methode"
@@ -778,7 +785,7 @@ msgid "MiB"
 msgstr "MiB"
 
 msgid "Min size"
-msgstr ""
+msgstr "Minimale Größe"
 
 msgid "Mode"
 msgstr "Modus"
@@ -790,7 +797,7 @@ msgid "More info"
 msgstr "Mehr Info"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "Multiplatform"
 
 msgid "Multisearch"
 msgstr "Multisuche"
@@ -868,13 +875,13 @@ msgid "Options"
 msgstr "Optionen"
 
 msgid "Output"
-msgstr ""
+msgstr "Ausgabe"
 
 msgid "Overlay"
 msgstr "Overlay"
 
 msgid "Package"
-msgstr ""
+msgstr "Paket"
 
 msgid "Packer"
 msgstr "Packer"
@@ -889,10 +896,10 @@ msgid "Paused"
 msgstr "Pausiert"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "Klartext"
 
 msgid "Platform"
-msgstr ""
+msgstr "Platform"
 
 msgid "Player"
 msgstr "Spieler"
@@ -916,7 +923,7 @@ msgid "Process"
 msgstr "Prozess"
 
 msgid "Profiling"
-msgstr ""
+msgstr "Profiling"
 
 msgid "Program name"
 msgstr "Programmname"
@@ -979,7 +986,7 @@ msgid "Register"
 msgstr "Register"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registers"
 
 msgid "Relative address"
 msgstr "Relative Adresse"
@@ -1060,16 +1067,16 @@ msgid "Scan after open"
 msgstr "Scannen nach dem Öffnen starten"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "Suche nach IAT"
 
 msgid "Schema"
-msgstr ""
+msgstr "Schema"
 
 msgid "Script"
 msgstr "Skript"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Skripte"
 
 msgid "Search"
 msgstr "Suche"
@@ -1150,7 +1157,7 @@ msgid "Show options"
 msgstr "Optionen anzeigen"
 
 msgid "Show type"
-msgstr ""
+msgstr "Typen anzeigen"
 
 msgid "Show valid"
 msgstr "Gültige anzeigen"
@@ -1186,7 +1193,7 @@ msgid "Sort type"
 msgstr "Sortiertyp"
 
 msgid "Sorted"
-msgstr ""
+msgstr "Sortiert"
 
 msgid "Source code"
 msgstr "Quellcode"
@@ -1270,10 +1277,10 @@ msgid "Table of contents"
 msgstr "Inhaltsverzeichnis"
 
 msgid "Table views"
-msgstr ""
+msgstr "Tabelle Anzeigen"
 
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 msgid "Text"
 msgstr "Text"
@@ -1282,7 +1289,7 @@ msgid "Text documents"
 msgstr "Textdokumente"
 
 msgid "Text editors"
-msgstr ""
+msgstr "Texteditor"
 
 msgid "Text files"
 msgstr "Textdateien"
@@ -1345,13 +1352,13 @@ msgid "Trace over"
 msgstr ""
 
 msgid "Tree"
-msgstr "Baum"
+msgstr "Verzeichnis"
 
 msgid "Tree views"
-msgstr ""
+msgstr "Verzeichnisanzeige"
 
 msgid "Trojan"
-msgstr ""
+msgstr "Trojaner"
 
 msgid "Two operands"
 msgstr "Zwei Operanden"
@@ -1360,16 +1367,16 @@ msgid "Type"
 msgstr "Typ"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "Universal"
-msgstr ""
+msgstr "Universal"
 
 msgid "Unknown"
 msgstr "Unbekannt"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Entpackt"
 
 msgid "Unsigned"
 msgstr "Unsigniert"
@@ -1384,7 +1391,7 @@ msgid "Upper"
 msgstr "Gross"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "Großschreibung"
 
 msgid "Value"
 msgstr "Wert"
@@ -1441,7 +1448,7 @@ msgid "Write error"
 msgstr "Schreibfehler"
 
 msgid "Zeros"
-msgstr ""
+msgstr "Nullen"
 
 msgid "compressor"
 msgstr "Kompressor"
@@ -1453,7 +1460,7 @@ msgid "extender"
 msgstr "Extender"
 
 msgid "false"
-msgstr ""
+msgstr "false"
 
 msgid "kB"
 msgstr "kB"
@@ -1474,23 +1481,10 @@ msgid "protection"
 msgstr "Schutz"
 
 msgid "tar"
-msgstr ""
+msgstr "tar"
 
 msgid "tar.gz"
-msgstr ""
+msgstr "tar.gz"
 
 msgid "true"
-msgstr ""
-
-
-
-
-
-
-
-
-
-
-
-
-
+msgstr "true"
