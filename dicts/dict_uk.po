@@ -284,7 +284,7 @@ msgid "Console"
 msgstr "Консоль"
 
 msgid "Controls"
-msgstr ""
+msgstr "Керування"
 
 msgid "Converter"
 msgstr "Конвертор"
