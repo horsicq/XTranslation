@@ -271,7 +271,7 @@ msgid "Commands"
 msgstr "Comandos"
 
 msgid "Comment"
-msgstr "Comente"
+msgstr "Comentario"
 
 msgid "Compiler"
 msgstr "Compilador"
@@ -397,13 +397,13 @@ msgid "Driver"
 msgstr "Driver"
 
 msgid "Dump"
-msgstr "Dump"
+msgstr "Extrair"
 
 msgid "Dump all"
-msgstr "Dump all"
+msgstr "Extrair todos"
 
 msgid "Dump to file"
-msgstr "Despejar para arquivo"
+msgstr "Extrair para arquivo"
 
 msgid "Edit"
 msgstr "Editar"
@@ -556,7 +556,7 @@ msgid "Generic"
 msgstr "Genérico"
 
 msgid "Get"
-msgstr "Get"
+msgstr "Resgatar"
 
 msgid "Get IAT"
 msgstr "Obter IAT"
@@ -748,7 +748,7 @@ msgid "Malware"
 msgstr "Malware"
 
 msgid "Manifest"
-msgstr "Manifest"
+msgstr "Manifesto"
 
 msgid "Match case"
 msgstr "Match case"
