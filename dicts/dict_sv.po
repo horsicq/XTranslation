@@ -901,43 +901,43 @@ msgid "Please restart the application"
 msgstr ""
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "Kör programmet som administratör"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "En giltig API-nyckel krävs"
 
 msgid "Pointer"
-msgstr ""
+msgstr "Pekare"
 
 msgid "Print"
-msgstr ""
+msgstr "Printa"
 
 msgid "Process"
-msgstr ""
+msgstr "Process"
 
 msgid "Profiling"
-msgstr ""
+msgstr "Profilera"
 
 msgid "Program name"
-msgstr ""
+msgstr "Programnamn"
 
 msgid "Programs"
-msgstr ""
+msgstr "Program"
 
 msgid "Protection"
-msgstr ""
+msgstr "Skydd"
 
 msgid "Protector"
-msgstr ""
+msgstr "Skyddare"
 
 msgid "Protector data"
-msgstr ""
+msgstr "Skyddningsdata"
 
 msgid "Prototype"
-msgstr ""
+msgstr "Prototyp"
 
 msgid "Publisher"
-msgstr ""
+msgstr "Publicerare"
 
 msgid "Raw data"
 msgstr ""
@@ -1429,55 +1429,55 @@ msgid "Weak binding"
 msgstr ""
 
 msgid "Website"
-msgstr ""
+msgstr "Webbsida"
 
 msgid "Width"
-msgstr ""
+msgstr "Bredd"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "Jokertecken"
 
 msgid "Write error"
-msgstr ""
+msgstr "Skriv-fel"
 
 msgid "Zeros"
-msgstr ""
+msgstr "Nollor"
 
 msgid "compressor"
-msgstr ""
+msgstr "inpackare"
 
 msgid "data"
-msgstr ""
+msgstr "data"
 
 msgid "extender"
 msgstr ""
 
 msgid "false"
-msgstr ""
+msgstr "falskt"
 
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 msgid "msec"
-msgstr ""
+msgstr "msec"
 
 msgid "not packed"
-msgstr ""
+msgstr "Inte packad"
 
 msgid "obfuscator"
-msgstr ""
+msgstr "obfuskator"
 
 msgid "packed"
-msgstr ""
+msgstr "packad"
 
 msgid "protection"
-msgstr ""
+msgstr "skydd"
 
 msgid "tar"
-msgstr ""
+msgstr "tar"
 
 msgid "tar.gz"
-msgstr ""
+msgstr "tar.gz"
 
 msgid "true"
-msgstr ""
+msgstr "Sant"
