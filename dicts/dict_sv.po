@@ -346,25 +346,25 @@ msgid "Decode"
 msgstr ""
 
 msgid "Deep scan"
-msgstr ""
+msgstr "Djup skanning"
 
 msgid "Default"
-msgstr ""
+msgstr "Standard"
 
 msgid "Delay import"
 msgstr ""
 
 msgid "Demangle"
-msgstr ""
+msgstr "Avmanglera"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "Beroenden"
 
 msgid "Description"
-msgstr ""
+msgstr "Beksrivning"
 
 msgid "Detach"
-msgstr ""
+msgstr "Koopla loss"
 
 msgid "Detect"
 msgstr "Upptäcka"
@@ -685,31 +685,31 @@ msgid "Joiner"
 msgstr ""
 
 msgid "Jumps"
-msgstr ""
+msgstr "Hopp"
 
 msgid "Keep size"
 msgstr ""
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Label"
-msgstr ""
+msgstr "Etikett"
 
 msgid "Labels"
-msgstr ""
+msgstr "Etiketter"
 
 msgid "Language"
 msgstr ""
 
 msgid "Lazy binding"
-msgstr ""
+msgstr "Lat bindning"
 
 msgid "Length"
-msgstr ""
+msgstr "Längd"
 
 msgid "Libraries"
-msgstr ""
+msgstr "Bibliotek"
 
 msgid "Library"
 msgstr ""
@@ -1297,7 +1297,7 @@ msgid "The file is signed and the signature was verified"
 msgstr "Filen är signerad, och verifierad"
 
 msgid "The signature error"
-msgstr "Signatur'sfel"
+msgstr "Signaturs-fel"
 
 msgid "The signature is present, but not trusted"
 msgstr "Signaturen existerar, men är inte betrodd"
