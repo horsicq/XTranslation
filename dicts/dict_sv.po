@@ -169,10 +169,10 @@ msgid "Callbacks"
 msgstr "tillbakaringa"
 
 msgid "Calls"
-msgstr "Samtal"
+msgstr "Anrop"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Andropsstack"
 
 msgid "Cancel"
 msgstr "Avbryt"
@@ -193,43 +193,43 @@ msgid "Cannot get PDB name"
 msgstr "kunde inte få PDB namn"
 
 msgid "Cannot load MSDIA library"
-msgstr "kunde inte "
+msgstr "kunde inte ladda MSDIA bibliotek"
 
 msgid "Cannot load data from PDB"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot load database"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot load file"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot open dump file"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot open file"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot open session"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot read file"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot read memory at address"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot resize"
-msgstr "kunde inte "
+msgstr "kunde inte ladda "
 
 msgid "Cannot save file"
-msgstr "kunde inte "
+msgstr "kunde inte spara "
 
 msgid "Cannot set shortcut"
-msgstr "kunde inte "
+msgstr "kunde inte sätta genväg"
 
 msgid "Cannot write data to file"
-msgstr "kunde inte "
+msgstr "kunde inte skriva data till fil"
 
 msgid "Certificate"
 msgstr "Certifikat"
