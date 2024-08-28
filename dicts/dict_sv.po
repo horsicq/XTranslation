@@ -115,7 +115,7 @@ msgid "Bind"
 msgstr "Binda"
 
 msgid "Binding"
-msgstr ""
+msgstr "Bindning"
 
 msgid "Bits"
 msgstr "Bitar"
@@ -136,7 +136,7 @@ msgid "Boot service driver"
 msgstr "Boot service drivrutin"
 
 msgid "Bound import"
-msgstr ""
+msgstr "bunds Import"
 
 msgid "Breakpoint"
 msgstr "Breakpoint"
@@ -163,181 +163,181 @@ msgid "CPU"
 msgstr "CPU"
 
 msgid "Calculate"
-msgstr "Kalkera"
+msgstr "Räkna ut"
 
 msgid "Callbacks"
-msgstr ""
+msgstr "tillbakaringa"
 
 msgid "Calls"
-msgstr ""
+msgstr "Samtal"
 
 msgid "Callstack"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Avbryt"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "Kunde inte hitta"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Kunde inte hitta fil"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "Kunde inte fixa dump-fil"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "kunde inte få PDB tid"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "kunde inte få PDB namn"
 
 msgid "Cannot load MSDIA library"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot open file"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot save file"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "kunde inte "
 
 msgid "Certificate"
-msgstr ""
+msgstr "Certifikat"
 
 msgid "Check"
-msgstr ""
+msgstr "Kontrollera "
 
 msgid "Check updates"
-msgstr ""
+msgstr "Kontrollera Uppdateringar"
 
 msgid "Clear"
-msgstr ""
+msgstr "Rensa"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Rensa Resultat"
 
 msgid "Close"
-msgstr ""
+msgstr "Stäng"
 
 msgid "Code"
-msgstr ""
+msgstr "Kod"
 
 msgid "Code page"
-msgstr ""
+msgstr "Kod sida"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Kod sidor"
 
 msgid "Code section"
-msgstr ""
+msgstr "Kod sektion"
 
 msgid "Color"
-msgstr ""
+msgstr "Färg"
 
 msgid "Colors"
-msgstr ""
+msgstr "Färger"
 
 msgid "Commands"
-msgstr ""
+msgstr "Kommando"
 
 msgid "Comment"
-msgstr ""
+msgstr "Kommentar"
 
 msgid "Compiler"
-msgstr ""
+msgstr "Kompilator"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Om"
 
 msgid "Console"
-msgstr ""
+msgstr "Konsol"
 
 msgid "Controls"
-msgstr ""
+msgstr "Kontroller"
 
 msgid "Converter"
-msgstr ""
+msgstr "Konverterare"
 
 msgid "Copy"
-msgstr ""
+msgstr "Kopiera"
 
 msgid "Copy as"
-msgstr ""
+msgstr "Kopiera som"
 
 msgid "Count"
-msgstr ""
+msgstr "Räkna"
 
 msgid "Create view model"
 msgstr ""
 
 msgid "Crypter"
-msgstr ""
+msgstr "Krypterare"
 
 msgid "Cryptor"
-msgstr ""
+msgstr "Krypterare"
 
 msgid "Cursor"
-msgstr ""
+msgstr "Pekare"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Skräddarsydd databas"
 
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Data "
 
 msgid "Data in code"
-msgstr ""
+msgstr "Data "
 
 msgid "Data inspector"
-msgstr ""
+msgstr "Data "
 
 msgid "Database"
-msgstr ""
+msgstr "Databas"
 
 msgid "Date"
-msgstr ""
+msgstr "Datum"
 
 msgid "Debug"
-msgstr ""
+msgstr "Avlusa"
 
 msgid "Debug data"
-msgstr ""
+msgstr "Avlusa "
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Avlusa "
 
 msgid "Debugger"
 msgstr ""
@@ -367,19 +367,19 @@ msgid "Detach"
 msgstr ""
 
 msgid "Detect"
-msgstr ""
+msgstr "Upptäcka"
 
 msgid "Device scan"
 msgstr ""
 
 msgid "Diagram"
-msgstr ""
+msgstr "Diagram"
 
 msgid "Directory"
-msgstr ""
+msgstr "Mapp"
 
 msgid "Directory scan"
-msgstr ""
+msgstr "Mapp skann"
 
 msgid "Disasm"
 msgstr ""
