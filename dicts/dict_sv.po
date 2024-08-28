@@ -433,7 +433,7 @@ msgid "Entry point section"
 msgstr ""
 
 msgid "Error"
-msgstr ""
+msgstr "Fel"
 
 msgid "Exceptions"
 msgstr ""
@@ -796,64 +796,64 @@ msgid "Multisearch"
 msgstr ""
 
 msgid "Name"
-msgstr ""
+msgstr "Namn"
 
 msgid "Network error"
-msgstr ""
+msgstr "Nätverks-fel"
 
 msgid "New"
-msgstr ""
+msgstr "Ny"
 
 msgid "New version available"
-msgstr ""
+msgstr "Ny version tillgänglig"
 
 msgid "Next"
-msgstr ""
+msgstr "Nästa"
 
 msgid "No"
-msgstr ""
+msgstr "Nej"
 
 msgid "No update available"
-msgstr ""
+msgstr "Inga uppdatering"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "Ingenting hittiat"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "Null-terminerad"
 
 msgid "Number"
-msgstr ""
+msgstr "Nummer"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Nummer"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Object"
-msgstr ""
+msgstr "Objekt"
 
 msgid "Offset"
-msgstr ""
+msgstr "Plats"
 
 msgid "One operand"
 msgstr ""
 
 msgid "Online tools"
-msgstr ""
+msgstr "Verktyg online"
 
 msgid "Opcode"
-msgstr ""
+msgstr "Opkod"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Opkods grupp"
 
 msgid "Opcodes"
-msgstr ""
+msgstr "Opkoder"
 
 msgid "Open"
-msgstr ""
+msgstr "Öppna"
 
 msgid "Open directory"
 msgstr ""
@@ -940,10 +940,10 @@ msgid "Publisher"
 msgstr "Publicerare"
 
 msgid "Raw data"
-msgstr ""
+msgstr "Rå data"
 
 msgid "Read error"
-msgstr ""
+msgstr "Läs-fel"
 
 msgid "Readonly"
 msgstr ""
