@@ -568,7 +568,7 @@ msgid "GiB"
 msgstr "GiB"
 
 msgid "Go to"
-msgstr Gå till"
+msgstr "Gå till"
 
 msgid "Go to address"
 msgstr "Gå till addess"
