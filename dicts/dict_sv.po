@@ -382,112 +382,112 @@ msgid "Directory scan"
 msgstr "Mapp skann"
 
 msgid "Disasm"
-msgstr ""
+msgstr "Ta isär"
 
 msgid "Document"
-msgstr ""
+msgstr "Dokument"
 
 msgid "Documents"
-msgstr ""
+msgstr "Dokument"
 
 msgid "Donate"
-msgstr ""
+msgstr "Donera"
 
 msgid "Driver"
-msgstr ""
+msgstr "Drivrutin"
 
 msgid "Dump"
-msgstr ""
+msgstr "Dumpa"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Dumpa alltihop"
 
 msgid "Dump to file"
-msgstr ""
+msgstr "Dumpa till fil"
 
 msgid "Edit"
-msgstr ""
+msgstr "Ändra"
 
 msgid "Editor"
-msgstr ""
+msgstr "Redigerare"
 
 msgid "Elapsed"
 msgstr ""
 
 msgid "Encode"
-msgstr ""
+msgstr "Enkoda"
 
 msgid "End"
-msgstr ""
+msgstr "Slut"
 
 msgid "Endianness"
-msgstr ""
+msgstr "Endianess"
 
 msgid "Entropy"
-msgstr ""
+msgstr "Entropi"
 
 msgid "Entry point"
-msgstr ""
+msgstr "Startnings punkt"
 
 msgid "Entry point section"
-msgstr ""
+msgstr "Sektion av startnings punkt"
 
 msgid "Error"
 msgstr "Fel"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "Undantag"
 
 msgid "Exit"
-msgstr ""
+msgstr "Avsluta"
 
 msgid "Export"
-msgstr ""
+msgstr "Exportera"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "Exportera Fil Namn"
 
 msgid "Export type"
-msgstr ""
+msgstr "Exportera typ"
 
 msgid "External references"
-msgstr ""
+msgstr "External"
 
 msgid "Extract"
-msgstr ""
+msgstr "Extrahera"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Extrahera alla pekare"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Extrahera alla ikoner"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Extraherare"
 
 msgid "File"
-msgstr ""
+msgstr "Fil"
 
 msgid "File info"
-msgstr ""
+msgstr "Fil information"
 
 msgid "File name"
-msgstr ""
+msgstr "filnamn"
 
 msgid "File offset"
-msgstr ""
+msgstr "Filen's position"
 
 msgid "File saved"
-msgstr ""
+msgstr "Fil Sparad"
 
 msgid "File scan"
-msgstr ""
+msgstr "Fil skanning"
 
 msgid "File size"
-msgstr ""
+msgstr "Storlek av fil"
 
 msgid "File type"
-msgstr ""
+msgstr "Typ av fil"
 
 msgid "Files"
 msgstr ""
@@ -544,34 +544,34 @@ msgid "Function leave"
 msgstr ""
 
 msgid "Functions"
-msgstr ""
+msgstr "Funktioner"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
 
 msgid "General registers"
-msgstr ""
+msgstr "Generiska registrer"
 
 msgid "Generic"
-msgstr ""
+msgstr "Generisk"
 
 msgid "Get"
-msgstr ""
+msgstr "Få"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "Ta reda på Importadresstabell"
 
 msgid "Get element"
-msgstr ""
+msgstr "Ta element"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
 
 msgid "Go to"
-msgstr ""
+msgstr Gå till""
 
 msgid "Go to address"
-msgstr ""
+msgstr "Gå till addess"
 
 msgid "Go to download page?"
 msgstr ""
