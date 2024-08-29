@@ -136,7 +136,7 @@ msgid "Boot service driver"
 msgstr "Boot service drivrutin"
 
 msgid "Bound import"
-msgstr "bunds Import"
+msgstr "bindnings Import"
 
 msgid "Breakpoint"
 msgstr "Breakpoint"
