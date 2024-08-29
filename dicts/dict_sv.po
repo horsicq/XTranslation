@@ -340,10 +340,10 @@ msgid "Debug registers"
 msgstr "Avlusa "
 
 msgid "Debugger"
-msgstr ""
+msgstr "Avlusare"
 
 msgid "Decode"
-msgstr ""
+msgstr "Avkoda"
 
 msgid "Deep scan"
 msgstr "Djup skanning"
@@ -352,7 +352,7 @@ msgid "Default"
 msgstr "Standard"
 
 msgid "Delay import"
-msgstr ""
+msgstr "imports-Fördröjning"
 
 msgid "Demangle"
 msgstr "Avmanglera"
@@ -514,34 +514,34 @@ msgid "Flags register"
 msgstr "Flaggs registrer"
 
 msgid "Folder"
-msgstr ""
+msgstr "Mapp"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Föj i"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Följ mig"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Fonter"
 
 msgid "Footer"
-msgstr ""
+msgstr "Sid-o-fot"
 
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Fullskärm"
 
 msgid "Function enter"
-msgstr ""
+msgstr "Funktionens inträdes-punkt"
 
 msgid "Function leave"
-msgstr ""
+msgstr "Funktionens lämnings-punkt"
 
 msgid "Functions"
 msgstr "Funktioner"
@@ -568,40 +568,40 @@ msgid "GiB"
 msgstr "GiB"
 
 msgid "Go to"
-msgstr Gå till""
+msgstr Gå till"
 
 msgid "Go to address"
 msgstr "Gå till addess"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Vill du gå till nerladdnings sidan?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "Gradient"
 
 msgid "Grid"
-msgstr ""
+msgstr "lattis"
 
 msgid "Group"
-msgstr ""
+msgstr "Grupp"
 
 msgid "Handles"
-msgstr ""
+msgstr "Handles"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hårdvaru"
 
 msgid "Hash"
-msgstr ""
+msgstr "Hash"
 
 msgid "Header"
-msgstr ""
+msgstr "Header"
 
 msgid "Height"
-msgstr ""
+msgstr "Höjd"
 
 msgid "Help"
-msgstr ""
+msgstr "Hjälp"
 
 msgid "Heuristic"
 msgstr "Heuristisk"
@@ -754,7 +754,7 @@ msgid "Match case"
 msgstr "Matcha stor/liten bokstav"
 
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 msgid "Memory"
 msgstr "Minne"
