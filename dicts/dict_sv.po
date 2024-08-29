@@ -817,7 +817,7 @@ msgid "No update available"
 msgstr "Inga uppdatering"
 
 msgid "Nothing found"
-msgstr "Ingenting hittiat"
+msgstr "Ingenting hittat"
 
 msgid "Null-terminated"
 msgstr "Null-terminerad"
