@@ -30,6 +30,7 @@ Translation for:
 | Portuguese, Brazil   | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_pt-BR.po"> <img src="https://gitlocalize.com/repo/4736/pt-BR/badge.svg" /> </a> |
 | Russian              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ru.po"> <img src="https://gitlocalize.com/repo/4736/ru/badge.svg" /> </a> |
 | Spanish              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_es.po"> <img src="https://gitlocalize.com/repo/4736/es/badge.svg" /> </a> |
+| Swedish              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_sv.po"> <img src="https://gitlocalize.com/repo/4736/sv/badge.svg" /> </a> |
 | Turkish              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_tr.po"> <img src="https://gitlocalize.com/repo/4736/tr/badge.svg" /> </a> |
 | Ukrainian           	| <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_uk.po"> <img src="https://gitlocalize.com/repo/4736/uk/badge.svg" /> </a> |
 | Vietnamese           | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_vi.po"> <img src="https://gitlocalize.com/repo/4736/vi/badge.svg" /> </a> |
