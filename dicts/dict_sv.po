@@ -298,7 +298,7 @@ msgid "Count"
 msgstr "Räkna"
 
 msgid "Create view model"
-msgstr ""
+msgstr "Skapa vy-modell"
 
 msgid "Crypter"
 msgstr "Krypterare"
