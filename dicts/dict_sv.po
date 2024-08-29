@@ -31,7 +31,7 @@ msgid "About"
 msgstr "Om"
 
 msgid "Action"
-msgstr "Handling"
+msgstr "Verkan"
 
 msgid "Add"
 msgstr "Addera"
