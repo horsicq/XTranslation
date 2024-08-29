@@ -490,28 +490,28 @@ msgid "File type"
 msgstr "Typ av fil"
 
 msgid "Files"
-msgstr ""
+msgstr "Filer"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgid "Find"
-msgstr ""
+msgstr "Hitta"
 
 msgid "Find next"
-msgstr ""
+msgstr "Hitta nästa"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "Ordna positionerna"
 
 msgid "Fix types"
-msgstr ""
+msgstr "Ordna typerna"
 
 msgid "Flags"
-msgstr ""
+msgstr "Flaggor"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Flaggs registrer"
 
 msgid "Folder"
 msgstr ""
@@ -856,49 +856,49 @@ msgid "Open"
 msgstr "Öppna"
 
 msgid "Open directory"
-msgstr ""
+msgstr "Öppna mapp"
 
 msgid "Open file"
-msgstr ""
+msgstr "Öppna fil"
 
 msgid "Operation system"
-msgstr ""
+msgstr "Operativsystem"
 
 msgid "Options"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Output"
-msgstr ""
+msgstr "Resultat"
 
 msgid "Overlay"
-msgstr ""
+msgstr "Över-lager"
 
 msgid "Package"
-msgstr ""
+msgstr "Packet"
 
 msgid "Packer"
-msgstr ""
+msgstr "In-packare"
 
 msgid "Patch"
-msgstr ""
+msgstr "Patch"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pausa"
 
 msgid "Paused"
-msgstr ""
+msgstr "Pausad"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "Plain Text"
 
 msgid "Platform"
-msgstr ""
+msgstr "Platform"
 
 msgid "Player"
-msgstr ""
+msgstr "Spelare"
 
 msgid "Please restart the application"
-msgstr ""
+msgstr "Var god och starta om applikation"
 
 msgid "Please run the program as an administrator"
 msgstr "Kör programmet som administratör"
@@ -946,286 +946,286 @@ msgid "Read error"
 msgstr "Läs-fel"
 
 msgid "Readonly"
-msgstr ""
+msgstr "Enbart-Läs"
 
 msgid "Rebase"
-msgstr ""
+msgstr "Ändra bas"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Senaste använda filer"
 
 msgid "Recursive"
-msgstr ""
+msgstr "Rekursiv"
 
 msgid "Recursive scan"
-msgstr ""
+msgstr "Rekursiv skan"
 
 msgid "Ref from"
-msgstr ""
+msgstr "Reference från"
 
 msgid "Ref to"
-msgstr ""
+msgstr "Reference till"
 
 msgid "References"
-msgstr ""
+msgstr "Referenser"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Regions"
-msgstr ""
+msgstr "Regioner"
 
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registrer"
 
 msgid "Relative address"
-msgstr ""
+msgstr "Relativ address"
 
 msgid "Relative virtual address"
-msgstr ""
+msgstr "Relativ virtual address"
 
 msgid "Reload"
-msgstr ""
+msgstr "Ladda om"
 
 msgid "Relocs"
-msgstr ""
+msgstr "Relocs"
 
 msgid "Remove"
-msgstr ""
+msgstr "Ta bort"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Skanna igen"
 
 msgid "Resize"
-msgstr ""
+msgstr "Ändra storlek"
 
 msgid "Resource"
-msgstr ""
+msgstr "Generiska registrer"
 
 msgid "Resources"
-msgstr ""
+msgstr "Resurser"
 
 msgid "Restart"
-msgstr ""
+msgstr "Starta om"
 
 msgid "Result"
-msgstr ""
+msgstr "Resultat"
 
 msgid "Rules"
-msgstr ""
+msgstr "Regler"
 
 msgid "Run"
-msgstr ""
+msgstr "Kör"
 
 msgid "Running"
-msgstr ""
+msgstr "Körs"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "Startsdrivrutin"
 
 msgid "Save"
-msgstr ""
+msgstr "Spara"
 
 msgid "Save as"
-msgstr ""
+msgstr "Spara som"
 
 msgid "Save backup"
-msgstr ""
+msgstr "Spara säkerhetskopia"
 
 msgid "Save diagram"
-msgstr ""
+msgstr "Spara diagram"
 
 msgid "Save dump"
-msgstr ""
+msgstr "Spara dump"
 
 msgid "Save file"
-msgstr ""
+msgstr "Spara fil"
 
 msgid "Save history"
-msgstr ""
+msgstr "Spara historik"
 
 msgid "Save last directory"
-msgstr ""
+msgstr "Spara senaste mappen"
 
 msgid "Save result"
-msgstr ""
+msgstr "Spara resultat"
 
 msgid "Scan"
-msgstr ""
+msgstr "Skanna"
 
 msgid "Scan after open"
-msgstr ""
+msgstr "Skanna för öppna"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "Skanna för Importadresstabell"
 
 msgid "Schema"
-msgstr ""
+msgstr "Schema"
 
 msgid "Script"
-msgstr ""
+msgstr "Skript"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Skript"
 
 msgid "Search"
-msgstr ""
+msgstr "Söka"
 
 msgid "Search from"
-msgstr ""
+msgstr "Sök från"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "Sök signaturer"
 
 msgid "Search strings"
-msgstr ""
+msgstr "Sök strängar"
 
 msgid "Search values"
-msgstr ""
+msgstr "Sök värden"
 
 msgid "Section"
-msgstr ""
+msgstr "Sektion"
 
 msgid "Section name"
-msgstr ""
+msgstr "Sektions namn"
 
 msgid "Sections"
-msgstr ""
+msgstr "Sektions"
 
 msgid "Segment"
-msgstr ""
+msgstr "Segment"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "Segmentets registrer"
 
 msgid "Segments"
-msgstr ""
+msgstr "Segment"
 
 msgid "Select"
-msgstr ""
+msgstr "Markera"
 
 msgid "Select all"
-msgstr ""
+msgstr "Markera allt"
 
 msgid "Selected"
-msgstr ""
+msgstr "Markerade"
 
 msgid "Selection"
-msgstr ""
+msgstr "Selektion"
 
 msgid "Serial number"
-msgstr ""
+msgstr "Serial nummer"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Genväg"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "Genvägar"
 
 msgid "Show"
-msgstr ""
+msgstr "Visa "
 
 msgid "Show all"
-msgstr ""
+msgstr "Visa allt"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "Visa kolonner i addresser"
 
 msgid "Show comments"
-msgstr ""
+msgstr "Visa kommentarer"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Visa upphittade resultat"
 
 msgid "Show in"
-msgstr ""
+msgstr "Visa i"
 
 msgid "Show logo"
-msgstr ""
+msgstr "Visa logotyp"
 
 msgid "Show options"
-msgstr ""
+msgstr "Visa inställningar"
 
 msgid "Show type"
-msgstr ""
+msgstr "Visa typ"
 
 msgid "Show valid"
-msgstr ""
+msgstr "Visa enbart giltiga"
 
 msgid "Show version"
-msgstr ""
+msgstr "Visa versionen"
 
 msgid "Sign tool"
-msgstr ""
+msgstr "Signerings-verktyg"
 
 msgid "Signature"
-msgstr ""
+msgstr "Signatur"
 
 msgid "Signatures"
-msgstr ""
+msgstr "Signaturer"
 
 msgid "Signed"
-msgstr ""
+msgstr "Signerad"
 
 msgid "Single application"
-msgstr ""
+msgstr "Enbart en applikation"
 
 msgid "Size"
-msgstr ""
+msgstr "Storlek"
 
 msgid "Size of image"
-msgstr ""
+msgstr "Storlek av image"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "Sortera element"
 
 msgid "Sort type"
-msgstr ""
+msgstr "Sortera typ"
 
 msgid "Sorted"
-msgstr ""
+msgstr "Sorterad"
 
 msgid "Source code"
-msgstr ""
+msgstr "Källkod"
 
 msgid "Spaces"
-msgstr ""
+msgstr "Mellanrum"
 
 msgid "Stack"
-msgstr ""
+msgstr "Stack"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "Stack registrer"
 
 msgid "Start"
-msgstr ""
+msgstr "Starta"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Stay on top"
-msgstr ""
+msgstr "Alltid-överst"
 
 msgid "Step into"
-msgstr ""
+msgstr "Ta ett steg in i"
 
 msgid "Step over"
-msgstr ""
+msgstr "Ta ett steg över"
 
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
 
 msgid "String"
-msgstr ""
+msgstr "Sträng"
 
 msgid "String table"
 msgstr ""
 
 msgid "Strings"
-msgstr ""
+msgstr "Strängar"
 
 msgid "Struct"
 msgstr ""
