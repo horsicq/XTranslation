@@ -43,7 +43,7 @@ msgid "Add to context menu"
 msgstr "Lägg till, till kontext menyn"
 
 msgid "Address"
-msgstr "Adressera"
+msgstr "Address"
 
 msgid "Advanced"
 msgstr "Avancerad"
