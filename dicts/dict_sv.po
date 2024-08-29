@@ -370,7 +370,7 @@ msgid "Detect"
 msgstr "Upptäcka"
 
 msgid "Device scan"
-msgstr ""
+msgstr "Skanna enhet"
 
 msgid "Diagram"
 msgstr "Diagram"
@@ -412,7 +412,7 @@ msgid "Editor"
 msgstr "Redigerare"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Kvar"
 
 msgid "Encode"
 msgstr "Enkoda"
@@ -604,91 +604,91 @@ msgid "Help"
 msgstr ""
 
 msgid "Heuristic"
-msgstr ""
+msgstr "Heuristisk"
 
 msgid "Heuristic scan"
-msgstr ""
+msgstr "Heuristisk skanning"
 
 msgid "Hex"
-msgstr ""
+msgstr "Hex"
 
 msgid "Hex signature"
-msgstr ""
+msgstr "Hex signatur"
 
 msgid "Highlight"
-msgstr ""
+msgstr "Markera"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Markeringar"
 
 msgid "Image"
-msgstr ""
+msgstr "Image"
 
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 msgid "Import"
-msgstr ""
+msgstr "Importera"
 
 msgid "Import hash"
-msgstr ""
+msgstr "Importera hash"
 
 msgid "Indirect symbols"
-msgstr ""
+msgstr "Indirekta symboler"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 msgid "Input"
-msgstr ""
+msgstr "Input"
 
 msgid "Installer"
-msgstr ""
+msgstr "Installerare"
 
 msgid "Installer data"
-msgstr ""
+msgstr "Installerarens data"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "Instruktionspekare till registret"
 
 msgid "Interpreter"
-msgstr ""
+msgstr "Tolk"
 
 msgid "Invalid"
-msgstr ""
+msgstr "Ogiltig"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Ogiltig "
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "Ogiltig handle"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "Ogiltig plats"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "Ogiltig opkod"
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "Ogiltig signatur"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Ogiltig storlek"
 
 msgid "Issuer"
-msgstr ""
+msgstr "Issuer"
 
 msgid "Joiner"
-msgstr ""
+msgstr "Tilläggare"
 
 msgid "Jumps"
 msgstr "Hopp"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Behåll storlek"
 
 msgid "KiB"
 msgstr "KiB"
@@ -700,7 +700,7 @@ msgid "Labels"
 msgstr "Etiketter"
 
 msgid "Language"
-msgstr ""
+msgstr "Språk"
 
 msgid "Lazy binding"
 msgstr "Lat bindning"
@@ -712,88 +712,88 @@ msgid "Libraries"
 msgstr "Bibliotek"
 
 msgid "Library"
-msgstr ""
+msgstr "Bibliotek"
 
 msgid "Library name"
-msgstr ""
+msgstr "Biblioteks namn"
 
 msgid "Linker"
-msgstr ""
+msgstr "Linkare"
 
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 msgid "List"
-msgstr ""
+msgstr "Lista"
 
 msgid "Load config"
-msgstr ""
+msgstr "Ladda konfig"
 
 msgid "Local relocation"
-msgstr ""
+msgstr "Plats för relokation"
 
 msgid "Location"
-msgstr ""
+msgstr "Plats"
 
 msgid "Log"
-msgstr ""
+msgstr "Logg"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "MainWindow"
 
 msgid "Malware"
-msgstr ""
+msgstr "Malware"
 
 msgid "Manifest"
-msgstr ""
+msgstr "Manifest"
 
 msgid "Match case"
-msgstr ""
+msgstr "Matcha stor/liten bokstav"
 
 msgid "Maximum"
 msgstr ""
 
 msgid "Memory"
-msgstr ""
+msgstr "Minne"
 
 msgid "Memory map"
-msgstr ""
+msgstr "Minnesmapp"
 
 msgid "Memory scan"
-msgstr ""
+msgstr "Minnes-skan"
 
 msgid "Metadata"
-msgstr ""
+msgstr "Metadata"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "Metadatatabell"
 
 msgid "Method"
-msgstr ""
+msgstr "Metod"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Min size"
-msgstr ""
+msgstr "Main storlek"
 
 msgid "Mode"
-msgstr ""
+msgstr "Module"
 
 msgid "Modules"
-msgstr ""
+msgstr "Moduler"
 
 msgid "More info"
-msgstr ""
+msgstr "Mer information"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "Multiplatform"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Multisök"
 
 msgid "Name"
 msgstr "Namn"
