@@ -172,7 +172,7 @@ msgid "Calls"
 msgstr "Anrop"
 
 msgid "Callstack"
-msgstr "Andropsstack"
+msgstr "Anropsstack"
 
 msgid "Cancel"
 msgstr "Avbryt"
