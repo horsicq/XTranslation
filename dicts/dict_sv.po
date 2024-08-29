@@ -838,7 +838,7 @@ msgid "Offset"
 msgstr "Plats"
 
 msgid "One operand"
-msgstr ""
+msgstr "En operand"
 
 msgid "Online tools"
 msgstr "Verktyg online"
@@ -1222,40 +1222,40 @@ msgid "String"
 msgstr "Sträng"
 
 msgid "String table"
-msgstr ""
+msgstr "Strängstabell"
 
 msgid "Strings"
 msgstr "Strängar"
 
 msgid "Struct"
-msgstr ""
+msgstr "Strukt"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "Struktur och intersektioner"
 
 msgid "Structs"
-msgstr ""
+msgstr "Strukturer"
 
 msgid "Stub"
-msgstr ""
+msgstr "Stub"
 
 msgid "Style"
-msgstr ""
+msgstr "Stil"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "Undermappar"
 
 msgid "Subject"
-msgstr ""
+msgstr "Subjekt"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Symbol"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "Symbolstabell"
 
 msgid "Symbols"
-msgstr ""
+msgstr "Symboler"
 
 msgid "Syntax"
 msgstr "Syntax"
@@ -1408,7 +1408,7 @@ msgid "View"
 msgstr "vy"
 
 msgid "Viewer"
-msgstr ""
+msgstr "Vy-visare"
 
 msgid "Virtual address"
 msgstr "Virtuell address"
@@ -1417,7 +1417,7 @@ msgid "Virtual machine"
 msgstr "Virtuell maskine"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Virtuell storklek"
 
 msgid "Virus"
 msgstr "Virus"
