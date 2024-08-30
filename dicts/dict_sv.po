@@ -196,16 +196,16 @@ msgid "Cannot load MSDIA library"
 msgstr "kunde inte ladda MSDIA bibliotek"
 
 msgid "Cannot load data from PDB"
-msgstr "kunde inte ladda "
+msgstr "kunde inte ladda från PDB"
 
 msgid "Cannot load database"
-msgstr "kunde inte ladda "
+msgstr "kunde inte ladda databas"
 
 msgid "Cannot load file"
-msgstr "kunde inte ladda "
+msgstr "kunde inte ladda fil"
 
 msgid "Cannot open dump file"
-msgstr "kunde inte ladda "
+msgstr "kunde inte öppna dump-fil"
 
 msgid "Cannot open file"
 msgstr "kunde inte ladda "
