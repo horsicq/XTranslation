@@ -208,22 +208,22 @@ msgid "Cannot open dump file"
 msgstr "kunde inte öppna dump-fil"
 
 msgid "Cannot open file"
-msgstr "kunde inte ladda "
+msgstr "kunde inte öppna fil"
 
 msgid "Cannot open session"
-msgstr "kunde inte ladda "
+msgstr "kunde inte öppna session"
 
 msgid "Cannot read file"
-msgstr "kunde inte ladda "
+msgstr "kunde inte läsa fil"
 
 msgid "Cannot read memory at address"
-msgstr "kunde inte ladda "
+msgstr "kunde inte läsa minnet på adress"
 
 msgid "Cannot resize"
-msgstr "kunde inte ladda "
+msgstr "kunde inte ändra storleken"
 
 msgid "Cannot save file"
-msgstr "kunde inte spara "
+msgstr "kunde inte spara filen"
 
 msgid "Cannot set shortcut"
 msgstr "kunde inte sätta genväg"
@@ -235,7 +235,7 @@ msgid "Certificate"
 msgstr "Certifikat"
 
 msgid "Check"
-msgstr "Kontrollera "
+msgstr "Kontrollera"
 
 msgid "Check updates"
 msgstr "Kontrollera Uppdateringar"
