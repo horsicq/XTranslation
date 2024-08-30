@@ -82,7 +82,7 @@ msgid "Archive record"
 msgstr "Arkiverings rekord"
 
 msgid "Are you sure?"
-msgstr "Är du säker?"
+msgstr "Är du helt säker?"
 
 msgid "Array"
 msgstr "Array"
@@ -100,7 +100,7 @@ msgid "Automatic"
 msgstr "Automatisk"
 
 msgid "Background"
-msgstr "bakgrund"
+msgstr "Bakgrund"
 
 msgid "Base address"
 msgstr "Bas address"
@@ -148,7 +148,7 @@ msgid "Buffer size"
 msgstr "Buffer storlek"
 
 msgid "Bugreports"
-msgstr "Bugrapport"
+msgstr "Bugrapporter"
 
 msgid "Byte"
 msgstr "Byte"
@@ -166,7 +166,7 @@ msgid "Calculate"
 msgstr "Räkna ut"
 
 msgid "Callbacks"
-msgstr "tillbakaringa"
+msgstr "Tillbakaringningar"
 
 msgid "Calls"
 msgstr "Anrop"
@@ -187,55 +187,55 @@ msgid "Cannot fix dump file"
 msgstr "Kunde inte fixa dump-fil"
 
 msgid "Cannot get PDB age"
-msgstr "kunde inte få PDB tid"
+msgstr "Kunde inte få ålder av PDB"
 
 msgid "Cannot get PDB name"
-msgstr "kunde inte få PDB namn"
+msgstr "Kunde inte få PDB namn"
 
 msgid "Cannot load MSDIA library"
-msgstr "kunde inte ladda MSDIA bibliotek"
+msgstr "Kunde inte ladda MSDIA bibliotek"
 
 msgid "Cannot load data from PDB"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte ladda från PDB"
 
 msgid "Cannot load database"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte ladda databas"
 
 msgid "Cannot load file"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte ladda fil"
 
 msgid "Cannot open dump file"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte öppna dump-fil"
 
 msgid "Cannot open file"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte öppna fil"
 
 msgid "Cannot open session"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte öppna session"
 
 msgid "Cannot read file"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte läsa fil"
 
 msgid "Cannot read memory at address"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte läsa minne på adress"
 
 msgid "Cannot resize"
-msgstr "kunde inte ladda "
+msgstr "Kunde inte ändra storleken"
 
 msgid "Cannot save file"
-msgstr "kunde inte spara "
+msgstr "Kunde inte spara filen"
 
 msgid "Cannot set shortcut"
-msgstr "kunde inte sätta genväg"
+msgstr "Kunde inte sätta genväg"
 
 msgid "Cannot write data to file"
-msgstr "kunde inte skriva data till fil"
+msgstr "Kunde inte skriva data till fil"
 
 msgid "Certificate"
 msgstr "Certifikat"
 
 msgid "Check"
-msgstr "Kontrollera "
+msgstr "Kontrollera"
 
 msgid "Check updates"
 msgstr "Kontrollera Uppdateringar"
@@ -316,13 +316,13 @@ msgid "Data"
 msgstr "Data"
 
 msgid "Data convertor"
-msgstr "Data "
+msgstr "Data konverterare"
 
 msgid "Data in code"
-msgstr "Data "
+msgstr "Data i kod"
 
 msgid "Data inspector"
-msgstr "Data "
+msgstr "Data-inspektör"
 
 msgid "Database"
 msgstr "Databas"
@@ -334,10 +334,10 @@ msgid "Debug"
 msgstr "Avlusa"
 
 msgid "Debug data"
-msgstr "Avlusa "
+msgstr "Avlusa data"
 
 msgid "Debug registers"
-msgstr "Avlusa "
+msgstr "Avlusa register"
 
 msgid "Debugger"
 msgstr "Avlusare"
@@ -382,7 +382,7 @@ msgid "Directory scan"
 msgstr "Mapp skann"
 
 msgid "Disasm"
-msgstr "Ta isär"
+msgstr "Ta-isär"
 
 msgid "Document"
 msgstr "Dokument"
@@ -517,7 +517,7 @@ msgid "Folder"
 msgstr "Mapp"
 
 msgid "Follow in"
-msgstr "Föj i"
+msgstr "Föj inuti"
 
 msgid "Follow me"
 msgstr "Följ mig"
@@ -661,7 +661,7 @@ msgid "Invalid"
 msgstr "Ogiltig"
 
 msgid "Invalid font"
-msgstr "Ogiltig "
+msgstr "Ogiltig font"
 
 msgid "Invalid handle"
 msgstr "Ogiltig handle"
@@ -898,19 +898,19 @@ msgid "Player"
 msgstr "Spelare"
 
 msgid "Please restart the application"
-msgstr "Var god och starta om applikation"
+msgstr "Var vänlig och starta om applikationen"
 
 msgid "Please run the program as an administrator"
-msgstr "Kör programmet som administratör"
+msgstr "Var vänlig och kör programmet som administratör"
 
 msgid "Please use valid API key"
-msgstr "En giltig API-nyckel krävs"
+msgstr "Var vänlig och ange en giltig API-nyckel"
 
 msgid "Pointer"
 msgstr "Pekare"
 
 msgid "Print"
-msgstr "Printa"
+msgstr "Printa ut"
 
 msgid "Process"
 msgstr "Process"
@@ -1003,7 +1003,7 @@ msgid "Resize"
 msgstr "Ändra storlek"
 
 msgid "Resource"
-msgstr "Generiska registrer"
+msgstr "Resurs"
 
 msgid "Resources"
 msgstr "Resurser"
@@ -1126,7 +1126,7 @@ msgid "Shortcuts"
 msgstr "Genvägar"
 
 msgid "Show"
-msgstr "Visa "
+msgstr "Visa"
 
 msgid "Show all"
 msgstr "Visa allt"
@@ -1351,7 +1351,7 @@ msgid "Tree views"
 msgstr "Träd-vy"
 
 msgid "Trojan"
-msgstr "Trojan"
+msgstr "Trojansk-Häst"
 
 msgid "Two operands"
 msgstr "Två operander"
@@ -1372,13 +1372,13 @@ msgid "Unpack"
 msgstr "Packa upp"
 
 msgid "Unsigned"
-msgstr "Osignerad"
+msgstr "O-signerad"
 
 msgid "Update information"
 msgstr "Uppdatera information"
 
 msgid "Upload the file for analyze?"
-msgstr "Ladda upp filen för analys?"
+msgstr "Vill du ladda upp filen för analys?"
 
 msgid "Upper"
 msgstr "Större"
@@ -1396,7 +1396,7 @@ msgid "Variable"
 msgstr "Variabel"
 
 msgid "Verbose"
-msgstr "Extra Detailjerad"
+msgstr "Extra detailjerad"
 
 msgid "Version"
 msgstr "Version"
@@ -1414,7 +1414,7 @@ msgid "Virtual address"
 msgstr "Virtuell address"
 
 msgid "Virtual machine"
-msgstr "Virtuell maskine"
+msgstr "Virtuell maskin"
 
 msgid "Virtual size"
 msgstr "Virtuell storklek"
@@ -1429,7 +1429,7 @@ msgid "Weak binding"
 msgstr "Svag Bindning"
 
 msgid "Website"
-msgstr "Webbsida"
+msgstr "Websajt"
 
 msgid "Width"
 msgstr "Bredd"
