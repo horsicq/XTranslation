@@ -382,7 +382,7 @@ msgid "Directory scan"
 msgstr "Mapp skann"
 
 msgid "Disasm"
-msgstr "Ta isär"
+msgstr "Ta-isär"
 
 msgid "Document"
 msgstr "Dokument"
@@ -517,7 +517,7 @@ msgid "Folder"
 msgstr "Mapp"
 
 msgid "Follow in"
-msgstr "Föj i"
+msgstr "Föj inuti"
 
 msgid "Follow me"
 msgstr "Följ mig"
