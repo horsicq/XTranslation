@@ -898,13 +898,13 @@ msgid "Player"
 msgstr "Spelare"
 
 msgid "Please restart the application"
-msgstr "Var god och starta om applikation"
+msgstr "Var vänlig och starta om applikationen"
 
 msgid "Please run the program as an administrator"
-msgstr "Kör programmet som administratör"
+msgstr "Var vänlig och kör programmet som administratör"
 
 msgid "Please use valid API key"
-msgstr "En giltig API-nyckel krävs"
+msgstr "Var vänlig och ange en giltig API-nyckel"
 
 msgid "Pointer"
 msgstr "Pekare"
@@ -1003,7 +1003,7 @@ msgid "Resize"
 msgstr "Ändra storlek"
 
 msgid "Resource"
-msgstr "Generiska registrer"
+msgstr "Resurs"
 
 msgid "Resources"
 msgstr "Resurser"
