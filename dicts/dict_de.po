@@ -308,7 +308,7 @@ msgid "Create view model"
 msgstr "Ansicht erstellen"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Verschlüsseler"
 
 msgid "Cryptor"
 msgstr "Verschlüsselungstool"
