@@ -316,13 +316,13 @@ msgid "Data"
 msgstr "Data"
 
 msgid "Data convertor"
-msgstr "Data "
+msgstr "Data konverterare"
 
 msgid "Data in code"
-msgstr "Data "
+msgstr "Data i kod"
 
 msgid "Data inspector"
-msgstr "Data "
+msgstr "Data-inspektör"
 
 msgid "Database"
 msgstr "Databas"
@@ -334,10 +334,10 @@ msgid "Debug"
 msgstr "Avlusa"
 
 msgid "Debug data"
-msgstr "Avlusa "
+msgstr "Avlusa data"
 
 msgid "Debug registers"
-msgstr "Avlusa "
+msgstr "Avlusa register"
 
 msgid "Debugger"
 msgstr "Avlusare"
@@ -1351,7 +1351,7 @@ msgid "Tree views"
 msgstr "Träd-vy"
 
 msgid "Trojan"
-msgstr "Trojan"
+msgstr "Trojansk-Häst"
 
 msgid "Two operands"
 msgstr "Två operander"
@@ -1378,7 +1378,7 @@ msgid "Update information"
 msgstr "Uppdatera information"
 
 msgid "Upload the file for analyze?"
-msgstr "Ladda upp filen för analys?"
+msgstr "Vill du ladda upp filen för analys?"
 
 msgid "Upper"
 msgstr "Större"
@@ -1414,7 +1414,7 @@ msgid "Virtual address"
 msgstr "Virtuell address"
 
 msgid "Virtual machine"
-msgstr "Virtuell maskine"
+msgstr "Virtuell maskin"
 
 msgid "Virtual size"
 msgstr "Virtuell storklek"
@@ -1429,7 +1429,7 @@ msgid "Weak binding"
 msgstr "Svag Bindning"
 
 msgid "Website"
-msgstr "Webbsida"
+msgstr "Websajt"
 
 msgid "Width"
 msgstr "Bredd"
