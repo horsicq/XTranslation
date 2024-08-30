@@ -1126,7 +1126,7 @@ msgid "Shortcuts"
 msgstr "Genvägar"
 
 msgid "Show"
-msgstr "Visa "
+msgstr "Visa"
 
 msgid "Show all"
 msgstr "Visa allt"
@@ -1372,7 +1372,7 @@ msgid "Unpack"
 msgstr "Packa upp"
 
 msgid "Unsigned"
-msgstr "Osignerad"
+msgstr "O-signerad"
 
 msgid "Update information"
 msgstr "Uppdatera information"
@@ -1396,7 +1396,7 @@ msgid "Variable"
 msgstr "Variabel"
 
 msgid "Verbose"
-msgstr "Extra Detailjerad"
+msgstr "Extra detailjerad"
 
 msgid "Version"
 msgstr "Version"
