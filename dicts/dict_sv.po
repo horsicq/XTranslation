@@ -82,7 +82,7 @@ msgid "Archive record"
 msgstr "Arkiverings rekord"
 
 msgid "Are you sure?"
-msgstr "Är du säker?"
+msgstr "Är du helt säker?"
 
 msgid "Array"
 msgstr "Array"
@@ -100,7 +100,7 @@ msgid "Automatic"
 msgstr "Automatisk"
 
 msgid "Background"
-msgstr "bakgrund"
+msgstr "Bakgrund"
 
 msgid "Base address"
 msgstr "Bas address"
@@ -187,49 +187,49 @@ msgid "Cannot fix dump file"
 msgstr "Kunde inte fixa dump-fil"
 
 msgid "Cannot get PDB age"
-msgstr "kunde inte få PDB tid"
+msgstr "Kunde inte få PDB ålder"
 
 msgid "Cannot get PDB name"
-msgstr "kunde inte få PDB namn"
+msgstr "Kunde inte få PDB namn"
 
 msgid "Cannot load MSDIA library"
-msgstr "kunde inte ladda MSDIA bibliotek"
+msgstr "Kunde inte ladda MSDIA bibliotek"
 
 msgid "Cannot load data from PDB"
-msgstr "kunde inte ladda från PDB"
+msgstr "Kunde inte ladda från PDB"
 
 msgid "Cannot load database"
-msgstr "kunde inte ladda databas"
+msgstr "Kunde inte ladda databas"
 
 msgid "Cannot load file"
-msgstr "kunde inte ladda fil"
+msgstr "Kunde inte ladda fil"
 
 msgid "Cannot open dump file"
-msgstr "kunde inte öppna dump-fil"
+msgstr "Kunde inte öppna dump-fil"
 
 msgid "Cannot open file"
-msgstr "kunde inte öppna fil"
+msgstr "Kunde inte öppna fil"
 
 msgid "Cannot open session"
-msgstr "kunde inte öppna session"
+msgstr "Kunde inte öppna session"
 
 msgid "Cannot read file"
-msgstr "kunde inte läsa fil"
+msgstr "Kunde inte läsa fil"
 
 msgid "Cannot read memory at address"
-msgstr "kunde inte läsa minnet på adress"
+msgstr "Kunde inte läsa minne på adress"
 
 msgid "Cannot resize"
-msgstr "kunde inte ändra storleken"
+msgstr "Kunde inte ändra storleken"
 
 msgid "Cannot save file"
-msgstr "kunde inte spara filen"
+msgstr "Kunde inte spara filen"
 
 msgid "Cannot set shortcut"
-msgstr "kunde inte sätta genväg"
+msgstr "Kunde inte sätta genväg"
 
 msgid "Cannot write data to file"
-msgstr "kunde inte skriva data till fil"
+msgstr "Kunde inte skriva data till fil"
 
 msgid "Certificate"
 msgstr "Certifikat"
