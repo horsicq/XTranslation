@@ -49,6 +49,9 @@ msgstr "ঠিকানা"
 msgid "Advanced"
 msgstr "উন্নত"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "অ্যালগরিদম"
 
@@ -253,9 +256,6 @@ msgstr "বন্ধ"
 msgid "Code"
 msgstr ""
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr "সংকেতপদ্ধতির পাতাগুলো"
 
@@ -310,6 +310,9 @@ msgstr "ক্রিপ্টর"
 msgid "Cursor"
 msgstr "কার্সার"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr ""
 
@@ -327,6 +330,9 @@ msgstr "উপাত্তের পরিদর্শক"
 
 msgid "Database"
 msgstr "তথ্যশালা"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "তারিখ"
@@ -454,6 +460,12 @@ msgstr "রপ্তানি প্রকার"
 msgid "External references"
 msgstr "বাহ্যিক তথ্যসূত্র"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "নিষ্কাশন করা"
 
@@ -499,8 +511,8 @@ msgstr "ছাঁকনি"
 msgid "Find"
 msgstr "অনুসন্ধান"
 
-msgid "Find next"
-msgstr "পরবর্তী খুঁজে"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "অফসেট ঠিক করুন"
@@ -610,11 +622,14 @@ msgstr "হিউরিস্টিক (অনুসন্ধানমূলক)
 msgid "Heuristic scan"
 msgstr "হিউরিস্টিক (অনুসন্ধানমূলক) স্ক্যান"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "হেক্স"
 
-msgid "Hex signature"
-msgstr "হেক্স স্বাক্ষর"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "লক্ষণীয় করা"
@@ -661,6 +676,9 @@ msgstr "দোভাষী"
 msgid "Invalid"
 msgstr "অবৈধ"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -703,6 +721,9 @@ msgstr "আখ্যা দেত্তনগুলো"
 msgid "Language"
 msgstr "ভাষা"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "স্লথ যুক্তওন"
 
@@ -718,6 +739,9 @@ msgstr "গ্রন্থাগার"
 msgid "Library name"
 msgstr "গ্রন্থাগারের নাম"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "সংযুক্তকারী"
 
@@ -729,6 +753,9 @@ msgstr "সূচী"
 
 msgid "Load config"
 msgstr "লোড কনফিগারেশন"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "স্থানীয় স্থানান্তর"
@@ -742,6 +769,12 @@ msgstr "ঘটনার তথ্যশালা"
 msgid "MB"
 msgstr "এমবি (মেগাবাইট)"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "মূল জানালা"
 
@@ -751,8 +784,20 @@ msgstr ""
 msgid "Manifest"
 msgstr "উদ্ভিন্ন"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "সমকক্ষ ধরন"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "সর্বোচ্চ"
@@ -775,10 +820,13 @@ msgstr ""
 msgid "Method"
 msgstr "পদ্ধতি"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "এমআইবি (Mebibyte)"
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -811,11 +859,17 @@ msgstr "নতুন সংস্করণ উপলব্ধ"
 msgid "Next"
 msgstr "পরবর্তী"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "না"
 
 msgid "No update available"
 msgstr "নতুন কোন সংস্করণ হয়নি"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "কোনকিছু পাওয়া যায়নি"
@@ -834,6 +888,9 @@ msgstr "ঠিক আছে"
 
 msgid "Object"
 msgstr "বস্তু"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "অফসেট"
@@ -889,6 +946,9 @@ msgstr "বিরতি"
 msgid "Paused"
 msgstr "বিরতি দেওয়া হয়েছে"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -909,6 +969,9 @@ msgstr "অনুগ্রহ করে বৈধ API কী ব্যবহা�
 
 msgid "Pointer"
 msgstr "পয়েন্টার"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "ছাপা"
@@ -982,6 +1045,9 @@ msgstr "নিবন্ধন"
 msgid "Registers"
 msgstr ""
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "আপেক্ষিক ঠিকানা"
 
@@ -1015,11 +1081,17 @@ msgstr "আবার শুরু"
 msgid "Result"
 msgstr "ফলাফল"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
 msgid "Run"
 msgstr "চালান"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "চলমান"
@@ -1060,6 +1132,9 @@ msgstr "স্ক্যান"
 msgid "Scan after open"
 msgstr "খোলার পরে স্ক্যান করুন"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1078,11 +1153,20 @@ msgstr "অনুসন্ধান করুন"
 msgid "Search from"
 msgstr "থেকে অনুসন্ধান করুন"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "স্বাক্ষর অনুসন্ধান করুন"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "অনুসন্ধান স্ট্রিং"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "অনুসন্ধান মানগুলো"
@@ -1107,9 +1191,6 @@ msgstr "অংশগুলো"
 
 msgid "Select"
 msgstr "নির্বাচন করুন"
-
-msgid "Select all"
-msgstr "সবগুলো নির্বাচন করুন"
 
 msgid "Selected"
 msgstr ""
@@ -1144,11 +1225,11 @@ msgstr "সনাক্তকরণ দেখান"
 msgid "Show in"
 msgstr "দেখাও"
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "লোগো দেখান"
-
-msgid "Show options"
-msgstr ""
 
 msgid "Show type"
 msgstr ""
@@ -1165,6 +1246,9 @@ msgstr "সাইন টুল"
 msgid "Signature"
 msgstr "স্বাক্ষর"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "স্বাক্ষরগুলো"
 
@@ -1179,6 +1263,9 @@ msgstr "আকার"
 
 msgid "Size of image"
 msgstr "ছবির আকার"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "উপাদান সাজান"
@@ -1444,6 +1531,9 @@ msgstr "ভুল লিখুন"
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "সংকোচকারী"
 
@@ -1474,24 +1564,8 @@ msgstr "বস্তাবন্দী"
 msgid "protection"
 msgstr "সুরক্ষা"
 
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
-msgstr ""
-
 msgid "true"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
 
 
 

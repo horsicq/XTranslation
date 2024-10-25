@@ -49,6 +49,9 @@ msgstr "ادرس حافظه"
 msgid "Advanced"
 msgstr "پیشرفته"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "الگوریتم"
 
@@ -253,9 +256,6 @@ msgstr "بستن"
 msgid "Code"
 msgstr ""
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr ""
 
@@ -310,6 +310,9 @@ msgstr ""
 msgid "Cursor"
 msgstr "نشانگر"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr ""
 
@@ -327,6 +330,9 @@ msgstr ""
 
 msgid "Database"
 msgstr "دیتابیس"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "تاریخ"
@@ -454,6 +460,12 @@ msgstr ""
 msgid "External references"
 msgstr ""
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "استخراج"
 
@@ -499,8 +511,8 @@ msgstr "فیلتر"
 msgid "Find"
 msgstr "پیدا کردن"
 
-msgid "Find next"
-msgstr "پیدا کردن بعدی"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "تصحیح آفست‌ها"
@@ -610,10 +622,13 @@ msgstr ""
 msgid "Heuristic scan"
 msgstr ""
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "هگز"
 
-msgid "Hex signature"
+msgid "Hide unknown"
 msgstr ""
 
 msgid "Highlight"
@@ -661,6 +676,9 @@ msgstr "مفسر"
 msgid "Invalid"
 msgstr "نامعتبر"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -703,6 +721,9 @@ msgstr "برچسب ها"
 msgid "Language"
 msgstr "زبان"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr ""
 
@@ -718,6 +739,9 @@ msgstr "کتابخانه"
 msgid "Library name"
 msgstr "نام کتابخانه"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "لینک کننده"
 
@@ -729,6 +753,9 @@ msgstr "لیست"
 
 msgid "Load config"
 msgstr "لود کانفیگ"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr ""
@@ -742,6 +769,12 @@ msgstr "لاگ"
 msgid "MB"
 msgstr "مگابایت"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "پنجره اصلی"
 
@@ -751,7 +784,19 @@ msgstr ""
 msgid "Manifest"
 msgstr ""
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
+msgstr ""
+
+msgid "Matches"
 msgstr ""
 
 msgid "Maximum"
@@ -775,10 +820,13 @@ msgstr ""
 msgid "Method"
 msgstr "متود"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr ""
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -811,11 +859,17 @@ msgstr "ورژن جدید موجود است"
 msgid "Next"
 msgstr "بعدی"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "نه"
 
 msgid "No update available"
 msgstr "ورژن جدیدی موجود نیست"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "چیزی پیدا نشد"
@@ -834,6 +888,9 @@ msgstr "باشه"
 
 msgid "Object"
 msgstr "شئ"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "آفست"
@@ -889,6 +946,9 @@ msgstr "توقف"
 msgid "Paused"
 msgstr ""
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -909,6 +969,9 @@ msgstr "کلید API معتبر نیست"
 
 msgid "Pointer"
 msgstr "اشاره گر"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "چاپ"
@@ -982,6 +1045,9 @@ msgstr "رجیستر"
 msgid "Registers"
 msgstr "رجیسترها"
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "آدرس نسبی"
 
@@ -1015,11 +1081,17 @@ msgstr "شروع دوباره"
 msgid "Result"
 msgstr "نتیجه"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
 msgid "Run"
 msgstr "اجرا"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "در حال اجرا"
@@ -1060,6 +1132,9 @@ msgstr "اسکن"
 msgid "Scan after open"
 msgstr "اسکن بعد از باز کردن"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1078,11 +1153,20 @@ msgstr "جستجو"
 msgid "Search from"
 msgstr "جستجو از"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "جستجوی امضا"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "جستجوی رشته"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "جستجوی مقدار"
@@ -1107,9 +1191,6 @@ msgstr "سگمنت ها"
 
 msgid "Select"
 msgstr "انتخاب"
-
-msgid "Select all"
-msgstr "انتخاب همه"
 
 msgid "Selected"
 msgstr ""
@@ -1144,11 +1225,11 @@ msgstr "نمایش یافته ها"
 msgid "Show in"
 msgstr "نمایش در"
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "نمایش لوگو"
-
-msgid "Show options"
-msgstr "نمایش آپشن‌ها"
 
 msgid "Show type"
 msgstr ""
@@ -1165,6 +1246,9 @@ msgstr "ابزار امضا"
 msgid "Signature"
 msgstr "امضا کننده"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr ""
 
@@ -1179,6 +1263,9 @@ msgstr "سایز"
 
 msgid "Size of image"
 msgstr "حجم عکس"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "مرتب کردن عنصر ها"
@@ -1444,6 +1531,9 @@ msgstr "خطا در نوشتن"
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "کمپرسور"
 
@@ -1474,21 +1564,8 @@ msgstr "پک شده"
 msgid "protection"
 msgstr "حفاظت"
 
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
-msgstr ""
-
 msgid "true"
 msgstr "صحیح"
-
-
-
-
-
-
-
 
 
 

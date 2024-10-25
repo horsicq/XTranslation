@@ -48,6 +48,9 @@ msgstr "Adres"
 msgid "Advanced"
 msgstr "İleri düzey"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Algoritma"
 
@@ -252,9 +255,6 @@ msgstr "Kapat"
 msgid "Code"
 msgstr "Kod"
 
-msgid "Code page"
-msgstr "Kod sayfası"
-
 msgid "Code pages"
 msgstr "Kod sayfaları"
 
@@ -309,6 +309,9 @@ msgstr "Cryptor"
 msgid "Cursor"
 msgstr "İmleç"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr "Özel veritabanı"
 
@@ -326,6 +329,9 @@ msgstr "Veri denetçisi"
 
 msgid "Database"
 msgstr "Veritabanı"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "Tarih"
@@ -453,6 +459,12 @@ msgstr "Dışa aktarma türü"
 msgid "External references"
 msgstr "Dış referanslar"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "Ayıkla"
 
@@ -498,8 +510,8 @@ msgstr "Süzgeç"
 msgid "Find"
 msgstr "Bul"
 
-msgid "Find next"
-msgstr "Sonrakini bul"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "Ofsetleri düzelt"
@@ -609,11 +621,14 @@ msgstr "Sezgisel"
 msgid "Heuristic scan"
 msgstr "Sezgisel tarama"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "Onaltılık"
 
-msgid "Hex signature"
-msgstr "Onaltılık imza"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "Vurgula"
@@ -660,6 +675,9 @@ msgstr "Yorumlayıcı"
 msgid "Invalid"
 msgstr "Geçersiz"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr "Geçersiz yazı tipi"
 
@@ -702,6 +720,9 @@ msgstr "Etiketler"
 msgid "Language"
 msgstr "Dil"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "Tembel bağlama"
 
@@ -717,6 +738,9 @@ msgstr "Kitaplık"
 msgid "Library name"
 msgstr "Kitaplık adı"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "Bağlayıcı"
 
@@ -728,6 +752,9 @@ msgstr "Liste"
 
 msgid "Load config"
 msgstr "Yapılandırmayı yükle"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "Yerel yer değiştirme"
@@ -741,6 +768,12 @@ msgstr "Log"
 msgid "MB"
 msgstr "MB"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "AnaPencere"
 
@@ -750,8 +783,20 @@ msgstr "Zararlı yazılım"
 msgid "Manifest"
 msgstr "Bildiri"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "Büyük / küçük harf eşleştir"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "Maksimum"
@@ -774,11 +819,14 @@ msgstr "Meta veri tablosu"
 msgid "Method"
 msgstr "Metod"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "MiB"
 
-msgid "Min size"
-msgstr "Min boyut"
+msgid "Min length"
+msgstr ""
 
 msgid "Mode"
 msgstr "Mod"
@@ -810,11 +858,17 @@ msgstr "Yeni sürüm mevcut"
 msgid "Next"
 msgstr "İleri"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "Hayır"
 
 msgid "No update available"
 msgstr "Güncelleme yok"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Hiçbirşey Bulunamadı"
@@ -833,6 +887,9 @@ msgstr "Tamam"
 
 msgid "Object"
 msgstr "Nesne"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "Ofset"
@@ -888,6 +945,9 @@ msgstr "Duraklat"
 msgid "Paused"
 msgstr "Duraklatıldı"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "Düz Metin"
 
@@ -908,6 +968,9 @@ msgstr "Lütfen geçerli bir API anahtarı kullanın"
 
 msgid "Pointer"
 msgstr "Göstergeç"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "Yazdır"
@@ -981,6 +1044,9 @@ msgstr "Yazmaç"
 msgid "Registers"
 msgstr "Kayıtlar"
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Göreceli adres"
 
@@ -1014,11 +1080,17 @@ msgstr "Tekrar başlat"
 msgid "Result"
 msgstr "Sonuç"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr "Kurallar"
 
 msgid "Run"
 msgstr "Yürüt"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "Yürütülüyor"
@@ -1059,6 +1131,9 @@ msgstr "Tara"
 msgid "Scan after open"
 msgstr "Açtıktan sonra tara"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr "IAT için tara"
 
@@ -1077,11 +1152,20 @@ msgstr "Ara"
 msgid "Search from"
 msgstr "Arama"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "İmzaları ara"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Dizge ara"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "Değerleri ara"
@@ -1106,9 +1190,6 @@ msgstr "Segmentler"
 
 msgid "Select"
 msgstr "Seç"
-
-msgid "Select all"
-msgstr "Hepsini seç"
 
 msgid "Selected"
 msgstr "Seçili"
@@ -1143,11 +1224,11 @@ msgstr "Bulunanları göster"
 msgid "Show in"
 msgstr "Göster"
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Logoyu göster"
-
-msgid "Show options"
-msgstr "Seçenekleri göster"
 
 msgid "Show type"
 msgstr "Türünü göster"
@@ -1164,6 +1245,9 @@ msgstr "İmza aracı"
 msgid "Signature"
 msgstr "İmza"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "İmzalar"
 
@@ -1178,6 +1262,9 @@ msgstr "Boyut"
 
 msgid "Size of image"
 msgstr "İmajın boyutu"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "Öğeleri sırala"
@@ -1443,6 +1530,9 @@ msgstr "Yazma hatası"
 msgid "Zeros"
 msgstr "Sıfırlar"
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "sıkıştırıcı"
 
@@ -1473,19 +1563,8 @@ msgstr "paketlenmiş"
 msgid "protection"
 msgstr "koruma"
 
-msgid "tar"
-msgstr "tar"
-
-msgid "tar.gz"
-msgstr "tar.gz"
-
 msgid "true"
 msgstr "true"
-
-
-
-
-
 
 
 

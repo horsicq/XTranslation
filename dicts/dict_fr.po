@@ -48,6 +48,9 @@ msgstr "Adresse"
 msgid "Advanced"
 msgstr "Avancé"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Algorithme"
 
@@ -252,9 +255,6 @@ msgstr "Fermer"
 msgid "Code"
 msgstr ""
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr "Pages de codes"
 
@@ -309,6 +309,9 @@ msgstr "Crypteur"
 msgid "Cursor"
 msgstr "Curseur"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr "Base de donnée personnalisé"
 
@@ -326,6 +329,9 @@ msgstr "Inspecteur de données"
 
 msgid "Database"
 msgstr "Base de données"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "Date"
@@ -453,6 +459,12 @@ msgstr "Type d'exportation"
 msgid "External references"
 msgstr "Références externes"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "Extraire"
 
@@ -498,8 +510,8 @@ msgstr "Filtre"
 msgid "Find"
 msgstr "Chercher"
 
-msgid "Find next"
-msgstr "Suivant"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "Correction des décalages"
@@ -609,11 +621,14 @@ msgstr "Heuristique"
 msgid "Heuristic scan"
 msgstr "Analyse heuristique"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "Hexadécimal"
 
-msgid "Hex signature"
-msgstr "Signature hexadécimale"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "Surligner"
@@ -660,6 +675,9 @@ msgstr "Interprète"
 msgid "Invalid"
 msgstr "Invalide"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -702,6 +720,9 @@ msgstr "Étiquettes"
 msgid "Language"
 msgstr "Langue"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "Reliure paresseuse"
 
@@ -717,6 +738,9 @@ msgstr "Bibliothèque"
 msgid "Library name"
 msgstr "Nom de la bibliothèque"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "Lier"
 
@@ -728,6 +752,9 @@ msgstr "Liste"
 
 msgid "Load config"
 msgstr "Charger la configuration"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "Déménagement local"
@@ -741,6 +768,12 @@ msgstr "Journal"
 msgid "MB"
 msgstr "Mo"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "Fenêtre principale"
 
@@ -750,8 +783,20 @@ msgstr ""
 msgid "Manifest"
 msgstr "Manifeste"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "Cas de correspondance"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "Maximum"
@@ -774,10 +819,13 @@ msgstr ""
 msgid "Method"
 msgstr "Méthode"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "MiB"
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -810,11 +858,17 @@ msgstr "Nouvelle version disponible"
 msgid "Next"
 msgstr "Suivant"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "Non"
 
 msgid "No update available"
 msgstr "Aucune mise à jour disponible"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Rien de trouvé"
@@ -833,6 +887,9 @@ msgstr "OK"
 
 msgid "Object"
 msgstr "Objet"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "Offset"
@@ -888,6 +945,9 @@ msgstr "Pause"
 msgid "Paused"
 msgstr "En Pause"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -908,6 +968,9 @@ msgstr "Merci d'utiliser une clé API valide"
 
 msgid "Pointer"
 msgstr "Aiguille"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "Imprimer"
@@ -981,6 +1044,9 @@ msgstr "Enregistrer"
 msgid "Registers"
 msgstr ""
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Adresse relative"
 
@@ -1014,11 +1080,17 @@ msgstr "Redémarrage"
 msgid "Result"
 msgstr "Résultats"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr "Règles"
 
 msgid "Run"
 msgstr "Lancer"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "En marche"
@@ -1059,6 +1131,9 @@ msgstr "Analyser"
 msgid "Scan after open"
 msgstr "Analyser après ouverture"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1077,11 +1152,20 @@ msgstr "Chercher"
 msgid "Search from"
 msgstr "Recherche à partir de"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "Recherche des signatures"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Chercher"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "Recherche de valeurs"
@@ -1106,9 +1190,6 @@ msgstr "Segments"
 
 msgid "Select"
 msgstr "Sélectionner"
-
-msgid "Select all"
-msgstr "Sélectionner tout"
 
 msgid "Selected"
 msgstr "Sélectionner"
@@ -1143,11 +1224,11 @@ msgstr "Afficher les détections"
 msgid "Show in"
 msgstr "Afficher les intrants"
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Afficher le logo"
-
-msgid "Show options"
-msgstr "Afficher les options"
 
 msgid "Show type"
 msgstr ""
@@ -1164,6 +1245,9 @@ msgstr "Outils de signature"
 msgid "Signature"
 msgstr "Signature"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "Signatures"
 
@@ -1178,6 +1262,9 @@ msgstr "Taille"
 
 msgid "Size of image"
 msgstr "Taille de l'image"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "Trier les éléments"
@@ -1443,6 +1530,9 @@ msgstr "Erreur d'écriture"
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "compresseur"
 
@@ -1473,23 +1563,8 @@ msgstr "compressé"
 msgid "protection"
 msgstr "protection"
 
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
-msgstr ""
-
 msgid "true"
 msgstr ""
-
-
-
-
-
-
-
-
-
 
 
 

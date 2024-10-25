@@ -48,6 +48,9 @@ msgstr "位址"
 msgid "Advanced"
 msgstr "進階"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "算法"
 
@@ -252,9 +255,6 @@ msgstr "關閉"
 msgid "Code"
 msgstr "代碼"
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr "頁碼"
 
@@ -309,6 +309,9 @@ msgstr "加密器"
 msgid "Cursor"
 msgstr "目前位址"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr "自訂資料庫"
 
@@ -326,6 +329,9 @@ msgstr "資料檢驗器"
 
 msgid "Database"
 msgstr "資料庫"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "日期"
@@ -453,6 +459,12 @@ msgstr "出口類型"
 msgid "External references"
 msgstr "外部參考"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "擷取"
 
@@ -498,8 +510,8 @@ msgstr "過濾"
 msgid "Find"
 msgstr "搜尋"
 
-msgid "Find next"
-msgstr "搜尋下一個"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "修復偏移"
@@ -609,11 +621,14 @@ msgstr "啟發式"
 msgid "Heuristic scan"
 msgstr "啟發式掃描"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "十六進制"
 
-msgid "Hex signature"
-msgstr "十六進制簽名"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "標記"
@@ -660,6 +675,9 @@ msgstr "口譯員"
 msgid "Invalid"
 msgstr "無效"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -702,6 +720,9 @@ msgstr "標簽"
 msgid "Language"
 msgstr "語言"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "懶惰綁定"
 
@@ -717,6 +738,9 @@ msgstr "函示庫"
 msgid "Library name"
 msgstr "圖書館名稱"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "鏈接器"
 
@@ -728,6 +752,9 @@ msgstr "列表"
 
 msgid "Load config"
 msgstr "加載配置"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "本地搬遷"
@@ -741,6 +768,12 @@ msgstr "日誌"
 msgid "MB"
 msgstr "MB"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "主窗口"
 
@@ -750,8 +783,20 @@ msgstr "惡意軟體"
 msgid "Manifest"
 msgstr "資訊"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "區分大小寫"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "最大值"
@@ -774,10 +819,13 @@ msgstr ""
 msgid "Method"
 msgstr "方法"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "MiB"
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -810,11 +858,17 @@ msgstr "有可用的新版本"
 msgid "Next"
 msgstr "下一個"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "不"
 
 msgid "No update available"
 msgstr "無可用的更新"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "沒有找到"
@@ -833,6 +887,9 @@ msgstr "確定"
 
 msgid "Object"
 msgstr "物件"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "偏移"
@@ -888,6 +945,9 @@ msgstr "暫停"
 msgid "Paused"
 msgstr "暫停"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -908,6 +968,9 @@ msgstr "請使用有效的API金鑰"
 
 msgid "Pointer"
 msgstr "指針"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "打印"
@@ -981,6 +1044,9 @@ msgstr "暫存器"
 msgid "Registers"
 msgstr "暫存器"
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "相對位址"
 
@@ -1014,11 +1080,17 @@ msgstr "重新開始"
 msgid "Result"
 msgstr "結果"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr "規則"
 
 msgid "Run"
 msgstr "執行"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "正在執行"
@@ -1059,6 +1131,9 @@ msgstr "掃描"
 msgid "Scan after open"
 msgstr "打開後掃描"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1077,11 +1152,20 @@ msgstr "搜尋"
 msgid "Search from"
 msgstr "搜尋位置"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "搜尋簽名"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "搜索字串"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "搜尋值"
@@ -1106,9 +1190,6 @@ msgstr "分段"
 
 msgid "Select"
 msgstr "選擇"
-
-msgid "Select all"
-msgstr "全選"
 
 msgid "Selected"
 msgstr "已選擇"
@@ -1143,11 +1224,11 @@ msgstr "顯示偵測"
 msgid "Show in"
 msgstr ""
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "顯示徽標"
-
-msgid "Show options"
-msgstr "顯示選項"
 
 msgid "Show type"
 msgstr "顯示型態"
@@ -1164,6 +1245,9 @@ msgstr "簽章工具"
 msgid "Signature"
 msgstr "簽章"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "簽章"
 
@@ -1178,6 +1262,9 @@ msgstr "大小"
 
 msgid "Size of image"
 msgstr "圖片尺寸"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "排序元素"
@@ -1443,6 +1530,9 @@ msgstr "寫入錯誤"
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "壓縮軟件"
 
@@ -1473,23 +1563,8 @@ msgstr "已打包"
 msgid "protection"
 msgstr "保護"
 
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
-msgstr ""
-
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
-
 
 
 

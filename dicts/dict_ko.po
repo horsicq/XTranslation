@@ -55,6 +55,9 @@ msgstr "주소"
 msgid "Advanced"
 msgstr ""
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "연산"
 
@@ -259,9 +262,6 @@ msgstr "닫기"
 msgid "Code"
 msgstr ""
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr "코드 페이지"
 
@@ -316,6 +316,9 @@ msgstr "크립터"
 msgid "Cursor"
 msgstr "커서"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr ""
 
@@ -333,6 +336,9 @@ msgstr "데이터 검사기"
 
 msgid "Database"
 msgstr "데이터베이스"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "날짜"
@@ -460,6 +466,12 @@ msgstr "타입 내보내기"
 msgid "External references"
 msgstr "외부 참조"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr ""
 
@@ -505,8 +517,8 @@ msgstr "필터"
 msgid "Find"
 msgstr "찾기"
 
-msgid "Find next"
-msgstr "다음 찾기"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "오프셋 수정"
@@ -616,11 +628,14 @@ msgstr "휴리스틱"
 msgid "Heuristic scan"
 msgstr "휴리스틱 검색"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "헥스"
 
-msgid "Hex signature"
-msgstr "16진수 서명"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "하이라이트"
@@ -667,6 +682,9 @@ msgstr "인터프리터"
 msgid "Invalid"
 msgstr "무효함"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -709,6 +727,9 @@ msgstr "레이블"
 msgid "Language"
 msgstr "언어"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "지연 바인딩"
 
@@ -724,6 +745,9 @@ msgstr "라이브러리"
 msgid "Library name"
 msgstr "라이브러리 이름"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "링커"
 
@@ -735,6 +759,9 @@ msgstr ""
 
 msgid "Load config"
 msgstr "구성 로드"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "지역 이전"
@@ -748,6 +775,12 @@ msgstr "로그"
 msgid "MB"
 msgstr "MB"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "메인 윈도우"
 
@@ -757,8 +790,20 @@ msgstr ""
 msgid "Manifest"
 msgstr "Manifest"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "대소문자 구분"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "최대"
@@ -781,10 +826,13 @@ msgstr ""
 msgid "Method"
 msgstr "방법"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "MiB"
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -817,10 +865,16 @@ msgstr ""
 msgid "Next"
 msgstr "다음"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "아니요"
 
 msgid "No update available"
+msgstr ""
+
+msgid "None"
 msgstr ""
 
 msgid "Nothing found"
@@ -840,6 +894,9 @@ msgstr "확인"
 
 msgid "Object"
 msgstr "오브젝트"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "오프셋"
@@ -895,6 +952,9 @@ msgstr "정지시키다"
 msgid "Paused"
 msgstr ""
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -915,6 +975,9 @@ msgstr "올바른 API키를 입력해 주세요"
 
 msgid "Pointer"
 msgstr "포인터"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "프린트"
@@ -988,6 +1051,9 @@ msgstr "레지스터"
 msgid "Registers"
 msgstr ""
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "상대 주소"
 
@@ -1021,11 +1087,17 @@ msgstr "재시작"
 msgid "Result"
 msgstr "결과"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
 msgid "Run"
 msgstr "운영"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr ""
@@ -1066,6 +1138,9 @@ msgstr "검색"
 msgid "Scan after open"
 msgstr "열기 후 검색"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1084,11 +1159,20 @@ msgstr "검색"
 msgid "Search from"
 msgstr "다음에서 검색"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "서명 검색"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "문자열 검색"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr ""
@@ -1113,9 +1197,6 @@ msgstr "세그먼트"
 
 msgid "Select"
 msgstr "선택"
-
-msgid "Select all"
-msgstr "모두 선택"
 
 msgid "Selected"
 msgstr ""
@@ -1150,11 +1231,11 @@ msgstr "탐지 보이기"
 msgid "Show in"
 msgstr ""
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "로고 표시"
-
-msgid "Show options"
-msgstr ""
 
 msgid "Show type"
 msgstr ""
@@ -1171,6 +1252,9 @@ msgstr "서명 도구"
 msgid "Signature"
 msgstr "시그니처"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "시그니처"
 
@@ -1185,6 +1269,9 @@ msgstr "크기"
 
 msgid "Size of image"
 msgstr "이미지 크기"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "요소 정렬"
@@ -1450,6 +1537,9 @@ msgstr "쓰기 오류"
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "압축기"
 
@@ -1480,24 +1570,8 @@ msgstr "패킹됨"
 msgid "protection"
 msgstr "보호"
 
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
-msgstr ""
-
 msgid "true"
 msgstr ""
-
-
-
-
-
-
-
-
-
-
 
 
 

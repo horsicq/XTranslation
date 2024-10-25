@@ -48,6 +48,9 @@ msgstr "Địa chỉ"
 msgid "Advanced"
 msgstr "Nâng cao"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "Thuật toán"
 
@@ -252,9 +255,6 @@ msgstr "Đóng"
 msgid "Code"
 msgstr "Code"
 
-msgid "Code page"
-msgstr "Trang code"
-
 msgid "Code pages"
 msgstr "Những trang code"
 
@@ -309,6 +309,9 @@ msgstr "Cryptor"
 msgid "Cursor"
 msgstr "Con trỏ"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr "Tùy chỉnh cơ sở dữ liệu"
 
@@ -326,6 +329,9 @@ msgstr "Trình thanh tra dữ liệu"
 
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "Ngày"
@@ -453,6 +459,12 @@ msgstr "Loại xuất khẩu"
 msgid "External references"
 msgstr "Tài liệu tham khảo bên ngoài"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "Trích xuất"
 
@@ -498,8 +510,8 @@ msgstr "Bộ lọc"
 msgid "Find"
 msgstr "Tìm kiếm"
 
-msgid "Find next"
-msgstr "Tìm kiếm tiếp theo"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "Sửa lỗi"
@@ -609,11 +621,14 @@ msgstr "Phỏng đoán"
 msgid "Heuristic scan"
 msgstr "Quét phỏng đoán"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "Hex"
 
-msgid "Hex signature"
-msgstr "Chữ ký hex"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "Điểm nhấn"
@@ -660,6 +675,9 @@ msgstr "Thông dịch viên"
 msgid "Invalid"
 msgstr "Không hợp lệ"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr "Phông chữ không hợp lệ"
 
@@ -702,6 +720,9 @@ msgstr "Nhãn"
 msgid "Language"
 msgstr "Ngôn ngữ"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "Ràng buộc lười biếng"
 
@@ -717,6 +738,9 @@ msgstr "Thư viện"
 msgid "Library name"
 msgstr "Tên thư viện"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "Người liên kết"
 
@@ -728,6 +752,9 @@ msgstr "Danh sách"
 
 msgid "Load config"
 msgstr "Tải cấu hình"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "Di dời địa phương"
@@ -741,6 +768,12 @@ msgstr "Nhật ký"
 msgid "MB"
 msgstr "MB"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "Cửa sổ chính"
 
@@ -750,8 +783,20 @@ msgstr "Phần mềm độc hại"
 msgid "Manifest"
 msgstr "Xuất hiện"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "Đúng với mẫu"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "Tối đa"
@@ -774,11 +819,14 @@ msgstr "Bảng metadata"
 msgid "Method"
 msgstr "phương pháp"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "MiB"
 
-msgid "Min size"
-msgstr "Kích thước nhỏ nhất"
+msgid "Min length"
+msgstr ""
 
 msgid "Mode"
 msgstr "Chế độ"
@@ -810,11 +858,17 @@ msgstr "Phiên bản mới khả dụng"
 msgid "Next"
 msgstr "Tiếp theo"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "Không"
 
 msgid "No update available"
 msgstr "Không có nâng cấp nào khả dụng"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "Không kết quả"
@@ -833,6 +887,9 @@ msgstr "OK"
 
 msgid "Object"
 msgstr "Sự vật"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "Khoảng cách"
@@ -888,6 +945,9 @@ msgstr "Tạm ngừng"
 msgid "Paused"
 msgstr "Tạm dừng"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "Văn bản thuần túy"
 
@@ -908,6 +968,9 @@ msgstr "Vui lòng sử dụng khóa API hợp lệ"
 
 msgid "Pointer"
 msgstr "Con trỏ"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "In"
@@ -981,6 +1044,9 @@ msgstr "Thanh ghi"
 msgid "Registers"
 msgstr "Thanh ghi"
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "Địa chỉ tương đối"
 
@@ -1014,11 +1080,17 @@ msgstr "Khởi động lại"
 msgid "Result"
 msgstr "Kết quả"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr "Quy tắc"
 
 msgid "Run"
 msgstr "Chạy"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "Đang chạy"
@@ -1059,6 +1131,9 @@ msgstr "Quét"
 msgid "Scan after open"
 msgstr "Quét sau khi mở"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr "Quét tìm IAT"
 
@@ -1077,11 +1152,20 @@ msgstr "Tìm kiếm"
 msgid "Search from"
 msgstr "Tìm kiếm từ"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "Tìm kiếm chữ ký"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "Tìm kiếm chuỗi"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "Giá trị tìm kiếm"
@@ -1106,9 +1190,6 @@ msgstr "Đoạn"
 
 msgid "Select"
 msgstr "Chọn"
-
-msgid "Select all"
-msgstr "Chọn tất cả"
 
 msgid "Selected"
 msgstr "Đã chọn"
@@ -1143,11 +1224,11 @@ msgstr "Hiển thị các phát hiện"
 msgid "Show in"
 msgstr "Hiển thị trong"
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "Hiển thị biểu trưng"
-
-msgid "Show options"
-msgstr "Hiển thị các lựa chọn"
 
 msgid "Show type"
 msgstr "Hiển thị loại"
@@ -1164,6 +1245,9 @@ msgstr "Công cụ ký"
 msgid "Signature"
 msgstr "Chữ ký"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "Chữ ký"
 
@@ -1178,6 +1262,9 @@ msgstr "Kích thước"
 
 msgid "Size of image"
 msgstr "Kích thước của hình ảnh"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "Sắp xếp các phần tử"
@@ -1443,6 +1530,9 @@ msgstr "Ghi lỗi"
 msgid "Zeros"
 msgstr "Những số không"
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "bộ nén"
 
@@ -1473,14 +1563,12 @@ msgstr "nén"
 msgid "protection"
 msgstr "bảo vệ"
 
-msgid "tar"
-msgstr "tar"
-
-msgid "tar.gz"
-msgstr "tar.gz"
-
 msgid "true"
 msgstr "đúng"
+
+
+
+
 
 
 

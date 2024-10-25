@@ -48,6 +48,9 @@ msgstr ""
 msgid "Advanced"
 msgstr ""
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr ""
 
@@ -252,9 +255,6 @@ msgstr ""
 msgid "Code"
 msgstr ""
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr ""
 
@@ -309,6 +309,9 @@ msgstr ""
 msgid "Cursor"
 msgstr ""
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr ""
 
@@ -325,6 +328,9 @@ msgid "Data inspector"
 msgstr ""
 
 msgid "Database"
+msgstr ""
+
+msgid "Databases"
 msgstr ""
 
 msgid "Date"
@@ -453,6 +459,12 @@ msgstr ""
 msgid "External references"
 msgstr ""
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr ""
 
@@ -498,7 +510,7 @@ msgstr ""
 msgid "Find"
 msgstr ""
 
-msgid "Find next"
+msgid "First"
 msgstr ""
 
 msgid "Fix offsets"
@@ -609,10 +621,13 @@ msgstr ""
 msgid "Heuristic scan"
 msgstr ""
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr ""
 
-msgid "Hex signature"
+msgid "Hide unknown"
 msgstr ""
 
 msgid "Highlight"
@@ -660,6 +675,9 @@ msgstr ""
 msgid "Invalid"
 msgstr ""
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -702,6 +720,9 @@ msgstr ""
 msgid "Language"
 msgstr ""
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr ""
 
@@ -717,6 +738,9 @@ msgstr ""
 msgid "Library name"
 msgstr ""
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr ""
 
@@ -727,6 +751,9 @@ msgid "List"
 msgstr ""
 
 msgid "Load config"
+msgstr ""
+
+msgid "Loader"
 msgstr ""
 
 msgid "Local relocation"
@@ -741,6 +768,12 @@ msgstr ""
 msgid "MB"
 msgstr ""
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr ""
 
@@ -750,7 +783,19 @@ msgstr ""
 msgid "Manifest"
 msgstr ""
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
+msgstr ""
+
+msgid "Matches"
 msgstr ""
 
 msgid "Maximum"
@@ -774,10 +819,13 @@ msgstr ""
 msgid "Method"
 msgstr ""
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr ""
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -810,10 +858,16 @@ msgstr ""
 msgid "Next"
 msgstr ""
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr ""
 
 msgid "No update available"
+msgstr ""
+
+msgid "None"
 msgstr ""
 
 msgid "Nothing found"
@@ -832,6 +886,9 @@ msgid "OK"
 msgstr ""
 
 msgid "Object"
+msgstr ""
+
+msgid "Objects"
 msgstr ""
 
 msgid "Offset"
@@ -888,6 +945,9 @@ msgstr ""
 msgid "Paused"
 msgstr ""
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -907,6 +967,9 @@ msgid "Please use valid API key"
 msgstr ""
 
 msgid "Pointer"
+msgstr ""
+
+msgid "Previous visited"
 msgstr ""
 
 msgid "Print"
@@ -981,6 +1044,9 @@ msgstr ""
 msgid "Registers"
 msgstr ""
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr ""
 
@@ -1014,10 +1080,16 @@ msgstr ""
 msgid "Result"
 msgstr ""
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr ""
 
 msgid "Run"
+msgstr ""
+
+msgid "Run path"
 msgstr ""
 
 msgid "Running"
@@ -1059,6 +1131,9 @@ msgstr ""
 msgid "Scan after open"
 msgstr ""
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1077,10 +1152,19 @@ msgstr ""
 msgid "Search from"
 msgstr ""
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr ""
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
+msgstr ""
+
+msgid "Search value"
 msgstr ""
 
 msgid "Search values"
@@ -1105,9 +1189,6 @@ msgid "Segments"
 msgstr ""
 
 msgid "Select"
-msgstr ""
-
-msgid "Select all"
 msgstr ""
 
 msgid "Selected"
@@ -1143,10 +1224,10 @@ msgstr ""
 msgid "Show in"
 msgstr ""
 
-msgid "Show logo"
+msgid "Show info"
 msgstr ""
 
-msgid "Show options"
+msgid "Show logo"
 msgstr ""
 
 msgid "Show type"
@@ -1164,6 +1245,9 @@ msgstr ""
 msgid "Signature"
 msgstr ""
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr ""
 
@@ -1177,6 +1261,9 @@ msgid "Size"
 msgstr ""
 
 msgid "Size of image"
+msgstr ""
+
+msgid "Sort"
 msgstr ""
 
 msgid "Sort elements"
@@ -1443,6 +1530,9 @@ msgstr ""
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr ""
 
@@ -1471,12 +1561,6 @@ msgid "packed"
 msgstr ""
 
 msgid "protection"
-msgstr ""
-
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
 msgstr ""
 
 msgid "true"

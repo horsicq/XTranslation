@@ -49,6 +49,9 @@ msgstr "عنوان"
 msgid "Advanced"
 msgstr "متقدم"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "الخوارزمية"
 
@@ -253,9 +256,6 @@ msgstr "إغلاق"
 msgid "Code"
 msgstr "الشفرة"
 
-msgid "Code page"
-msgstr ""
-
 msgid "Code pages"
 msgstr "صفحات الشفرة"
 
@@ -310,6 +310,9 @@ msgstr "كريبتور"
 msgid "Cursor"
 msgstr "المؤشر"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr "قاعدة بيانات مخصصة"
 
@@ -327,6 +330,9 @@ msgstr "فاحص البيانات"
 
 msgid "Database"
 msgstr "قاعدة البيانات"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "تاريخ"
@@ -454,6 +460,12 @@ msgstr "نوع التصدير"
 msgid "External references"
 msgstr "المراجع الخارجية"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "أستخراج"
 
@@ -499,8 +511,8 @@ msgstr "منقي"
 msgid "Find"
 msgstr "ايجاد"
 
-msgid "Find next"
-msgstr "ايجاد التالي"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "إصلاح الإزاحة"
@@ -610,11 +622,14 @@ msgstr "إرشادي"
 msgid "Heuristic scan"
 msgstr "مسح إرشادي"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "Hex"
 
-msgid "Hex signature"
-msgstr "توقيع Hex"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "إبراز"
@@ -661,6 +676,9 @@ msgstr "مفسر"
 msgid "Invalid"
 msgstr "غير صالح"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr ""
 
@@ -703,6 +721,9 @@ msgstr "تسميات"
 msgid "Language"
 msgstr "لغة"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "ربط كسول"
 
@@ -718,6 +739,9 @@ msgstr "مكتبة"
 msgid "Library name"
 msgstr "اسم المكتبة"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "رابط"
 
@@ -729,6 +753,9 @@ msgstr "قائمة"
 
 msgid "Load config"
 msgstr "تحميل التكوين"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "النقل المحلي"
@@ -742,6 +769,12 @@ msgstr "سجل"
 msgid "MB"
 msgstr "ميقابايت"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "النافذة الرئيسية"
 
@@ -751,8 +784,20 @@ msgstr "برامج ضارة"
 msgid "Manifest"
 msgstr "الظاهري"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "مطابقة حالة الأحرف"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "أقصى"
@@ -775,10 +820,13 @@ msgstr ""
 msgid "Method"
 msgstr "طريقة"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "ميقابت"
 
-msgid "Min size"
+msgid "Min length"
 msgstr ""
 
 msgid "Mode"
@@ -811,11 +859,17 @@ msgstr "إصدار جديد متوفر"
 msgid "Next"
 msgstr "التالي"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "لا"
 
 msgid "No update available"
 msgstr "لا يوجد تحديثات متوفره"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "لم يتم العثور على شيء"
@@ -834,6 +888,9 @@ msgstr "نعم"
 
 msgid "Object"
 msgstr "كائن"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "الإزاحة"
@@ -889,6 +946,9 @@ msgstr "ايقاف مؤقت"
 msgid "Paused"
 msgstr "متوقف مؤقت"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -909,6 +969,9 @@ msgstr "الرجاء استخدام مفتاح API صالح"
 
 msgid "Pointer"
 msgstr "المؤشر"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "طباعة"
@@ -982,6 +1045,9 @@ msgstr "مسجل"
 msgid "Registers"
 msgstr "مسجلات"
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "العنوان النسبي"
 
@@ -1015,11 +1081,17 @@ msgstr "اعادة البدء"
 msgid "Result"
 msgstr "نتيجة"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr "القواعد"
 
 msgid "Run"
 msgstr "تشغيل"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "يعمل"
@@ -1060,6 +1132,9 @@ msgstr "فحص"
 msgid "Scan after open"
 msgstr "فحص بعد الفتح"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr ""
 
@@ -1078,11 +1153,20 @@ msgstr "بحث"
 msgid "Search from"
 msgstr "البحث من"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
+msgstr ""
+
+msgid "Search string"
 msgstr ""
 
 msgid "Search strings"
 msgstr "بحث عن السلاسل"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "بحث عن القيم"
@@ -1107,9 +1191,6 @@ msgstr "شرائح"
 
 msgid "Select"
 msgstr "اختيار"
-
-msgid "Select all"
-msgstr "اختيار الكل"
 
 msgid "Selected"
 msgstr "محدد"
@@ -1144,11 +1225,11 @@ msgstr "إظهار الكشوفات"
 msgid "Show in"
 msgstr "إظهار في"
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "إظهار الشعار"
-
-msgid "Show options"
-msgstr "إظهار الخيارات"
 
 msgid "Show type"
 msgstr "إظهار النوع"
@@ -1165,6 +1246,9 @@ msgstr "أداة التوقيع"
 msgid "Signature"
 msgstr "توقيع"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "التوقيعات"
 
@@ -1179,6 +1263,9 @@ msgstr "الحجم"
 
 msgid "Size of image"
 msgstr "حجم الصورة"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "فرز العناصر"
@@ -1444,6 +1531,9 @@ msgstr "خطأ في الكتابة"
 msgid "Zeros"
 msgstr ""
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "ضاغط"
 
@@ -1474,24 +1564,8 @@ msgstr "محزوم"
 msgid "protection"
 msgstr "حماية"
 
-msgid "tar"
-msgstr ""
-
-msgid "tar.gz"
-msgstr ""
-
 msgid "true"
 msgstr "صح"
-
-
-
-
-
-
-
-
-
-
 
 
 

@@ -48,6 +48,9 @@ msgstr "アドレス"
 msgid "Advanced"
 msgstr "高度な"
 
+msgid "Aggressive scan"
+msgstr ""
+
 msgid "Algorithm"
 msgstr "アルゴリズム"
 
@@ -252,9 +255,6 @@ msgstr "閉じる"
 msgid "Code"
 msgstr "コード"
 
-msgid "Code page"
-msgstr "コードページ"
-
 msgid "Code pages"
 msgstr "コードページ"
 
@@ -309,6 +309,9 @@ msgstr "暗号化"
 msgid "Cursor"
 msgstr "カーソル"
 
+msgid "Custom"
+msgstr ""
+
 msgid "Custom database"
 msgstr "カスタム データベース"
 
@@ -326,6 +329,9 @@ msgstr "データ インスペクター"
 
 msgid "Database"
 msgstr "データベース"
+
+msgid "Databases"
+msgstr ""
 
 msgid "Date"
 msgstr "日付"
@@ -453,6 +459,12 @@ msgstr "エクスポート種別"
 msgid "External references"
 msgstr "外部参照"
 
+msgid "Extra"
+msgstr ""
+
+msgid "Extra database"
+msgstr ""
+
 msgid "Extract"
 msgstr "抽出"
 
@@ -498,8 +510,8 @@ msgstr "絞り込み"
 msgid "Find"
 msgstr "検索"
 
-msgid "Find next"
-msgstr "次を検索"
+msgid "First"
+msgstr ""
 
 msgid "Fix offsets"
 msgstr "オフセットを修正"
@@ -609,11 +621,14 @@ msgstr "ヒューリスティック"
 msgid "Heuristic scan"
 msgstr "ヒューリスティック スキャン"
 
+msgid "Heuristics"
+msgstr ""
+
 msgid "Hex"
 msgstr "16 進数"
 
-msgid "Hex signature"
-msgstr "署名"
+msgid "Hide unknown"
+msgstr ""
 
 msgid "Highlight"
 msgstr "ハイライト"
@@ -660,6 +675,9 @@ msgstr "通訳者"
 msgid "Invalid"
 msgstr "無効"
 
+msgid "Invalid address of entry point"
+msgstr ""
+
 msgid "Invalid font"
 msgstr "無効なフォント"
 
@@ -702,6 +720,9 @@ msgstr "ラベル"
 msgid "Language"
 msgstr "言語"
 
+msgid "Last"
+msgstr ""
+
 msgid "Lazy binding"
 msgstr "遅延バインディング"
 
@@ -717,6 +738,9 @@ msgstr "ライブラリ"
 msgid "Library name"
 msgstr "ライブラリ名"
 
+msgid "Licensing"
+msgstr ""
+
 msgid "Linker"
 msgstr "リンカ"
 
@@ -728,6 +752,9 @@ msgstr "リスト"
 
 msgid "Load config"
 msgstr "構成を読み込み"
+
+msgid "Loader"
+msgstr ""
 
 msgid "Local relocation"
 msgstr "ローカル再割り当て"
@@ -741,6 +768,12 @@ msgstr "ログ"
 msgid "MB"
 msgstr "MB"
 
+msgid "Main"
+msgstr ""
+
+msgid "Main module"
+msgstr ""
+
 msgid "MainWindow"
 msgstr "MainWindow"
 
@@ -750,8 +783,20 @@ msgstr "マルウェア"
 msgid "Manifest"
 msgstr "Manifest"
 
+msgid "Map"
+msgstr ""
+
+msgid "Maps"
+msgstr ""
+
+msgid "Mask"
+msgstr ""
+
 msgid "Match case"
 msgstr "大文字小文字を区別"
+
+msgid "Matches"
+msgstr ""
 
 msgid "Maximum"
 msgstr "最大"
@@ -774,11 +819,14 @@ msgstr ""
 msgid "Method"
 msgstr "方法"
 
+msgid "Methods"
+msgstr ""
+
 msgid "MiB"
 msgstr "MiB"
 
-msgid "Min size"
-msgstr "最小サイズ"
+msgid "Min length"
+msgstr ""
 
 msgid "Mode"
 msgstr "モード"
@@ -810,11 +858,17 @@ msgstr "新バージョンが利用可能です"
 msgid "Next"
 msgstr "次"
 
+msgid "Next visited"
+msgstr ""
+
 msgid "No"
 msgstr "なし"
 
 msgid "No update available"
 msgstr "アップデートはありません"
+
+msgid "None"
+msgstr ""
 
 msgid "Nothing found"
 msgstr "見つかりません"
@@ -833,6 +887,9 @@ msgstr "OK"
 
 msgid "Object"
 msgstr "オブジェクト"
+
+msgid "Objects"
+msgstr ""
 
 msgid "Offset"
 msgstr "オフセット"
@@ -888,6 +945,9 @@ msgstr "一時停止"
 msgid "Paused"
 msgstr "一時停止中"
 
+msgid "Payload"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "プレーンテキスト"
 
@@ -908,6 +968,9 @@ msgstr "有効なAPIキーを使用してください"
 
 msgid "Pointer"
 msgstr "ポインタ"
+
+msgid "Previous visited"
+msgstr ""
 
 msgid "Print"
 msgstr "印刷"
@@ -981,6 +1044,9 @@ msgstr "レジスタ"
 msgid "Registers"
 msgstr "レジスタ"
 
+msgid "Regular expression"
+msgstr ""
+
 msgid "Relative address"
 msgstr "相対アドレス"
 
@@ -1014,11 +1080,17 @@ msgstr "再起動"
 msgid "Result"
 msgstr "結果"
 
+msgid "Rule name"
+msgstr ""
+
 msgid "Rules"
 msgstr "ルール"
 
 msgid "Run"
 msgstr "実行"
+
+msgid "Run path"
+msgstr ""
 
 msgid "Running"
 msgstr "実行中"
@@ -1059,6 +1131,9 @@ msgstr "スキャン"
 msgid "Scan after open"
 msgstr "開いたらすぐスキャン開始"
 
+msgid "Scan engine"
+msgstr ""
+
 msgid "Scan for IAT"
 msgstr "IATをスキャンする"
 
@@ -1077,11 +1152,20 @@ msgstr "検索"
 msgid "Search from"
 msgstr "検索開始位置"
 
+msgid "Search signature"
+msgstr ""
+
 msgid "Search signatures"
 msgstr "署名"
 
+msgid "Search string"
+msgstr ""
+
 msgid "Search strings"
 msgstr "文字列を検索"
+
+msgid "Search value"
+msgstr ""
 
 msgid "Search values"
 msgstr "値を検索する"
@@ -1106,9 +1190,6 @@ msgstr "セグメント"
 
 msgid "Select"
 msgstr "選択"
-
-msgid "Select all"
-msgstr "すべて選択"
 
 msgid "Selected"
 msgstr "選択中"
@@ -1143,11 +1224,11 @@ msgstr "検出済みを表示"
 msgid "Show in"
 msgstr ""
 
+msgid "Show info"
+msgstr ""
+
 msgid "Show logo"
 msgstr "ロゴを表示"
-
-msgid "Show options"
-msgstr "オプションを表示"
 
 msgid "Show type"
 msgstr "型を表示"
@@ -1164,6 +1245,9 @@ msgstr "署名ツール"
 msgid "Signature"
 msgstr "署名"
 
+msgid "Signature name"
+msgstr ""
+
 msgid "Signatures"
 msgstr "署名"
 
@@ -1178,6 +1262,9 @@ msgstr "サイズ"
 
 msgid "Size of image"
 msgstr "画像のサイズ"
+
+msgid "Sort"
+msgstr ""
 
 msgid "Sort elements"
 msgstr "要素を並べ替える"
@@ -1443,6 +1530,9 @@ msgstr "書き込みエラー"
 msgid "Zeros"
 msgstr "ゼロ"
 
+msgid "Zoom"
+msgstr ""
+
 msgid "compressor"
 msgstr "コンプレッサ"
 
@@ -1473,11 +1563,13 @@ msgstr "パック済み"
 msgid "protection"
 msgstr "保護"
 
-msgid "tar"
-msgstr "tar"
-
-msgid "tar.gz"
-msgstr "tar.gz"
-
 msgid "true"
 msgstr "true"
+
+
+
+
+
+
+
+
