@@ -7,25 +7,25 @@ msgstr ""
 "X-Language: zh_CN\n"
 
 msgid "128-bit"
-msgstr "128 位"
+msgstr "128位"
 
 msgid "16-bit"
-msgstr "16 位"
+msgstr "16位"
 
 msgid "256-bit"
-msgstr "256 位"
+msgstr "256位"
 
 msgid "32-bit"
-msgstr "32 位"
+msgstr "32位"
 
 msgid "64-bit"
-msgstr "64 位"
+msgstr "64位"
 
 msgid "8-bit"
-msgstr "8 位"
+msgstr "8位"
 
 msgid "API key"
-msgstr "API 密钥"
+msgstr "API密钥"
 
 msgid "About"
 msgstr "关于"
@@ -184,13 +184,13 @@ msgid "Cannot find"
 msgstr "无法获取"
 
 msgid "Cannot find file"
-msgstr "无法获取 文件"
+msgstr "无法获取文件"
 
 msgid "Cannot fix dump file"
 msgstr "无法修复转储文件"
 
 msgid "Cannot get PDB age"
-msgstr "无法获取 PDB 日期"
+msgstr "无法获取 PDB 年份"
 
 msgid "Cannot get PDB name"
 msgstr "无法获取 PDB 名称"
@@ -532,7 +532,7 @@ msgid "Follow in"
 msgstr "跟进"
 
 msgid "Follow me"
-msgstr "跟随我"
+msgstr "跟随"
 
 msgid "Fonts"
 msgstr "字体"
@@ -586,7 +586,7 @@ msgid "Go to address"
 msgstr "转到地址"
 
 msgid "Go to download page?"
-msgstr "前往下载页面？"
+msgstr "前往下载页面吗？"
 
 msgid "Gradient"
 msgstr "梯度"
@@ -1465,7 +1465,7 @@ msgid "Update information"
 msgstr "更新信息"
 
 msgid "Upload the file for analyze?"
-msgstr "上传这个文件以进行分析？"
+msgstr "上传这个文件以进行分析吗？"
 
 msgid "Upper"
 msgstr "顶部"
@@ -1543,7 +1543,7 @@ msgid "extender"
 msgstr "扩展器"
 
 msgid "false"
-msgstr "假"
+msgstr "false"
 
 msgid "kB"
 msgstr "kB"
@@ -1561,7 +1561,7 @@ msgid "packed"
 msgstr "已加壳"
 
 msgid "protection"
-msgstr "保护器"
+msgstr "保护"
 
 msgid "true"
-msgstr "真"
+msgstr "true"
