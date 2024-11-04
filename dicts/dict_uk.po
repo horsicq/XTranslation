@@ -50,7 +50,7 @@ msgid "Advanced"
 msgstr "Просунутий"
 
 msgid "Aggressive scan"
-msgstr ""
+msgstr "Агресивне сканування"
 
 msgid "Algorithm"
 msgstr "Алгоритм"
@@ -332,7 +332,7 @@ msgid "Database"
 msgstr "База даних"
 
 msgid "Databases"
-msgstr ""
+msgstr "Бази даних"
 
 msgid "Date"
 msgstr "Дата"
@@ -677,7 +677,7 @@ msgid "Invalid"
 msgstr "Невірний"
 
 msgid "Invalid address of entry point"
-msgstr ""
+msgstr "Недійсна адреса точки входу"
 
 msgid "Invalid font"
 msgstr "Невірний шрифт"
@@ -773,7 +773,7 @@ msgid "Main"
 msgstr ""
 
 msgid "Main module"
-msgstr ""
+msgstr "Головний модуль"
 
 msgid "MainWindow"
 msgstr "Головне вікно"
@@ -821,13 +821,13 @@ msgid "Method"
 msgstr "Метод"
 
 msgid "Methods"
-msgstr ""
+msgstr "Методи"
 
 msgid "MiB"
 msgstr "МіБ"
 
 msgid "Min length"
-msgstr ""
+msgstr "Мінімальна довжина"
 
 msgid "Mode"
 msgstr "Режим"
@@ -890,7 +890,7 @@ msgid "Object"
 msgstr "Об'єкт"
 
 msgid "Objects"
-msgstr ""
+msgstr "Об'єкти"
 
 msgid "Offset"
 msgstr "Зміщення"
@@ -1046,7 +1046,7 @@ msgid "Registers"
 msgstr "Регістри"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "Регулярний вираз"
 
 msgid "Relative address"
 msgstr "Відносна адреса"
@@ -1226,7 +1226,7 @@ msgid "Show in"
 msgstr "Показати в"
 
 msgid "Show info"
-msgstr ""
+msgstr "Показати інформацію"
 
 msgid "Show logo"
 msgstr "Показати логотип"
