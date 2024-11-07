@@ -532,7 +532,7 @@ msgid "Follow in"
 msgstr "跟进"
 
 msgid "Follow me"
-msgstr "跟随"
+msgstr "关注我"
 
 msgid "Fonts"
 msgstr "字体"
@@ -1357,7 +1357,7 @@ msgid "Table of contents"
 msgstr "目录"
 
 msgid "Table views"
-msgstr "表格试图"
+msgstr "表格视图"
 
 msgid "Tags"
 msgstr "标签"
