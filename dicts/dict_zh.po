@@ -784,10 +784,10 @@ msgid "Manifest"
 msgstr "清单文件"
 
 msgid "Map"
-msgstr "地图"
+msgstr "映射"
 
 msgid "Maps"
-msgstr "地图"
+msgstr "映射"
 
 msgid "Mask"
 msgstr "掩码"
@@ -1153,10 +1153,10 @@ msgid "Search from"
 msgstr "搜索"
 
 msgid "Search signature"
-msgstr "搜索签名"
+msgstr "搜索特征码"
 
 msgid "Search signatures"
-msgstr "搜索签名"
+msgstr "搜索特征码"
 
 msgid "Search string"
 msgstr "搜索字符串"
