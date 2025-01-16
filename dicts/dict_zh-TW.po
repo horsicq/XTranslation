@@ -301,7 +301,7 @@ msgid "Create view model"
 msgstr "建立視圖模型"
 
 msgid "Crypter"
-msgstr 加密器""
+msgstr "加密器"
 
 msgid "Cryptor"
 msgstr "加密器"
