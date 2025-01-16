@@ -148,7 +148,7 @@ msgid "Breakpoints"
 msgstr "斷點"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "緩衝區大小"
 
 msgid "Bugreports"
 msgstr "錯誤報告"
@@ -181,13 +181,13 @@ msgid "Cancel"
 msgstr "取消"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "找不到"
 
 msgid "Cannot find file"
 msgstr "找不到檔案"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "無法修復轉存檔案"
 
 msgid "Cannot get PDB age"
 msgstr "無法獲取 PDB 年齡"
@@ -208,7 +208,7 @@ msgid "Cannot load file"
 msgstr "無法加載文件"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "無法打開轉存檔案"
 
 msgid "Cannot open file"
 msgstr "無法打開檔案"
@@ -217,7 +217,7 @@ msgid "Cannot open session"
 msgstr "無法打開會話"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "無法讀取檔案"
 
 msgid "Cannot read memory at address"
 msgstr "無法讀取地址處的內存"
@@ -232,7 +232,7 @@ msgid "Cannot set shortcut"
 msgstr "無法設置捷徑"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "無法將資料寫入檔案"
 
 msgid "Certificate"
 msgstr "證書"
@@ -301,7 +301,7 @@ msgid "Create view model"
 msgstr "建立視圖模型"
 
 msgid "Crypter"
-msgstr ""
+msgstr 加密器""
 
 msgid "Cryptor"
 msgstr "加密器"
@@ -310,7 +310,7 @@ msgid "Cursor"
 msgstr "目前位址"
 
 msgid "Custom"
-msgstr ""
+msgstr "自訂"
 
 msgid "Custom database"
 msgstr "自訂資料庫"
@@ -331,7 +331,7 @@ msgid "Database"
 msgstr "資料庫"
 
 msgid "Databases"
-msgstr ""
+msgstr "資料庫"
 
 msgid "Date"
 msgstr "日期"
@@ -367,7 +367,7 @@ msgid "Dependencies"
 msgstr "依賴關係"
 
 msgid "Description"
-msgstr ""
+msgstr "描述"
 
 msgid "Detach"
 msgstr "分離"
@@ -400,7 +400,7 @@ msgid "Donate"
 msgstr "贊助"
 
 msgid "Driver"
-msgstr "司機"
+msgstr "驅動程式"
 
 msgid "Dump"
 msgstr "轉存"
@@ -448,7 +448,7 @@ msgid "Exit"
 msgstr "退出"
 
 msgid "Export"
-msgstr "出口"
+msgstr "導出"
 
 msgid "Export File Name"
 msgstr "導出文件名"
@@ -460,10 +460,10 @@ msgid "External references"
 msgstr "外部參考"
 
 msgid "Extra"
-msgstr ""
+msgstr "外部"
 
 msgid "Extra database"
-msgstr ""
+msgstr "外部資料庫"
 
 msgid "Extract"
 msgstr "擷取"
@@ -535,7 +535,7 @@ msgid "Follow me"
 msgstr ""
 
 msgid "Fonts"
-msgstr ""
+msgstr "字型"
 
 msgid "Footer"
 msgstr ""
@@ -571,7 +571,7 @@ msgid "Get"
 msgstr "獲取"
 
 msgid "Get IAT"
-msgstr ""
+msgstr "獲取 IAT"
 
 msgid "Get element"
 msgstr "獲取元素"
@@ -628,7 +628,7 @@ msgid "Hex"
 msgstr "十六進制"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "隱藏未知"
 
 msgid "Highlight"
 msgstr "標記"
@@ -646,7 +646,7 @@ msgid "Import"
 msgstr "進口"
 
 msgid "Import hash"
-msgstr "導入哈希"
+msgstr "導入雜湊"
 
 msgid "Indirect symbols"
 msgstr "間接符號"
@@ -676,16 +676,16 @@ msgid "Invalid"
 msgstr "無效"
 
 msgid "Invalid address of entry point"
-msgstr ""
+msgstr "無效的入口點位址"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "無效的字型"
 
 msgid "Invalid handle"
 msgstr ""
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "無效的偏移"
 
 msgid "Invalid opcode"
 msgstr "無效的操作碼"
@@ -754,7 +754,7 @@ msgid "Load config"
 msgstr "加載配置"
 
 msgid "Loader"
-msgstr ""
+msgstr "載入器"
 
 msgid "Local relocation"
 msgstr "本地搬遷"
@@ -814,19 +814,19 @@ msgid "Metadata"
 msgstr "元數據"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "元數據表"
 
 msgid "Method"
 msgstr "方法"
 
 msgid "Methods"
-msgstr ""
+msgstr "方法"
 
 msgid "MiB"
 msgstr "MiB"
 
 msgid "Min length"
-msgstr ""
+msgstr "最小長度"
 
 msgid "Mode"
 msgstr "模式"
@@ -838,7 +838,7 @@ msgid "More info"
 msgstr "更多信息"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "跨平台"
 
 msgid "Multisearch"
 msgstr "多重搜尋"
@@ -868,13 +868,13 @@ msgid "No update available"
 msgstr "無可用的更新"
 
 msgid "None"
-msgstr ""
+msgstr "無"
 
 msgid "Nothing found"
 msgstr "沒有找到"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "以空字元結尾"
 
 msgid "Number"
 msgstr "數字"
@@ -889,7 +889,7 @@ msgid "Object"
 msgstr "物件"
 
 msgid "Objects"
-msgstr ""
+msgstr "物件"
 
 msgid "Offset"
 msgstr "偏移"
@@ -925,7 +925,7 @@ msgid "Options"
 msgstr "選項"
 
 msgid "Output"
-msgstr ""
+msgstr "輸出"
 
 msgid "Overlay"
 msgstr "覆蓋"
@@ -937,7 +937,7 @@ msgid "Packer"
 msgstr "封隔器"
 
 msgid "Patch"
-msgstr ""
+msgstr "修補"
 
 msgid "Pause"
 msgstr "暫停"
@@ -952,7 +952,7 @@ msgid "Plain Text"
 msgstr ""
 
 msgid "Platform"
-msgstr ""
+msgstr "平台"
 
 msgid "Player"
 msgstr "播放器"
@@ -1045,7 +1045,7 @@ msgid "Registers"
 msgstr "暫存器"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "正規表達式"
 
 msgid "Relative address"
 msgstr "相對位址"
@@ -1081,7 +1081,7 @@ msgid "Result"
 msgstr "結果"
 
 msgid "Rule name"
-msgstr ""
+msgstr "規則名稱"
 
 msgid "Rules"
 msgstr "規則"
@@ -1090,7 +1090,7 @@ msgid "Run"
 msgstr "執行"
 
 msgid "Run path"
-msgstr ""
+msgstr "執行目錄"
 
 msgid "Running"
 msgstr "正在執行"
@@ -1132,10 +1132,10 @@ msgid "Scan after open"
 msgstr "打開後掃描"
 
 msgid "Scan engine"
-msgstr ""
+msgstr "掃描引擎"
 
 msgid "Scan for IAT"
-msgstr ""
+msgstr "搜尋 IAT"
 
 msgid "Schema"
 msgstr ""
@@ -1144,7 +1144,7 @@ msgid "Script"
 msgstr "腳本"
 
 msgid "Scripts"
-msgstr ""
+msgstr "腳本"
 
 msgid "Search"
 msgstr "搜尋"
@@ -1159,13 +1159,13 @@ msgid "Search signatures"
 msgstr "搜尋簽名"
 
 msgid "Search string"
-msgstr ""
+msgstr "搜尋字串"
 
 msgid "Search strings"
-msgstr "搜索字串"
+msgstr "搜尋字串"
 
 msgid "Search value"
-msgstr ""
+msgstr "搜尋值"
 
 msgid "Search values"
 msgstr "搜尋值"
@@ -1225,7 +1225,7 @@ msgid "Show in"
 msgstr ""
 
 msgid "Show info"
-msgstr ""
+msgstr "顯示資訊"
 
 msgid "Show logo"
 msgstr "顯示徽標"
@@ -1246,7 +1246,7 @@ msgid "Signature"
 msgstr "簽章"
 
 msgid "Signature name"
-msgstr ""
+msgstr "簽章名稱"
 
 msgid "Signatures"
 msgstr "簽章"
@@ -1264,7 +1264,7 @@ msgid "Size of image"
 msgstr "圖片尺寸"
 
 msgid "Sort"
-msgstr ""
+msgstr "排序"
 
 msgid "Sort elements"
 msgstr "排序元素"
@@ -1273,7 +1273,7 @@ msgid "Sort type"
 msgstr "排序類型"
 
 msgid "Sorted"
-msgstr ""
+msgstr "已排序"
 
 msgid "Source code"
 msgstr "源代碼"
@@ -1318,7 +1318,7 @@ msgid "Struct"
 msgstr "結構"
 
 msgid "Struct and unions"
-msgstr "結構體和工會"
+msgstr "結構和聯合"
 
 msgid "Structs"
 msgstr "結構"
@@ -1360,19 +1360,19 @@ msgid "Table views"
 msgstr ""
 
 msgid "Tags"
-msgstr ""
+msgstr "標籤"
 
 msgid "Text"
 msgstr "文字"
 
 msgid "Text documents"
-msgstr "文件檔"
+msgstr "文字檔"
 
 msgid "Text editors"
-msgstr ""
+msgstr "文字編輯器"
 
 msgid "Text files"
-msgstr "文本檔案"
+msgstr "文字檔案"
 
 msgid "Thanks"
 msgstr "特別感謝"
@@ -1423,13 +1423,13 @@ msgid "Total"
 msgstr "總計"
 
 msgid "Trace"
-msgstr ""
+msgstr "追蹤"
 
 msgid "Trace into"
-msgstr ""
+msgstr "步入"
 
 msgid "Trace over"
-msgstr ""
+msgstr "步過"
 
 msgid "Tree"
 msgstr "樹狀圖"
@@ -1447,10 +1447,10 @@ msgid "Type"
 msgstr "類型"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "Universal"
-msgstr ""
+msgstr "通用的"
 
 msgid "Unknown"
 msgstr "未知"
@@ -1528,10 +1528,10 @@ msgid "Write error"
 msgstr "寫入錯誤"
 
 msgid "Zeros"
-msgstr ""
+msgstr "零"
 
 msgid "Zoom"
-msgstr ""
+msgstr "縮放"
 
 msgid "compressor"
 msgstr "壓縮軟件"
@@ -1565,7 +1565,3 @@ msgstr "保護"
 
 msgid "true"
 msgstr "true"
-
-
-
-
