@@ -50,7 +50,7 @@ msgid "Advanced"
 msgstr "Продвинутый"
 
 msgid "Aggressive scan"
-msgstr ""
+msgstr "Агрессивное сканирование"
 
 msgid "Algorithm"
 msgstr "Алгоритм"
@@ -311,7 +311,7 @@ msgid "Cursor"
 msgstr "Курсор"
 
 msgid "Custom"
-msgstr ""
+msgstr "Пользовательский"
 
 msgid "Custom database"
 msgstr "Пользовательская база данных"
@@ -332,7 +332,7 @@ msgid "Database"
 msgstr "База данных"
 
 msgid "Databases"
-msgstr ""
+msgstr "Базы данных"
 
 msgid "Date"
 msgstr "Дата"
@@ -461,10 +461,10 @@ msgid "External references"
 msgstr "Внешние ссылки"
 
 msgid "Extra"
-msgstr ""
+msgstr "Дополнительный"
 
 msgid "Extra database"
-msgstr ""
+msgstr "Дополнительная база данных"
 
 msgid "Extract"
 msgstr "Извлечь"
@@ -512,7 +512,7 @@ msgid "Find"
 msgstr "Поиск"
 
 msgid "First"
-msgstr ""
+msgstr "Первый"
 
 msgid "Fix offsets"
 msgstr "Исправить смещения"
@@ -623,13 +623,13 @@ msgid "Heuristic scan"
 msgstr "Эвристический скан"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "Эвристика"
 
 msgid "Hex"
 msgstr "Hex"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "Скрыть неизвестное"
 
 msgid "Highlight"
 msgstr "Цветовое представление"
@@ -677,7 +677,7 @@ msgid "Invalid"
 msgstr "Неверный"
 
 msgid "Invalid address of entry point"
-msgstr ""
+msgstr "Неверный адрес точки входа"
 
 msgid "Invalid font"
 msgstr "Неверный шрифт"
@@ -686,7 +686,7 @@ msgid "Invalid handle"
 msgstr "Неверный хэндлер"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "Неверное смещение"
 
 msgid "Invalid opcode"
 msgstr "Неверный опкод"
@@ -722,7 +722,7 @@ msgid "Language"
 msgstr "Язык"
 
 msgid "Last"
-msgstr ""
+msgstr "Последний"
 
 msgid "Lazy binding"
 msgstr "Ленивая привязка"
@@ -740,7 +740,7 @@ msgid "Library name"
 msgstr "Название библиотеки"
 
 msgid "Licensing"
-msgstr ""
+msgstr "Лицензирование"
 
 msgid "Linker"
 msgstr "Линковщик"
@@ -755,7 +755,7 @@ msgid "Load config"
 msgstr "Загрузочный конфиг"
 
 msgid "Loader"
-msgstr ""
+msgstr "Загрузчик"
 
 msgid "Local relocation"
 msgstr "Локальное перемещение"
@@ -770,10 +770,10 @@ msgid "MB"
 msgstr "МБ"
 
 msgid "Main"
-msgstr ""
+msgstr "Основной"
 
 msgid "Main module"
-msgstr ""
+msgstr "Основной модуль"
 
 msgid "MainWindow"
 msgstr "MainWindow"
@@ -785,19 +785,19 @@ msgid "Manifest"
 msgstr "Манифест"
 
 msgid "Map"
-msgstr ""
+msgstr "Карта"
 
 msgid "Maps"
-msgstr ""
+msgstr "Карты"
 
 msgid "Mask"
-msgstr ""
+msgstr "Маска"
 
 msgid "Match case"
 msgstr "Учитывать регистр"
 
 msgid "Matches"
-msgstr ""
+msgstr "Совпадения"
 
 msgid "Maximum"
 msgstr "Максимум"
@@ -821,13 +821,13 @@ msgid "Method"
 msgstr "Метод"
 
 msgid "Methods"
-msgstr ""
+msgstr "Методы"
 
 msgid "MiB"
 msgstr "МиБ"
 
 msgid "Min length"
-msgstr ""
+msgstr "Минимальная длина"
 
 msgid "Mode"
 msgstr "Режим"
@@ -860,7 +860,7 @@ msgid "Next"
 msgstr "Далее"
 
 msgid "Next visited"
-msgstr ""
+msgstr "Следующий посещённый"
 
 msgid "No"
 msgstr "Нет"
@@ -869,7 +869,7 @@ msgid "No update available"
 msgstr "Нет доступных обновлений"
 
 msgid "None"
-msgstr ""
+msgstr "Нет"
 
 msgid "Nothing found"
 msgstr "Ничего не найдено"
@@ -890,7 +890,7 @@ msgid "Object"
 msgstr "Объект"
 
 msgid "Objects"
-msgstr ""
+msgstr "Объекты"
 
 msgid "Offset"
 msgstr "Смещение"
@@ -947,7 +947,7 @@ msgid "Paused"
 msgstr "На паузе"
 
 msgid "Payload"
-msgstr ""
+msgstr "Полезная нагрузка"
 
 msgid "Plain Text"
 msgstr "Простой Текст"
@@ -971,7 +971,7 @@ msgid "Pointer"
 msgstr "Указатель"
 
 msgid "Previous visited"
-msgstr ""
+msgstr "Предыдущий посещённый"
 
 msgid "Print"
 msgstr "Распечатать"
@@ -1046,7 +1046,7 @@ msgid "Registers"
 msgstr "Регистры"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "Регулярное выражение"
 
 msgid "Relative address"
 msgstr "Относительный адрес"
@@ -1082,7 +1082,7 @@ msgid "Result"
 msgstr "Результат"
 
 msgid "Rule name"
-msgstr ""
+msgstr "Название правила"
 
 msgid "Rules"
 msgstr "Правила"
@@ -1091,7 +1091,7 @@ msgid "Run"
 msgstr "Запустить"
 
 msgid "Run path"
-msgstr ""
+msgstr "Путь выполнения"
 
 msgid "Running"
 msgstr "Запущено"
@@ -1133,7 +1133,7 @@ msgid "Scan after open"
 msgstr "Сразу сканировать"
 
 msgid "Scan engine"
-msgstr ""
+msgstr "Механизм сканирования"
 
 msgid "Scan for IAT"
 msgstr "Просканировать на IAT"
@@ -1154,19 +1154,19 @@ msgid "Search from"
 msgstr "Поиск с"
 
 msgid "Search signature"
-msgstr ""
+msgstr "Поиск сигнатуры"
 
 msgid "Search signatures"
 msgstr "Поиск сигнатур"
 
 msgid "Search string"
-msgstr ""
+msgstr "Поиск строки"
 
 msgid "Search strings"
 msgstr "Поиск строк"
 
 msgid "Search value"
-msgstr ""
+msgstr "Поиск значения"
 
 msgid "Search values"
 msgstr "Поиск значений"
@@ -1226,7 +1226,7 @@ msgid "Show in"
 msgstr "Показать в"
 
 msgid "Show info"
-msgstr ""
+msgstr "Показать информацию"
 
 msgid "Show logo"
 msgstr "Показать логотип"
@@ -1247,7 +1247,7 @@ msgid "Signature"
 msgstr "Сигнатура"
 
 msgid "Signature name"
-msgstr ""
+msgstr "Имя сигнатуры"
 
 msgid "Signatures"
 msgstr "Сигнатуры"
@@ -1265,7 +1265,7 @@ msgid "Size of image"
 msgstr "Размер образа"
 
 msgid "Sort"
-msgstr ""
+msgstr "Сортировка"
 
 msgid "Sort elements"
 msgstr "Сортировать элементы"
@@ -1274,7 +1274,7 @@ msgid "Sort type"
 msgstr "Тип сортировки"
 
 msgid "Sorted"
-msgstr "Сортированно"
+msgstr "Сортировано"
 
 msgid "Source code"
 msgstr "Исходный код"
@@ -1532,7 +1532,7 @@ msgid "Zeros"
 msgstr "Нули"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Масштаб"
 
 msgid "compressor"
 msgstr "упаковщик"
