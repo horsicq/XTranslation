@@ -31,7 +31,7 @@ msgid "About"
 msgstr "Sobre"
 
 msgid "Action"
-msgstr "Açao"
+msgstr "Ação"
 
 msgid "Add"
 msgstr "Adicionar"
@@ -118,7 +118,7 @@ msgid "Bind"
 msgstr "Vincular"
 
 msgid "Binding"
-msgstr "Vinculo"
+msgstr "Vínculo"
 
 msgid "Bits"
 msgstr "Bits"
@@ -271,7 +271,7 @@ msgid "Commands"
 msgstr "Comandos"
 
 msgid "Comment"
-msgstr "Comentario"
+msgstr "Comentário"
 
 msgid "Compiler"
 msgstr "Compilador"
@@ -301,10 +301,10 @@ msgid "Create view model"
 msgstr "Criar modelo de visualização"
 
 msgid "Crypter"
-msgstr "Crypter"
+msgstr "Criptografar"
 
 msgid "Cryptor"
-msgstr "Criptor"
+msgstr "Criptografia"
 
 msgid "Cursor"
 msgstr "Cursor"
@@ -319,10 +319,10 @@ msgid "Data"
 msgstr "Dados"
 
 msgid "Data convertor"
-msgstr "Data convertor"
+msgstr "Conversor de dados"
 
 msgid "Data in code"
-msgstr "Dados em código"
+msgstr "Dados no código"
 
 msgid "Data inspector"
 msgstr "Inspetor de Dados"
@@ -700,7 +700,7 @@ msgid "Issuer"
 msgstr "Emitente"
 
 msgid "Joiner"
-msgstr "Marceneiro"
+msgstr "Agrupador"
 
 msgid "Jumps"
 msgstr "Saltos"
@@ -724,7 +724,7 @@ msgid "Last"
 msgstr "Último"
 
 msgid "Lazy binding"
-msgstr "Ligação preguiçosa"
+msgstr "Vinculação tardia"
 
 msgid "Length"
 msgstr "Comprimento"
@@ -841,7 +841,7 @@ msgid "Multiplatform"
 msgstr "Multiplataforma"
 
 msgid "Multisearch"
-msgstr "Pesquisa multipla"
+msgstr "Pesquisa múltipla"
 
 msgid "Name"
 msgstr "Nome"
@@ -1150,7 +1150,7 @@ msgid "Search"
 msgstr "Procurar"
 
 msgid "Search from"
-msgstr "Procurar de"
+msgstr "Pesquisar a partir de"
 
 msgid "Search signature"
 msgstr "Buscar Assinatura"
@@ -1411,7 +1411,7 @@ msgid "To data"
 msgstr "Para dados"
 
 msgid "Toggle"
-msgstr "Alternancia"
+msgstr "Alternância"
 
 msgid "Tool"
 msgstr "Ferramenta"
@@ -1426,10 +1426,10 @@ msgid "Trace"
 msgstr "Rastro"
 
 msgid "Trace into"
-msgstr "Trace into"
+msgstr "Acompanhar execução"
 
 msgid "Trace over"
-msgstr "Trace over"
+msgstr "Acompanhar sobreposição"
 
 msgid "Tree"
 msgstr "Árvore"
@@ -1462,7 +1462,7 @@ msgid "Unsigned"
 msgstr "Não assinado"
 
 msgid "Update information"
-msgstr "Informações do Update"
+msgstr "Informações da atualização"
 
 msgid "Upload the file for analyze?"
 msgstr "Fazer upload do arquivo para analisar ?"
