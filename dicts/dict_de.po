@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Language: de_DE\n"
-"X-Generator: Poedit 3.4.3\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "128-bit"
 msgstr "128-Bit"
@@ -317,7 +317,7 @@ msgid "Cursor"
 msgstr "Position"
 
 msgid "Custom"
-msgstr ""
+msgstr "Benutzerdefiniert"
 
 msgid "Custom database"
 msgstr "Benutzerdefinierte Datenbank"
@@ -338,7 +338,7 @@ msgid "Database"
 msgstr "Datenbank"
 
 msgid "Databases"
-msgstr ""
+msgstr "Datenbanken"
 
 msgid "Date"
 msgstr "Datum"
@@ -350,7 +350,7 @@ msgid "Debug data"
 msgstr "Daten Debuggen"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Debug Registers"
 
 msgid "Debugger"
 msgstr "Debugger"
@@ -467,10 +467,10 @@ msgid "External references"
 msgstr "Externe Referenzen"
 
 msgid "Extra"
-msgstr ""
+msgstr "Extra"
 
 msgid "Extra database"
-msgstr ""
+msgstr "Extra Datenbank"
 
 msgid "Extract"
 msgstr "Extrahieren"
@@ -518,7 +518,7 @@ msgid "Find"
 msgstr "Suchen"
 
 msgid "First"
-msgstr ""
+msgstr "Erst"
 
 msgid "Fix offsets"
 msgstr "Offsets beheben"
@@ -530,7 +530,7 @@ msgid "Flags"
 msgstr "Markierungen"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Flaggen Register"
 
 msgid "Folder"
 msgstr "Ordner"
@@ -635,7 +635,7 @@ msgid "Hex"
 msgstr "Hex"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "Unbekannt verstecken"
 
 msgid "Highlight"
 msgstr "Hervorheben"
@@ -683,7 +683,7 @@ msgid "Invalid"
 msgstr "Ungültig"
 
 msgid "Invalid address of entry point"
-msgstr ""
+msgstr "Ungültige Adresse vom Enstiegspunkt"
 
 msgid "Invalid font"
 msgstr "Ungültige Schriftart"
@@ -728,7 +728,7 @@ msgid "Language"
 msgstr "Sprache"
 
 msgid "Last"
-msgstr ""
+msgstr "Letztes"
 
 msgid "Lazy binding"
 msgstr "Lazy Binding"
@@ -761,7 +761,7 @@ msgid "Load config"
 msgstr "Konfiguration laden"
 
 msgid "Loader"
-msgstr ""
+msgstr "Lader"
 
 msgid "Local relocation"
 msgstr "Lokale Relokation"
@@ -776,10 +776,10 @@ msgid "MB"
 msgstr "MB"
 
 msgid "Main"
-msgstr ""
+msgstr "Haupt"
 
 msgid "Main module"
-msgstr ""
+msgstr "Hauptmodul"
 
 msgid "MainWindow"
 msgstr "Hauptfenster"
@@ -791,13 +791,13 @@ msgid "Manifest"
 msgstr "Manifest"
 
 msgid "Map"
-msgstr ""
+msgstr "Karte"
 
 msgid "Maps"
-msgstr ""
+msgstr "Karten"
 
 msgid "Mask"
-msgstr ""
+msgstr "Maske"
 
 msgid "Match case"
 msgstr "Übereinstimmung"
@@ -827,13 +827,13 @@ msgid "Method"
 msgstr "Methode"
 
 msgid "Methods"
-msgstr ""
+msgstr "Methoden"
 
 msgid "MiB"
 msgstr "MiB"
 
 msgid "Min length"
-msgstr ""
+msgstr "Mindestlänge"
 
 msgid "Mode"
 msgstr "Modus"
@@ -866,7 +866,7 @@ msgid "Next"
 msgstr "Weiter"
 
 msgid "Next visited"
-msgstr ""
+msgstr "Nächster Besuch"
 
 msgid "No"
 msgstr "Nein"
@@ -875,7 +875,7 @@ msgid "No update available"
 msgstr "Kein Update verfügbar"
 
 msgid "None"
-msgstr ""
+msgstr "Nichts"
 
 msgid "Nothing found"
 msgstr "Nichts gefunden"
@@ -896,7 +896,7 @@ msgid "Object"
 msgstr "Objekt"
 
 msgid "Objects"
-msgstr ""
+msgstr "Objekte"
 
 msgid "Offset"
 msgstr "Offset"
@@ -977,7 +977,7 @@ msgid "Pointer"
 msgstr "Zeiger"
 
 msgid "Previous visited"
-msgstr ""
+msgstr "Bevor besucht"
 
 msgid "Print"
 msgstr "Drucken"
@@ -1088,7 +1088,7 @@ msgid "Result"
 msgstr "Ergebnis"
 
 msgid "Rule name"
-msgstr ""
+msgstr "Rollenname"
 
 msgid "Rules"
 msgstr "Regeln"
@@ -1159,8 +1159,9 @@ msgstr "Suche"
 msgid "Search from"
 msgstr "Suche von"
 
+#, fuzzy
 msgid "Search signature"
-msgstr ""
+msgstr "Suche Signatur"
 
 msgid "Search signatures"
 msgstr "Suche Signaturen"
@@ -1232,7 +1233,7 @@ msgid "Show in"
 msgstr "Anzeigen in"
 
 msgid "Show info"
-msgstr ""
+msgstr "Zeige info"
 
 msgid "Show logo"
 msgstr "Logo anzeigen"
@@ -1253,7 +1254,7 @@ msgid "Signature"
 msgstr "Signatur"
 
 msgid "Signature name"
-msgstr ""
+msgstr "Signaturname"
 
 msgid "Signatures"
 msgstr "Signaturen"
@@ -1271,7 +1272,7 @@ msgid "Size of image"
 msgstr "Bildgröße"
 
 msgid "Sort"
-msgstr ""
+msgstr "Sortieren"
 
 msgid "Sort elements"
 msgstr "Elemente sortieren"
@@ -1430,13 +1431,13 @@ msgid "Total"
 msgstr "Gesamt"
 
 msgid "Trace"
-msgstr ""
+msgstr "Verfolgen"
 
 msgid "Trace into"
-msgstr ""
+msgstr "Verfolgen in"
 
 msgid "Trace over"
-msgstr ""
+msgstr "Verfolgen über"
 
 msgid "Tree"
 msgstr "Verzeichnis"
@@ -1538,7 +1539,7 @@ msgid "Zeros"
 msgstr "Nullen"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Zoomen"
 
 msgid "compressor"
 msgstr "Kompressor"
@@ -1572,11 +1573,3 @@ msgstr "Schutz"
 
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
