@@ -73,7 +73,7 @@ msgid "Appearance"
 msgstr "Apariencia"
 
 msgid "Application"
-msgstr "Aplicación"
+msgstr "Solicitud"
 
 msgid "Architecture"
 msgstr "Arquitectura"
