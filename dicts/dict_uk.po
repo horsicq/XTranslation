@@ -311,7 +311,7 @@ msgid "Cursor"
 msgstr "Курсор"
 
 msgid "Custom"
-msgstr ""
+msgstr "Користувацький"
 
 msgid "Custom database"
 msgstr "Користувацька БД"
@@ -461,10 +461,10 @@ msgid "External references"
 msgstr "Зовнішні посилання"
 
 msgid "Extra"
-msgstr ""
+msgstr "Екстра"
 
 msgid "Extra database"
-msgstr ""
+msgstr "Екстра база даних"
 
 msgid "Extract"
 msgstr "Витягнути"
@@ -512,7 +512,7 @@ msgid "Find"
 msgstr "Пошук"
 
 msgid "First"
-msgstr ""
+msgstr "Перший"
 
 msgid "Fix offsets"
 msgstr "Виправити зміщення"
@@ -623,13 +623,13 @@ msgid "Heuristic scan"
 msgstr "Евристичне сканування"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "Евристика"
 
 msgid "Hex"
 msgstr "Hex"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "Приховати невідомі"
 
 msgid "Highlight"
 msgstr "Виділяти"
@@ -722,7 +722,7 @@ msgid "Language"
 msgstr "Мова"
 
 msgid "Last"
-msgstr ""
+msgstr "Останній"
 
 msgid "Lazy binding"
 msgstr "Лінива прив'язка"
@@ -740,7 +740,7 @@ msgid "Library name"
 msgstr "Назва бібліотеки"
 
 msgid "Licensing"
-msgstr ""
+msgstr "Ліцензування"
 
 msgid "Linker"
 msgstr "Лінкер"
@@ -755,7 +755,7 @@ msgid "Load config"
 msgstr "Завантажувана конфігурація"
 
 msgid "Loader"
-msgstr ""
+msgstr "Лоадер"
 
 msgid "Local relocation"
 msgstr "Локальна релокація"
@@ -770,7 +770,7 @@ msgid "MB"
 msgstr "МБ"
 
 msgid "Main"
-msgstr ""
+msgstr "Головний"
 
 msgid "Main module"
 msgstr "Головний модуль"
@@ -785,19 +785,19 @@ msgid "Manifest"
 msgstr "Маніфест"
 
 msgid "Map"
-msgstr ""
+msgstr "Карта"
 
 msgid "Maps"
-msgstr ""
+msgstr "Карти"
 
 msgid "Mask"
-msgstr ""
+msgstr "Маска"
 
 msgid "Match case"
 msgstr "Враховувати регістр"
 
 msgid "Matches"
-msgstr ""
+msgstr "Співпадіння"
 
 msgid "Maximum"
 msgstr "Максимум"
@@ -860,7 +860,7 @@ msgid "Next"
 msgstr "Далі"
 
 msgid "Next visited"
-msgstr ""
+msgstr "Наступний відвіданий"
 
 msgid "No"
 msgstr "Ні"
@@ -869,7 +869,7 @@ msgid "No update available"
 msgstr "Немає оновлень"
 
 msgid "None"
-msgstr ""
+msgstr "Жодне"
 
 msgid "Nothing found"
 msgstr "Нічого не знайдено"
@@ -947,7 +947,7 @@ msgid "Paused"
 msgstr "На паузі"
 
 msgid "Payload"
-msgstr ""
+msgstr "Пейлоад"
 
 msgid "Plain Text"
 msgstr "Простий Текст"
@@ -971,7 +971,7 @@ msgid "Pointer"
 msgstr "Вказівник"
 
 msgid "Previous visited"
-msgstr ""
+msgstr "Попередній відвіданий"
 
 msgid "Print"
 msgstr "Друкувати"
@@ -1082,7 +1082,7 @@ msgid "Result"
 msgstr "Результат"
 
 msgid "Rule name"
-msgstr ""
+msgstr "Назва правила"
 
 msgid "Rules"
 msgstr "Правила"
@@ -1091,7 +1091,7 @@ msgid "Run"
 msgstr "Запустити"
 
 msgid "Run path"
-msgstr ""
+msgstr "Шлях виконання"
 
 msgid "Running"
 msgstr "Запущено"
@@ -1133,7 +1133,7 @@ msgid "Scan after open"
 msgstr "Сканування після відкриття"
 
 msgid "Scan engine"
-msgstr ""
+msgstr "Двигун сканування"
 
 msgid "Scan for IAT"
 msgstr "Сканування IAT"
@@ -1154,19 +1154,19 @@ msgid "Search from"
 msgstr "Пошук з"
 
 msgid "Search signature"
-msgstr ""
+msgstr "Пошук сигнатури"
 
 msgid "Search signatures"
 msgstr "Пошук сигнатур"
 
 msgid "Search string"
-msgstr ""
+msgstr "Пошук рядку"
 
 msgid "Search strings"
 msgstr "Пошук рядків"
 
 msgid "Search value"
-msgstr ""
+msgstr "Пошук значення"
 
 msgid "Search values"
 msgstr "Пошук значень"
@@ -1247,7 +1247,7 @@ msgid "Signature"
 msgstr "Сигнатура"
 
 msgid "Signature name"
-msgstr ""
+msgstr "Назва сигнатури"
 
 msgid "Signatures"
 msgstr "Сигнатури"
@@ -1265,7 +1265,7 @@ msgid "Size of image"
 msgstr "Розмір образу"
 
 msgid "Sort"
-msgstr ""
+msgstr "Сортування"
 
 msgid "Sort elements"
 msgstr "Сортувати елементи"
@@ -1532,7 +1532,7 @@ msgid "Zeros"
 msgstr "Нулі"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Збільшити"
 
 msgid "compressor"
 msgstr "Пакувальник"
