@@ -56,7 +56,7 @@ msgid "Advanced"
 msgstr "Fortgeschritten"
 
 msgid "Aggressive scan"
-msgstr "Aggressiver Scan"
+msgstr ""
 
 msgid "Algorithm"
 msgstr "Algorithmus"
@@ -98,7 +98,7 @@ msgid "Array"
 msgstr "Array"
 
 msgid "Arrows"
-msgstr "Pfeile"
+msgstr ""
 
 msgid "Attach"
 msgstr "Anfügen"
@@ -128,7 +128,7 @@ msgid "Binding"
 msgstr "Bindung"
 
 msgid "Bits"
-msgstr "Bits"
+msgstr ""
 
 msgid "Block size"
 msgstr "Blockgröße"
@@ -194,7 +194,7 @@ msgid "Cannot find file"
 msgstr "Datei kann nicht gefunden werden"
 
 msgid "Cannot fix dump file"
-msgstr "Dump-Datei kann nicht repariert werden"
+msgstr ""
 
 msgid "Cannot get PDB age"
 msgstr "PDB-Alter kann nicht abgerufen werden"
@@ -629,7 +629,7 @@ msgid "Heuristic scan"
 msgstr "Heuristischer Scan"
 
 msgid "Heuristics"
-msgstr "Heuristiken"
+msgstr ""
 
 msgid "Hex"
 msgstr "Hex"
@@ -689,7 +689,7 @@ msgid "Invalid font"
 msgstr "Ungültige Schriftart"
 
 msgid "Invalid handle"
-msgstr "Ungültiger Handle"
+msgstr ""
 
 msgid "Invalid offset"
 msgstr "Ungültiger Offset"
@@ -746,7 +746,7 @@ msgid "Library name"
 msgstr "Bibliotheksname"
 
 msgid "Licensing"
-msgstr "Lizenzierung"
+msgstr ""
 
 msgid "Linker"
 msgstr "Linker"
@@ -803,7 +803,7 @@ msgid "Match case"
 msgstr "Übereinstimmung"
 
 msgid "Matches"
-msgstr "Übereinstimmung"
+msgstr ""
 
 msgid "Maximum"
 msgstr "Maximum"
@@ -944,7 +944,7 @@ msgid "Packer"
 msgstr "Packer"
 
 msgid "Patch"
-msgstr "Patch"
+msgstr ""
 
 msgid "Pause"
 msgstr "Pause"
@@ -953,7 +953,7 @@ msgid "Paused"
 msgstr "Pausiert"
 
 msgid "Payload"
-msgstr "Payload"
+msgstr ""
 
 msgid "Plain Text"
 msgstr "Klartext"
@@ -1052,7 +1052,7 @@ msgid "Registers"
 msgstr "Registers"
 
 msgid "Regular expression"
-msgstr "Regulärer Ausdruck"
+msgstr ""
 
 msgid "Relative address"
 msgstr "Relative Adresse"
@@ -1097,7 +1097,7 @@ msgid "Run"
 msgstr "Ausführen"
 
 msgid "Run path"
-msgstr "Ausführpfad"
+msgstr ""
 
 msgid "Running"
 msgstr "Wird ausgeführt"
@@ -1167,13 +1167,13 @@ msgid "Search signatures"
 msgstr "Suche Signaturen"
 
 msgid "Search string"
-msgstr "Suche String"
+msgstr ""
 
 msgid "Search strings"
 msgstr "Suche Strings"
 
 msgid "Search value"
-msgstr "Suche Wert"
+msgstr ""
 
 msgid "Search values"
 msgstr "Suche Werte"
