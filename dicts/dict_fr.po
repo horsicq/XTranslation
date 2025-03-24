@@ -1,10 +1,17 @@
 msgid ""
 msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr_FR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: fr_FR\n"
+"X-Generator: Poedit 3.4.2\n"
 
 msgid "128-bit"
 msgstr "128 bits"
@@ -85,13 +92,13 @@ msgid "Archive record"
 msgstr "Historique de l'archive"
 
 msgid "Are you sure?"
-msgstr ""
+msgstr "Es-tu sûr?"
 
 msgid "Array"
 msgstr "Déployer"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Flèches"
 
 msgid "Attach"
 msgstr "Attacher"
@@ -1565,7 +1572,3 @@ msgstr "protection"
 
 msgid "true"
 msgstr ""
-
-
-
-
