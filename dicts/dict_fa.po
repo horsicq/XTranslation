@@ -67,6 +67,9 @@ msgstr "همه فرمت ها"
 msgid "Analyze"
 msgstr "انالیز"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr ""
 
@@ -85,9 +88,6 @@ msgstr "ارشیو"
 msgid "Archive record"
 msgstr "ارشیو رکورد"
 
-msgid "Are you sure?"
-msgstr "آیا مطمئن هستید؟"
-
 msgid "Array"
 msgstr "ارایه"
 
@@ -100,11 +100,17 @@ msgstr "ضمیمه کردن"
 msgid "Audio"
 msgstr "صدا"
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "خودکار"
 
 msgid "Background"
 msgstr "پس‌زمینه"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr ""
@@ -154,6 +160,9 @@ msgstr ""
 msgid "Bugreports"
 msgstr "گزارش باگ"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "بایت"
 
@@ -170,9 +179,6 @@ msgid "Calculate"
 msgstr "محاسبه"
 
 msgid "Callbacks"
-msgstr ""
-
-msgid "Calls"
 msgstr ""
 
 msgid "Callstack"
@@ -253,9 +259,6 @@ msgstr ""
 msgid "Close"
 msgstr "بستن"
 
-msgid "Code"
-msgstr ""
-
 msgid "Code pages"
 msgstr ""
 
@@ -274,8 +277,14 @@ msgstr "کامند ها"
 msgid "Comment"
 msgstr "کامنت"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "کامپایلر"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr ""
@@ -289,16 +298,22 @@ msgstr ""
 msgid "Converter"
 msgstr "مبدل"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "کپی"
 
 msgid "Copy as"
 msgstr "کپی به عنوان"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "شمارش"
 
-msgid "Create view model"
+msgid "Creator"
 msgstr ""
 
 msgid "Crypter"
@@ -324,9 +339,6 @@ msgstr ""
 
 msgid "Data in code"
 msgstr "دیتا در کد"
-
-msgid "Data inspector"
-msgstr ""
 
 msgid "Database"
 msgstr "دیتابیس"
@@ -381,6 +393,9 @@ msgstr "اسکن تجهیز"
 
 msgid "Diagram"
 msgstr "نمودار"
+
+msgid "Dialog"
+msgstr ""
 
 msgid "Directory"
 msgstr "دایرکتوری"
@@ -455,6 +470,9 @@ msgid "Export File Name"
 msgstr ""
 
 msgid "Export type"
+msgstr ""
+
+msgid "Extender"
 msgstr ""
 
 msgid "External references"
@@ -547,6 +565,12 @@ msgstr "فرم"
 msgid "Format"
 msgstr "فرمت"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr "تمام صفحه"
 
@@ -569,9 +593,6 @@ msgid "Generic"
 msgstr ""
 
 msgid "Get"
-msgstr ""
-
-msgid "Get IAT"
 msgstr ""
 
 msgid "Get element"
@@ -661,6 +682,9 @@ msgstr "اطلاعات"
 msgid "Input"
 msgstr "ورودی"
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "نصب کننده"
 
@@ -675,9 +699,6 @@ msgstr "مفسر"
 
 msgid "Invalid"
 msgstr "نامعتبر"
-
-msgid "Invalid address of entry point"
-msgstr ""
 
 msgid "Invalid font"
 msgstr ""
@@ -703,20 +724,11 @@ msgstr ""
 msgid "Joiner"
 msgstr "اتصال دهنده"
 
-msgid "Jumps"
-msgstr "پرش ها"
-
 msgid "Keep size"
 msgstr "سایز را نگه دار"
 
 msgid "KiB"
 msgstr ""
-
-msgid "Label"
-msgstr "برچسب"
-
-msgid "Labels"
-msgstr "برچسب ها"
 
 msgid "Language"
 msgstr "زبان"
@@ -750,6 +762,9 @@ msgstr "لینک ها"
 
 msgid "List"
 msgstr "لیست"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "لود کانفیگ"
@@ -877,14 +892,14 @@ msgstr "چیزی پیدا نشد"
 msgid "Null-terminated"
 msgstr ""
 
-msgid "Number"
-msgstr "عدد"
-
 msgid "Numbers"
 msgstr "اعداد"
 
 msgid "OK"
 msgstr "باشه"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "شئ"
@@ -949,6 +964,9 @@ msgstr ""
 msgid "Payload"
 msgstr ""
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -970,6 +988,9 @@ msgstr "کلید API معتبر نیست"
 msgid "Pointer"
 msgstr "اشاره گر"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr ""
 
@@ -977,6 +998,9 @@ msgid "Print"
 msgstr "چاپ"
 
 msgid "Process"
+msgstr ""
+
+msgid "Producer"
 msgstr ""
 
 msgid "Profiling"
@@ -1022,12 +1046,6 @@ msgid "Recursive"
 msgstr "بازگشتی"
 
 msgid "Recursive scan"
-msgstr ""
-
-msgid "Ref from"
-msgstr ""
-
-msgid "Ref to"
 msgstr ""
 
 msgid "References"
@@ -1133,9 +1151,6 @@ msgid "Scan after open"
 msgstr "اسکن بعد از باز کردن"
 
 msgid "Scan engine"
-msgstr ""
-
-msgid "Scan for IAT"
 msgstr ""
 
 msgid "Schema"
@@ -1345,6 +1360,9 @@ msgstr "جدول سمبل"
 msgid "Symbols"
 msgstr "سمبل ها"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "سینتکس"
 
@@ -1406,9 +1424,6 @@ msgid "Time"
 msgstr "زمان"
 
 msgid "Time date stamp"
-msgstr ""
-
-msgid "To data"
 msgstr ""
 
 msgid "Toggle"
@@ -1513,6 +1528,9 @@ msgstr "ویروس"
 msgid "Visualization"
 msgstr "مجازی سازی"
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "اتصال ضعیف"
 
@@ -1534,9 +1552,6 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
-msgid "compressor"
-msgstr "کمپرسور"
-
 msgid "data"
 msgstr "دیتا"
 
@@ -1555,17 +1570,16 @@ msgstr "میلی‌ثانیه"
 msgid "not packed"
 msgstr "پک نشده"
 
-msgid "obfuscator"
-msgstr "مبهم ساز"
-
 msgid "packed"
 msgstr "پک شده"
 
-msgid "protection"
-msgstr "حفاظت"
-
 msgid "true"
 msgstr "صحیح"
+
+
+
+
+
 
 
 

@@ -66,6 +66,9 @@ msgstr "Semua jenis"
 msgid "Analyze"
 msgstr "Analisa"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr ""
 
@@ -84,9 +87,6 @@ msgstr "Arsip"
 msgid "Archive record"
 msgstr "Catatan arsip"
 
-msgid "Are you sure?"
-msgstr "Apakah anda yakin?"
-
 msgid "Array"
 msgstr "Himpunan"
 
@@ -99,11 +99,17 @@ msgstr "Menempel"
 msgid "Audio"
 msgstr ""
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "Otomatis"
 
 msgid "Background"
 msgstr "Latar belakang"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr "Alamat dasar"
@@ -153,6 +159,9 @@ msgstr ""
 msgid "Bugreports"
 msgstr "laporan bug"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "Byte"
 
@@ -170,9 +179,6 @@ msgstr "Hitung"
 
 msgid "Callbacks"
 msgstr "Panggilan balik"
-
-msgid "Calls"
-msgstr "Panggil"
 
 msgid "Callstack"
 msgstr ""
@@ -252,9 +258,6 @@ msgstr "Bersihkan hasil"
 msgid "Close"
 msgstr "Tutup"
 
-msgid "Code"
-msgstr "Kode"
-
 msgid "Code pages"
 msgstr "Halaman kode"
 
@@ -273,8 +276,14 @@ msgstr "Perintah"
 msgid "Comment"
 msgstr "Komentar"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "Penyusun"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr "Kondisional"
@@ -288,17 +297,23 @@ msgstr ""
 msgid "Converter"
 msgstr "Konverter"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "Salin"
 
 msgid "Copy as"
 msgstr "Salin sebagai"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "Hitung"
 
-msgid "Create view model"
-msgstr "Buat model tampilan"
+msgid "Creator"
+msgstr ""
 
 msgid "Crypter"
 msgstr ""
@@ -323,9 +338,6 @@ msgstr "Konverter data"
 
 msgid "Data in code"
 msgstr "Data dalam kode"
-
-msgid "Data inspector"
-msgstr "Pemeriksa data"
 
 msgid "Database"
 msgstr "Basis data"
@@ -379,6 +391,9 @@ msgid "Device scan"
 msgstr "Pemindaian perangkat"
 
 msgid "Diagram"
+msgstr ""
+
+msgid "Dialog"
 msgstr ""
 
 msgid "Directory"
@@ -455,6 +470,9 @@ msgstr "Ekspor Nama File"
 
 msgid "Export type"
 msgstr "Jenis ekspor"
+
+msgid "Extender"
+msgstr ""
 
 msgid "External references"
 msgstr "Referensi eksternal"
@@ -546,6 +564,12 @@ msgstr "Membentuk"
 msgid "Format"
 msgstr "Format"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr "Layar penuh"
 
@@ -568,9 +592,6 @@ msgid "Generic"
 msgstr "Generik"
 
 msgid "Get"
-msgstr ""
-
-msgid "Get IAT"
 msgstr ""
 
 msgid "Get element"
@@ -660,6 +681,9 @@ msgstr "Informasi"
 msgid "Input"
 msgstr ""
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "Pemasang"
 
@@ -674,9 +698,6 @@ msgstr "Penerjemah"
 
 msgid "Invalid"
 msgstr "Tidak valid"
-
-msgid "Invalid address of entry point"
-msgstr ""
 
 msgid "Invalid font"
 msgstr ""
@@ -702,20 +723,11 @@ msgstr "Penerbit"
 msgid "Joiner"
 msgstr "Penggabung"
 
-msgid "Jumps"
-msgstr "Lompat"
-
 msgid "Keep size"
 msgstr "Pertahankan ukuran"
 
 msgid "KiB"
 msgstr ""
-
-msgid "Label"
-msgstr "Label"
-
-msgid "Labels"
-msgstr "Label"
 
 msgid "Language"
 msgstr "Bahasa"
@@ -749,6 +761,9 @@ msgstr "Tautan"
 
 msgid "List"
 msgstr "Daftar"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "Muat konfigurasi"
@@ -876,14 +891,14 @@ msgstr "Tidak ada yang ditemukan"
 msgid "Null-terminated"
 msgstr ""
 
-msgid "Number"
-msgstr "Nomor"
-
 msgid "Numbers"
 msgstr "Nomor"
 
 msgid "OK"
 msgstr "OK"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "Obyek"
@@ -948,6 +963,9 @@ msgstr "Dijeda"
 msgid "Payload"
 msgstr ""
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -969,6 +987,9 @@ msgstr "Mohon gunakan kunci API yang valid"
 msgid "Pointer"
 msgstr "penunjuk"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr ""
 
@@ -977,6 +998,9 @@ msgstr "Mencetak"
 
 msgid "Process"
 msgstr "Proses"
+
+msgid "Producer"
+msgstr ""
 
 msgid "Profiling"
 msgstr ""
@@ -1022,12 +1046,6 @@ msgstr "Rekursif"
 
 msgid "Recursive scan"
 msgstr "Pemindaian rekursif"
-
-msgid "Ref from"
-msgstr "Formulir ref"
-
-msgid "Ref to"
-msgstr "Ref ke"
 
 msgid "References"
 msgstr "Referensi"
@@ -1132,9 +1150,6 @@ msgid "Scan after open"
 msgstr "Pindai setelah buka"
 
 msgid "Scan engine"
-msgstr ""
-
-msgid "Scan for IAT"
 msgstr ""
 
 msgid "Schema"
@@ -1344,6 +1359,9 @@ msgstr "Tabel simbol"
 msgid "Symbols"
 msgstr "Simbol"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "Sintaksis"
 
@@ -1406,9 +1424,6 @@ msgstr "Waktu"
 
 msgid "Time date stamp"
 msgstr "Stempel tanggal waktu"
-
-msgid "To data"
-msgstr "Ke data"
 
 msgid "Toggle"
 msgstr "Beralih"
@@ -1512,6 +1527,9 @@ msgstr ""
 msgid "Visualization"
 msgstr "Visualisasi"
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "Ikatan lemah"
 
@@ -1533,9 +1551,6 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
-msgid "compressor"
-msgstr "Kompresor"
-
 msgid "data"
 msgstr "data"
 
@@ -1554,17 +1569,18 @@ msgstr "mdtk"
 msgid "not packed"
 msgstr "tidak dikemas"
 
-msgid "obfuscator"
-msgstr "obfuscator"
-
 msgid "packed"
 msgstr "dikemas"
 
-msgid "protection"
-msgstr "proteksi"
-
 msgid "true"
 msgstr ""
+
+
+
+
+
+
+
 
 
 

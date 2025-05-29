@@ -67,6 +67,9 @@ msgstr "Все типы"
 msgid "Analyze"
 msgstr "Анализировать"
 
+msgid "Analyzed"
+msgstr "Анализировано"
+
 msgid "Animate"
 msgstr "Анимация"
 
@@ -85,9 +88,6 @@ msgstr "Архив"
 msgid "Archive record"
 msgstr "Архивная запись"
 
-msgid "Are you sure?"
-msgstr "Вы уверены?"
-
 msgid "Array"
 msgstr "Массив"
 
@@ -100,11 +100,17 @@ msgstr "Прикрепить"
 msgid "Audio"
 msgstr "Аудио"
 
+msgid "Author"
+msgstr "Автор"
+
 msgid "Automatic"
 msgstr "Автоматически"
 
 msgid "Background"
 msgstr "Фон"
+
+msgid "Base"
+msgstr "База"
 
 msgid "Base address"
 msgstr "Базовый адрес"
@@ -154,6 +160,9 @@ msgstr "Размер буфера"
 msgid "Bugreports"
 msgstr "Сообщения об ошибках"
 
+msgid "Bundle"
+msgstr "Пакет"
+
 msgid "Byte"
 msgstr "Байт"
 
@@ -171,9 +180,6 @@ msgstr "Вычислить"
 
 msgid "Callbacks"
 msgstr "Обратные вызовы"
-
-msgid "Calls"
-msgstr "Вызовы"
 
 msgid "Callstack"
 msgstr "Стек вызовов"
@@ -253,9 +259,6 @@ msgstr "Очистить результат"
 msgid "Close"
 msgstr "Закрыть"
 
-msgid "Code"
-msgstr "Код"
-
 msgid "Code pages"
 msgstr "Кодовые страницы"
 
@@ -274,8 +277,14 @@ msgstr "Команды"
 msgid "Comment"
 msgstr "Комментарий"
 
+msgid "Compact"
+msgstr "Компактный"
+
 msgid "Compiler"
 msgstr "Компилятор"
+
+msgid "Compressor"
+msgstr "Компрессор"
 
 msgid "Conditional"
 msgstr "Условный"
@@ -289,17 +298,23 @@ msgstr "Управление"
 msgid "Converter"
 msgstr "Конвертер"
 
+msgid "Convertor"
+msgstr "Конвертер"
+
 msgid "Copy"
 msgstr "Копировать"
 
 msgid "Copy as"
 msgstr "Копировать как"
 
+msgid "Corrupted data"
+msgstr "Поврежденные данные"
+
 msgid "Count"
 msgstr "Число"
 
-msgid "Create view model"
-msgstr "Создать модель вида"
+msgid "Creator"
+msgstr "Создатель"
 
 msgid "Crypter"
 msgstr "Шифровальщик"
@@ -324,9 +339,6 @@ msgstr "Конвертер данных"
 
 msgid "Data in code"
 msgstr "Данные в коде"
-
-msgid "Data inspector"
-msgstr "Инспектор данных"
 
 msgid "Database"
 msgstr "База данных"
@@ -381,6 +393,9 @@ msgstr "Скан устройства"
 
 msgid "Diagram"
 msgstr "Диаграмма"
+
+msgid "Dialog"
+msgstr "Диалог"
 
 msgid "Directory"
 msgstr "Папка"
@@ -456,6 +471,9 @@ msgstr "Имя файла экспорта"
 
 msgid "Export type"
 msgstr "Тип экспорта"
+
+msgid "Extender"
+msgstr "Расширитель"
 
 msgid "External references"
 msgstr "Внешние ссылки"
@@ -547,6 +565,12 @@ msgstr "Форма"
 msgid "Format"
 msgstr "Формат"
 
+msgid "Format result"
+msgstr "Результат форматирования"
+
+msgid "Full"
+msgstr "Полный"
+
 msgid "Full screen"
 msgstr "Полный экран"
 
@@ -570,9 +594,6 @@ msgstr "Обобщенный"
 
 msgid "Get"
 msgstr "Получить"
-
-msgid "Get IAT"
-msgstr "Получить IAT"
 
 msgid "Get element"
 msgstr "Получить элемент"
@@ -661,6 +682,9 @@ msgstr "Информация"
 msgid "Input"
 msgstr "Ввод"
 
+msgid "Inspector"
+msgstr "Инспектор"
+
 msgid "Installer"
 msgstr "Установщик"
 
@@ -675,9 +699,6 @@ msgstr "Интерпретатор"
 
 msgid "Invalid"
 msgstr "Неверный"
-
-msgid "Invalid address of entry point"
-msgstr "Неверный адрес точки входа"
 
 msgid "Invalid font"
 msgstr "Неверный шрифт"
@@ -703,20 +724,11 @@ msgstr "Эмитент"
 msgid "Joiner"
 msgstr "Джойнер"
 
-msgid "Jumps"
-msgstr "Переходы"
-
 msgid "Keep size"
 msgstr "Сохранять размер"
 
 msgid "KiB"
 msgstr "КиБ"
-
-msgid "Label"
-msgstr "Метка"
-
-msgid "Labels"
-msgstr "Метки"
 
 msgid "Language"
 msgstr "Язык"
@@ -750,6 +762,9 @@ msgstr "Линки"
 
 msgid "List"
 msgstr "Список"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "Загрузочный конфиг"
@@ -877,14 +892,14 @@ msgstr "Ничего не найдено"
 msgid "Null-terminated"
 msgstr "Завершен с Null"
 
-msgid "Number"
-msgstr "Номер"
-
 msgid "Numbers"
 msgstr "Номера"
 
 msgid "OK"
 msgstr "ОК"
+
+msgid "Obfuscator"
+msgstr "Обфускатор"
 
 msgid "Object"
 msgstr "Объект"
@@ -949,6 +964,9 @@ msgstr "На паузе"
 msgid "Payload"
 msgstr "Полезная нагрузка"
 
+msgid "Personal data"
+msgstr "Персональные данные"
+
 msgid "Plain Text"
 msgstr "Простой Текст"
 
@@ -970,6 +988,9 @@ msgstr "Пожалуйста, используйте действительны�
 msgid "Pointer"
 msgstr "Указатель"
 
+msgid "Position"
+msgstr "Позиция"
+
 msgid "Previous visited"
 msgstr "Предыдущий посещённый"
 
@@ -978,6 +999,9 @@ msgstr "Распечатать"
 
 msgid "Process"
 msgstr "Процесс"
+
+msgid "Producer"
+msgstr "Производитель"
 
 msgid "Profiling"
 msgstr "Профайлинг"
@@ -1023,12 +1047,6 @@ msgstr "Рекурсивно"
 
 msgid "Recursive scan"
 msgstr "Рекурсивный скан"
-
-msgid "Ref from"
-msgstr "Ссылка из"
-
-msgid "Ref to"
-msgstr "Ссылка в"
 
 msgid "References"
 msgstr "Упоминания"
@@ -1134,9 +1152,6 @@ msgstr "Сразу сканировать"
 
 msgid "Scan engine"
 msgstr "Механизм сканирования"
-
-msgid "Scan for IAT"
-msgstr "Просканировать на IAT"
 
 msgid "Schema"
 msgstr "Схема"
@@ -1345,6 +1360,9 @@ msgstr "Таблица символов"
 msgid "Symbols"
 msgstr "Символы"
 
+msgid "Sync"
+msgstr "Синхронизация"
+
 msgid "Syntax"
 msgstr "Синтаксис"
 
@@ -1407,9 +1425,6 @@ msgstr "Время"
 
 msgid "Time date stamp"
 msgstr "Отметка времени"
-
-msgid "To data"
-msgstr "К данным"
 
 msgid "Toggle"
 msgstr "Переключать"
@@ -1513,6 +1528,9 @@ msgstr "Вирус"
 msgid "Visualization"
 msgstr "Визуализация"
 
+msgid "Warning"
+msgstr "Предупреждение"
+
 msgid "Weak binding"
 msgstr "Слабое связывание"
 
@@ -1534,9 +1552,6 @@ msgstr "Нули"
 msgid "Zoom"
 msgstr "Масштаб"
 
-msgid "compressor"
-msgstr "упаковщик"
-
 msgid "data"
 msgstr "данные"
 
@@ -1555,17 +1570,23 @@ msgstr "мс"
 msgid "not packed"
 msgstr "несжатый"
 
-msgid "obfuscator"
-msgstr "обфускатор"
-
 msgid "packed"
 msgstr "сжатый"
 
-msgid "protection"
-msgstr "защита"
-
 msgid "true"
 msgstr "истина"
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

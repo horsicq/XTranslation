@@ -66,6 +66,9 @@ msgstr "Tất cả các loại"
 msgid "Analyze"
 msgstr "Phân tích"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr "Hoạt ảnh"
 
@@ -84,9 +87,6 @@ msgstr "Lưu trữ"
 msgid "Archive record"
 msgstr "Bản ghi lưu trữ"
 
-msgid "Are you sure?"
-msgstr "Bạn có chắc chắn không?"
-
 msgid "Array"
 msgstr "Mảng"
 
@@ -99,11 +99,17 @@ msgstr "Gắn"
 msgid "Audio"
 msgstr "Âm thanh"
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "Tự động"
 
 msgid "Background"
 msgstr "Nền"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr "Địa chỉ gốc"
@@ -153,6 +159,9 @@ msgstr "Kích thước bộ đệm"
 msgid "Bugreports"
 msgstr "Báo cáo lỗi"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "Byte"
 
@@ -170,9 +179,6 @@ msgstr "Tính toán"
 
 msgid "Callbacks"
 msgstr "Gọi lại"
-
-msgid "Calls"
-msgstr "Cuộc gọi"
 
 msgid "Callstack"
 msgstr "Stack thực thi"
@@ -252,9 +258,6 @@ msgstr "Xóa kết quả"
 msgid "Close"
 msgstr "Đóng"
 
-msgid "Code"
-msgstr "Code"
-
 msgid "Code pages"
 msgstr "Những trang code"
 
@@ -273,8 +276,14 @@ msgstr "Lệnh"
 msgid "Comment"
 msgstr "Bình luận"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "Trình biên dịch"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr "Điều kiện"
@@ -288,17 +297,23 @@ msgstr "Điều khiển"
 msgid "Converter"
 msgstr "Bộ chuyển đổi"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "Sao chép"
 
 msgid "Copy as"
 msgstr "Sao chép dưới dạng"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "Đếm"
 
-msgid "Create view model"
-msgstr "Tạo mo6 hình quan sát"
+msgid "Creator"
+msgstr ""
 
 msgid "Crypter"
 msgstr "Trình mã hóa"
@@ -323,9 +338,6 @@ msgstr "Bộ chuyển đổi dữ liệu"
 
 msgid "Data in code"
 msgstr "Dữ liệu trong mã"
-
-msgid "Data inspector"
-msgstr "Trình thanh tra dữ liệu"
 
 msgid "Database"
 msgstr "Cơ sở dữ liệu"
@@ -380,6 +392,9 @@ msgstr "Quét thiết bị"
 
 msgid "Diagram"
 msgstr "Sơ đồ"
+
+msgid "Dialog"
+msgstr ""
 
 msgid "Directory"
 msgstr "Danh mục"
@@ -455,6 +470,9 @@ msgstr "Xuất tên tệp"
 
 msgid "Export type"
 msgstr "Loại xuất khẩu"
+
+msgid "Extender"
+msgstr ""
 
 msgid "External references"
 msgstr "Tài liệu tham khảo bên ngoài"
@@ -546,6 +564,12 @@ msgstr "Mẫu đơn"
 msgid "Format"
 msgstr "Sự sắp xếp"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr "Toàn màn hình"
 
@@ -569,9 +593,6 @@ msgstr "Chung"
 
 msgid "Get"
 msgstr "Lấy"
-
-msgid "Get IAT"
-msgstr "Lấy IAT"
 
 msgid "Get element"
 msgstr "Nhận phần tử"
@@ -660,6 +681,9 @@ msgstr "Thông tin"
 msgid "Input"
 msgstr "Đầu vào"
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "Trình cài đặt"
 
@@ -674,9 +698,6 @@ msgstr "Thông dịch viên"
 
 msgid "Invalid"
 msgstr "Không hợp lệ"
-
-msgid "Invalid address of entry point"
-msgstr ""
 
 msgid "Invalid font"
 msgstr "Phông chữ không hợp lệ"
@@ -702,20 +723,11 @@ msgstr "Người phát hành"
 msgid "Joiner"
 msgstr "Trình kết hợp"
 
-msgid "Jumps"
-msgstr "Nhảy"
-
 msgid "Keep size"
 msgstr "Giữ nguyên kích thước"
 
 msgid "KiB"
 msgstr "KiB"
-
-msgid "Label"
-msgstr "Nhãn"
-
-msgid "Labels"
-msgstr "Nhãn"
 
 msgid "Language"
 msgstr "Ngôn ngữ"
@@ -749,6 +761,9 @@ msgstr "Liên kết"
 
 msgid "List"
 msgstr "Danh sách"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "Tải cấu hình"
@@ -876,14 +891,14 @@ msgstr "Không kết quả"
 msgid "Null-terminated"
 msgstr "Kết thúc null"
 
-msgid "Number"
-msgstr "Chữ số"
-
 msgid "Numbers"
 msgstr "Chữ số"
 
 msgid "OK"
 msgstr "OK"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "Sự vật"
@@ -948,6 +963,9 @@ msgstr "Tạm dừng"
 msgid "Payload"
 msgstr ""
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "Văn bản thuần túy"
 
@@ -969,6 +987,9 @@ msgstr "Vui lòng sử dụng khóa API hợp lệ"
 msgid "Pointer"
 msgstr "Con trỏ"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr ""
 
@@ -977,6 +998,9 @@ msgstr "In"
 
 msgid "Process"
 msgstr "Xử lý"
+
+msgid "Producer"
+msgstr ""
 
 msgid "Profiling"
 msgstr "Lập hồ sơ"
@@ -1022,12 +1046,6 @@ msgstr "Đệ quy"
 
 msgid "Recursive scan"
 msgstr "Quét đệ quy"
-
-msgid "Ref from"
-msgstr "Tham khảo từ"
-
-msgid "Ref to"
-msgstr "Tham khảo"
 
 msgid "References"
 msgstr "Tham khảo"
@@ -1133,9 +1151,6 @@ msgstr "Quét sau khi mở"
 
 msgid "Scan engine"
 msgstr ""
-
-msgid "Scan for IAT"
-msgstr "Quét tìm IAT"
 
 msgid "Schema"
 msgstr "Sơ đồ"
@@ -1344,6 +1359,9 @@ msgstr "Bảng ký hiệu"
 msgid "Symbols"
 msgstr "Ký hiệu"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "Cú pháp"
 
@@ -1406,9 +1424,6 @@ msgstr "Thời gian"
 
 msgid "Time date stamp"
 msgstr "Dấu ngày tháng"
-
-msgid "To data"
-msgstr "Tới dữ liệu"
 
 msgid "Toggle"
 msgstr "Chuyển đổi"
@@ -1512,6 +1527,9 @@ msgstr "Vi-rút"
 msgid "Visualization"
 msgstr "Ảo hóa"
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "Ràng buộc yếu"
 
@@ -1533,9 +1551,6 @@ msgstr "Những số không"
 msgid "Zoom"
 msgstr ""
 
-msgid "compressor"
-msgstr "bộ nén"
-
 msgid "data"
 msgstr "dữ liệu"
 
@@ -1554,17 +1569,20 @@ msgstr "mili-giây"
 msgid "not packed"
 msgstr "không nén"
 
-msgid "obfuscator"
-msgstr "trình làm rối"
-
 msgid "packed"
 msgstr "nén"
 
-msgid "protection"
-msgstr "bảo vệ"
-
 msgid "true"
 msgstr "đúng"
+
+
+
+
+
+
+
+
+
 
 
 

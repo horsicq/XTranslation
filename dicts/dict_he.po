@@ -66,6 +66,9 @@ msgstr "כל הסוגים"
 msgid "Analyze"
 msgstr "אבחן"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr "הנפשה"
 
@@ -84,9 +87,6 @@ msgstr "ארכיון"
 msgid "Archive record"
 msgstr "רשומה"
 
-msgid "Are you sure?"
-msgstr "האם אתה בטוח?"
-
 msgid "Array"
 msgstr "מַעֲרָך"
 
@@ -99,11 +99,17 @@ msgstr "לְצַרֵף"
 msgid "Audio"
 msgstr "אודיו"
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "אוֹטוֹמָטִי"
 
 msgid "Background"
 msgstr "רקע"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr "כתובת בסיס"
@@ -153,6 +159,9 @@ msgstr ""
 msgid "Bugreports"
 msgstr "דיווחי שגיאות"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "בית"
 
@@ -170,9 +179,6 @@ msgstr "חשב"
 
 msgid "Callbacks"
 msgstr "שיחות חזרה"
-
-msgid "Calls"
-msgstr "קריאות"
 
 msgid "Callstack"
 msgstr ""
@@ -252,9 +258,6 @@ msgstr ""
 msgid "Close"
 msgstr "סגור"
 
-msgid "Code"
-msgstr ""
-
 msgid "Code pages"
 msgstr ""
 
@@ -273,8 +276,14 @@ msgstr "פקודות"
 msgid "Comment"
 msgstr "תגובה"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "מהדר"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr ""
@@ -288,17 +297,23 @@ msgstr ""
 msgid "Converter"
 msgstr "ממיר"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "העתק"
 
 msgid "Copy as"
 msgstr "העתק בשם"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "ספירה"
 
-msgid "Create view model"
-msgstr "צור מודל תצוגה"
+msgid "Creator"
+msgstr ""
 
 msgid "Crypter"
 msgstr ""
@@ -323,9 +338,6 @@ msgstr ""
 
 msgid "Data in code"
 msgstr "נתונים בקוד"
-
-msgid "Data inspector"
-msgstr ""
 
 msgid "Database"
 msgstr "מסד נתונים"
@@ -379,6 +391,9 @@ msgid "Device scan"
 msgstr "סריקת התקן"
 
 msgid "Diagram"
+msgstr ""
+
+msgid "Dialog"
 msgstr ""
 
 msgid "Directory"
@@ -455,6 +470,9 @@ msgstr "ייצא שם קובץ"
 
 msgid "Export type"
 msgstr "סוג ייצוא"
+
+msgid "Extender"
+msgstr ""
 
 msgid "External references"
 msgstr "הפניות חיצוניות"
@@ -546,6 +564,12 @@ msgstr "טופס"
 msgid "Format"
 msgstr "פורמט"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr ""
 
@@ -568,9 +592,6 @@ msgid "Generic"
 msgstr "כללי"
 
 msgid "Get"
-msgstr ""
-
-msgid "Get IAT"
 msgstr ""
 
 msgid "Get element"
@@ -660,6 +681,9 @@ msgstr "מידע"
 msgid "Input"
 msgstr ""
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "קובץ התקנה"
 
@@ -674,9 +698,6 @@ msgstr "מְתוּרגְמָן"
 
 msgid "Invalid"
 msgstr "לא תקין"
-
-msgid "Invalid address of entry point"
-msgstr ""
 
 msgid "Invalid font"
 msgstr ""
@@ -702,20 +723,11 @@ msgstr "מנפיק"
 msgid "Joiner"
 msgstr "מצמד"
 
-msgid "Jumps"
-msgstr "קפיצות"
-
 msgid "Keep size"
 msgstr ""
 
 msgid "KiB"
 msgstr ""
-
-msgid "Label"
-msgstr "תווית"
-
-msgid "Labels"
-msgstr "תוויות"
 
 msgid "Language"
 msgstr "שפה"
@@ -748,6 +760,9 @@ msgid "Links"
 msgstr ""
 
 msgid "List"
+msgstr ""
+
+msgid "Load"
 msgstr ""
 
 msgid "Load config"
@@ -876,14 +891,14 @@ msgstr "שום דבר לא נמצא"
 msgid "Null-terminated"
 msgstr ""
 
-msgid "Number"
-msgstr ""
-
 msgid "Numbers"
 msgstr ""
 
 msgid "OK"
 msgstr "אישור"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "לְהִתְנַגֵד"
@@ -948,6 +963,9 @@ msgstr ""
 msgid "Payload"
 msgstr ""
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -969,6 +987,9 @@ msgstr ""
 msgid "Pointer"
 msgstr "מַצבִּיעַ"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr ""
 
@@ -977,6 +998,9 @@ msgstr "הדפס"
 
 msgid "Process"
 msgstr "תהליך"
+
+msgid "Producer"
+msgstr ""
 
 msgid "Profiling"
 msgstr ""
@@ -1022,12 +1046,6 @@ msgstr "רקורסיבי"
 
 msgid "Recursive scan"
 msgstr "סריקה רקורסיבית"
-
-msgid "Ref from"
-msgstr "קישור מ"
-
-msgid "Ref to"
-msgstr "קישור אל"
 
 msgid "References"
 msgstr ""
@@ -1132,9 +1150,6 @@ msgid "Scan after open"
 msgstr "סרוק לאחר הפתיחה"
 
 msgid "Scan engine"
-msgstr ""
-
-msgid "Scan for IAT"
 msgstr ""
 
 msgid "Schema"
@@ -1344,6 +1359,9 @@ msgstr "טבלת סמלים"
 msgid "Symbols"
 msgstr "סמלים"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "תחביר"
 
@@ -1406,9 +1424,6 @@ msgstr ""
 
 msgid "Time date stamp"
 msgstr "חותמת תאריך זמן"
-
-msgid "To data"
-msgstr "לנתונים"
 
 msgid "Toggle"
 msgstr "לְמַתֵג"
@@ -1512,6 +1527,9 @@ msgstr ""
 msgid "Visualization"
 msgstr ""
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "כריכה חלשה"
 
@@ -1533,9 +1551,6 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
-msgid "compressor"
-msgstr "דוחס"
-
 msgid "data"
 msgstr "מידע"
 
@@ -1554,17 +1569,20 @@ msgstr "msec"
 msgid "not packed"
 msgstr "לא דחוס"
 
-msgid "obfuscator"
-msgstr "מערפל"
-
 msgid "packed"
 msgstr "דחוס"
 
-msgid "protection"
-msgstr "הגנה"
-
 msgid "true"
 msgstr ""
+
+
+
+
+
+
+
+
+
 
 
 

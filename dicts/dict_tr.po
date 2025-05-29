@@ -66,6 +66,9 @@ msgstr "Tüm türler"
 msgid "Analyze"
 msgstr "Analiz Et"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr "Canlandır"
 
@@ -84,9 +87,6 @@ msgstr "Arşiv"
 msgid "Archive record"
 msgstr "Arşiv kayıtları"
 
-msgid "Are you sure?"
-msgstr "Emin misiniz?"
-
 msgid "Array"
 msgstr "Dizi"
 
@@ -99,11 +99,17 @@ msgstr "Ekle"
 msgid "Audio"
 msgstr "Ses"
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "Otomatik"
 
 msgid "Background"
 msgstr "Arkaplan"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr "Temel adres"
@@ -153,6 +159,9 @@ msgstr "Arabellek boyu"
 msgid "Bugreports"
 msgstr "Hata raporları"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "Bayt"
 
@@ -170,9 +179,6 @@ msgstr "Hesapla"
 
 msgid "Callbacks"
 msgstr "Dönen çağrılar"
-
-msgid "Calls"
-msgstr "Çağrılar"
 
 msgid "Callstack"
 msgstr "Çağrı yığını"
@@ -252,9 +258,6 @@ msgstr "Sonucu temizle"
 msgid "Close"
 msgstr "Kapat"
 
-msgid "Code"
-msgstr "Kod"
-
 msgid "Code pages"
 msgstr "Kod sayfaları"
 
@@ -273,8 +276,14 @@ msgstr "Komutlar"
 msgid "Comment"
 msgstr "Yorum"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "Derleyici"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr "Koşullu"
@@ -288,17 +297,23 @@ msgstr "Kontroller"
 msgid "Converter"
 msgstr "Çevirici"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "Kopyala"
 
 msgid "Copy as"
 msgstr "Farklı kopyala"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "Say"
 
-msgid "Create view model"
-msgstr "Görünüm modeli oluştur"
+msgid "Creator"
+msgstr ""
 
 msgid "Crypter"
 msgstr "Crypter"
@@ -323,9 +338,6 @@ msgstr "Veri dönüştürücüsü"
 
 msgid "Data in code"
 msgstr "Koddaki veriler"
-
-msgid "Data inspector"
-msgstr "Veri denetçisi"
 
 msgid "Database"
 msgstr "Veritabanı"
@@ -380,6 +392,9 @@ msgstr "Aygıt tara"
 
 msgid "Diagram"
 msgstr "Diyagram"
+
+msgid "Dialog"
+msgstr ""
 
 msgid "Directory"
 msgstr "Dizin"
@@ -455,6 +470,9 @@ msgstr "Dosya Adını Dışa Aktar"
 
 msgid "Export type"
 msgstr "Dışa aktarma türü"
+
+msgid "Extender"
+msgstr ""
 
 msgid "External references"
 msgstr "Dış referanslar"
@@ -546,6 +564,12 @@ msgstr "Biçim"
 msgid "Format"
 msgstr "Biçem"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr "Tam ekran"
 
@@ -569,9 +593,6 @@ msgstr "Kapsamlı"
 
 msgid "Get"
 msgstr "Al"
-
-msgid "Get IAT"
-msgstr "IAT al"
 
 msgid "Get element"
 msgstr "Öğeyi al"
@@ -660,6 +681,9 @@ msgstr "Bilgilendirme"
 msgid "Input"
 msgstr "Girdi"
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "Yükleyici"
 
@@ -674,9 +698,6 @@ msgstr "Yorumlayıcı"
 
 msgid "Invalid"
 msgstr "Geçersiz"
-
-msgid "Invalid address of entry point"
-msgstr "Geçersiz entry point adresi"
 
 msgid "Invalid font"
 msgstr "Geçersiz yazı tipi"
@@ -702,20 +723,11 @@ msgstr "Sorunu bildiren"
 msgid "Joiner"
 msgstr "Ekleyici"
 
-msgid "Jumps"
-msgstr "Dallanmalar"
-
 msgid "Keep size"
 msgstr "Boyutu koru"
 
 msgid "KiB"
 msgstr "KiB"
-
-msgid "Label"
-msgstr "Etiket"
-
-msgid "Labels"
-msgstr "Etiketler"
 
 msgid "Language"
 msgstr "Dil"
@@ -749,6 +761,9 @@ msgstr "Bağlantılar"
 
 msgid "List"
 msgstr "Liste"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "Yapılandırmayı yükle"
@@ -876,14 +891,14 @@ msgstr "Hiçbirşey Bulunamadı"
 msgid "Null-terminated"
 msgstr "Null sonlandırılmış"
 
-msgid "Number"
-msgstr "Sayı"
-
 msgid "Numbers"
 msgstr "Sayılar"
 
 msgid "OK"
 msgstr "Tamam"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "Nesne"
@@ -948,6 +963,9 @@ msgstr "Duraklatıldı"
 msgid "Payload"
 msgstr "Payload"
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "Düz Metin"
 
@@ -969,6 +987,9 @@ msgstr "Lütfen geçerli bir API anahtarı kullanın"
 msgid "Pointer"
 msgstr "Göstergeç"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr "Önceki görülen"
 
@@ -977,6 +998,9 @@ msgstr "Yazdır"
 
 msgid "Process"
 msgstr "İşlem"
+
+msgid "Producer"
+msgstr ""
 
 msgid "Profiling"
 msgstr "Profilleme"
@@ -1022,12 +1046,6 @@ msgstr "Özyinelemeli"
 
 msgid "Recursive scan"
 msgstr "Özyinelemeli tarama"
-
-msgid "Ref from"
-msgstr "Referanstan"
-
-msgid "Ref to"
-msgstr "Referansa"
 
 msgid "References"
 msgstr "Referanslar"
@@ -1133,9 +1151,6 @@ msgstr "Açtıktan sonra tara"
 
 msgid "Scan engine"
 msgstr "Tarama motoru"
-
-msgid "Scan for IAT"
-msgstr "IAT için tara"
 
 msgid "Schema"
 msgstr "Şema"
@@ -1344,6 +1359,9 @@ msgstr "Sembol tablosu"
 msgid "Symbols"
 msgstr "Semboller"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "Sözdizimi"
 
@@ -1406,9 +1424,6 @@ msgstr "Zaman"
 
 msgid "Time date stamp"
 msgstr "Zaman tarih damgası"
-
-msgid "To data"
-msgstr "veriye"
 
 msgid "Toggle"
 msgstr "Aç/Kapat"
@@ -1512,6 +1527,9 @@ msgstr "Virüs"
 msgid "Visualization"
 msgstr "Görselleştirme"
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "Zayıf bağlama"
 
@@ -1533,9 +1551,6 @@ msgstr "Sıfırlar"
 msgid "Zoom"
 msgstr "Yaklaştır"
 
-msgid "compressor"
-msgstr "sıkıştırıcı"
-
 msgid "data"
 msgstr "veri"
 
@@ -1554,17 +1569,21 @@ msgstr "msec"
 msgid "not packed"
 msgstr "paketlenmemiş"
 
-msgid "obfuscator"
-msgstr "karıştırıcı"
-
 msgid "packed"
 msgstr "paketlenmiş"
 
-msgid "protection"
-msgstr "koruma"
-
 msgid "true"
 msgstr "true"
+
+
+
+
+
+
+
+
+
+
 
 
 

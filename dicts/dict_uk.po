@@ -67,6 +67,9 @@ msgstr "Всі види"
 msgid "Analyze"
 msgstr "Аналізувати"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr "Анімувати"
 
@@ -85,9 +88,6 @@ msgstr "Архів"
 msgid "Archive record"
 msgstr "Архів запису"
 
-msgid "Are you sure?"
-msgstr "Ви впевнені?"
-
 msgid "Array"
 msgstr "Масив"
 
@@ -100,11 +100,17 @@ msgstr "Приєднати"
 msgid "Audio"
 msgstr "Аудіо"
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "Автоматично"
 
 msgid "Background"
 msgstr "Фон"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr "Базова адреса"
@@ -154,6 +160,9 @@ msgstr "Розмір буферу"
 msgid "Bugreports"
 msgstr "Звіти про помилки"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "Байт"
 
@@ -171,9 +180,6 @@ msgstr "Обрахувати"
 
 msgid "Callbacks"
 msgstr "Зворотні виклики"
-
-msgid "Calls"
-msgstr "Виклики"
 
 msgid "Callstack"
 msgstr "Стек викликів"
@@ -253,9 +259,6 @@ msgstr "Очистити результат"
 msgid "Close"
 msgstr "Закрити"
 
-msgid "Code"
-msgstr "Код"
-
 msgid "Code pages"
 msgstr "Кодові сторінки"
 
@@ -274,8 +277,14 @@ msgstr "Команди"
 msgid "Comment"
 msgstr "Коментар"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "Компілятор"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr "Умовний"
@@ -289,17 +298,23 @@ msgstr "Керування"
 msgid "Converter"
 msgstr "Конвертор"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "Копіювати"
 
 msgid "Copy as"
 msgstr "Копіювати як"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "Кількість"
 
-msgid "Create view model"
-msgstr "Створити модель виду"
+msgid "Creator"
+msgstr ""
 
 msgid "Crypter"
 msgstr "Шифрувальник"
@@ -324,9 +339,6 @@ msgstr "Конвертер даних"
 
 msgid "Data in code"
 msgstr "Дані в коді"
-
-msgid "Data inspector"
-msgstr "Інспектор даних"
 
 msgid "Database"
 msgstr "База даних"
@@ -381,6 +393,9 @@ msgstr "Сканування пристрою"
 
 msgid "Diagram"
 msgstr "Діаграма"
+
+msgid "Dialog"
+msgstr ""
 
 msgid "Directory"
 msgstr "Каталог"
@@ -456,6 +471,9 @@ msgstr "Назва файлу експорту"
 
 msgid "Export type"
 msgstr "Тип експорту"
+
+msgid "Extender"
+msgstr ""
 
 msgid "External references"
 msgstr "Зовнішні посилання"
@@ -547,6 +565,12 @@ msgstr "Форма"
 msgid "Format"
 msgstr "Формат"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr "Повноекранний"
 
@@ -570,9 +594,6 @@ msgstr "Узагальнене"
 
 msgid "Get"
 msgstr "Отримати"
-
-msgid "Get IAT"
-msgstr "Отримати IAT"
 
 msgid "Get element"
 msgstr "Отримати елемент"
@@ -661,6 +682,9 @@ msgstr "Інформація"
 msgid "Input"
 msgstr "Введення"
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "Інсталятор"
 
@@ -675,9 +699,6 @@ msgstr "Інтерпретатор"
 
 msgid "Invalid"
 msgstr "Невірний"
-
-msgid "Invalid address of entry point"
-msgstr "Недійсна адреса точки входу"
 
 msgid "Invalid font"
 msgstr "Невірний шрифт"
@@ -703,20 +724,11 @@ msgstr "Видавач"
 msgid "Joiner"
 msgstr "Джойнер"
 
-msgid "Jumps"
-msgstr "Переходи"
-
 msgid "Keep size"
 msgstr "Зберегти розмір"
 
 msgid "KiB"
 msgstr "КіБ"
-
-msgid "Label"
-msgstr "Мітка"
-
-msgid "Labels"
-msgstr "Мітки"
 
 msgid "Language"
 msgstr "Мова"
@@ -750,6 +762,9 @@ msgstr "Лінки"
 
 msgid "List"
 msgstr "Список"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "Завантажувана конфігурація"
@@ -877,14 +892,14 @@ msgstr "Нічого не знайдено"
 msgid "Null-terminated"
 msgstr "Нуль-терміновано"
 
-msgid "Number"
-msgstr "Номер"
-
 msgid "Numbers"
 msgstr "Номери"
 
 msgid "OK"
 msgstr "Гаразд"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "Об'єкт"
@@ -949,6 +964,9 @@ msgstr "На паузі"
 msgid "Payload"
 msgstr "Пейлоад"
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "Простий Текст"
 
@@ -970,6 +988,9 @@ msgstr "Прохання використовувати справжній API �
 msgid "Pointer"
 msgstr "Вказівник"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr "Попередній відвіданий"
 
@@ -978,6 +999,9 @@ msgstr "Друкувати"
 
 msgid "Process"
 msgstr "Процес"
+
+msgid "Producer"
+msgstr ""
 
 msgid "Profiling"
 msgstr "Профілювання"
@@ -1023,12 +1047,6 @@ msgstr "Рекурсивно"
 
 msgid "Recursive scan"
 msgstr "Рекурсивне сканування"
-
-msgid "Ref from"
-msgstr "Посилання з"
-
-msgid "Ref to"
-msgstr "Посилання до"
 
 msgid "References"
 msgstr "Посилання"
@@ -1134,9 +1152,6 @@ msgstr "Сканування після відкриття"
 
 msgid "Scan engine"
 msgstr "Двигун сканування"
-
-msgid "Scan for IAT"
-msgstr "Сканування IAT"
 
 msgid "Schema"
 msgstr "Схема"
@@ -1345,6 +1360,9 @@ msgstr "Таблиця символів"
 msgid "Symbols"
 msgstr "Символи"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "Синтаксис"
 
@@ -1407,9 +1425,6 @@ msgstr "Час"
 
 msgid "Time date stamp"
 msgstr "Часова відмітка"
-
-msgid "To data"
-msgstr "До даних"
 
 msgid "Toggle"
 msgstr "Перемикач"
@@ -1513,6 +1528,9 @@ msgstr "Вірус"
 msgid "Visualization"
 msgstr "Візуалізація"
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "Слабке зв'язування"
 
@@ -1534,9 +1552,6 @@ msgstr "Нулі"
 msgid "Zoom"
 msgstr "Збільшити"
 
-msgid "compressor"
-msgstr "Пакувальник"
-
 msgid "data"
 msgstr "дані"
 
@@ -1555,17 +1570,21 @@ msgstr "мс"
 msgid "not packed"
 msgstr "незапакований"
 
-msgid "obfuscator"
-msgstr "обфускатор"
-
 msgid "packed"
 msgstr "запакований"
 
-msgid "protection"
-msgstr "захист"
-
 msgid "true"
 msgstr "true"
+
+
+
+
+
+
+
+
+
+
 
 
 

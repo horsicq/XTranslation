@@ -66,6 +66,9 @@ msgstr ""
 msgid "Analyze"
 msgstr ""
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr ""
 
@@ -84,9 +87,6 @@ msgstr ""
 msgid "Archive record"
 msgstr ""
 
-msgid "Are you sure?"
-msgstr ""
-
 msgid "Array"
 msgstr ""
 
@@ -99,10 +99,16 @@ msgstr ""
 msgid "Audio"
 msgstr ""
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr ""
 
 msgid "Background"
+msgstr ""
+
+msgid "Base"
 msgstr ""
 
 msgid "Base address"
@@ -153,6 +159,9 @@ msgstr ""
 msgid "Bugreports"
 msgstr ""
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr ""
 
@@ -169,9 +178,6 @@ msgid "Calculate"
 msgstr ""
 
 msgid "Callbacks"
-msgstr ""
-
-msgid "Calls"
 msgstr ""
 
 msgid "Callstack"
@@ -252,9 +258,6 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
-msgid "Code"
-msgstr ""
-
 msgid "Code pages"
 msgstr ""
 
@@ -273,7 +276,13 @@ msgstr ""
 msgid "Comment"
 msgstr ""
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
+msgstr ""
+
+msgid "Compressor"
 msgstr ""
 
 msgid "Conditional"
@@ -288,16 +297,22 @@ msgstr ""
 msgid "Converter"
 msgstr ""
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr ""
 
 msgid "Copy as"
 msgstr ""
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr ""
 
-msgid "Create view model"
+msgid "Creator"
 msgstr ""
 
 msgid "Crypter"
@@ -322,9 +337,6 @@ msgid "Data convertor"
 msgstr ""
 
 msgid "Data in code"
-msgstr ""
-
-msgid "Data inspector"
 msgstr ""
 
 msgid "Database"
@@ -379,6 +391,9 @@ msgid "Device scan"
 msgstr ""
 
 msgid "Diagram"
+msgstr ""
+
+msgid "Dialog"
 msgstr ""
 
 msgid "Directory"
@@ -454,6 +469,9 @@ msgid "Export File Name"
 msgstr ""
 
 msgid "Export type"
+msgstr ""
+
+msgid "Extender"
 msgstr ""
 
 msgid "External references"
@@ -546,6 +564,12 @@ msgstr ""
 msgid "Format"
 msgstr ""
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr ""
 
@@ -568,9 +592,6 @@ msgid "Generic"
 msgstr ""
 
 msgid "Get"
-msgstr ""
-
-msgid "Get IAT"
 msgstr ""
 
 msgid "Get element"
@@ -660,6 +681,9 @@ msgstr ""
 msgid "Input"
 msgstr ""
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr ""
 
@@ -673,9 +697,6 @@ msgid "Interpreter"
 msgstr ""
 
 msgid "Invalid"
-msgstr ""
-
-msgid "Invalid address of entry point"
 msgstr ""
 
 msgid "Invalid font"
@@ -702,19 +723,10 @@ msgstr ""
 msgid "Joiner"
 msgstr ""
 
-msgid "Jumps"
-msgstr ""
-
 msgid "Keep size"
 msgstr ""
 
 msgid "KiB"
-msgstr ""
-
-msgid "Label"
-msgstr ""
-
-msgid "Labels"
 msgstr ""
 
 msgid "Language"
@@ -748,6 +760,9 @@ msgid "Links"
 msgstr ""
 
 msgid "List"
+msgstr ""
+
+msgid "Load"
 msgstr ""
 
 msgid "Load config"
@@ -876,13 +891,13 @@ msgstr ""
 msgid "Null-terminated"
 msgstr ""
 
-msgid "Number"
-msgstr ""
-
 msgid "Numbers"
 msgstr ""
 
 msgid "OK"
+msgstr ""
+
+msgid "Obfuscator"
 msgstr ""
 
 msgid "Object"
@@ -948,6 +963,9 @@ msgstr ""
 msgid "Payload"
 msgstr ""
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr ""
 
@@ -969,6 +987,9 @@ msgstr ""
 msgid "Pointer"
 msgstr ""
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr ""
 
@@ -976,6 +997,9 @@ msgid "Print"
 msgstr ""
 
 msgid "Process"
+msgstr ""
+
+msgid "Producer"
 msgstr ""
 
 msgid "Profiling"
@@ -1021,12 +1045,6 @@ msgid "Recursive"
 msgstr ""
 
 msgid "Recursive scan"
-msgstr ""
-
-msgid "Ref from"
-msgstr ""
-
-msgid "Ref to"
 msgstr ""
 
 msgid "References"
@@ -1132,9 +1150,6 @@ msgid "Scan after open"
 msgstr ""
 
 msgid "Scan engine"
-msgstr ""
-
-msgid "Scan for IAT"
 msgstr ""
 
 msgid "Schema"
@@ -1344,6 +1359,9 @@ msgstr ""
 msgid "Symbols"
 msgstr ""
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr ""
 
@@ -1405,9 +1423,6 @@ msgid "Time"
 msgstr ""
 
 msgid "Time date stamp"
-msgstr ""
-
-msgid "To data"
 msgstr ""
 
 msgid "Toggle"
@@ -1512,6 +1527,9 @@ msgstr ""
 msgid "Visualization"
 msgstr ""
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr ""
 
@@ -1533,9 +1551,6 @@ msgstr ""
 msgid "Zoom"
 msgstr ""
 
-msgid "compressor"
-msgstr ""
-
 msgid "data"
 msgstr ""
 
@@ -1554,13 +1569,7 @@ msgstr ""
 msgid "not packed"
 msgstr ""
 
-msgid "obfuscator"
-msgstr ""
-
 msgid "packed"
-msgstr ""
-
-msgid "protection"
 msgstr ""
 
 msgid "true"

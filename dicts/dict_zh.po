@@ -66,6 +66,9 @@ msgstr "所有类型"
 msgid "Analyze"
 msgstr "分析"
 
+msgid "Analyzed"
+msgstr "已分析"
+
 msgid "Animate"
 msgstr "动画"
 
@@ -84,9 +87,6 @@ msgstr "存档"
 msgid "Archive record"
 msgstr "存档记录"
 
-msgid "Are you sure?"
-msgstr "你确定吗？"
-
 msgid "Array"
 msgstr "数组"
 
@@ -99,11 +99,17 @@ msgstr "附加"
 msgid "Audio"
 msgstr "音频"
 
+msgid "Author"
+msgstr "作者"
+
 msgid "Automatic"
 msgstr "自动"
 
 msgid "Background"
 msgstr "背景"
+
+msgid "Base"
+msgstr "基址"
 
 msgid "Base address"
 msgstr "基址（BA）"
@@ -153,6 +159,9 @@ msgstr "缓存大小"
 msgid "Bugreports"
 msgstr "错误报告"
 
+msgid "Bundle"
+msgstr "包"
+
 msgid "Byte"
 msgstr "字节"
 
@@ -170,9 +179,6 @@ msgstr "计算"
 
 msgid "Callbacks"
 msgstr "回调"
-
-msgid "Calls"
-msgstr "调用"
 
 msgid "Callstack"
 msgstr "调用栈"
@@ -252,9 +258,6 @@ msgstr "清除结果"
 msgid "Close"
 msgstr "关闭"
 
-msgid "Code"
-msgstr "代码"
-
 msgid "Code pages"
 msgstr "代码页"
 
@@ -273,8 +276,14 @@ msgstr "指令"
 msgid "Comment"
 msgstr "注释"
 
+msgid "Compact"
+msgstr "紧凑"
+
 msgid "Compiler"
 msgstr "编译器"
+
+msgid "Compressor"
+msgstr "压缩器"
 
 msgid "Conditional"
 msgstr "条件"
@@ -288,17 +297,23 @@ msgstr "控件"
 msgid "Converter"
 msgstr "转换器"
 
+msgid "Convertor"
+msgstr "转换器"
+
 msgid "Copy"
 msgstr "复制"
 
 msgid "Copy as"
 msgstr "复制为"
 
+msgid "Corrupted data"
+msgstr "损坏的数据"
+
 msgid "Count"
 msgstr "计数"
 
-msgid "Create view model"
-msgstr "创建视图模型"
+msgid "Creator"
+msgstr "创建者"
 
 msgid "Crypter"
 msgstr "密码器"
@@ -323,9 +338,6 @@ msgstr "数据转换器"
 
 msgid "Data in code"
 msgstr "代码中的数据"
-
-msgid "Data inspector"
-msgstr "数据检查器"
 
 msgid "Database"
 msgstr "数据库"
@@ -380,6 +392,9 @@ msgstr "设备扫描"
 
 msgid "Diagram"
 msgstr "图解"
+
+msgid "Dialog"
+msgstr "对话框"
 
 msgid "Directory"
 msgstr "目录"
@@ -455,6 +470,9 @@ msgstr "导出文件名称"
 
 msgid "Export type"
 msgstr "导出类型"
+
+msgid "Extender"
+msgstr "扩展器"
 
 msgid "External references"
 msgstr "外部参考"
@@ -546,6 +564,12 @@ msgstr "表单"
 msgid "Format"
 msgstr "格式"
 
+msgid "Format result"
+msgstr "格式化结果"
+
+msgid "Full"
+msgstr "完整"
+
 msgid "Full screen"
 msgstr "全屏"
 
@@ -569,9 +593,6 @@ msgstr "通用"
 
 msgid "Get"
 msgstr "获取"
-
-msgid "Get IAT"
-msgstr "获取 IAT"
 
 msgid "Get element"
 msgstr "获取元素"
@@ -660,6 +681,9 @@ msgstr "信息"
 msgid "Input"
 msgstr "输入"
 
+msgid "Inspector"
+msgstr "检查器"
+
 msgid "Installer"
 msgstr "安装程序"
 
@@ -674,9 +698,6 @@ msgstr "解释器"
 
 msgid "Invalid"
 msgstr "无效"
-
-msgid "Invalid address of entry point"
-msgstr "入口点地址无效"
 
 msgid "Invalid font"
 msgstr "无效字体"
@@ -702,20 +723,11 @@ msgstr "发行人"
 msgid "Joiner"
 msgstr "合并工具"
 
-msgid "Jumps"
-msgstr "跳转"
-
 msgid "Keep size"
 msgstr "保持大小"
 
 msgid "KiB"
 msgstr "KiB"
-
-msgid "Label"
-msgstr "标签"
-
-msgid "Labels"
-msgstr "标签"
 
 msgid "Language"
 msgstr "语言"
@@ -749,6 +761,9 @@ msgstr "链接"
 
 msgid "List"
 msgstr "列表"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "加载配置"
@@ -876,14 +891,14 @@ msgstr "未找到"
 msgid "Null-terminated"
 msgstr "空终止符"
 
-msgid "Number"
-msgstr "数字"
-
 msgid "Numbers"
 msgstr "数字"
 
 msgid "OK"
 msgstr "确定"
+
+msgid "Obfuscator"
+msgstr "混淆器"
 
 msgid "Object"
 msgstr "对象"
@@ -948,6 +963,9 @@ msgstr "已暂停"
 msgid "Payload"
 msgstr "载荷"
 
+msgid "Personal data"
+msgstr "个人数据"
+
 msgid "Plain Text"
 msgstr "纯文本"
 
@@ -969,6 +987,9 @@ msgstr "请使用有效的 API Key"
 msgid "Pointer"
 msgstr "指针"
 
+msgid "Position"
+msgstr "位置"
+
 msgid "Previous visited"
 msgstr "上次访问"
 
@@ -977,6 +998,9 @@ msgstr "打印"
 
 msgid "Process"
 msgstr "进程"
+
+msgid "Producer"
+msgstr "生产者"
 
 msgid "Profiling"
 msgstr "分析"
@@ -1022,12 +1046,6 @@ msgstr "递归"
 
 msgid "Recursive scan"
 msgstr "递归扫描"
-
-msgid "Ref from"
-msgstr "引用于"
-
-msgid "Ref to"
-msgstr "引用至"
 
 msgid "References"
 msgstr "引用"
@@ -1133,9 +1151,6 @@ msgstr "打开后扫描"
 
 msgid "Scan engine"
 msgstr "扫描引擎"
-
-msgid "Scan for IAT"
-msgstr "扫描 IAT"
 
 msgid "Schema"
 msgstr "架构"
@@ -1344,6 +1359,9 @@ msgstr "符号表"
 msgid "Symbols"
 msgstr "符号"
 
+msgid "Sync"
+msgstr "同步"
+
 msgid "Syntax"
 msgstr "语法"
 
@@ -1406,9 +1424,6 @@ msgstr "时间"
 
 msgid "Time date stamp"
 msgstr "时间戳"
-
-msgid "To data"
-msgstr "到数据"
 
 msgid "Toggle"
 msgstr "切换"
@@ -1512,6 +1527,9 @@ msgstr "病毒"
 msgid "Visualization"
 msgstr "可视化"
 
+msgid "Warning"
+msgstr "警告"
+
 msgid "Weak binding"
 msgstr "弱绑定"
 
@@ -1533,9 +1551,6 @@ msgstr "零填充"
 msgid "Zoom"
 msgstr "缩放"
 
-msgid "compressor"
-msgstr "压缩工具"
-
 msgid "data"
 msgstr "数据"
 
@@ -1554,14 +1569,26 @@ msgstr "毫秒"
 msgid "not packed"
 msgstr "未加壳"
 
-msgid "obfuscator"
-msgstr "混淆器"
-
 msgid "packed"
 msgstr "已加壳"
 
-msgid "protection"
-msgstr "保护"
-
 msgid "true"
 msgstr "true"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

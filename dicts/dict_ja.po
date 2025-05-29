@@ -66,6 +66,9 @@ msgstr "すべての種類"
 msgid "Analyze"
 msgstr "分析"
 
+msgid "Analyzed"
+msgstr ""
+
 msgid "Animate"
 msgstr ""
 
@@ -84,9 +87,6 @@ msgstr "アーカイブ"
 msgid "Archive record"
 msgstr "アーカイブ レコード"
 
-msgid "Are you sure?"
-msgstr "本当に大丈夫ですか？"
-
 msgid "Array"
 msgstr "配列"
 
@@ -99,11 +99,17 @@ msgstr "添付"
 msgid "Audio"
 msgstr "オーディオ"
 
+msgid "Author"
+msgstr ""
+
 msgid "Automatic"
 msgstr "自動"
 
 msgid "Background"
 msgstr "背景"
+
+msgid "Base"
+msgstr ""
 
 msgid "Base address"
 msgstr "基準アドレス"
@@ -153,6 +159,9 @@ msgstr "バッファーサイズ"
 msgid "Bugreports"
 msgstr "バグ報告"
 
+msgid "Bundle"
+msgstr ""
+
 msgid "Byte"
 msgstr "バイト"
 
@@ -170,9 +179,6 @@ msgstr "計算"
 
 msgid "Callbacks"
 msgstr "コールバック"
-
-msgid "Calls"
-msgstr "コール"
 
 msgid "Callstack"
 msgstr "コールスタック"
@@ -252,9 +258,6 @@ msgstr "結果の消去"
 msgid "Close"
 msgstr "閉じる"
 
-msgid "Code"
-msgstr "コード"
-
 msgid "Code pages"
 msgstr "コードページ"
 
@@ -273,8 +276,14 @@ msgstr "コマンド"
 msgid "Comment"
 msgstr "コメント"
 
+msgid "Compact"
+msgstr ""
+
 msgid "Compiler"
 msgstr "コンパイラ"
+
+msgid "Compressor"
+msgstr ""
 
 msgid "Conditional"
 msgstr "条件付きの"
@@ -288,17 +297,23 @@ msgstr "コントロール"
 msgid "Converter"
 msgstr "コンバータ"
 
+msgid "Convertor"
+msgstr ""
+
 msgid "Copy"
 msgstr "コピー"
 
 msgid "Copy as"
 msgstr "以下をコピー"
 
+msgid "Corrupted data"
+msgstr ""
+
 msgid "Count"
 msgstr "個数"
 
-msgid "Create view model"
-msgstr "ビューモデル作成"
+msgid "Creator"
+msgstr ""
 
 msgid "Crypter"
 msgstr ""
@@ -323,9 +338,6 @@ msgstr "データ コンバーター"
 
 msgid "Data in code"
 msgstr "コードのデータ"
-
-msgid "Data inspector"
-msgstr "データ インスペクター"
 
 msgid "Database"
 msgstr "データベース"
@@ -380,6 +392,9 @@ msgstr "デバイスのスキャン"
 
 msgid "Diagram"
 msgstr "グラフ"
+
+msgid "Dialog"
+msgstr ""
 
 msgid "Directory"
 msgstr "ディレクトリ"
@@ -455,6 +470,9 @@ msgstr "ファイル名のエクスポート"
 
 msgid "Export type"
 msgstr "エクスポート種別"
+
+msgid "Extender"
+msgstr ""
 
 msgid "External references"
 msgstr "外部参照"
@@ -546,6 +564,12 @@ msgstr "フォーム"
 msgid "Format"
 msgstr "書式"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr ""
+
 msgid "Full screen"
 msgstr "フルスクリーン"
 
@@ -569,9 +593,6 @@ msgstr "汎用"
 
 msgid "Get"
 msgstr "取得"
-
-msgid "Get IAT"
-msgstr "IATを取得"
 
 msgid "Get element"
 msgstr "要素を取得"
@@ -660,6 +681,9 @@ msgstr "インフォメーション"
 msgid "Input"
 msgstr "入力"
 
+msgid "Inspector"
+msgstr ""
+
 msgid "Installer"
 msgstr "インストーラ"
 
@@ -674,9 +698,6 @@ msgstr "通訳者"
 
 msgid "Invalid"
 msgstr "無効"
-
-msgid "Invalid address of entry point"
-msgstr ""
 
 msgid "Invalid font"
 msgstr "無効なフォント"
@@ -702,20 +723,11 @@ msgstr "発行者"
 msgid "Joiner"
 msgstr ""
 
-msgid "Jumps"
-msgstr "ジャンプ"
-
 msgid "Keep size"
 msgstr "サイズを保持"
 
 msgid "KiB"
 msgstr "KiB"
-
-msgid "Label"
-msgstr "ラベル"
-
-msgid "Labels"
-msgstr "ラベル"
 
 msgid "Language"
 msgstr "言語"
@@ -749,6 +761,9 @@ msgstr "リンク"
 
 msgid "List"
 msgstr "リスト"
+
+msgid "Load"
+msgstr ""
 
 msgid "Load config"
 msgstr "構成を読み込み"
@@ -876,14 +891,14 @@ msgstr "見つかりません"
 msgid "Null-terminated"
 msgstr "null終端文字"
 
-msgid "Number"
-msgstr "数字"
-
 msgid "Numbers"
 msgstr "数字"
 
 msgid "OK"
 msgstr "OK"
+
+msgid "Obfuscator"
+msgstr ""
 
 msgid "Object"
 msgstr "オブジェクト"
@@ -948,6 +963,9 @@ msgstr "一時停止中"
 msgid "Payload"
 msgstr ""
 
+msgid "Personal data"
+msgstr ""
+
 msgid "Plain Text"
 msgstr "プレーンテキスト"
 
@@ -969,6 +987,9 @@ msgstr "有効なAPIキーを使用してください"
 msgid "Pointer"
 msgstr "ポインタ"
 
+msgid "Position"
+msgstr ""
+
 msgid "Previous visited"
 msgstr ""
 
@@ -977,6 +998,9 @@ msgstr "印刷"
 
 msgid "Process"
 msgstr "プロセス"
+
+msgid "Producer"
+msgstr ""
 
 msgid "Profiling"
 msgstr ""
@@ -1022,12 +1046,6 @@ msgstr "再帰的"
 
 msgid "Recursive scan"
 msgstr "ファイル スキャン"
-
-msgid "Ref from"
-msgstr "参照元"
-
-msgid "Ref to"
-msgstr "参照先"
 
 msgid "References"
 msgstr "参照"
@@ -1133,9 +1151,6 @@ msgstr "開いたらすぐスキャン開始"
 
 msgid "Scan engine"
 msgstr ""
-
-msgid "Scan for IAT"
-msgstr "IATをスキャンする"
 
 msgid "Schema"
 msgstr "スキーマ"
@@ -1344,6 +1359,9 @@ msgstr "シンボル テーブル"
 msgid "Symbols"
 msgstr "シンボル"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "構文"
 
@@ -1406,9 +1424,6 @@ msgstr "時間"
 
 msgid "Time date stamp"
 msgstr "日付スタンプ"
-
-msgid "To data"
-msgstr "データへ"
 
 msgid "Toggle"
 msgstr "トグル"
@@ -1512,6 +1527,9 @@ msgstr "ウイルス"
 msgid "Visualization"
 msgstr ""
 
+msgid "Warning"
+msgstr ""
+
 msgid "Weak binding"
 msgstr "弱い結合"
 
@@ -1533,9 +1551,6 @@ msgstr "ゼロ"
 msgid "Zoom"
 msgstr ""
 
-msgid "compressor"
-msgstr "コンプレッサ"
-
 msgid "data"
 msgstr "データ"
 
@@ -1554,17 +1569,20 @@ msgstr "ミリ秒"
 msgid "not packed"
 msgstr "パックなし"
 
-msgid "obfuscator"
-msgstr "難読化"
-
 msgid "packed"
 msgstr "パック済み"
 
-msgid "protection"
-msgstr "保護"
-
 msgid "true"
 msgstr "true"
+
+
+
+
+
+
+
+
+
 
 
 

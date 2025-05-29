@@ -50,7 +50,7 @@ msgid "Advanced"
 msgstr "উন্নত"
 
 msgid "Aggressive scan"
-msgstr ""
+msgstr "আক্রমণাত্মক স্ক্যান"
 
 msgid "Algorithm"
 msgstr "অ্যালগরিদম"
@@ -66,6 +66,9 @@ msgstr "সব ধরনের"
 
 msgid "Analyze"
 msgstr "বিশ্লেষণ"
+
+msgid "Analyzed"
+msgstr "বিশ্লেষণ করা হয়েছে"
 
 msgid "Animate"
 msgstr "জীবন্তসদৃশ"
@@ -85,14 +88,11 @@ msgstr "সংরক্ষণাগার"
 msgid "Archive record"
 msgstr "সংরক্ষণাগার নথি"
 
-msgid "Are you sure?"
-msgstr ""
-
 msgid "Array"
 msgstr "পৃষ্ঠানুযায়ী সাজান"
 
 msgid "Arrows"
-msgstr ""
+msgstr "তীর"
 
 msgid "Attach"
 msgstr "সংযুক্ত করা"
@@ -100,11 +100,17 @@ msgstr "সংযুক্ত করা"
 msgid "Audio"
 msgstr "শ্রুতি"
 
+msgid "Author"
+msgstr "লেখক"
+
 msgid "Automatic"
 msgstr "স্বয়ংক্রিয়"
 
 msgid "Background"
-msgstr ""
+msgstr "পটভূমি"
+
+msgid "Base"
+msgstr "ভিত্তি"
 
 msgid "Base address"
 msgstr "মূল ঠিকানা"
@@ -113,7 +119,7 @@ msgid "Begin"
 msgstr "শুরু করুন"
 
 msgid "Binary"
-msgstr ""
+msgstr "বাইনারি"
 
 msgid "Bind"
 msgstr "বাঁধাই করা"
@@ -122,10 +128,10 @@ msgid "Binding"
 msgstr "বাঁধাই"
 
 msgid "Bits"
-msgstr ""
+msgstr "বিট"
 
 msgid "Block size"
-msgstr ""
+msgstr "ব্লকের আকার"
 
 msgid "Bookmark"
 msgstr "পুস্তক-চিহ্ন"
@@ -149,10 +155,13 @@ msgid "Breakpoints"
 msgstr "ব্রেকপয়েন্টগুলো"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "বাফারের আকার"
 
 msgid "Bugreports"
 msgstr "ত্রুটি প্রতিবেদন"
+
+msgid "Bundle"
+msgstr "বান্ডেল"
 
 msgid "Byte"
 msgstr "বাইট"
@@ -172,9 +181,6 @@ msgstr "হিসাব করুন"
 msgid "Callbacks"
 msgstr "কলব্যাক"
 
-msgid "Calls"
-msgstr "কলগুলো"
-
 msgid "Callstack"
 msgstr "কলের স্তূপ"
 
@@ -182,13 +188,13 @@ msgid "Cancel"
 msgstr "বাতিল করুন"
 
 msgid "Cannot find"
-msgstr ""
+msgstr "খুঁজে পাওয়া যায়নি"
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "ফাইল খুঁজে পাওয়া যায়নি"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "ডাম্প ফাইল ঠিক করা যায়নি"
 
 msgid "Cannot get PDB age"
 msgstr "PDB বয়স পেতে পারে না"
@@ -209,7 +215,7 @@ msgid "Cannot load file"
 msgstr "ফাইল লোড করা যাবে না"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "ডাম্প ফাইল খোলা যায়নি"
 
 msgid "Cannot open file"
 msgstr "ফাইলটি খুলতে পারছি না"
@@ -218,13 +224,13 @@ msgid "Cannot open session"
 msgstr "অধিবেশন খুলতে পারবেন না"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "ফাইল পড়া যায়নি"
 
 msgid "Cannot read memory at address"
 msgstr "ঠিকানায় মেমরি পড়তে পারে না"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "আকার পরিবর্তন করা যায়নি"
 
 msgid "Cannot save file"
 msgstr "ফাইল সংরক্ষণ করা যাবে না"
@@ -233,7 +239,7 @@ msgid "Cannot set shortcut"
 msgstr "সহজতর পদ্ধতি সেট করা যাবে না"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "ফাইলে ডেটা লেখা যায়নি"
 
 msgid "Certificate"
 msgstr "সনদপত্র"
@@ -248,13 +254,10 @@ msgid "Clear"
 msgstr "পরিষ্কার"
 
 msgid "Clear result"
-msgstr ""
+msgstr "ফলাফল পরিষ্কার করুন"
 
 msgid "Close"
 msgstr "বন্ধ"
-
-msgid "Code"
-msgstr ""
 
 msgid "Code pages"
 msgstr "সংকেতপদ্ধতির পাতাগুলো"
@@ -263,7 +266,7 @@ msgid "Code section"
 msgstr "সংকেতপদ্ধতির অংশ"
 
 msgid "Color"
-msgstr ""
+msgstr "রং"
 
 msgid "Colors"
 msgstr "রংগুলো"
@@ -274,20 +277,29 @@ msgstr "সংকেতগুলো"
 msgid "Comment"
 msgstr "মন্তব্য"
 
+msgid "Compact"
+msgstr "সংক্ষিপ্ত"
+
 msgid "Compiler"
 msgstr "কম্পাইলার"
 
+msgid "Compressor"
+msgstr "কম্প্রেসর"
+
 msgid "Conditional"
-msgstr ""
+msgstr "শর্তাধীন"
 
 msgid "Console"
 msgstr "কনসোল"
 
 msgid "Controls"
-msgstr ""
+msgstr "নিয়ন্ত্রণ"
 
 msgid "Converter"
 msgstr "রূপান্তরকারী"
+
+msgid "Convertor"
+msgstr "রূপান্তরক"
 
 msgid "Copy"
 msgstr "অনুলিপি"
@@ -295,14 +307,17 @@ msgstr "অনুলিপি"
 msgid "Copy as"
 msgstr "হিসাবে অনুলিপি"
 
+msgid "Corrupted data"
+msgstr "দূষিত ডেটা"
+
 msgid "Count"
 msgstr "গণনা"
 
-msgid "Create view model"
-msgstr "ভিউ মডেল তৈরি করুন"
+msgid "Creator"
+msgstr "স্রষ্টা"
 
 msgid "Crypter"
-msgstr ""
+msgstr "ক্রিপ্টার"
 
 msgid "Cryptor"
 msgstr "ক্রিপ্টর"
@@ -311,28 +326,25 @@ msgid "Cursor"
 msgstr "কার্সার"
 
 msgid "Custom"
-msgstr ""
+msgstr "স্বনির্ধারিত"
 
 msgid "Custom database"
-msgstr ""
+msgstr "স্বনির্ধারিত ডাটাবেস"
 
 msgid "Data"
 msgstr "উপাত্ত"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "ডেটা রূপান্তরক"
 
 msgid "Data in code"
 msgstr "সংকেতপদ্ধতিতে উপাত্ত"
-
-msgid "Data inspector"
-msgstr "উপাত্তের পরিদর্শক"
 
 msgid "Database"
 msgstr "তথ্যশালা"
 
 msgid "Databases"
-msgstr ""
+msgstr "ডাটাবেসসমূহ"
 
 msgid "Date"
 msgstr "তারিখ"
@@ -344,13 +356,10 @@ msgid "Debug data"
 msgstr "উপাত্তের সংশোধন"
 
 msgid "Debug registers"
-msgstr ""
-
-msgid "Debugger"
-msgstr "সংশোধনকারী"
+msgstr "ডিবাগ রেজিস্টার"
 
 msgid "Decode"
-msgstr ""
+msgstr "ডিকোড"
 
 msgid "Deep scan"
 msgstr "গভীরভাবে নির্ণয় করা"
@@ -368,19 +377,22 @@ msgid "Dependencies"
 msgstr "নির্ভরতা"
 
 msgid "Description"
-msgstr ""
+msgstr "বর্ণনা"
 
 msgid "Detach"
 msgstr "বিচ্ছিন্ন করুন"
 
 msgid "Detect"
-msgstr ""
+msgstr "সনাক্ত করুন"
 
 msgid "Device scan"
 msgstr "ডিভাইস স্ক্যান"
 
 msgid "Diagram"
 msgstr "রেখাচিত্র"
+
+msgid "Dialog"
+msgstr "ডায়ালগ"
 
 msgid "Directory"
 msgstr "বিবিধ তথ্যসম্বলি"
@@ -419,16 +431,16 @@ msgid "Editor"
 msgstr "সম্পাদক"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "অতিবাহিত"
 
 msgid "Encode"
-msgstr ""
+msgstr "এনকোড"
 
 msgid "End"
 msgstr "শেষ"
 
 msgid "Endianness"
-msgstr ""
+msgstr "এন্ডিয়াননেস"
 
 msgid "Entropy"
 msgstr "এনট্রপি"
@@ -457,14 +469,17 @@ msgstr "ফাইলের নাম রপ্তানি করুন"
 msgid "Export type"
 msgstr "রপ্তানি প্রকার"
 
+msgid "Extender"
+msgstr "প্রসারক"
+
 msgid "External references"
 msgstr "বাহ্যিক তথ্যসূত্র"
 
 msgid "Extra"
-msgstr ""
+msgstr "অতিরিক্ত"
 
 msgid "Extra database"
-msgstr ""
+msgstr "অতিরিক্ত ডাটাবেস"
 
 msgid "Extract"
 msgstr "নিষ্কাশন করা"
@@ -512,7 +527,7 @@ msgid "Find"
 msgstr "অনুসন্ধান"
 
 msgid "First"
-msgstr ""
+msgstr "প্রথম"
 
 msgid "Fix offsets"
 msgstr "অফসেট ঠিক করুন"
@@ -524,7 +539,7 @@ msgid "Flags"
 msgstr "পতাকা"
 
 msgid "Flags register"
-msgstr ""
+msgstr "ফ্ল্যাগ রেজিস্টার"
 
 msgid "Folder"
 msgstr "ফোল্ডার"
@@ -536,7 +551,7 @@ msgid "Follow me"
 msgstr "আমাকে অনুসরণ করুন"
 
 msgid "Fonts"
-msgstr ""
+msgstr "ফন্ট"
 
 msgid "Footer"
 msgstr "ফুটার"
@@ -547,14 +562,20 @@ msgstr "ফর্ম"
 msgid "Format"
 msgstr "গঠন"
 
+msgid "Format result"
+msgstr ""
+
+msgid "Full"
+msgstr "সম্পূর্ণ"
+
 msgid "Full screen"
 msgstr "পূর্ণ পর্দা"
 
 msgid "Function enter"
-msgstr ""
+msgstr "ফাংশনে প্রবেশ"
 
 msgid "Function leave"
-msgstr ""
+msgstr "ফাংশন ত্যাগ"
 
 msgid "Functions"
 msgstr "ফাংশন"
@@ -563,16 +584,13 @@ msgid "GB"
 msgstr "জিবি"
 
 msgid "General registers"
-msgstr ""
+msgstr "সাধারণ রেজিস্টার"
 
 msgid "Generic"
 msgstr "বর্গীয়"
 
 msgid "Get"
 msgstr "পাওয়া"
-
-msgid "Get IAT"
-msgstr ""
 
 msgid "Get element"
 msgstr "উপাদান পাওয়া"
@@ -590,19 +608,19 @@ msgid "Go to download page?"
 msgstr "ডাউনলোড পৃষ্ঠায় যান?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "গ্রেডিয়েন্ট"
 
 msgid "Grid"
 msgstr "গ্রিড"
 
 msgid "Group"
-msgstr ""
+msgstr "গ্রুপ"
 
 msgid "Handles"
 msgstr "হ্যান্ডেল"
 
 msgid "Hardware"
-msgstr ""
+msgstr "হার্ডওয়্যার"
 
 msgid "Hash"
 msgstr "হ্যাশ"
@@ -611,7 +629,7 @@ msgid "Header"
 msgstr "হেডার"
 
 msgid "Height"
-msgstr ""
+msgstr "উচ্চতা"
 
 msgid "Help"
 msgstr "সাহায্য"
@@ -623,22 +641,22 @@ msgid "Heuristic scan"
 msgstr "হিউরিস্টিক (অনুসন্ধানমূলক) স্ক্যান"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "হিউরিস্টিক্স"
 
 msgid "Hex"
 msgstr "হেক্স"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "অজানা লুকান"
 
 msgid "Highlight"
 msgstr "লক্ষণীয় করা"
 
 msgid "Highlights"
-msgstr ""
+msgstr "হাইলাইট"
 
 msgid "Image"
-msgstr "ছবি"
+msgstr "ইমেজ"
 
 msgid "Images"
 msgstr "ছবিগুলো"
@@ -661,6 +679,9 @@ msgstr "তথ্য"
 msgid "Input"
 msgstr "ইনপুট"
 
+msgid "Inspector"
+msgstr "পরিদর্শক"
+
 msgid "Installer"
 msgstr "ইনস্টলার"
 
@@ -676,17 +697,14 @@ msgstr "দোভাষী"
 msgid "Invalid"
 msgstr "অবৈধ"
 
-msgid "Invalid address of entry point"
-msgstr ""
-
 msgid "Invalid font"
-msgstr ""
+msgstr "অবৈধ ফন্ট"
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "অবৈধ হ্যান্ডেল"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "অবৈধ অফসেট"
 
 msgid "Invalid opcode"
 msgstr "অবৈধ opcode"
@@ -695,7 +713,7 @@ msgid "Invalid signature"
 msgstr "অবৈধ স্বাক্ষর"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "অবৈধ আকার"
 
 msgid "Issuer"
 msgstr "ইস্যুকারী"
@@ -703,26 +721,17 @@ msgstr "ইস্যুকারী"
 msgid "Joiner"
 msgstr "যোগদানকারী"
 
-msgid "Jumps"
-msgstr "লাফ দেয়"
-
 msgid "Keep size"
 msgstr "আকার রাখুন"
 
 msgid "KiB"
 msgstr "কেআইবি (Kibibyte)"
 
-msgid "Label"
-msgstr "আখ্যা দেত্তন"
-
-msgid "Labels"
-msgstr "আখ্যা দেত্তনগুলো"
-
 msgid "Language"
 msgstr "ভাষা"
 
 msgid "Last"
-msgstr ""
+msgstr "শেষ"
 
 msgid "Lazy binding"
 msgstr "স্লথ যুক্তওন"
@@ -740,7 +749,7 @@ msgid "Library name"
 msgstr "গ্রন্থাগারের নাম"
 
 msgid "Licensing"
-msgstr ""
+msgstr "লাইসেন্সিং"
 
 msgid "Linker"
 msgstr "সংযুক্তকারী"
@@ -751,17 +760,20 @@ msgstr "সংযুক্তসমূহ"
 msgid "List"
 msgstr "সূচী"
 
+msgid "Load"
+msgstr "লোড"
+
 msgid "Load config"
 msgstr "লোড কনফিগারেশন"
 
 msgid "Loader"
-msgstr ""
+msgstr "লোডার"
 
 msgid "Local relocation"
 msgstr "স্থানীয় স্থানান্তর"
 
 msgid "Location"
-msgstr ""
+msgstr "অবস্থান"
 
 msgid "Log"
 msgstr "ঘটনার তথ্যশালা"
@@ -770,34 +782,34 @@ msgid "MB"
 msgstr "এমবি (মেগাবাইট)"
 
 msgid "Main"
-msgstr ""
+msgstr "প্রধান"
 
 msgid "Main module"
-msgstr ""
+msgstr "প্রধান মডিউল"
 
 msgid "MainWindow"
 msgstr "মূল জানালা"
 
 msgid "Malware"
-msgstr ""
+msgstr "ম্যালওয়্যার"
 
 msgid "Manifest"
 msgstr "উদ্ভিন্ন"
 
 msgid "Map"
-msgstr ""
+msgstr "মানচিত্র"
 
 msgid "Maps"
-msgstr ""
+msgstr "মানচিত্রসমূহ"
 
 msgid "Mask"
-msgstr ""
+msgstr "মাস্ক"
 
 msgid "Match case"
 msgstr "সমকক্ষ ধরন"
 
 msgid "Matches"
-msgstr ""
+msgstr "মিল"
 
 msgid "Maximum"
 msgstr "সর্বোচ্চ"
@@ -815,34 +827,34 @@ msgid "Metadata"
 msgstr "মেটাডাটা"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "মেটাডেটা টেবিল"
 
 msgid "Method"
 msgstr "পদ্ধতি"
 
 msgid "Methods"
-msgstr ""
+msgstr "পদ্ধতি"
 
 msgid "MiB"
 msgstr "এমআইবি (Mebibyte)"
 
 msgid "Min length"
-msgstr ""
+msgstr "সর্বনিম্ন দৈর্ঘ্য"
 
 msgid "Mode"
 msgstr "মোড"
 
 msgid "Modules"
-msgstr "মডিউলগুলো"
+msgstr "মডিউলসমূহ"
 
 msgid "More info"
 msgstr "অধিক তথ্য"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "বহুমঞ্চ"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "বহু অনুসন্ধান"
 
 msgid "Name"
 msgstr "নাম"
@@ -869,28 +881,28 @@ msgid "No update available"
 msgstr "নতুন কোন সংস্করণ হয়নি"
 
 msgid "None"
-msgstr ""
+msgstr "কিছু না"
 
 msgid "Nothing found"
 msgstr "কোনকিছু পাওয়া যায়নি"
 
 msgid "Null-terminated"
-msgstr ""
-
-msgid "Number"
-msgstr ""
+msgstr "নাল-সমাপ্ত"
 
 msgid "Numbers"
-msgstr ""
+msgstr "সংখ্যা"
 
 msgid "OK"
 msgstr "ঠিক আছে"
+
+msgid "Obfuscator"
+msgstr "অবস্কিউফিকেটর"
 
 msgid "Object"
 msgstr "বস্তু"
 
 msgid "Objects"
-msgstr ""
+msgstr "বস্তুসমূহ"
 
 msgid "Offset"
 msgstr "অফসেট"
@@ -926,19 +938,19 @@ msgid "Options"
 msgstr "বিকল্প"
 
 msgid "Output"
-msgstr ""
+msgstr "আউটপুট"
 
 msgid "Overlay"
-msgstr "আস্তরণ"
+msgstr "ওভারলে"
 
 msgid "Package"
-msgstr ""
+msgstr "প্যাকেজ"
 
 msgid "Packer"
 msgstr "ভরক (Packer)"
 
 msgid "Patch"
-msgstr ""
+msgstr "প্যাচ"
 
 msgid "Pause"
 msgstr "বিরতি"
@@ -947,13 +959,16 @@ msgid "Paused"
 msgstr "বিরতি দেওয়া হয়েছে"
 
 msgid "Payload"
-msgstr ""
+msgstr "পেলোড"
+
+msgid "Personal data"
+msgstr "ব্যক্তিগত তথ্য"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "সাধারণ টেক্সট"
 
 msgid "Platform"
-msgstr ""
+msgstr "প্ল্যাটফর্ম"
 
 msgid "Player"
 msgstr "ক্রীড়ক"
@@ -970,8 +985,11 @@ msgstr "অনুগ্রহ করে বৈধ API কী ব্যবহা�
 msgid "Pointer"
 msgstr "পয়েন্টার"
 
+msgid "Position"
+msgstr "অবস্থান"
+
 msgid "Previous visited"
-msgstr ""
+msgstr "পূর্ববর্তী পরিদর্শিত"
 
 msgid "Print"
 msgstr "ছাপা"
@@ -979,8 +997,11 @@ msgstr "ছাপা"
 msgid "Process"
 msgstr "প্রক্রিয়া"
 
+msgid "Producer"
+msgstr "প্রযোজক"
+
 msgid "Profiling"
-msgstr ""
+msgstr "প্রোফাইলিং"
 
 msgid "Program name"
 msgstr "অনুষ্ঠানের নাম"
@@ -1004,7 +1025,7 @@ msgid "Publisher"
 msgstr "প্রকাশক"
 
 msgid "Raw data"
-msgstr "মূল তথ্য"
+msgstr "র' ডেটা"
 
 msgid "Read error"
 msgstr "ত্রুটি পড়া"
@@ -1024,12 +1045,6 @@ msgstr "পুনরাবৃত্তি"
 msgid "Recursive scan"
 msgstr "পুনরাবৃত্তি স্ক্যান"
 
-msgid "Ref from"
-msgstr "থেকে Ref"
-
-msgid "Ref to"
-msgstr "Ref তে"
-
 msgid "References"
 msgstr "তথ্যসূত্র"
 
@@ -1046,7 +1061,7 @@ msgid "Registers"
 msgstr ""
 
 msgid "Regular expression"
-msgstr ""
+msgstr "নিয়মিত অভিব্যক্তি"
 
 msgid "Relative address"
 msgstr "আপেক্ষিক ঠিকানা"
@@ -1067,7 +1082,7 @@ msgid "Rescan"
 msgstr "পুনরায় স্ক্যান করা"
 
 msgid "Resize"
-msgstr ""
+msgstr "আকার পরিবর্তন"
 
 msgid "Resource"
 msgstr "সম্পদ"
@@ -1082,16 +1097,16 @@ msgid "Result"
 msgstr "ফলাফল"
 
 msgid "Rule name"
-msgstr ""
+msgstr "নিয়মের নাম"
 
 msgid "Rules"
-msgstr ""
+msgstr "নিয়মাবলী"
 
 msgid "Run"
 msgstr "চালান"
 
 msgid "Run path"
-msgstr ""
+msgstr "চালানোর পথ"
 
 msgid "Running"
 msgstr "চলমান"
@@ -1135,9 +1150,6 @@ msgstr "খোলার পরে স্ক্যান করুন"
 msgid "Scan engine"
 msgstr ""
 
-msgid "Scan for IAT"
-msgstr ""
-
 msgid "Schema"
 msgstr ""
 
@@ -1154,19 +1166,16 @@ msgid "Search from"
 msgstr "থেকে অনুসন্ধান করুন"
 
 msgid "Search signature"
-msgstr ""
+msgstr "স্বাক্ষর অনুসন্ধান"
 
 msgid "Search signatures"
 msgstr "স্বাক্ষর অনুসন্ধান করুন"
 
 msgid "Search string"
-msgstr ""
-
-msgid "Search strings"
-msgstr "অনুসন্ধান স্ট্রিং"
+msgstr "স্ট্রিং অনুসন্ধান"
 
 msgid "Search value"
-msgstr ""
+msgstr "মান অনুসন্ধান"
 
 msgid "Search values"
 msgstr "অনুসন্ধান মানগুলো"
@@ -1193,7 +1202,7 @@ msgid "Select"
 msgstr "নির্বাচন করুন"
 
 msgid "Selected"
-msgstr ""
+msgstr "নির্বাচিত"
 
 msgid "Selection"
 msgstr "নির্বাচন"
@@ -1226,19 +1235,19 @@ msgid "Show in"
 msgstr "দেখাও"
 
 msgid "Show info"
-msgstr ""
+msgstr "তথ্য দেখান"
 
 msgid "Show logo"
 msgstr "লোগো দেখান"
 
 msgid "Show type"
-msgstr ""
+msgstr "ধরন দেখান"
 
 msgid "Show valid"
 msgstr "বৈধ দেখান"
 
 msgid "Show version"
-msgstr ""
+msgstr "সংস্করণ দেখান"
 
 msgid "Sign tool"
 msgstr "সাইন টুল"
@@ -1253,7 +1262,7 @@ msgid "Signatures"
 msgstr "স্বাক্ষরগুলো"
 
 msgid "Signed"
-msgstr ""
+msgstr "স্বাক্ষরিত"
 
 msgid "Single application"
 msgstr "একক আবেদন"
@@ -1274,7 +1283,7 @@ msgid "Sort type"
 msgstr "সাজানোর ধরন"
 
 msgid "Sorted"
-msgstr ""
+msgstr "সাজানো"
 
 msgid "Source code"
 msgstr "সোর্স কোড"
@@ -1286,7 +1295,7 @@ msgid "Stack"
 msgstr "স্তূপ"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "স্ট্যাক রেজিস্টার"
 
 msgid "Start"
 msgstr "শুরু করুন"
@@ -1345,6 +1354,9 @@ msgstr "প্রতীক টেবিল"
 msgid "Symbols"
 msgstr "প্রতীকগুলো"
 
+msgid "Sync"
+msgstr ""
+
 msgid "Syntax"
 msgstr "বাক্য গঠন"
 
@@ -1358,10 +1370,10 @@ msgid "Table of contents"
 msgstr "সুচিপত্র"
 
 msgid "Table views"
-msgstr ""
+msgstr "টেবিল ভিউ"
 
 msgid "Tags"
-msgstr ""
+msgstr "ট্যাগ"
 
 msgid "Text"
 msgstr "পাঠ্য"
@@ -1370,7 +1382,7 @@ msgid "Text documents"
 msgstr "পাঠ্য নথি"
 
 msgid "Text editors"
-msgstr ""
+msgstr "টেক্সট সম্পাদক"
 
 msgid "Text files"
 msgstr "পাঠ্য ফাইল"
@@ -1403,13 +1415,10 @@ msgid "TiB"
 msgstr "টিআইবি (tebibyte)"
 
 msgid "Time"
-msgstr ""
+msgstr "সময়"
 
 msgid "Time date stamp"
 msgstr "সময় তারিখ স্ট্যাম্প"
-
-msgid "To data"
-msgstr "ডেটাতে"
 
 msgid "Toggle"
 msgstr "টগল (Toggle)"
@@ -1427,19 +1436,19 @@ msgid "Trace"
 msgstr "ট্রেস (Trace)"
 
 msgid "Trace into"
-msgstr ""
+msgstr "ট্রেসে প্রবেশ"
 
 msgid "Trace over"
-msgstr ""
+msgstr "ট্রেস ওভার"
 
 msgid "Tree"
 msgstr "ট্রি"
 
 msgid "Tree views"
-msgstr ""
+msgstr "ট্রি ভিউ"
 
 msgid "Trojan"
-msgstr ""
+msgstr "ট্রোজান"
 
 msgid "Two operands"
 msgstr "দুটি অপারেন্ড"
@@ -1460,7 +1469,7 @@ msgid "Unpack"
 msgstr "আনপ্যাক"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "অস্বাক্ষরিত"
 
 msgid "Update information"
 msgstr "হালনাগাদ তথ্য"
@@ -1508,10 +1517,13 @@ msgid "Virtual size"
 msgstr "ভার্চুয়াল আকার"
 
 msgid "Virus"
-msgstr ""
+msgstr "ভাইরাস"
 
 msgid "Visualization"
 msgstr "Візуалізація"
+
+msgid "Warning"
+msgstr "সতর্কতা"
 
 msgid "Weak binding"
 msgstr "দুর্বল বাঁধাই"
@@ -1529,13 +1541,10 @@ msgid "Write error"
 msgstr "ভুল লিখুন"
 
 msgid "Zeros"
-msgstr ""
+msgstr "শূন্য"
 
 msgid "Zoom"
-msgstr ""
-
-msgid "compressor"
-msgstr "সংকোচকারী"
+msgstr "জুম"
 
 msgid "data"
 msgstr "উপাত্ত"
@@ -1544,28 +1553,31 @@ msgid "extender"
 msgstr "প্রসারক"
 
 msgid "false"
-msgstr ""
+msgstr "মিথ্যা"
 
 msgid "kB"
 msgstr "কে বি (কিলোবাইট)"
 
 msgid "msec"
-msgstr ""
+msgstr "মিলিসেকেন্ড"
 
 msgid "not packed"
 msgstr "বস্তাবন্দী না"
 
-msgid "obfuscator"
-msgstr "অস্পষ্টকারী"
-
 msgid "packed"
 msgstr "বস্তাবন্দী"
 
-msgid "protection"
-msgstr "সুরক্ষা"
-
 msgid "true"
-msgstr ""
+msgstr "সত্য"
+
+
+
+
+
+
+
+
+
 
 
 
