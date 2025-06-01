@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Language: fr_FR\n"
-"X-Generator: Poedit 3.4.2\n"
+"X-Generator: Poedit 3.6\n"
 
 msgid "128-bit"
 msgstr "128 bits"
@@ -560,7 +560,7 @@ msgid "Follow me"
 msgstr "Suivez moi"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Fonte"
 
 msgid "Footer"
 msgstr "Pied de page"
@@ -572,7 +572,7 @@ msgid "Format"
 msgstr "Format"
 
 msgid "Format result"
-msgstr ""
+msgstr "Format resulte"
 
 msgid "Full"
 msgstr ""
@@ -707,7 +707,7 @@ msgid "Invalid"
 msgstr "Invalide"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Fonte invalide"
 
 msgid "Invalid handle"
 msgstr ""
@@ -1581,18 +1581,3 @@ msgstr "compressé"
 
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
