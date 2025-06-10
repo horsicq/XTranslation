@@ -277,7 +277,7 @@ msgid "Comment"
 msgstr "Comentario"
 
 msgid "Compact"
-msgstr ""
+msgstr "Compactar"
 
 msgid "Compiler"
 msgstr "Compilador"
@@ -763,7 +763,7 @@ msgid "List"
 msgstr "Lista"
 
 msgid "Load"
-msgstr ""
+msgstr "Cargar"
 
 msgid "Load config"
 msgstr "Cargar configuración"
