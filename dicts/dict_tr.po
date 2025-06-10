@@ -67,7 +67,7 @@ msgid "Analyze"
 msgstr "Analiz Et"
 
 msgid "Analyzed"
-msgstr ""
+msgstr "Analiz edildi"
 
 msgid "Animate"
 msgstr "Canlandır"
@@ -100,7 +100,7 @@ msgid "Audio"
 msgstr "Ses"
 
 msgid "Author"
-msgstr ""
+msgstr "Yazar"
 
 msgid "Automatic"
 msgstr "Otomatik"
@@ -109,7 +109,7 @@ msgid "Background"
 msgstr "Arkaplan"
 
 msgid "Base"
-msgstr ""
+msgstr "Taban"
 
 msgid "Base address"
 msgstr "Temel adres"
@@ -160,7 +160,7 @@ msgid "Bugreports"
 msgstr "Hata raporları"
 
 msgid "Bundle"
-msgstr ""
+msgstr "Demet"
 
 msgid "Byte"
 msgstr "Bayt"
@@ -277,13 +277,13 @@ msgid "Comment"
 msgstr "Yorum"
 
 msgid "Compact"
-msgstr ""
+msgstr "Kompakt"
 
 msgid "Compiler"
 msgstr "Derleyici"
 
 msgid "Compressor"
-msgstr ""
+msgstr "Sıkıştırıcı"
 
 msgid "Conditional"
 msgstr "Koşullu"
@@ -298,7 +298,7 @@ msgid "Converter"
 msgstr "Çevirici"
 
 msgid "Convertor"
-msgstr ""
+msgstr "Dönüştürücü"
 
 msgid "Copy"
 msgstr "Kopyala"
@@ -307,13 +307,13 @@ msgid "Copy as"
 msgstr "Farklı kopyala"
 
 msgid "Corrupted data"
-msgstr ""
+msgstr "Bozuk veri"
 
 msgid "Count"
 msgstr "Say"
 
 msgid "Creator"
-msgstr ""
+msgstr "Yaratıcı"
 
 msgid "Crypter"
 msgstr "Crypter"
@@ -394,7 +394,7 @@ msgid "Diagram"
 msgstr "Diyagram"
 
 msgid "Dialog"
-msgstr ""
+msgstr "Diyalog"
 
 msgid "Directory"
 msgstr "Dizin"
@@ -472,7 +472,7 @@ msgid "Export type"
 msgstr "Dışa aktarma türü"
 
 msgid "Extender"
-msgstr ""
+msgstr "Genişletici"
 
 msgid "External references"
 msgstr "Dış referanslar"
@@ -565,10 +565,10 @@ msgid "Format"
 msgstr "Biçem"
 
 msgid "Format result"
-msgstr ""
+msgstr "Sonucu biçimlendir"
 
 msgid "Full"
-msgstr ""
+msgstr "Full"
 
 msgid "Full screen"
 msgstr "Tam ekran"
@@ -682,7 +682,7 @@ msgid "Input"
 msgstr "Girdi"
 
 msgid "Inspector"
-msgstr ""
+msgstr "Denetçi"
 
 msgid "Installer"
 msgstr "Yükleyici"
@@ -763,7 +763,7 @@ msgid "List"
 msgstr "Liste"
 
 msgid "Load"
-msgstr ""
+msgstr "Yükle"
 
 msgid "Load config"
 msgstr "Yapılandırmayı yükle"
@@ -898,7 +898,7 @@ msgid "OK"
 msgstr "Tamam"
 
 msgid "Obfuscator"
-msgstr ""
+msgstr "Obfuscator"
 
 msgid "Object"
 msgstr "Nesne"
@@ -964,7 +964,7 @@ msgid "Payload"
 msgstr "Payload"
 
 msgid "Personal data"
-msgstr ""
+msgstr "Kişisel veri"
 
 msgid "Plain Text"
 msgstr "Düz Metin"
@@ -988,7 +988,7 @@ msgid "Pointer"
 msgstr "Göstergeç"
 
 msgid "Position"
-msgstr ""
+msgstr "Pozisyon"
 
 msgid "Previous visited"
 msgstr "Önceki görülen"
@@ -1000,7 +1000,7 @@ msgid "Process"
 msgstr "İşlem"
 
 msgid "Producer"
-msgstr ""
+msgstr "Üretici"
 
 msgid "Profiling"
 msgstr "Profilleme"
@@ -1360,7 +1360,7 @@ msgid "Symbols"
 msgstr "Semboller"
 
 msgid "Sync"
-msgstr ""
+msgstr "Senkron"
 
 msgid "Syntax"
 msgstr "Sözdizimi"
@@ -1528,7 +1528,7 @@ msgid "Visualization"
 msgstr "Görselleştirme"
 
 msgid "Warning"
-msgstr ""
+msgstr "Uyarı"
 
 msgid "Weak binding"
 msgstr "Zayıf bağlama"
