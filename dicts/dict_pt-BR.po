@@ -67,7 +67,7 @@ msgid "Analyze"
 msgstr "Analisar"
 
 msgid "Analyzed"
-msgstr ""
+msgstr "Analisado"
 
 msgid "Animate"
 msgstr "Animar"
@@ -100,7 +100,7 @@ msgid "Audio"
 msgstr "Audio"
 
 msgid "Author"
-msgstr ""
+msgstr "Autor"
 
 msgid "Automatic"
 msgstr "Automático"
@@ -109,7 +109,7 @@ msgid "Background"
 msgstr "Background"
 
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 msgid "Base address"
 msgstr "Endereço base"
@@ -160,7 +160,7 @@ msgid "Bugreports"
 msgstr "Relatório de erros"
 
 msgid "Bundle"
-msgstr ""
+msgstr "Bundle"
 
 msgid "Byte"
 msgstr "Byte"
@@ -277,13 +277,13 @@ msgid "Comment"
 msgstr "Comentário"
 
 msgid "Compact"
-msgstr ""
+msgstr "Compacto"
 
 msgid "Compiler"
 msgstr "Compilador"
 
 msgid "Compressor"
-msgstr ""
+msgstr "Compressor"
 
 msgid "Conditional"
 msgstr "Condicional"
@@ -298,7 +298,7 @@ msgid "Converter"
 msgstr "Conversor"
 
 msgid "Convertor"
-msgstr ""
+msgstr "Conversor"
 
 msgid "Copy"
 msgstr "Copiar"
@@ -307,13 +307,13 @@ msgid "Copy as"
 msgstr "Copiar como"
 
 msgid "Corrupted data"
-msgstr ""
+msgstr "Dados Corrompidos"
 
 msgid "Count"
 msgstr "Contagem"
 
 msgid "Creator"
-msgstr ""
+msgstr "Criador"
 
 msgid "Crypter"
 msgstr "Criptografar"
@@ -394,7 +394,7 @@ msgid "Diagram"
 msgstr "Diagrama"
 
 msgid "Dialog"
-msgstr ""
+msgstr "Dialogo"
 
 msgid "Directory"
 msgstr "Diretório"
@@ -472,7 +472,7 @@ msgid "Export type"
 msgstr "Tipo de exportação"
 
 msgid "Extender"
-msgstr ""
+msgstr "Extender"
 
 msgid "External references"
 msgstr "Referências externas"
@@ -565,10 +565,10 @@ msgid "Format"
 msgstr "Formato"
 
 msgid "Format result"
-msgstr ""
+msgstr "Formatar resultados"
 
 msgid "Full"
-msgstr ""
+msgstr "Completo"
 
 msgid "Full screen"
 msgstr "Tela cheia"
@@ -682,7 +682,7 @@ msgid "Input"
 msgstr "Entrada"
 
 msgid "Inspector"
-msgstr ""
+msgstr "Inspetor"
 
 msgid "Installer"
 msgstr "instalador"
@@ -763,10 +763,10 @@ msgid "List"
 msgstr "Listar"
 
 msgid "Load"
-msgstr ""
+msgstr "Carregar"
 
 msgid "Load config"
-msgstr "Exibir configuração"
+msgstr "Carregar configuração"
 
 msgid "Loader"
 msgstr "Loader"
@@ -898,7 +898,7 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Obfuscator"
-msgstr ""
+msgstr "Ofuscador"
 
 msgid "Object"
 msgstr "Objeto"
@@ -964,7 +964,7 @@ msgid "Payload"
 msgstr "Payload"
 
 msgid "Personal data"
-msgstr ""
+msgstr "Dados pessoais"
 
 msgid "Plain Text"
 msgstr "Texto Simples"
@@ -988,7 +988,7 @@ msgid "Pointer"
 msgstr "Ponteiro"
 
 msgid "Position"
-msgstr ""
+msgstr "Posição"
 
 msgid "Previous visited"
 msgstr "Anterior visitado"
@@ -1000,7 +1000,7 @@ msgid "Process"
 msgstr "Processo"
 
 msgid "Producer"
-msgstr ""
+msgstr "Produtor"
 
 msgid "Profiling"
 msgstr "Perfil"
@@ -1360,7 +1360,7 @@ msgid "Symbols"
 msgstr "Símbolos"
 
 msgid "Sync"
-msgstr ""
+msgstr "Sync"
 
 msgid "Syntax"
 msgstr "Sintaxe"
@@ -1528,7 +1528,7 @@ msgid "Visualization"
 msgstr "Visualização"
 
 msgid "Warning"
-msgstr ""
+msgstr "Aviso"
 
 msgid "Weak binding"
 msgstr "Ligação fraca"
