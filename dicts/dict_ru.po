@@ -764,7 +764,7 @@ msgid "List"
 msgstr "Список"
 
 msgid "Load"
-msgstr ""
+msgstr "Загрузить"
 
 msgid "Load config"
 msgstr "Загрузочный конфиг"
