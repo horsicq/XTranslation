@@ -221,7 +221,7 @@ msgid "Cannot load file"
 msgstr "Kann Datei nicht laden"
 
 msgid "Cannot open dump file"
-msgstr "Kann nicht die Datei speichern"
+msgstr "Kann die Dump Datei nicht öffnen"
 
 msgid "Cannot open file"
 msgstr "Kann die Datei nicht öffnen"
@@ -230,7 +230,7 @@ msgid "Cannot open session"
 msgstr "Sitzung kann nicht geöffnet werden"
 
 msgid "Cannot read file"
-msgstr "Kann nicht die Datei lesen"
+msgstr "Kann die Datei nicht lesen"
 
 msgid "Cannot read memory at address"
 msgstr "Speicher an Adresse kann nicht gelesen werden"
@@ -245,7 +245,7 @@ msgid "Cannot set shortcut"
 msgstr "Kann die Verknüpfung nicht setzen"
 
 msgid "Cannot write data to file"
-msgstr "Kann nicht in die Datei schreiben"
+msgstr "Kann keine Daten in die Datei schreiben"
 
 msgid "Certificate"
 msgstr "Zertifikat"
@@ -1229,7 +1229,7 @@ msgid "Shortcuts"
 msgstr "Verknüpfungen"
 
 msgid "Show"
-msgstr "Show"
+msgstr "Anzeigen"
 
 msgid "Show all"
 msgstr "Alle anzeigen"
