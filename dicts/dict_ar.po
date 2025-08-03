@@ -764,7 +764,7 @@ msgid "List"
 msgstr "قائمة"
 
 msgid "Load"
-msgstr ""
+msgstr "تحميل"
 
 msgid "Load config"
 msgstr "تحميل التكوين"
@@ -1451,7 +1451,7 @@ msgid "Tree"
 msgstr "شجرة"
 
 msgid "Tree views"
-msgstr ""
+msgstr "عرض الشجرة"
 
 msgid "Trojan"
 msgstr "حصان طروادة"
