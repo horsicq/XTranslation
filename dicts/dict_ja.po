@@ -46,10 +46,10 @@ msgid "Address"
 msgstr "アドレス"
 
 msgid "Advanced"
-msgstr "高度な"
+msgstr "高度"
 
 msgid "Aggressive scan"
-msgstr ""
+msgstr "アグレッシブスキャン"
 
 msgid "Algorithm"
 msgstr "アルゴリズム"
@@ -64,13 +64,13 @@ msgid "All types"
 msgstr "すべての種類"
 
 msgid "Analyze"
-msgstr "分析"
+msgstr "解析"
 
 msgid "Analyzed"
-msgstr ""
+msgstr "解析済み"
 
 msgid "Animate"
-msgstr ""
+msgstr "アニメーション"
 
 msgid "Appearance"
 msgstr "外観"
@@ -100,7 +100,7 @@ msgid "Audio"
 msgstr "オーディオ"
 
 msgid "Author"
-msgstr ""
+msgstr "作成者"
 
 msgid "Automatic"
 msgstr "自動"
@@ -160,7 +160,7 @@ msgid "Bugreports"
 msgstr "バグ報告"
 
 msgid "Bundle"
-msgstr ""
+msgstr "バンドル"
 
 msgid "Byte"
 msgstr "バイト"
@@ -187,31 +187,31 @@ msgid "Cancel"
 msgstr "キャンセル"
 
 msgid "Cannot find"
-msgstr "見つけられませんでした"
+msgstr "見つかりませんでした"
 
 msgid "Cannot find file"
-msgstr "ファイルを見つけられませんでした"
+msgstr "ファイルが見つかりませんでした"
 
 msgid "Cannot fix dump file"
-msgstr "ダンプを修正できませんでした"
+msgstr "ダンプファイルを修正できませんでした"
 
 msgid "Cannot get PDB age"
-msgstr "PDBの年齢を取得できませんでした"
+msgstr "PDB の経過時間を取得できませんでした"
 
 msgid "Cannot get PDB name"
-msgstr "PDB名を取得できませんでした"
+msgstr "PDB 名を取得できませんでした"
 
 msgid "Cannot load MSDIA library"
-msgstr "MSDIAライブラリを読み込めませんでした"
+msgstr "MSDIA ライブラリをロードできませんでした"
 
 msgid "Cannot load data from PDB"
-msgstr "PDBからデータを読み込めませんでした"
+msgstr "PDB からデータをロードできませんでした"
 
 msgid "Cannot load database"
-msgstr "データベースを読み込めませんでした"
+msgstr "データベースをロードできませんでした"
 
 msgid "Cannot load file"
-msgstr "ファイルを読み込めませんでした"
+msgstr "ファイルをロードできませんでした"
 
 msgid "Cannot open dump file"
 msgstr "ダンプファイルを開けませんでした"
@@ -220,25 +220,25 @@ msgid "Cannot open file"
 msgstr "ファイルを開けませんでした"
 
 msgid "Cannot open session"
-msgstr "セッションを開くことができませんでした"
+msgstr "セッションを開けませんでした"
 
 msgid "Cannot read file"
-msgstr "ファイルの読み込みに失敗しました"
+msgstr "ファイルを読み取れませんでした"
 
 msgid "Cannot read memory at address"
 msgstr "アドレスのメモリを読み取れませんでした"
 
 msgid "Cannot resize"
-msgstr "リサイズができませんでした"
+msgstr "サイズを変更できませんでした"
 
 msgid "Cannot save file"
 msgstr "ファイルを保存できませんでした"
 
 msgid "Cannot set shortcut"
-msgstr "ショートカットの設定に失敗しました"
+msgstr "ショートカットを設定できませんでした"
 
 msgid "Cannot write data to file"
-msgstr "ファイルへのデータ書き込みに失敗しました"
+msgstr "ファイルにデータを書き込めませんでした"
 
 msgid "Certificate"
 msgstr "証明書"
@@ -253,7 +253,7 @@ msgid "Clear"
 msgstr "消去"
 
 msgid "Clear result"
-msgstr "結果の消去"
+msgstr "結果を消去"
 
 msgid "Close"
 msgstr "閉じる"
@@ -262,7 +262,7 @@ msgid "Code pages"
 msgstr "コードページ"
 
 msgid "Code section"
-msgstr "コード セクション"
+msgstr "コードセクション"
 
 msgid "Color"
 msgstr "色"
@@ -277,16 +277,16 @@ msgid "Comment"
 msgstr "コメント"
 
 msgid "Compact"
-msgstr ""
+msgstr "コンパクト表示"
 
 msgid "Compiler"
 msgstr "コンパイラ"
 
 msgid "Compressor"
-msgstr ""
+msgstr "圧縮ツール"
 
 msgid "Conditional"
-msgstr "条件付きの"
+msgstr "条件付き"
 
 msgid "Console"
 msgstr "コンソール"
@@ -295,19 +295,19 @@ msgid "Controls"
 msgstr "コントロール"
 
 msgid "Converter"
-msgstr "コンバータ"
+msgstr "変換ツール"
 
 msgid "Convertor"
-msgstr ""
+msgstr "変換ツール"
 
 msgid "Copy"
 msgstr "コピー"
 
 msgid "Copy as"
-msgstr "以下をコピー"
+msgstr "形式を指定してコピー"
 
 msgid "Corrupted data"
-msgstr ""
+msgstr "破損データ"
 
 msgid "Count"
 msgstr "個数"
@@ -316,34 +316,34 @@ msgid "Creator"
 msgstr ""
 
 msgid "Crypter"
-msgstr ""
+msgstr "暗号化ツール"
 
 msgid "Cryptor"
-msgstr "暗号化"
+msgstr "暗号化ツール"
 
 msgid "Cursor"
 msgstr "カーソル"
 
 msgid "Custom"
-msgstr ""
+msgstr "カスタム"
 
 msgid "Custom database"
-msgstr "カスタム データベース"
+msgstr "カスタムデータベース"
 
 msgid "Data"
 msgstr "データ"
 
 msgid "Data convertor"
-msgstr "データ コンバーター"
+msgstr "データコンバーター"
 
 msgid "Data in code"
-msgstr "コードのデータ"
+msgstr "コード内データ"
 
 msgid "Database"
 msgstr "データベース"
 
 msgid "Databases"
-msgstr ""
+msgstr "データベース"
 
 msgid "Date"
 msgstr "日付"
@@ -352,13 +352,13 @@ msgid "Debug"
 msgstr "デバッグ"
 
 msgid "Debug data"
-msgstr "デバッグ データ"
+msgstr "デバッグデータ"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "デバッグレジスタ"
 
 msgid "Debugger"
-msgstr "デバッガ"
+msgstr "デバッガー"
 
 msgid "Decode"
 msgstr "デコード"
@@ -367,7 +367,7 @@ msgid "Deep scan"
 msgstr "ディープスキャン"
 
 msgid "Default"
-msgstr "標準"
+msgstr "デフォルト"
 
 msgid "Delay import"
 msgstr "遅延インポート"
@@ -391,10 +391,10 @@ msgid "Device scan"
 msgstr "デバイスのスキャン"
 
 msgid "Diagram"
-msgstr "グラフ"
+msgstr "ダイアグラム"
 
 msgid "Dialog"
-msgstr ""
+msgstr "ダイアログ"
 
 msgid "Directory"
 msgstr "ディレクトリ"
@@ -403,7 +403,7 @@ msgid "Directory scan"
 msgstr "ディレクトリのスキャン"
 
 msgid "Disasm"
-msgstr "Disasm"
+msgstr "逆アセンブル"
 
 msgid "Document"
 msgstr "ドキュメント"
@@ -415,13 +415,13 @@ msgid "Donate"
 msgstr "寄付"
 
 msgid "Driver"
-msgstr "運転者"
+msgstr "ドライバー"
 
 msgid "Dump"
 msgstr "ダンプ"
 
 msgid "Dump all"
-msgstr "全てダンプ"
+msgstr "すべてダンプ"
 
 msgid "Dump to file"
 msgstr "ファイルにダンプ"
@@ -433,13 +433,13 @@ msgid "Editor"
 msgstr "エディター"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "経過"
 
 msgid "Encode"
 msgstr "エンコード"
 
 msgid "End"
-msgstr "終わり"
+msgstr "終了位置"
 
 msgid "Endianness"
 msgstr "エンディアン"
@@ -448,10 +448,10 @@ msgid "Entropy"
 msgstr "エントロピー"
 
 msgid "Entry point"
-msgstr "エントリ ポイント"
+msgstr "エントリポイント"
 
 msgid "Entry point section"
-msgstr "エントリ ポイントセクション"
+msgstr "エントリポイントセクション"
 
 msgid "Error"
 msgstr "エラー"
@@ -466,22 +466,22 @@ msgid "Export"
 msgstr "エクスポート"
 
 msgid "Export File Name"
-msgstr "ファイル名のエクスポート"
+msgstr "エクスポートファイル名"
 
 msgid "Export type"
-msgstr "エクスポート種別"
+msgstr "エクスポート形式"
 
 msgid "Extender"
-msgstr ""
+msgstr "エクステンダー"
 
 msgid "External references"
 msgstr "外部参照"
 
 msgid "Extra"
-msgstr ""
+msgstr "エクストラ"
 
 msgid "Extra database"
-msgstr ""
+msgstr "追加データベース"
 
 msgid "Extract"
 msgstr "抽出"
@@ -493,7 +493,7 @@ msgid "Extract all icons"
 msgstr "全てのアイコンを抽出"
 
 msgid "Extractor"
-msgstr ""
+msgstr "抽出ツール"
 
 msgid "File"
 msgstr "ファイル"
@@ -505,16 +505,16 @@ msgid "File name"
 msgstr "ファイル名"
 
 msgid "File offset"
-msgstr "オフセット値"
+msgstr "ファイルオフセット"
 
 msgid "File saved"
-msgstr "保存されたファイル"
+msgstr "ファイルを保存しました"
 
 msgid "File scan"
-msgstr "ファイル スキャン"
+msgstr "ファイルのスキャン"
 
 msgid "File size"
-msgstr "ファイル サイズ"
+msgstr "ファイルサイズ"
 
 msgid "File type"
 msgstr "ファイルの種類"
@@ -523,13 +523,13 @@ msgid "Files"
 msgstr "ファイル"
 
 msgid "Filter"
-msgstr "絞り込み"
+msgstr "フィルター"
 
 msgid "Find"
 msgstr "検索"
 
 msgid "First"
-msgstr ""
+msgstr "先頭"
 
 msgid "Fix offsets"
 msgstr "オフセットを修正"
@@ -541,16 +541,16 @@ msgid "Flags"
 msgstr "フラグ"
 
 msgid "Flags register"
-msgstr "フラグ レジスター"
+msgstr "フラグレジスタ"
 
 msgid "Folder"
 msgstr "フォルダー"
 
 msgid "Follow in"
-msgstr ""
+msgstr "追跡表示"
 
 msgid "Follow me"
-msgstr ""
+msgstr "追跡する"
 
 msgid "Fonts"
 msgstr "フォント"
@@ -565,19 +565,19 @@ msgid "Format"
 msgstr "書式"
 
 msgid "Format result"
-msgstr ""
+msgstr "結果をフォーマット"
 
 msgid "Full"
-msgstr ""
+msgstr "全体"
 
 msgid "Full screen"
 msgstr "フルスクリーン"
 
 msgid "Function enter"
-msgstr ""
+msgstr "関数開始"
 
 msgid "Function leave"
-msgstr ""
+msgstr "関数終了"
 
 msgid "Functions"
 msgstr "関数"
@@ -607,10 +607,10 @@ msgid "Go to address"
 msgstr "アドレスに移動"
 
 msgid "Go to download page?"
-msgstr "ダウンロードページに移動しますか？"
+msgstr "ダウンロードページへ移動しますか?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "グラデーション"
 
 msgid "Grid"
 msgstr "グリッド"
@@ -628,7 +628,7 @@ msgid "Hash"
 msgstr "ハッシュ"
 
 msgid "Header"
-msgstr "ヘッダ"
+msgstr "ヘッダー"
 
 msgid "Height"
 msgstr "高さ"
@@ -643,13 +643,13 @@ msgid "Heuristic scan"
 msgstr "ヒューリスティック スキャン"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "ヒューリスティック"
 
 msgid "Hex"
-msgstr "16 進数"
+msgstr "16進数"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "不明項目を非表示"
 
 msgid "Highlight"
 msgstr "ハイライト"
@@ -667,10 +667,10 @@ msgid "Import"
 msgstr "インポート"
 
 msgid "Import hash"
-msgstr "ハッシュをインポートする"
+msgstr "ハッシュをインポート"
 
 msgid "Indirect symbols"
-msgstr "間接記号"
+msgstr "間接シンボル"
 
 msgid "Info"
 msgstr "情報"
@@ -682,46 +682,46 @@ msgid "Input"
 msgstr "入力"
 
 msgid "Inspector"
-msgstr ""
+msgstr "インスペクター"
 
 msgid "Installer"
-msgstr "インストーラ"
+msgstr "インストーラー"
 
 msgid "Installer data"
-msgstr "インストーラ データ"
+msgstr "インストーラーデータ"
 
 msgid "Instruction pointer register"
-msgstr "Instruction pointer レジスタ"
+msgstr "命令ポインタレジスタ"
 
 msgid "Interpreter"
-msgstr "通訳者"
+msgstr "インタープリター"
 
 msgid "Invalid"
-msgstr "無効"
+msgstr "不正"
 
 msgid "Invalid font"
 msgstr "無効なフォント"
 
 msgid "Invalid handle"
-msgstr "無効なハンドル"
+msgstr "不正なハンドル"
 
 msgid "Invalid offset"
-msgstr "無効なオフセット"
+msgstr "不正なオフセット"
 
 msgid "Invalid opcode"
-msgstr "無効な Opcode"
+msgstr "不正な命令コード"
 
 msgid "Invalid signature"
-msgstr "無効な署名"
+msgstr "不正なシグネチャ"
 
 msgid "Invalid size"
-msgstr "無効なサイズ"
+msgstr "不正なサイズ"
 
 msgid "Issuer"
 msgstr "発行者"
 
 msgid "Joiner"
-msgstr ""
+msgstr "結合ツール"
 
 msgid "Keep size"
 msgstr "サイズを保持"
@@ -733,7 +733,7 @@ msgid "Language"
 msgstr "言語"
 
 msgid "Last"
-msgstr ""
+msgstr "末尾"
 
 msgid "Lazy binding"
 msgstr "遅延バインディング"
@@ -751,10 +751,10 @@ msgid "Library name"
 msgstr "ライブラリ名"
 
 msgid "Licensing"
-msgstr ""
+msgstr "ライセンス"
 
 msgid "Linker"
-msgstr "リンカ"
+msgstr "リンカー"
 
 msgid "Links"
 msgstr "リンク"
@@ -763,16 +763,16 @@ msgid "List"
 msgstr "リスト"
 
 msgid "Load"
-msgstr ""
+msgstr "ロード"
 
 msgid "Load config"
-msgstr "構成を読み込み"
+msgstr "構成をロード"
 
 msgid "Loader"
-msgstr ""
+msgstr "ローダー"
 
 msgid "Local relocation"
-msgstr "ローカル再割り当て"
+msgstr "ローカル再配置"
 
 msgid "Location"
 msgstr "配置"
@@ -784,10 +784,10 @@ msgid "MB"
 msgstr "MB"
 
 msgid "Main"
-msgstr ""
+msgstr "メイン"
 
 msgid "Main module"
-msgstr ""
+msgstr "メインモジュール"
 
 msgid "MainWindow"
 msgstr "MainWindow"
@@ -799,19 +799,19 @@ msgid "Manifest"
 msgstr "Manifest"
 
 msgid "Map"
-msgstr ""
+msgstr "マップ"
 
 msgid "Maps"
-msgstr ""
+msgstr "マップ"
 
 msgid "Mask"
-msgstr ""
+msgstr "マスク"
 
 msgid "Match case"
-msgstr "大文字小文字を区別"
+msgstr "大文字/小文字を区別"
 
 msgid "Matches"
-msgstr ""
+msgstr "一致"
 
 msgid "Maximum"
 msgstr "最大"
@@ -820,7 +820,7 @@ msgid "Memory"
 msgstr "メモリー"
 
 msgid "Memory map"
-msgstr "メモリ マップ"
+msgstr "メモリマップ"
 
 msgid "Memory scan"
 msgstr "メモリスキャン"
@@ -829,19 +829,19 @@ msgid "Metadata"
 msgstr "メタデータ"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "メタデータテーブル"
 
 msgid "Method"
-msgstr "方法"
+msgstr "メソッド"
 
 msgid "Methods"
-msgstr ""
+msgstr "メソッド"
 
 msgid "MiB"
 msgstr "MiB"
 
 msgid "Min length"
-msgstr ""
+msgstr "最小の長さ"
 
 msgid "Mode"
 msgstr "モード"
@@ -856,7 +856,7 @@ msgid "Multiplatform"
 msgstr "マルチプラットフォーム"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "複数検索"
 
 msgid "Name"
 msgstr "名前"
@@ -868,25 +868,25 @@ msgid "New"
 msgstr "新規"
 
 msgid "New version available"
-msgstr "新バージョンが利用可能です"
+msgstr "新しいバージョンが利用可能です"
 
 msgid "Next"
 msgstr "次"
 
 msgid "Next visited"
-msgstr ""
+msgstr "次の訪問先"
 
 msgid "No"
-msgstr "なし"
+msgstr "いいえ"
 
 msgid "No update available"
 msgstr "アップデートはありません"
 
 msgid "None"
-msgstr ""
+msgstr "なし"
 
 msgid "Nothing found"
-msgstr "見つかりません"
+msgstr "該当なし"
 
 msgid "Null-terminated"
 msgstr "null終端文字"
@@ -898,13 +898,13 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Obfuscator"
-msgstr ""
+msgstr "難読化ツール"
 
 msgid "Object"
 msgstr "オブジェクト"
 
 msgid "Objects"
-msgstr ""
+msgstr "オブジェクト"
 
 msgid "Offset"
 msgstr "オフセット"
@@ -916,13 +916,13 @@ msgid "Online tools"
 msgstr "オンラインツール"
 
 msgid "Opcode"
-msgstr "Opcode"
+msgstr "命令コード"
 
 msgid "Opcode group"
-msgstr "Opcodeグループ"
+msgstr "命令コードグループ"
 
 msgid "Opcodes"
-msgstr "Opcodes"
+msgstr "命令コード"
 
 msgid "Open"
 msgstr "開く"
@@ -934,10 +934,10 @@ msgid "Open file"
 msgstr "ファイルを開く"
 
 msgid "Operation system"
-msgstr "オペレーション システム"
+msgstr "オペレーティングシステム"
 
 msgid "Options"
-msgstr "設定"
+msgstr "オプション"
 
 msgid "Output"
 msgstr "出力"
@@ -961,10 +961,10 @@ msgid "Paused"
 msgstr "一時停止中"
 
 msgid "Payload"
-msgstr ""
+msgstr "ペイロード"
 
 msgid "Personal data"
-msgstr ""
+msgstr "個人データ"
 
 msgid "Plain Text"
 msgstr "プレーンテキスト"
@@ -985,13 +985,13 @@ msgid "Please use valid API key"
 msgstr "有効なAPIキーを使用してください"
 
 msgid "Pointer"
-msgstr "ポインタ"
+msgstr "ポインター"
 
 msgid "Position"
-msgstr ""
+msgstr "位置"
 
 msgid "Previous visited"
-msgstr ""
+msgstr "前の訪問先"
 
 msgid "Print"
 msgstr "印刷"
@@ -1000,10 +1000,10 @@ msgid "Process"
 msgstr "プロセス"
 
 msgid "Producer"
-msgstr ""
+msgstr "プロデューサー"
 
 msgid "Profiling"
-msgstr ""
+msgstr "プロファイリング"
 
 msgid "Program name"
 msgstr "プログラム名"
@@ -1015,10 +1015,10 @@ msgid "Protection"
 msgstr "保護"
 
 msgid "Protector"
-msgstr "プロテクタ"
+msgstr "プロテクター"
 
 msgid "Protector data"
-msgstr "プロテクタ データ"
+msgstr "プロテクターデータ"
 
 msgid "Prototype"
 msgstr "プロトタイプ"
@@ -1027,7 +1027,7 @@ msgid "Publisher"
 msgstr "開発者"
 
 msgid "Raw data"
-msgstr "Raw データ"
+msgstr "Rawデータ"
 
 msgid "Read error"
 msgstr "読み取りエラー"
@@ -1045,7 +1045,7 @@ msgid "Recursive"
 msgstr "再帰的"
 
 msgid "Recursive scan"
-msgstr "ファイル スキャン"
+msgstr "再帰的スキャン"
 
 msgid "References"
 msgstr "参照"
@@ -1063,13 +1063,13 @@ msgid "Registers"
 msgstr "レジスタ"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "正規表現"
 
 msgid "Relative address"
 msgstr "相対アドレス"
 
 msgid "Relative virtual address"
-msgstr "相対仮想ADD"
+msgstr "相対仮想アドレス"
 
 msgid "Reload"
 msgstr "再読み込み"
@@ -1099,7 +1099,7 @@ msgid "Result"
 msgstr "結果"
 
 msgid "Rule name"
-msgstr ""
+msgstr "ルール名"
 
 msgid "Rules"
 msgstr "ルール"
@@ -1108,7 +1108,7 @@ msgid "Run"
 msgstr "実行"
 
 msgid "Run path"
-msgstr ""
+msgstr "実行パス"
 
 msgid "Running"
 msgstr "実行中"
@@ -1132,13 +1132,13 @@ msgid "Save dump"
 msgstr "ダンプを保存"
 
 msgid "Save file"
-msgstr "保存"
+msgstr "ファイルを保存"
 
 msgid "Save history"
 msgstr "履歴を保存"
 
 msgid "Save last directory"
-msgstr "最後に使ったフォルダ保存"
+msgstr "最後に使用したディレクトリを保存"
 
 msgid "Save result"
 msgstr "結果を保存"
@@ -1147,10 +1147,10 @@ msgid "Scan"
 msgstr "スキャン"
 
 msgid "Scan after open"
-msgstr "開いたらすぐスキャン開始"
+msgstr "開いた後にスキャン"
 
 msgid "Scan engine"
-msgstr ""
+msgstr "スキャンエンジン"
 
 msgid "Schema"
 msgstr "スキーマ"
@@ -1168,22 +1168,22 @@ msgid "Search from"
 msgstr "検索開始位置"
 
 msgid "Search signature"
-msgstr ""
+msgstr "シグネチャ検索"
 
 msgid "Search signatures"
-msgstr "署名"
+msgstr "シグネチャ検索"
 
 msgid "Search string"
-msgstr ""
+msgstr "検索文字列"
 
 msgid "Search strings"
-msgstr "文字列を検索"
+msgstr "検索文字列"
 
 msgid "Search value"
-msgstr ""
+msgstr "検索値"
 
 msgid "Search values"
-msgstr "値を検索する"
+msgstr "検索値"
 
 msgid "Section"
 msgstr "セクション"
@@ -1228,19 +1228,19 @@ msgid "Show all"
 msgstr "すべて表示"
 
 msgid "Show colons in addresses"
-msgstr "アドレス内にコロンを表示"
+msgstr "アドレスにコロンを含めて表示"
 
 msgid "Show comments"
 msgstr "コメントを表示"
 
 msgid "Show detects"
-msgstr "検出済みを表示"
+msgstr "検出結果を表示"
 
 msgid "Show in"
 msgstr ""
 
 msgid "Show info"
-msgstr ""
+msgstr "情報を表示"
 
 msgid "Show logo"
 msgstr "ロゴを表示"
@@ -1258,19 +1258,19 @@ msgid "Sign tool"
 msgstr "署名ツール"
 
 msgid "Signature"
-msgstr "署名"
+msgstr "シグネチャ"
 
 msgid "Signature name"
-msgstr ""
+msgstr "シグネチャ名"
 
 msgid "Signatures"
-msgstr "署名"
+msgstr "シグネチャ"
 
 msgid "Signed"
 msgstr "署名済み"
 
 msgid "Single application"
-msgstr "単一のアプリケーション"
+msgstr "単体アプリケーション"
 
 msgid "Size"
 msgstr "サイズ"
@@ -1279,7 +1279,7 @@ msgid "Size of image"
 msgstr "画像のサイズ"
 
 msgid "Sort"
-msgstr ""
+msgstr "並べ替え"
 
 msgid "Sort elements"
 msgstr "要素を並べ替える"
@@ -1291,7 +1291,7 @@ msgid "Sorted"
 msgstr "並び替え済み"
 
 msgid "Source code"
-msgstr "ソース コード"
+msgstr "ソースコード"
 
 msgid "Spaces"
 msgstr "スペース"
@@ -1312,10 +1312,10 @@ msgid "Stay on top"
 msgstr "常に最前面表示"
 
 msgid "Step into"
-msgstr "ステップ イン"
+msgstr "ステップイン"
 
 msgid "Step over"
-msgstr "ステップ オーバー"
+msgstr "ステップオーバー"
 
 msgid "Stop"
 msgstr "停止"
@@ -1339,7 +1339,7 @@ msgid "Structs"
 msgstr "構造体"
 
 msgid "Stub"
-msgstr "Stub"
+msgstr "スタブ"
 
 msgid "Style"
 msgstr "スタイル"
@@ -1347,20 +1347,24 @@ msgstr "スタイル"
 msgid "Subdirectories"
 msgstr "サブディレクトリ"
 
+# 証明書情報の主体名を指す
+# 参照
+# https://github.com/horsicq/FormatWidgets/blob/master/PE/peprocessdata.cpp#L1040
+# https://github.com/horsicq/FormatWidgets/blob/master/PE/peprocessdata.cpp#L1044
 msgid "Subject"
-msgstr "主題"
+msgstr "主体"
 
 msgid "Symbol"
 msgstr "シンボル"
 
 msgid "Symbol table"
-msgstr "シンボル テーブル"
+msgstr "シンボルテーブル"
 
 msgid "Symbols"
 msgstr "シンボル"
 
 msgid "Sync"
-msgstr ""
+msgstr "同期"
 
 msgid "Syntax"
 msgstr "構文"
@@ -1381,7 +1385,7 @@ msgid "Tags"
 msgstr "タグ"
 
 msgid "Text"
-msgstr "文字"
+msgstr "テキスト"
 
 msgid "Text documents"
 msgstr "テキスト文書"
@@ -1390,7 +1394,7 @@ msgid "Text editors"
 msgstr "テキストエディター"
 
 msgid "Text files"
-msgstr "テキスト ファイル"
+msgstr "テキストファイル"
 
 msgid "Thanks"
 msgstr "謝辞"
@@ -1399,16 +1403,16 @@ msgid "The file is not signed"
 msgstr "ファイルは署名されていません"
 
 msgid "The file is signed and the signature was verified"
-msgstr "ファイルが署名され、署名が検証されました"
+msgstr "ファイルは署名されており、署名は検証されました"
 
 msgid "The signature error"
-msgstr "署名エラー"
+msgstr "シグネチャエラー"
 
 msgid "The signature is present, but not trusted"
-msgstr "署名は存在しますが、信頼されていません"
+msgstr "シグネチャは存在しますが、信頼されていません"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "署名は存在しますが、特に許可されていません"
+msgstr "シグネチャは存在しますが、明示的に無効化されています"
 
 msgid "The value copied to clipboard"
 msgstr "クリップボードに値をコピーしました"
@@ -1423,7 +1427,7 @@ msgid "Time"
 msgstr "時間"
 
 msgid "Time date stamp"
-msgstr "日付スタンプ"
+msgstr "タイムスタンプ"
 
 msgid "Toggle"
 msgstr "トグル"
@@ -1438,13 +1442,13 @@ msgid "Total"
 msgstr "合計"
 
 msgid "Trace"
-msgstr "追跡"
+msgstr "トレース"
 
 msgid "Trace into"
-msgstr ""
+msgstr "トレースイン"
 
 msgid "Trace over"
-msgstr ""
+msgstr "トレースオーバー"
 
 msgid "Tree"
 msgstr "ツリー"
@@ -1477,7 +1481,7 @@ msgid "Unsigned"
 msgstr "署名なし"
 
 msgid "Update information"
-msgstr "情報を更新する"
+msgstr "更新情報"
 
 msgid "Upload the file for analyze?"
 msgstr "分析のためにファイルをアップロードしますか?"
@@ -1498,7 +1502,7 @@ msgid "Variable"
 msgstr "変数"
 
 msgid "Verbose"
-msgstr "冗長な"
+msgstr "詳細な出力"
 
 msgid "Version"
 msgstr "バージョン"
@@ -1525,13 +1529,13 @@ msgid "Virus"
 msgstr "ウイルス"
 
 msgid "Visualization"
-msgstr ""
+msgstr "視覚化"
 
 msgid "Warning"
-msgstr ""
+msgstr "警告"
 
 msgid "Weak binding"
-msgstr "弱い結合"
+msgstr "弱結合"
 
 msgid "Website"
 msgstr "Webサイト"
@@ -1549,13 +1553,13 @@ msgid "Zeros"
 msgstr "ゼロ"
 
 msgid "Zoom"
-msgstr ""
+msgstr "拡大・縮小"
 
 msgid "data"
 msgstr "データ"
 
 msgid "extender"
-msgstr "エクステンダ"
+msgstr "拡張ツール"
 
 msgid "false"
 msgstr "false"
@@ -1574,20 +1578,3 @@ msgstr "パック済み"
 
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
