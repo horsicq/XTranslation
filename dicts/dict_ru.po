@@ -247,7 +247,7 @@ msgstr "Сертификат"
 msgid "Check"
 msgstr "Проверить"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "Проверить обновления"
 
 msgid "Clear"

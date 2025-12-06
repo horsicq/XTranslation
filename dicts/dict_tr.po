@@ -246,7 +246,7 @@ msgstr "Sertifika"
 msgid "Check"
 msgstr "Denetle"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "Güncellemeleri denetle"
 
 msgid "Clear"

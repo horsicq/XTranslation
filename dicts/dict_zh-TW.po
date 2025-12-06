@@ -246,7 +246,7 @@ msgstr "證書"
 msgid "Check"
 msgstr "查看"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "檢查更新"
 
 msgid "Clear"

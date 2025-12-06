@@ -247,7 +247,7 @@ msgstr "সনদপত্র"
 msgid "Check"
 msgstr "খতিয়ে দেখা"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "নতুন পরিবর্তন খতিয়ে দেখা"
 
 msgid "Clear"

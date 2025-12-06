@@ -247,7 +247,7 @@ msgstr "مدرک"
 msgid "Check"
 msgstr "چک کردن"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "چک کردن به روز رسانی"
 
 msgid "Clear"

@@ -246,7 +246,7 @@ msgstr "Chứng nhận"
 msgid "Check"
 msgstr "Đánh dấu"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "Kiểm tra cập nhật"
 
 msgid "Clear"

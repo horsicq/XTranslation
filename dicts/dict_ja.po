@@ -246,7 +246,7 @@ msgstr "証明書"
 msgid "Check"
 msgstr "チェック"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "アップデートの確認"
 
 msgid "Clear"

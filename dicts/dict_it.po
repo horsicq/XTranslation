@@ -246,7 +246,7 @@ msgstr "Certificato"
 msgid "Check"
 msgstr "Controlla"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "Controlla aggiornamenti"
 
 msgid "Clear"

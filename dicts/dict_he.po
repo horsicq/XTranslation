@@ -246,7 +246,7 @@ msgstr "תעודה"
 msgid "Check"
 msgstr "חשבון"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "בדוק עדכונים"
 
 msgid "Clear"

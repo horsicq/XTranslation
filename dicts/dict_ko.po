@@ -246,7 +246,7 @@ msgstr "인증서"
 msgid "Check"
 msgstr "확인"
 
-msgid "Check updates"
+msgid "Check for updates"
 msgstr "업데이트 확인"
 
 msgid "Clear"
