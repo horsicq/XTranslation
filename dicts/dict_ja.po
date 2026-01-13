@@ -4,1577 +4,5986 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Language: ja_JP\n"
-
-msgid "128-bit"
-msgstr "128ビット"
-
-msgid "16-bit"
-msgstr "16ビット"
-
-msgid "256-bit"
-msgstr "256ビット"
-
-msgid "32-bit"
-msgstr "32ビット"
-
-msgid "64-bit"
-msgstr "64ビット"
-
-msgid "8-bit"
-msgstr "8ビット"
-
-msgid "API key"
-msgstr "APIキー"
-
-msgid "About"
-msgstr "情報"
-
-msgid "Action"
-msgstr "操作"
-
-msgid "Add"
-msgstr "追加"
-
-msgid "Add alignment"
-msgstr "パディングを追加"
-
-msgid "Add to context menu"
-msgstr "コンテキストメニューに追加"
-
-msgid "Address"
-msgstr "アドレス"
-
-msgid "Advanced"
-msgstr "高度"
-
-msgid "Aggressive scan"
-msgstr "アグレッシブスキャン"
-
-msgid "Algorithm"
-msgstr "アルゴリズム"
-
-msgid "All"
-msgstr "すべて"
-
-msgid "All files"
-msgstr "すべてのファイル"
-
-msgid "All types"
-msgstr "すべての種類"
-
-msgid "Analyze"
-msgstr "解析"
-
-msgid "Analyzed"
-msgstr "解析済み"
-
-msgid "Animate"
-msgstr "アニメーション"
-
-msgid "Appearance"
-msgstr "外観"
-
-msgid "Application"
-msgstr "アプリケーション"
-
-msgid "Architecture"
-msgstr "アーキテクチャ"
-
-msgid "Archive"
-msgstr "アーカイブ"
-
-msgid "Archive record"
-msgstr "アーカイブ レコード"
-
-msgid "Array"
-msgstr "配列"
-
-msgid "Arrows"
-msgstr "矢印"
-
-msgid "Attach"
-msgstr "添付"
-
-msgid "Audio"
-msgstr "オーディオ"
-
-msgid "Author"
-msgstr "作成者"
-
-msgid "Automatic"
-msgstr "自動"
-
-msgid "Background"
-msgstr "背景"
-
-msgid "Base"
-msgstr ""
-
-msgid "Base address"
-msgstr "基準アドレス"
-
-msgid "Begin"
-msgstr "先頭"
-
-msgid "Binary"
-msgstr "バイナリ"
-
-msgid "Bind"
-msgstr "バインド"
-
-msgid "Binding"
-msgstr "バインディング"
-
-msgid "Bits"
-msgstr "Bits"
-
-msgid "Block size"
-msgstr "ブロックサイズ"
-
-msgid "Bookmark"
-msgstr "ブックマーク"
-
-msgid "Bookmarks"
-msgstr "ブックマーク"
-
-msgid "Boot application"
-msgstr "ブートアプリケーション"
-
-msgid "Boot service driver"
-msgstr "ブートサービスドライバー"
-
-msgid "Bound import"
-msgstr "バインドされたインポート"
-
-msgid "Breakpoint"
-msgstr "ブレークポイント"
-
-msgid "Breakpoints"
-msgstr "ブレークポイント"
-
-msgid "Buffer size"
-msgstr "バッファーサイズ"
-
-msgid "Bugreports"
-msgstr "バグ報告"
-
-msgid "Bundle"
-msgstr "バンドル"
-
-msgid "Byte"
-msgstr "バイト"
-
-msgid "Bytes"
-msgstr "バイト"
-
-msgid "Bytes available"
-msgstr "利用可能なバイト"
-
-msgid "CPU"
-msgstr "CPU"
-
-msgid "Calculate"
-msgstr "計算"
-
-msgid "Callbacks"
-msgstr "コールバック"
-
-msgid "Callstack"
-msgstr "コールスタック"
-
-msgid "Cancel"
-msgstr "キャンセル"
-
-msgid "Cannot find"
-msgstr "見つかりませんでした"
-
-msgid "Cannot find file"
-msgstr "ファイルが見つかりませんでした"
-
-msgid "Cannot fix dump file"
-msgstr "ダンプファイルを修正できませんでした"
-
-msgid "Cannot get PDB age"
-msgstr "PDB の経過時間を取得できませんでした"
-
-msgid "Cannot get PDB name"
-msgstr "PDB 名を取得できませんでした"
-
-msgid "Cannot load MSDIA library"
-msgstr "MSDIA ライブラリをロードできませんでした"
-
-msgid "Cannot load data from PDB"
-msgstr "PDB からデータをロードできませんでした"
-
-msgid "Cannot load database"
-msgstr "データベースをロードできませんでした"
-
-msgid "Cannot load file"
-msgstr "ファイルをロードできませんでした"
-
-msgid "Cannot open dump file"
-msgstr "ダンプファイルを開けませんでした"
-
-msgid "Cannot open file"
-msgstr "ファイルを開けませんでした"
-
-msgid "Cannot open session"
-msgstr "セッションを開けませんでした"
-
-msgid "Cannot read file"
-msgstr "ファイルを読み取れませんでした"
-
-msgid "Cannot read memory at address"
-msgstr "アドレスのメモリを読み取れませんでした"
-
-msgid "Cannot resize"
-msgstr "サイズを変更できませんでした"
-
-msgid "Cannot save file"
-msgstr "ファイルを保存できませんでした"
-
-msgid "Cannot set shortcut"
-msgstr "ショートカットを設定できませんでした"
-
-msgid "Cannot write data to file"
-msgstr "ファイルにデータを書き込めませんでした"
-
-msgid "Certificate"
-msgstr "証明書"
-
-msgid "Check"
-msgstr "チェック"
-
-msgid "Check for updates"
-msgstr "アップデートの確認"
-
-msgid "Clear"
-msgstr "消去"
-
-msgid "Clear result"
-msgstr "結果を消去"
-
-msgid "Close"
-msgstr "閉じる"
-
-msgid "Code pages"
-msgstr "コードページ"
-
-msgid "Code section"
-msgstr "コードセクション"
-
-msgid "Color"
-msgstr "色"
-
-msgid "Colors"
-msgstr "色"
-
-msgid "Commands"
-msgstr "コマンド"
-
-msgid "Comment"
-msgstr "コメント"
-
-msgid "Compact"
-msgstr "コンパクト表示"
-
-msgid "Compiler"
-msgstr "コンパイラ"
-
-msgid "Compressor"
-msgstr "圧縮ツール"
-
-msgid "Conditional"
-msgstr "条件付き"
-
-msgid "Console"
-msgstr "コンソール"
-
-msgid "Controls"
-msgstr "コントロール"
-
-msgid "Converter"
-msgstr "変換ツール"
-
-msgid "Convertor"
-msgstr "変換ツール"
-
-msgid "Copy"
-msgstr "コピー"
-
-msgid "Copy as"
-msgstr "形式を指定してコピー"
-
-msgid "Corrupted data"
-msgstr "破損データ"
-
-msgid "Count"
-msgstr "個数"
-
-msgid "Creator"
-msgstr ""
-
-msgid "Crypter"
-msgstr "暗号化ツール"
-
-msgid "Cryptor"
-msgstr "暗号化ツール"
-
-msgid "Cursor"
-msgstr "カーソル"
-
-msgid "Custom"
-msgstr "カスタム"
-
-msgid "Custom database"
-msgstr "カスタムデータベース"
-
-msgid "Data"
-msgstr "データ"
-
-msgid "Data convertor"
-msgstr "データコンバーター"
-
-msgid "Data in code"
-msgstr "コード内データ"
-
-msgid "Database"
-msgstr "データベース"
-
-msgid "Databases"
-msgstr "データベース"
-
-msgid "Date"
-msgstr "日付"
-
-msgid "Debug"
-msgstr "デバッグ"
-
-msgid "Debug data"
-msgstr "デバッグデータ"
-
-msgid "Debug registers"
-msgstr "デバッグレジスタ"
-
-msgid "Debugger"
-msgstr "デバッガー"
-
-msgid "Decode"
-msgstr "デコード"
-
-msgid "Deep scan"
-msgstr "ディープスキャン"
-
-msgid "Default"
-msgstr "デフォルト"
-
-msgid "Delay import"
-msgstr "遅延インポート"
-
-msgid "Demangle"
-msgstr "デマングル"
-
-msgid "Dependencies"
-msgstr "依存関係"
-
-msgid "Description"
-msgstr "説明"
-
-msgid "Detach"
-msgstr "デタッチ"
-
-msgid "Detect"
-msgstr "検知"
-
-msgid "Device scan"
-msgstr "デバイスのスキャン"
-
-msgid "Diagram"
-msgstr "ダイアグラム"
-
-msgid "Dialog"
-msgstr "ダイアログ"
-
-msgid "Directory"
-msgstr "ディレクトリ"
-
-msgid "Directory scan"
-msgstr "ディレクトリのスキャン"
-
-msgid "Disasm"
-msgstr "逆アセンブル"
-
-msgid "Document"
-msgstr "ドキュメント"
-
-msgid "Documents"
-msgstr "ドキュメント"
-
-msgid "Donate"
-msgstr "寄付"
-
-msgid "Driver"
-msgstr "ドライバー"
-
-msgid "Dump"
-msgstr "ダンプ"
-
-msgid "Dump all"
-msgstr "すべてダンプ"
-
-msgid "Dump to file"
-msgstr "ファイルにダンプ"
-
-msgid "Edit"
-msgstr "編集"
-
-msgid "Editor"
-msgstr "エディター"
-
-msgid "Elapsed"
-msgstr "経過"
-
-msgid "Encode"
-msgstr "エンコード"
-
-msgid "End"
-msgstr "終了位置"
-
-msgid "Endianness"
-msgstr "エンディアン"
-
-msgid "Entropy"
-msgstr "エントロピー"
-
-msgid "Entry point"
-msgstr "エントリポイント"
-
-msgid "Entry point section"
-msgstr "エントリポイントセクション"
-
-msgid "Error"
-msgstr "エラー"
-
-msgid "Exceptions"
-msgstr "例外"
-
-msgid "Exit"
-msgstr "終了"
-
-msgid "Export"
-msgstr "エクスポート"
-
-msgid "Export File Name"
-msgstr "エクスポートファイル名"
-
-msgid "Export type"
-msgstr "エクスポート形式"
-
-msgid "Extender"
-msgstr "エクステンダー"
-
-msgid "External references"
-msgstr "外部参照"
-
-msgid "Extra"
-msgstr "エクストラ"
-
-msgid "Extra database"
-msgstr "追加データベース"
-
-msgid "Extract"
-msgstr "抽出"
-
-msgid "Extract all cursors"
-msgstr "全てのカーソルを抽出"
-
-msgid "Extract all icons"
-msgstr "全てのアイコンを抽出"
-
-msgid "Extractor"
-msgstr "抽出ツール"
-
-msgid "File"
-msgstr "ファイル"
-
-msgid "File info"
-msgstr "ファイル情報"
-
-msgid "File name"
-msgstr "ファイル名"
-
-msgid "File offset"
-msgstr "ファイルオフセット"
-
-msgid "File saved"
-msgstr "ファイルを保存しました"
-
-msgid "File scan"
-msgstr "ファイルのスキャン"
-
-msgid "File size"
-msgstr "ファイルサイズ"
-
-msgid "File type"
-msgstr "ファイルの種類"
-
-msgid "Files"
-msgstr "ファイル"
-
-msgid "Filter"
-msgstr "フィルター"
-
-msgid "Find"
-msgstr "検索"
-
-msgid "First"
-msgstr "先頭"
-
-msgid "Fix offsets"
-msgstr "オフセットを修正"
-
-msgid "Fix types"
-msgstr "型を修正"
-
-msgid "Flags"
-msgstr "フラグ"
-
-msgid "Flags register"
-msgstr "フラグレジスタ"
-
-msgid "Folder"
-msgstr "フォルダー"
-
-msgid "Follow in"
-msgstr "追跡表示"
-
-msgid "Follow me"
-msgstr "追跡する"
-
-msgid "Fonts"
-msgstr "フォント"
-
-msgid "Footer"
-msgstr "フッター"
-
-msgid "Form"
-msgstr "フォーム"
-
-msgid "Format"
-msgstr "書式"
-
-msgid "Format result"
-msgstr "結果をフォーマット"
-
-msgid "Full"
-msgstr "全体"
-
-msgid "Full screen"
-msgstr "フルスクリーン"
-
-msgid "Function enter"
-msgstr "関数開始"
-
-msgid "Function leave"
-msgstr "関数終了"
-
-msgid "Functions"
-msgstr "関数"
-
+"X-Language: ja\n"
+"X-Source-Language: C\n"
+"X-Qt-Contexts: true\n"
+"X-Generator: Poedit 3.8\n"
+"Last-Translator: coolvitto\n"
+"Language-Team: \n"
+"Language: ja\n"
+
+msgctxt "XBinary|"
 msgid "GB"
 msgstr "GB"
 
-msgid "General registers"
-msgstr "汎用レジスタ"
-
-msgid "Generic"
-msgstr "汎用"
-
-msgid "Get"
-msgstr "取得"
-
-msgid "Get element"
-msgstr "要素を取得"
-
-msgid "GiB"
-msgstr "GiB"
-
-msgid "Go to"
-msgstr "移動"
-
-msgid "Go to address"
-msgstr "アドレスに移動"
-
-msgid "Go to download page?"
-msgstr "ダウンロードページへ移動しますか?"
-
-msgid "Gradient"
-msgstr "グラデーション"
-
-msgid "Grid"
-msgstr "グリッド"
-
-msgid "Group"
-msgstr "グループ"
-
-msgid "Handles"
-msgstr "ハンドル"
-
-msgid "Hardware"
-msgstr "ハードウェア"
-
-msgid "Hash"
-msgstr "ハッシュ"
-
-msgid "Header"
-msgstr "ヘッダー"
-
-msgid "Height"
-msgstr "高さ"
-
-msgid "Help"
-msgstr "ヘルプ"
-
-msgid "Heuristic"
-msgstr "ヒューリスティック"
-
-msgid "Heuristic scan"
-msgstr "ヒューリスティック スキャン"
-
-msgid "Heuristics"
-msgstr "ヒューリスティック"
-
-msgid "Hex"
-msgstr "16進数"
-
-msgid "Hide unknown"
-msgstr "不明項目を非表示"
-
-msgid "Highlight"
-msgstr "ハイライト"
-
-msgid "Highlights"
-msgstr "ハイライト"
-
-msgid "Image"
-msgstr "イメージ"
-
-msgid "Images"
-msgstr "イメージ"
-
-msgid "Import"
-msgstr "インポート"
-
-msgid "Import hash"
-msgstr "ハッシュをインポート"
-
-msgid "Indirect symbols"
-msgstr "間接シンボル"
-
-msgid "Info"
-msgstr "情報"
-
-msgid "Information"
-msgstr "インフォメーション"
-
-msgid "Input"
-msgstr "入力"
-
-msgid "Inspector"
-msgstr "インスペクター"
-
-msgid "Installer"
-msgstr "インストーラー"
-
-msgid "Installer data"
-msgstr "インストーラーデータ"
-
-msgid "Instruction pointer register"
-msgstr "命令ポインタレジスタ"
-
-msgid "Interpreter"
-msgstr "インタープリター"
-
-msgid "Invalid"
-msgstr "不正"
-
-msgid "Invalid font"
-msgstr "無効なフォント"
-
-msgid "Invalid handle"
-msgstr "不正なハンドル"
-
-msgid "Invalid offset"
-msgstr "不正なオフセット"
-
-msgid "Invalid opcode"
-msgstr "不正な命令コード"
-
-msgid "Invalid signature"
-msgstr "不正なシグネチャ"
-
-msgid "Invalid size"
-msgstr "不正なサイズ"
-
-msgid "Issuer"
-msgstr "発行者"
-
-msgid "Joiner"
-msgstr "結合ツール"
-
-msgid "Keep size"
-msgstr "サイズを保持"
-
-msgid "KiB"
-msgstr "KiB"
-
-msgid "Language"
-msgstr "言語"
-
-msgid "Last"
-msgstr "末尾"
-
-msgid "Lazy binding"
-msgstr "遅延バインディング"
-
-msgid "Length"
-msgstr "長さ"
-
-msgid "Libraries"
-msgstr "ライブラリ"
-
-msgid "Library"
-msgstr "ライブラリ"
-
-msgid "Library name"
-msgstr "ライブラリ名"
-
-msgid "Licensing"
-msgstr "ライセンス"
-
-msgid "Linker"
-msgstr "リンカー"
-
-msgid "Links"
-msgstr "リンク"
-
-msgid "List"
-msgstr "リスト"
-
-msgid "Load"
-msgstr "ロード"
-
-msgid "Load config"
-msgstr "構成をロード"
-
-msgid "Loader"
-msgstr "ローダー"
-
-msgid "Local relocation"
-msgstr "ローカル再配置"
-
-msgid "Location"
-msgstr "配置"
-
-msgid "Log"
-msgstr "ログ"
-
+msgctxt "XBinary|"
 msgid "MB"
 msgstr "MB"
 
-msgid "Main"
-msgstr "メイン"
-
-msgid "Main module"
-msgstr "メインモジュール"
-
-msgid "MainWindow"
-msgstr "MainWindow"
-
-msgid "Malware"
-msgstr "マルウェア"
-
-msgid "Manifest"
-msgstr "Manifest"
-
-msgid "Map"
-msgstr "マップ"
-
-msgid "Maps"
-msgstr "マップ"
-
-msgid "Mask"
-msgstr "マスク"
-
-msgid "Match case"
-msgstr "大文字/小文字を区別"
-
-msgid "Matches"
-msgstr "一致"
-
-msgid "Maximum"
-msgstr "最大"
-
-msgid "Memory"
-msgstr "メモリー"
-
-msgid "Memory map"
-msgstr "メモリマップ"
-
-msgid "Memory scan"
-msgstr "メモリスキャン"
-
-msgid "Metadata"
-msgstr "メタデータ"
-
-msgid "Metadata table"
-msgstr "メタデータテーブル"
-
-msgid "Method"
-msgstr "メソッド"
-
-msgid "Methods"
-msgstr "メソッド"
-
-msgid "MiB"
-msgstr "MiB"
-
-msgid "Min length"
-msgstr "最小の長さ"
-
-msgid "Mode"
-msgstr "モード"
-
-msgid "Modules"
-msgstr "モジュール"
-
-msgid "More info"
-msgstr "詳細情報"
-
-msgid "Multiplatform"
-msgstr "マルチプラットフォーム"
-
-msgid "Multisearch"
-msgstr "複数検索"
-
-msgid "Name"
-msgstr "名前"
-
-msgid "Network error"
-msgstr "ネットワークエラー"
-
-msgid "New"
-msgstr "新規"
-
-msgid "New version available"
-msgstr "新しいバージョンが利用可能です"
-
-msgid "Next"
-msgstr "次"
-
-msgid "Next visited"
-msgstr "次の訪問先"
-
-msgid "No"
-msgstr "いいえ"
-
-msgid "No update available"
-msgstr "アップデートはありません"
-
-msgid "None"
-msgstr "なし"
-
-msgid "Nothing found"
-msgstr "該当なし"
-
-msgid "Null-terminated"
-msgstr "null終端文字"
-
-msgid "Numbers"
-msgstr "数字"
-
-msgid "OK"
-msgstr "OK"
-
-msgid "Obfuscator"
-msgstr "難読化ツール"
-
-msgid "Object"
-msgstr "オブジェクト"
-
-msgid "Objects"
-msgstr "オブジェクト"
-
-msgid "Offset"
-msgstr "オフセット"
-
-msgid "One operand"
-msgstr "1オペランド"
-
-msgid "Online tools"
-msgstr "オンラインツール"
-
-msgid "Opcode"
-msgstr "命令コード"
-
-msgid "Opcode group"
-msgstr "命令コードグループ"
-
-msgid "Opcodes"
-msgstr "命令コード"
-
-msgid "Open"
-msgstr "開く"
-
-msgid "Open directory"
-msgstr "ディレクトリを開く"
-
-msgid "Open file"
-msgstr "ファイルを開く"
-
-msgid "Operation system"
-msgstr "オペレーティングシステム"
-
-msgid "Options"
-msgstr "オプション"
-
-msgid "Output"
-msgstr "出力"
-
-msgid "Overlay"
-msgstr "オーバーレイ"
-
-msgid "Package"
-msgstr "パッケージ"
-
-msgid "Packer"
-msgstr "パッカー"
-
-msgid "Patch"
-msgstr "パッチ"
-
-msgid "Pause"
-msgstr "一時停止"
-
-msgid "Paused"
-msgstr "一時停止中"
-
-msgid "Payload"
-msgstr "ペイロード"
-
-msgid "Personal data"
-msgstr "個人データ"
-
-msgid "Plain Text"
-msgstr "プレーンテキスト"
-
-msgid "Platform"
-msgstr "プラットフォーム"
-
-msgid "Player"
-msgstr "プレイヤー"
-
-msgid "Please restart the application"
-msgstr "プログラムを再起動してください"
-
-msgid "Please run the program as an administrator"
-msgstr "管理者としてプログラムを実行してください"
-
-msgid "Please use valid API key"
-msgstr "有効なAPIキーを使用してください"
-
-msgid "Pointer"
-msgstr "ポインター"
-
-msgid "Position"
-msgstr "位置"
-
-msgid "Previous visited"
-msgstr "前の訪問先"
-
-msgid "Print"
-msgstr "印刷"
-
-msgid "Process"
-msgstr "プロセス"
-
-msgid "Producer"
-msgstr "プロデューサー"
-
-msgid "Profiling"
-msgstr "プロファイリング"
-
-msgid "Program name"
-msgstr "プログラム名"
-
-msgid "Programs"
-msgstr "プログラム"
-
-msgid "Protection"
-msgstr "保護"
-
-msgid "Protector"
-msgstr "プロテクター"
-
-msgid "Protector data"
-msgstr "プロテクターデータ"
-
-msgid "Prototype"
-msgstr "プロトタイプ"
-
-msgid "Publisher"
-msgstr "開発者"
-
-msgid "Raw data"
-msgstr "Rawデータ"
-
-msgid "Read error"
-msgstr "読み取りエラー"
-
-msgid "Readonly"
-msgstr "読み取り専用"
-
-msgid "Rebase"
-msgstr "リベース"
-
-msgid "Recent files"
-msgstr "最近使ったファイル"
-
-msgid "Recursive"
-msgstr "再帰的"
-
-msgid "Recursive scan"
-msgstr "再帰的スキャン"
-
-msgid "References"
-msgstr "参照"
-
-msgid "Region"
-msgstr "領域"
-
-msgid "Regions"
-msgstr "領域"
-
-msgid "Register"
-msgstr "レジスタ"
-
-msgid "Registers"
-msgstr "レジスタ"
-
-msgid "Regular expression"
-msgstr "正規表現"
-
-msgid "Relative address"
-msgstr "相対アドレス"
-
-msgid "Relative virtual address"
-msgstr "相対仮想アドレス"
-
-msgid "Reload"
-msgstr "再読み込み"
-
-msgid "Relocs"
-msgstr "再配置"
-
-msgid "Remove"
-msgstr "削除"
-
-msgid "Rescan"
-msgstr "再スキャン"
-
-msgid "Resize"
-msgstr "リサイズ"
-
-msgid "Resource"
-msgstr "リソース"
-
-msgid "Resources"
-msgstr "リソース"
-
-msgid "Restart"
-msgstr "再起動"
-
-msgid "Result"
-msgstr "結果"
-
-msgid "Rule name"
-msgstr "ルール名"
-
-msgid "Rules"
-msgstr "ルール"
-
-msgid "Run"
-msgstr "実行"
-
-msgid "Run path"
-msgstr "実行パス"
-
-msgid "Running"
-msgstr "実行中"
-
-msgid "Runtime driver"
-msgstr "ランタイムドライバー"
-
-msgid "Save"
-msgstr "保存"
-
-msgid "Save as"
-msgstr "名前を付けて保存"
-
-msgid "Save backup"
-msgstr "バックアップを保存"
-
-msgid "Save diagram"
-msgstr "グラフを保存"
-
-msgid "Save dump"
-msgstr "ダンプを保存"
-
-msgid "Save file"
-msgstr "ファイルを保存"
-
-msgid "Save history"
-msgstr "履歴を保存"
-
-msgid "Save last directory"
-msgstr "最後に使用したディレクトリを保存"
-
-msgid "Save result"
-msgstr "結果を保存"
-
-msgid "Scan"
-msgstr "スキャン"
-
-msgid "Scan after open"
-msgstr "開いた後にスキャン"
-
-msgid "Scan engine"
-msgstr "スキャンエンジン"
-
-msgid "Schema"
-msgstr "スキーマ"
-
-msgid "Script"
-msgstr "スクリプト"
-
-msgid "Scripts"
-msgstr "スクリプト"
-
-msgid "Search"
-msgstr "検索"
-
-msgid "Search from"
-msgstr "検索開始位置"
-
-msgid "Search signature"
-msgstr "シグネチャ検索"
-
-msgid "Search signatures"
-msgstr "シグネチャ検索"
-
-msgid "Search string"
-msgstr "検索文字列"
-
-msgid "Search strings"
-msgstr "検索文字列"
-
-msgid "Search value"
-msgstr "検索値"
-
-msgid "Search values"
-msgstr "検索値"
-
-msgid "Section"
-msgstr "セクション"
-
-msgid "Section name"
-msgstr "セクション名"
-
-msgid "Sections"
-msgstr "セクション"
-
-msgid "Segment"
-msgstr "セグメント"
-
-msgid "Segment registers"
-msgstr "セグメントレジスタ"
-
-msgid "Segments"
-msgstr "セグメント"
-
-msgid "Select"
-msgstr "選択"
-
-msgid "Selected"
-msgstr "選択中"
-
-msgid "Selection"
-msgstr "選択"
-
-msgid "Serial number"
-msgstr "シリアルナンバー"
-
-msgid "Shortcut"
-msgstr "ショートカット"
-
-msgid "Shortcuts"
-msgstr "ショートカット"
-
-msgid "Show"
-msgstr "表示"
-
-msgid "Show all"
-msgstr "すべて表示"
-
-msgid "Show colons in addresses"
-msgstr "アドレスにコロンを含めて表示"
-
-msgid "Show comments"
-msgstr "コメントを表示"
-
-msgid "Show detects"
-msgstr "検出結果を表示"
-
-msgid "Show in"
-msgstr ""
-
-msgid "Show info"
-msgstr "情報を表示"
-
-msgid "Show logo"
-msgstr "ロゴを表示"
-
-msgid "Show type"
-msgstr "型を表示"
-
-msgid "Show valid"
-msgstr "有効を表示"
-
-msgid "Show version"
-msgstr "バージョンを表示"
-
-msgid "Sign tool"
-msgstr "署名ツール"
-
-msgid "Signature"
-msgstr "シグネチャ"
-
-msgid "Signature name"
-msgstr "シグネチャ名"
-
-msgid "Signatures"
-msgstr "シグネチャ"
-
-msgid "Signed"
-msgstr "署名済み"
-
-msgid "Single application"
-msgstr "単体アプリケーション"
-
-msgid "Size"
-msgstr "サイズ"
-
-msgid "Size of image"
-msgstr "画像のサイズ"
-
-msgid "Sort"
-msgstr "並べ替え"
-
-msgid "Sort elements"
-msgstr "要素を並べ替える"
-
-msgid "Sort type"
-msgstr "並び替え種別"
-
-msgid "Sorted"
-msgstr "並び替え済み"
-
-msgid "Source code"
-msgstr "ソースコード"
-
-msgid "Spaces"
-msgstr "スペース"
-
-msgid "Stack"
-msgstr "スタック"
-
-msgid "Stack registers"
-msgstr "スタックレジスタ"
-
-msgid "Start"
-msgstr "開始"
-
-msgid "Status"
-msgstr "状態"
-
-msgid "Stay on top"
-msgstr "常に最前面表示"
-
-msgid "Step into"
-msgstr "ステップイン"
-
-msgid "Step over"
-msgstr "ステップオーバー"
-
-msgid "Stop"
-msgstr "停止"
-
-msgid "String"
-msgstr "文字列"
-
-msgid "String table"
-msgstr "文字列テーブル"
-
-msgid "Strings"
-msgstr "文字列"
-
-msgid "Struct"
-msgstr "構造体"
-
-msgid "Struct and unions"
-msgstr "構造体と共用体"
-
-msgid "Structs"
-msgstr "構造体"
-
-msgid "Stub"
-msgstr "スタブ"
-
-msgid "Style"
-msgstr "スタイル"
-
-msgid "Subdirectories"
-msgstr "サブディレクトリ"
-
-# 証明書情報の主体名を指す
-# 参照
-# https://github.com/horsicq/FormatWidgets/blob/master/PE/peprocessdata.cpp#L1040
-# https://github.com/horsicq/FormatWidgets/blob/master/PE/peprocessdata.cpp#L1044
-msgid "Subject"
-msgstr "主体"
-
-msgid "Symbol"
-msgstr "シンボル"
-
-msgid "Symbol table"
-msgstr "シンボルテーブル"
-
-msgid "Symbols"
-msgstr "シンボル"
-
-msgid "Sync"
-msgstr "同期"
-
-msgid "Syntax"
-msgstr "構文"
-
+msgctxt "XBinary|"
 msgid "TB"
 msgstr "TB"
 
-msgid "Table"
-msgstr "テーブル"
-
-msgid "Table of contents"
-msgstr "目次"
-
-msgid "Table views"
-msgstr "テーブルビュー"
-
-msgid "Tags"
-msgstr "タグ"
-
-msgid "Text"
-msgstr "テキスト"
-
-msgid "Text documents"
-msgstr "テキスト文書"
-
-msgid "Text editors"
-msgstr "テキストエディター"
-
-msgid "Text files"
-msgstr "テキストファイル"
-
-msgid "Thanks"
-msgstr "謝辞"
-
-msgid "The file is not signed"
-msgstr "ファイルは署名されていません"
-
-msgid "The file is signed and the signature was verified"
-msgstr "ファイルは署名されており、署名は検証されました"
-
-msgid "The signature error"
-msgstr "シグネチャエラー"
-
-msgid "The signature is present, but not trusted"
-msgstr "シグネチャは存在しますが、信頼されていません"
-
-msgid "The signature is present, but specifically disallowed"
-msgstr "シグネチャは存在しますが、明示的に無効化されています"
-
-msgid "The value copied to clipboard"
-msgstr "クリップボードに値をコピーしました"
-
-msgid "Threads"
-msgstr "スレッド"
-
-msgid "TiB"
-msgstr "TiB"
-
-msgid "Time"
-msgstr "時間"
-
-msgid "Time date stamp"
-msgstr "タイムスタンプ"
-
-msgid "Toggle"
-msgstr "トグル"
-
-msgid "Tool"
-msgstr "ツール"
-
-msgid "Tools"
-msgstr "ツール"
-
-msgid "Total"
-msgstr "合計"
-
-msgid "Trace"
-msgstr "トレース"
-
-msgid "Trace into"
-msgstr "トレースイン"
-
-msgid "Trace over"
-msgstr "トレースオーバー"
-
-msgid "Tree"
-msgstr "ツリー"
-
-msgid "Tree views"
-msgstr "ツリービュー"
-
-msgid "Trojan"
-msgstr "トロイの木馬"
-
-msgid "Two operands"
-msgstr "2オペランド"
-
-msgid "Type"
-msgstr "種類"
-
-msgid "Unicode"
-msgstr "ユニコード"
-
-msgid "Universal"
-msgstr "ユニバーサル"
-
-msgid "Unknown"
-msgstr "不明"
-
-msgid "Unpack"
-msgstr "アンパック"
-
-msgid "Unsigned"
-msgstr "署名なし"
-
-msgid "Update information"
-msgstr "更新情報"
-
-msgid "Upload the file for analyze?"
-msgstr "分析のためにファイルをアップロードしますか?"
-
-msgid "Upper"
-msgstr "大文字"
-
-msgid "Uppercase"
-msgstr "大文字"
-
-msgid "Value"
-msgstr "値"
-
-msgid "Values"
-msgstr "値"
-
-msgid "Variable"
-msgstr "変数"
-
-msgid "Verbose"
-msgstr "詳細な出力"
-
-msgid "Version"
-msgstr "バージョン"
-
-msgid "Video"
-msgstr "動画"
-
-msgid "View"
-msgstr "表示"
-
-msgid "Viewer"
-msgstr "ビューア"
-
-msgid "Virtual address"
-msgstr "仮想アドレス"
-
-msgid "Virtual machine"
-msgstr "仮想マシン"
-
-msgid "Virtual size"
-msgstr "仮想サイズ"
-
-msgid "Virus"
-msgstr "ウイルス"
-
-msgid "Visualization"
-msgstr "視覚化"
-
-msgid "Warning"
-msgstr "警告"
-
-msgid "Weak binding"
-msgstr "弱結合"
-
-msgid "Website"
-msgstr "Webサイト"
-
-msgid "Width"
-msgstr "幅"
-
-msgid "Wildcard"
-msgstr "ワイルドカード"
-
-msgid "Write error"
-msgstr "書き込みエラー"
-
-msgid "Zeros"
-msgstr "ゼロ"
-
-msgid "Zoom"
-msgstr "拡大・縮小"
-
-msgid "data"
-msgstr "データ"
-
-msgid "extender"
-msgstr "拡張ツール"
-
-msgid "false"
-msgstr "false"
-
+msgctxt "XBinary|"
 msgid "kB"
 msgstr "kB"
 
+msgctxt "XBinary|"
+msgid "GiB"
+msgstr "GiB"
+
+msgctxt "XBinary|"
+msgid "KiB"
+msgstr "KiB"
+
+msgctxt "XBinary|"
+msgid "MiB"
+msgstr "MiB"
+
+msgctxt "XBinary|"
+msgid "TiB"
+msgstr "TiB"
+
+msgctxt "XBinary|"
+msgid "Plain Text"
+msgstr "プレーンテキスト"
+
+msgctxt "XBinary|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XBinary|"
+msgid "Maps"
+msgstr "マップ"
+
+msgctxt "XBinary|"
+msgid "Text"
+msgstr "テキスト"
+
+msgctxt "XBinary|"
+msgid "true"
+msgstr "true"
+
+msgctxt "XBinary|"
+msgid "8-bit"
+msgstr "8ビット"
+
+msgctxt "XBinary|"
+msgid "Audio"
+msgstr "オーディオ"
+
+msgctxt "XBinary|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "XBinary|"
+msgid "Image"
+msgstr "イメージ"
+
+msgctxt "XBinary|"
+msgid "Video"
+msgstr "動画"
+
+msgctxt "XBinary|"
+msgid "false"
+msgstr "false"
+
+msgctxt "XBinary|"
+msgid "Invalid signature"
+msgstr "無効な署名"
+
+msgctxt "XBinary|"
+msgid "16-bit"
+msgstr "16ビット"
+
+msgctxt "XBinary|"
+msgid "32-bit"
+msgstr "32ビット"
+
+msgctxt "XBinary|"
+msgid "Maximum"
+msgstr "最大"
+
+msgctxt "XBinary|"
+msgid "64-bit"
+msgstr "64ビット"
+
+msgctxt "XBinary|"
+msgid "128-bit"
+msgstr "128ビット"
+
+msgctxt "XBinary|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "XBinary|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XBinary|"
+msgid "256-bit"
+msgstr "256ビット"
+
+msgctxt "XBinary|"
+msgid "Region"
+msgstr "領域"
+
+msgctxt "XBinary|"
+msgid "Objects"
+msgstr "オブジェクト"
+
+msgctxt "XBinary|"
+msgid "Document"
+msgstr "ドキュメント"
+
+msgctxt "XBinary|"
+msgid "Multiplatform"
+msgstr "マルチプラットフォーム"
+
+msgctxt "XBinary|"
+msgid "Read error"
+msgstr "読み取りエラー"
+
+msgctxt "XBinary|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XBinary|"
+msgid "Write error"
+msgstr "書き込みエラー"
+
+msgctxt "XBinary|"
+msgid "Process"
+msgstr "プロセス"
+
+msgctxt "XBinary|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "XBinary|"
+msgid "Regions"
+msgstr "領域"
+
+msgctxt "XBinary|"
+msgid "Default"
+msgstr "既定"
+
+msgctxt "XBinary|"
+msgid "Debug data"
+msgstr "デバッグ データ"
+
+msgctxt "XBinary|"
+msgid "Sections"
+msgstr "セクション"
+
+msgctxt "XBinary|"
+msgid "Segments"
+msgstr "セグメント"
+
+msgctxt "XBinary|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XBinary|"
+msgid "Resource"
+msgstr "リソース"
+
+msgctxt "XBinary|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "XBinary|"
+msgid "Archive record"
+msgstr "アーカイブ レコード"
+
+msgctxt "DialogAbout|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogAbout|"
+msgid "About"
+msgstr "DIE について"
+
+msgctxt "DialogAbout|"
+msgid "Donate"
+msgstr "寄付"
+
+msgctxt "DialogAbout|"
+msgid "Bugreports"
+msgstr "バグ報告"
+
+msgctxt "DialogAbout|"
+msgid "Source code"
+msgstr "ソース コード"
+
+msgctxt "DialogAbout|"
+msgid "Website"
+msgstr "Webサイト"
+
+msgctxt "DialogAsmSignature|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogAsmSignature|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "DialogAsmSignature|"
+msgid "Wildcard"
+msgstr "ワイルドカード"
+
+msgctxt "DialogAsmSignature|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "DialogAsmSignature|"
+msgid "Upper"
+msgstr "大文字"
+
+msgctxt "DialogAsmSignature|"
+msgid "Opcode"
+msgstr "オペコード"
+
+msgctxt "DialogAsmSignature|"
+msgid "Spaces"
+msgstr "スペース"
+
+msgctxt "DialogAsmSignature|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "DialogAsmSignature|"
+msgid "Relative virtual address"
+msgstr "相対仮想アドレス"
+
+msgctxt "DialogAsmSignature|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "DialogBits8|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogBits8|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogBits8|"
+msgid "Bits"
+msgstr "Bits"
+
+msgctxt "DialogBits8|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogBits8|"
+msgid "Unsigned"
+msgstr "署名なし"
+
+msgctxt "DialogBits8|"
+msgid "Signed"
+msgstr "署名済み"
+
+msgctxt "DialogBookmarks|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogBookmarks|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "DialogBookmarks|"
+msgid "Color"
+msgstr "色"
+
+msgctxt "DialogBookmarks|"
+msgid "Background"
+msgstr "背景"
+
+msgctxt "DialogBookmarks|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "DialogBookmarks|"
+msgid "Location"
+msgstr "位置"
+
+msgctxt "DialogBookmarks|"
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+msgctxt "DialogBookmarks|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "DialogBookmarks|"
+msgid "Comment"
+msgstr "コメント"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogDIEScanDirectory|"
 msgid "msec"
 msgstr "ミリ秒"
 
+msgctxt "DialogDIEScanDirectory|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Subdirectories"
+msgstr "サブディレクトリ"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Text documents"
+msgstr "テキスト文書"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Save result"
+msgstr "結果を保存"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Directory scan"
+msgstr "ディレクトリのスキャン"
+
+msgctxt "DialogDIEScanDirectory|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "DialogDIESignaturesElapsed|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogDIESignaturesElapsed|"
+msgid "Time"
+msgstr "時間"
+
+msgctxt "DialogDIESignaturesElapsed|"
+msgid "Script"
+msgstr "スクリプト"
+
+msgctxt "DialogDIESignaturesElapsed|"
+msgid "Elapsed"
+msgstr "経過時間"
+
+msgctxt "DialogDemangle|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogDemangle|"
+msgid "Demangle"
+msgstr "デマングル"
+
+msgctxt "DialogDieHexViewer|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogDieHexViewer|"
+msgid "Scripts"
+msgstr "スクリプト"
+
+msgctxt "DialogEditString|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogEditString|"
+msgid "Null-terminated"
+msgstr "NULL-終端"
+
+msgctxt "DialogEditString|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogEditString|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "DialogEditString|"
+msgid "Keep size"
+msgstr "サイズを保持"
+
+msgctxt "DialogEditString|"
+msgid "Bytes available"
+msgstr "利用可能なバイト"
+
+msgctxt "DialogFindText|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogFindText|"
+msgid "Find"
+msgstr "検索"
+
+msgctxt "DialogFindText|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogFindText|"
+msgid "Match case"
+msgstr "大文字小文字を区別"
+
+msgctxt "DialogGoToAddress|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogGoToAddress|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogGoToAddress|"
+msgid "Invalid"
+msgstr "無効"
+
+msgctxt "DialogGoToAddress|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "DialogGoToAddress|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogGoToAddress|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "DialogGoToAddress|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "DialogGoToAddress|"
+msgid "Go to address"
+msgstr "アドレスに移動"
+
+msgctxt "DialogGoToAddress|"
+msgid "Relative virtual address"
+msgstr "相対仮想アドレス"
+
+msgctxt "DialogGoToAddress|"
+msgid "Virtual address"
+msgstr "仮想アドレス"
+
+msgctxt "DialogHexSignature|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogHexSignature|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "DialogHexSignature|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogHexSignature|"
+msgid "Wildcard"
+msgstr "ワイルドカード"
+
+msgctxt "DialogHexSignature|"
+msgid "Upper"
+msgstr "大文字"
+
+msgctxt "DialogHexSignature|"
+msgid "Spaces"
+msgstr "スペース"
+
+msgctxt "DialogHexSignature|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "DialogModelInfo|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogModelInfo|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DialogModelInfo|"
+msgid "Text files"
+msgstr "テキスト ファイル"
+
+msgctxt "DialogModelInfo|"
+msgid "Save file"
+msgstr "保存"
+
+msgctxt "DialogModelInfo|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Wildcard"
+msgstr "ワイルドカード"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Upper"
+msgstr "大文字"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Opcode"
+msgstr "オペコード"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Spaces"
+msgstr "スペース"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Relative virtual address"
+msgstr "相対仮想アドレス"
+
+msgctxt "DialogMultiDisasmSignature|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Subdirectories"
+msgstr "サブディレクトリ"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Text documents"
+msgstr "テキスト文書"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Save result"
+msgstr "結果を保存"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Directory scan"
+msgstr "ディレクトリのスキャン"
+
+msgctxt "DialogNFDScanDirectory|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "DialogRemove|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogRemove|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogRemove|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "DialogRemove|"
+msgid "Invalid"
+msgstr "無効"
+
+msgctxt "DialogRemove|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogRemove|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "DialogRemove|"
+msgid "Remove"
+msgstr "削除"
+
+msgctxt "DialogResize|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogResize|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogResize|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "DialogResize|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogResize|"
+msgid "Resize"
+msgstr "リサイズ"
+
+msgctxt "DialogSearch|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogSearch|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogSearch|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "DialogSearch|"
+msgid "Begin"
+msgstr "先頭"
+
+msgctxt "DialogSearch|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "DialogSearch|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogSearch|"
+msgid "Cursor"
+msgstr "カーソル"
+
+msgctxt "DialogSearch|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "DialogSearch|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "DialogSearch|"
+msgid "Match case"
+msgstr "大文字小文字を区別"
+
+msgctxt "DialogSearch|"
+msgid "Search from"
+msgstr "検索開始位置"
+
+msgctxt "DialogSearch|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "DialogSearch|"
+msgid "Endianness"
+msgstr "エンディアン"
+
+msgctxt "DialogShowData|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogShowData|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogShowData|"
+msgid "Plain Text"
+msgstr "プレーンテキスト"
+
+msgctxt "DialogShowData|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "DialogShowData|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "DialogShowData|"
+msgid "Group"
+msgstr "グループ"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Subdirectories"
+msgstr "サブディレクトリ"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Text documents"
+msgstr "テキスト文書"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Save result"
+msgstr "結果を保存"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Directory scan"
+msgstr "ディレクトリのスキャン"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "DialogStaticScanDirectory|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "DialogViewColors|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogViewColors|"
+msgid "Color"
+msgstr "色"
+
+msgctxt "DialogViewColors|"
+msgid "Background"
+msgstr "背景"
+
+msgctxt "DialogViewColors|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogViewColors|"
+msgid "Colors"
+msgstr "色"
+
+msgctxt "DialogXDataConvertor|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "DialogXDataConvertor|"
+msgid "Data convertor"
+msgstr "データ コンバーター"
+
+msgctxt "XOptionsWidget|"
+msgid "OK"
+msgstr "OK"
+
+msgctxt "XOptionsWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "XOptionsWidget|"
+msgid "File"
+msgstr "ファイル"
+
+msgctxt "XOptionsWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XOptionsWidget|"
+msgid "Fonts"
+msgstr "フォント"
+
+msgctxt "XOptionsWidget|"
+msgid "Style"
+msgstr "スタイル"
+
+msgctxt "XOptionsWidget|"
+msgid "Please restart the application"
+msgstr "プログラムを再起動してください"
+
+msgctxt "XOptionsWidget|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "XOptionsWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "XOptionsWidget|"
+msgid "Controls"
+msgstr "コントロール"
+
+msgctxt "XOptionsWidget|"
+msgid "Show logo"
+msgstr "ロゴを表示"
+
+msgctxt "XOptionsWidget|"
+msgid "Save backup"
+msgstr "バックアップを保存"
+
+msgctxt "XOptionsWidget|"
+msgid "Stay on top"
+msgstr "常に手前に表示"
+
+msgctxt "XOptionsWidget|"
+msgid "Table views"
+msgstr "テーブルビュー"
+
+msgctxt "XOptionsWidget|"
+msgid "Tree views"
+msgstr "ツリービュー"
+
+msgctxt "XOptionsWidget|"
+msgid "Language"
+msgstr "言語"
+
+msgctxt "XOptionsWidget|"
+msgid "Information"
+msgstr "情報"
+
+msgctxt "XOptionsWidget|"
+msgid "Save last directory"
+msgstr "最後に使ったディレクトリを保存"
+
+msgctxt "XOptionsWidget|"
+msgid "Please run the program as an administrator"
+msgstr "管理者としてプログラムを実行してください"
+
+msgctxt "XOptionsWidget|"
+msgid "Default"
+msgstr "既定"
+
+msgctxt "XOptionsWidget|"
+msgid "Appearance"
+msgstr "外観"
+
+msgctxt "XOptionsWidget|"
+msgid "Save history"
+msgstr "履歴を保存"
+
+msgctxt "XOptionsWidget|"
+msgid "Single application"
+msgstr "シングルインスタンスのみ許可"
+
+msgctxt "XOptionsWidget|"
+msgid "Text editors"
+msgstr "テキストエディタ"
+
+msgctxt "XOptionsWidget|"
+msgid "Add to context menu"
+msgstr "コンテキストメニューに追加"
+
+msgctxt "PEToolsWidget|"
+msgid "Add"
+msgstr "追加"
+
+msgctxt "PEToolsWidget|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "PEToolsWidget|"
+msgid "Tools"
+msgstr "ツール"
+
+msgctxt "PEToolsWidget|"
+msgid "Remove"
+msgstr "削除"
+
+msgctxt "PEToolsWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "PEToolsWidget|"
+msgid "Raw data"
+msgstr "Raw データ"
+
+msgctxt "PEToolsWidget|"
+msgid "Save dump"
+msgstr "ダンプを保存"
+
+msgctxt "XDisasmView|"
+msgid "All"
+msgstr "すべて"
+
+msgctxt "XDisasmView|"
+msgid "New"
+msgstr "新規"
+
+msgctxt "XDisasmView|"
+msgid "List"
+msgstr "リスト"
+
+msgctxt "XDisasmView|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "XDisasmView|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "XDisasmView|"
+msgid "Functions"
+msgstr "関数"
+
+msgctxt "XDisasmView|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "XDisasmView|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XDisasmView|"
+msgid "Opcode"
+msgstr "オペコード"
+
+msgctxt "XDisasmView|"
+msgid "Remove"
+msgstr "削除"
+
+msgctxt "XDisasmView|"
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+msgctxt "XDisasmView|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XDisasmView|"
+msgid "Analyze"
+msgstr "分析"
+
+msgctxt "XDisasmView|"
+msgid "Comment"
+msgstr "コメント"
+
+msgctxt "XDisasmView|"
+msgid "Symbols"
+msgstr "シンボル"
+
+msgctxt "XDisasmView|"
+msgid "Relative address"
+msgstr "相対アドレス"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "All"
+msgstr "すべて"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Show colons in addresses"
+msgstr "アドレスにコロンを表示"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Instruction pointer register"
+msgstr "命令ポインタレジスタ"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Segment registers"
+msgstr "セグメントレジスタ"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Arrows"
+msgstr "矢印"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Colors"
+msgstr "色"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Syntax"
+msgstr "構文"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Debug registers"
+msgstr "デバッグレジスタ"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Numbers"
+msgstr "数値"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "General registers"
+msgstr "汎用レジスタ"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Opcodes"
+msgstr "オペコード"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Uppercase"
+msgstr "大文字"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Flags register"
+msgstr "フラグ レジスタ"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Stack registers"
+msgstr "スタックレジスタ"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Selected"
+msgstr "選択済み"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "References"
+msgstr "参照"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Highlight"
+msgstr "ハイライト"
+
+msgctxt "XDisasmViewOptionsWidget|"
+msgid "Registers"
+msgstr "レジスタ"
+
+msgctxt "XMIMEWidget|"
+msgid "All"
+msgstr "すべて"
+
+msgctxt "XShortcuts|"
+msgid "All"
+msgstr "すべて"
+
+msgctxt "XShortcuts|"
+msgid "CPU"
+msgstr "CPU"
+
+msgctxt "XShortcuts|"
+msgid "End"
+msgstr "終わり"
+
+msgctxt "XShortcuts|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "XShortcuts|"
+msgid "Log"
+msgstr "ログ"
+
+msgctxt "XShortcuts|"
+msgid "New"
+msgstr "新規"
+
+msgctxt "XShortcuts|"
+msgid "Run"
+msgstr "実行"
+
+msgctxt "XShortcuts|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "XShortcuts|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XShortcuts|"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "XShortcuts|"
+msgid "Exit"
+msgstr "終了"
+
+msgctxt "XShortcuts|"
+msgid "File"
+msgstr "ファイル"
+
+msgctxt "XShortcuts|"
+msgid "Find"
+msgstr "検索"
+
+msgctxt "XShortcuts|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "XShortcuts|"
+msgid "Help"
+msgstr "ヘルプ"
+
+msgctxt "XShortcuts|"
+msgid "List"
+msgstr "リスト"
+
+msgctxt "XShortcuts|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "XShortcuts|"
+msgid "Next"
+msgstr "次"
+
+msgctxt "XShortcuts|"
+msgid "Open"
+msgstr "開く"
+
+msgctxt "XShortcuts|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XShortcuts|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "XShortcuts|"
+msgid "Show"
+msgstr "表示"
+
+msgctxt "XShortcuts|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XShortcuts|"
+msgid "Stop"
+msgstr "停止"
+
+msgctxt "XShortcuts|"
+msgid "View"
+msgstr "表示"
+
+msgctxt "XShortcuts|"
+msgid "About"
+msgstr "DIE について"
+
+msgctxt "XShortcuts|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "XShortcuts|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "XShortcuts|"
+msgid "Debug"
+msgstr "デバッグ"
+
+msgctxt "XShortcuts|"
+msgid "Go to"
+msgstr "移動"
+
+msgctxt "XShortcuts|"
+msgid "Patch"
+msgstr "パッチ"
+
+msgctxt "XShortcuts|"
+msgid "Pause"
+msgstr "一時停止"
+
+msgctxt "XShortcuts|"
+msgid "Print"
+msgstr "印刷"
+
+msgctxt "XShortcuts|"
+msgid "Table"
+msgstr "テーブル"
+
+msgctxt "XShortcuts|"
+msgid "Stack"
+msgstr "スタック"
+
+msgctxt "XShortcuts|"
+msgid "Start"
+msgstr "開始"
+
+msgctxt "XShortcuts|"
+msgid "Tools"
+msgstr "ツール"
+
+msgctxt "XShortcuts|"
+msgid "Trace"
+msgstr "追跡"
+
+msgctxt "XShortcuts|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "XShortcuts|"
+msgid "Multisearch"
+msgstr "マルチ検索"
+
+msgctxt "XShortcuts|"
+msgid "Conditional"
+msgstr "条件付き"
+
+msgctxt "XShortcuts|"
+msgid "Breakpoints"
+msgstr "ブレークポイント"
+
+msgctxt "XShortcuts|"
+msgid "File name"
+msgstr "ファイル名"
+
+msgctxt "XShortcuts|"
+msgid "Selection"
+msgstr "選択"
+
+msgctxt "XShortcuts|"
+msgid "Data inspector"
+msgstr "データ インスペクター"
+
+msgctxt "XShortcuts|"
+msgid "Follow in"
+msgstr "追跡"
+
+msgctxt "XShortcuts|"
+msgid "Callstack"
+msgstr "コールスタック"
+
+msgctxt "XShortcuts|"
+msgid "Modules"
+msgstr "モジュール"
+
+msgctxt "XShortcuts|"
+msgid "Action"
+msgstr "操作"
+
+msgctxt "XShortcuts|"
+msgid "Attach"
+msgstr "アタッチ"
+
+msgctxt "XShortcuts|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "XShortcuts|"
+msgid "Functions"
+msgstr "関数"
+
+msgctxt "XShortcuts|"
+msgid "Detach"
+msgstr "デタッチ"
+
+msgctxt "XShortcuts|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "XShortcuts|"
+msgid "Editor"
+msgstr "エディタ"
+
+msgctxt "XShortcuts|"
+msgid "Folder"
+msgstr "フォルダー"
+
+msgctxt "XShortcuts|"
+msgid "Memory"
+msgstr "メモリ"
+
+msgctxt "XShortcuts|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XShortcuts|"
+msgid "Opcode"
+msgstr "オペコード"
+
+msgctxt "XShortcuts|"
+msgid "Remove"
+msgstr "削除"
+
+msgctxt "XShortcuts|"
+msgid "Resize"
+msgstr "リサイズ"
+
+msgctxt "XShortcuts|"
+msgid "Select"
+msgstr "選択"
+
+msgctxt "XShortcuts|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "XShortcuts|"
+msgid "Struct"
+msgstr "構造体"
+
+msgctxt "XShortcuts|"
+msgid "Toggle"
+msgstr "切り替え"
+
+msgctxt "XShortcuts|"
+msgid "Viewer"
+msgstr "ビューア"
+
+msgctxt "XShortcuts|"
+msgid "Bookmarks"
+msgstr "ブックマーク"
+
+msgctxt "XShortcuts|"
+msgid "Bookmark"
+msgstr "ブックマーク"
+
+msgctxt "XShortcuts|"
+msgid "Options"
+msgstr "設定"
+
+msgctxt "XShortcuts|"
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgctxt "XShortcuts|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "XShortcuts|"
+msgid "Process"
+msgstr "プロセス"
+
+msgctxt "XShortcuts|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XShortcuts|"
+msgid "Full screen"
+msgstr "フルスクリーン"
+
+msgctxt "XShortcuts|"
+msgid "Breakpoint"
+msgstr "ブレークポイント"
+
+msgctxt "XShortcuts|"
+msgid "Analyze"
+msgstr "分析"
+
+msgctxt "XShortcuts|"
+msgid "Animate"
+msgstr "アニメーション"
+
+msgctxt "XShortcuts|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "XShortcuts|"
+msgid "Hardware"
+msgstr "ハードウェア"
+
+msgctxt "XShortcuts|"
+msgid "Restart"
+msgstr "再起動"
+
+msgctxt "XShortcuts|"
+msgid "Save as"
+msgstr "名前を付けて保存"
+
+msgctxt "XShortcuts|"
+msgid "Scripts"
+msgstr "スクリプト"
+
+msgctxt "XShortcuts|"
+msgid "Show in"
+msgstr "表示"
+
+msgctxt "XShortcuts|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "XShortcuts|"
+msgid "Structs"
+msgstr "構造体"
+
+msgctxt "XShortcuts|"
+msgid "Threads"
+msgstr "スレッド"
+
+msgctxt "XShortcuts|"
+msgid "Symbols"
+msgstr "シンボル"
+
+msgctxt "XShortcuts|"
+msgid "Entry point"
+msgstr "エントリ ポイント"
+
+msgctxt "XShortcuts|"
+msgid "Debugger"
+msgstr "デバッガ"
+
+msgctxt "XShortcuts|"
+msgid "Register"
+msgstr "レジスタ"
+
+msgctxt "XShortcuts|"
+msgid "Step into"
+msgstr "ステップ イン"
+
+msgctxt "XShortcuts|"
+msgid "Step over"
+msgstr "ステップ オーバー"
+
+msgctxt "XShortcuts|"
+msgid "Demangle"
+msgstr "デマングル"
+
+msgctxt "XShortcuts|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "XShortcuts|"
+msgid "References"
+msgstr "参照"
+
+msgctxt "XShortcuts|"
+msgid "Data convertor"
+msgstr "データ コンバーター"
+
+msgctxt "XShortcuts|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "XShortcuts|"
+msgid "Registers"
+msgstr "レジスタ"
+
+msgctxt "XShortcuts|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "XShortcuts|"
+msgid "Handles"
+msgstr "ハンドル"
+
+msgctxt "XShortcuts|"
+msgid "Dump to file"
+msgstr "ファイルにダンプ"
+
+msgctxt "XOnlineToolsOptionsWidget|"
+msgid "Get"
+msgstr "取得"
+
+msgctxt "XOnlineToolsOptionsWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XOnlineToolsOptionsWidget|"
+msgid "API key"
+msgstr "APIキー"
+
+msgctxt "XLineEditValidator|"
+msgid "GiB"
+msgstr "GiB"
+
+msgctxt "XLineEditValidator|"
+msgid "KiB"
+msgstr "KiB"
+
+msgctxt "XLineEditValidator|"
+msgid "MiB"
+msgstr "MiB"
+
+msgctxt "XLineEditValidator|"
+msgid "TiB"
+msgstr "TiB"
+
+msgctxt "XLineEditValidator|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "Archive_widget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "Archive_widget|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "Archive_widget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "Archive_widget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "Archive_widget|"
+msgid "Open"
+msgstr "開く"
+
+msgctxt "Archive_widget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "Archive_widget|"
+msgid "Tree"
+msgstr "ツリー"
+
+msgctxt "Archive_widget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "Archive_widget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "Archive_widget|"
+msgid "Table"
+msgstr "テーブル"
+
+msgctxt "Archive_widget|"
+msgid "File name"
+msgstr "ファイル名"
+
+msgctxt "Archive_widget|"
+msgid "Filter"
+msgstr "フィルター"
+
+msgctxt "Archive_widget|"
+msgid "Cannot save file"
+msgstr "ファイルを保存できませんでした"
+
+msgctxt "Archive_widget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "Archive_widget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "Archive_widget|"
+msgid "Save file"
+msgstr "保存"
+
+msgctxt "Archive_widget|"
+msgid "Dump to file"
+msgstr "ファイルにダンプ"
+
+msgctxt "BinaryWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "BinaryWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "BinaryWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "BinaryWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "BinaryWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "BinaryWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "BinaryWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "BinaryWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "BinaryWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "BinaryWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "BinaryWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "BinaryWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "BinaryWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "BinaryWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "BinaryWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "DEXWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DEXWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "DEXWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "DEXWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DEXWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "DEXWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "DEXWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "DEXWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "DEXWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "DEXWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "DEXWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "DEXWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "DEXWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "DEXWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "DEXWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "DialogOptions|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "DialogOptions|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "DialogOptions|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogOptions|"
+msgid "Online tools"
+msgstr "オンラインツール"
+
+msgctxt "DialogOptions|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "DialogOptions|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "DialogOptions|"
+msgid "Options"
+msgstr "設定"
+
+msgctxt "ELFWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "ELFWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "ELFWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "ELFWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "ELFWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "ELFWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "ELFWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "ELFWidget|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "ELFWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "ELFWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "ELFWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "ELFWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "ELFWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "ELFWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "ELFWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "ELFWidget|"
+msgid "Sections"
+msgstr "セクション"
+
+msgctxt "ELFWidget|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "ELFWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "ELFWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "FormatsWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "FormatsWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "FormatsWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "FormatsWidget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "FormatsWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "FormatsWidget|"
+msgid "Files"
+msgstr "ファイル"
+
+msgctxt "FormatsWidget|"
+msgid "File info"
+msgstr "ファイル情報"
+
+msgctxt "FormatsWidget|"
+msgid "File size"
+msgstr "ファイル サイズ"
+
+msgctxt "FormatsWidget|"
+msgid "File type"
+msgstr "ファイルの種類"
+
+msgctxt "FormatsWidget|"
+msgid "Size of image"
+msgstr "画像サイズ"
+
+msgctxt "FormatsWidget|"
+msgid "Base address"
+msgstr "ベースアドレス"
+
+msgctxt "FormatsWidget|"
+msgid "Time date stamp"
+msgstr "日付スタンプ"
+
+msgctxt "FormatsWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "FormatsWidget|"
+msgid "Binary"
+msgstr "バイナリ"
+
+msgctxt "FormatsWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "FormatsWidget|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "FormatsWidget|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "FormatsWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "FormatsWidget|"
+msgid "Unpack"
+msgstr "アンパック"
+
+msgctxt "FormatsWidget|"
+msgid "Commands"
+msgstr "コマンド"
+
+msgctxt "FormatsWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "FormatsWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "FormatsWidget|"
+msgid "Scan engine"
+msgstr "スキャンエンジン"
+
+msgctxt "FormatsWidget|"
+msgid "Manifest"
+msgstr "Manifest"
+
+msgctxt "FormatsWidget|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "FormatsWidget|"
+msgid "Programs"
+msgstr "プログラム"
+
+msgctxt "FormatsWidget|"
+msgid "Libraries"
+msgstr "ライブラリ"
+
+msgctxt "FormatsWidget|"
+msgid "Resources"
+msgstr "リソース"
+
+msgctxt "FormatsWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "FormatsWidget|"
+msgid "Entry point"
+msgstr "エントリ ポイント"
+
+msgctxt "FormatsWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "FormatsWidget|"
+msgid "Sections"
+msgstr "セクション"
+
+msgctxt "FormatsWidget|"
+msgid "Segments"
+msgstr "セグメント"
+
+msgctxt "FormatsWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "FormatsWidget|"
+msgid "Version"
+msgstr "バージョン"
+
+msgctxt "FormatsWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "FormatsWidget|"
+msgid "Architecture"
+msgstr "アーキテクチャ"
+
+msgctxt "FormatsWidget|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "FormatsWidget|"
+msgid "Endianness"
+msgstr "エンディアン"
+
+msgctxt "InvWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "InvWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "LEWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "LEWidget|"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "LEWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "LEWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "LEWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "LEWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "LEWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "LEWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "LEWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "LEWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "LEWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "LEWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "LEWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "LEWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "LEWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "LEWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "LEWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "MACHWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "MACHWidget|"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "MACHWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "MACHWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "MACHWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "MACHWidget|"
+msgid "Local relocation"
+msgstr "ローカル再割り当て"
+
+msgctxt "MACHWidget|"
+msgid "Table of contents"
+msgstr "目次"
+
+msgctxt "MACHWidget|"
+msgid "Modules"
+msgstr "モジュール"
+
+msgctxt "MACHWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "MACHWidget|"
+msgid "Functions"
+msgstr "関数"
+
+msgctxt "MACHWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "MACHWidget|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "MACHWidget|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "MACHWidget|"
+msgid "Rebase"
+msgstr "リベース"
+
+msgctxt "MACHWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "MACHWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "MACHWidget|"
+msgid "Commands"
+msgstr "コマンド"
+
+msgctxt "MACHWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "MACHWidget|"
+msgid "External references"
+msgstr "外部参照"
+
+msgctxt "MACHWidget|"
+msgid "Binding"
+msgstr "バインディング"
+
+msgctxt "MACHWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "MACHWidget|"
+msgid "Indirect symbols"
+msgstr "間接記号"
+
+msgctxt "MACHWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "MACHWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "MACHWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "MACHWidget|"
+msgid "Sections"
+msgstr "セクション"
+
+msgctxt "MACHWidget|"
+msgid "Symbol table"
+msgstr "シンボル テーブル"
+
+msgctxt "MACHWidget|"
+msgid "Segments"
+msgstr "セグメント"
+
+msgctxt "MACHWidget|"
+msgid "Demangle"
+msgstr "デマングル"
+
+msgctxt "MACHWidget|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "MACHWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "MACHWidget|"
+msgid "Data in code"
+msgstr "コードのデータ"
+
+msgctxt "MACHWidget|"
+msgid "String table"
+msgstr "文字列テーブル"
+
+msgctxt "MACHWidget|"
+msgid "Weak binding"
+msgstr "弱いバインディング"
+
+msgctxt "MACHWidget|"
+msgid "Lazy binding"
+msgstr "遅延バインディング"
+
+msgctxt "MACHWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "MSDOSWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "MSDOSWidget|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "MSDOSWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "MSDOSWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "MSDOSWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "MSDOSWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "MSDOSWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "MSDOSWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "MSDOSWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "MSDOSWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "MSDOSWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "MSDOSWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "MSDOSWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "MSDOSWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "MSDOSWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "MSDOSWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "MSDOSWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "NEWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "NEWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "NEWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "NEWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "NEWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "NEWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "NEWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "NEWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "NEWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "NEWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "NEWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "NEWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "NEWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "NEWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "NEWidget|"
+msgid "Segments"
+msgstr "セグメント"
+
+msgctxt "NEWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "NEWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "PDFWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "PDFWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "PDFWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "PDFWidget|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "PDFWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "PDFWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "PDFWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "PDFWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "PDFWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "PDFWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "PDFWidget|"
+msgid "Extractor"
+msgstr "抽出ツール"
+
+msgctxt "PDFWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "PDFWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "PEWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "PEWidget|"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "PEWidget|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "PEWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "PEWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "PEWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "PEWidget|"
+msgid "Tree"
+msgstr "ツリー"
+
+msgctxt "PEWidget|"
+msgid "Check"
+msgstr "チェック"
+
+msgctxt "PEWidget|"
+msgid "Debug"
+msgstr "デバッグ"
+
+msgctxt "PEWidget|"
+msgid "Extract all cursors"
+msgstr "全てのカーソルを抽出"
+
+msgctxt "PEWidget|"
+msgid "Table"
+msgstr "テーブル"
+
+msgctxt "PEWidget|"
+msgid "Tools"
+msgstr "ツール"
+
+msgctxt "PEWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "PEWidget|"
+msgid "Delay import"
+msgstr "遅延インポート"
+
+msgctxt "PEWidget|"
+msgid "Bound import"
+msgstr "バインド済みインポート"
+
+msgctxt "PEWidget|"
+msgid "Calculate"
+msgstr "計算"
+
+msgctxt "PEWidget|"
+msgid "Callbacks"
+msgstr "コールバック"
+
+msgctxt "PEWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "PEWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "PEWidget|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "PEWidget|"
+msgid "Format"
+msgstr "書式"
+
+msgctxt "PEWidget|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "PEWidget|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "PEWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "PEWidget|"
+msgid "Relocs"
+msgstr "再配置"
+
+msgctxt "PEWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "PEWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "PEWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "PEWidget|"
+msgid "Load config"
+msgstr "構成を読み込み"
+
+msgctxt "PEWidget|"
+msgid "Manifest"
+msgstr "Manifest"
+
+msgctxt "PEWidget|"
+msgid "Show valid"
+msgstr "有効を表示"
+
+msgctxt "PEWidget|"
+msgid "Extract all icons"
+msgstr "全てのアイコンを抽出"
+
+msgctxt "PEWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "PEWidget|"
+msgid "Resources"
+msgstr "リソース"
+
+msgctxt "PEWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "PEWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "PEWidget|"
+msgid "Extractor"
+msgstr "抽出"
+
+msgctxt "PEWidget|"
+msgid "Sections"
+msgstr "セクション"
+
+msgctxt "PEWidget|"
+msgid "Demangle"
+msgstr "デマングル"
+
+msgctxt "PEWidget|"
+msgid "Dump all"
+msgstr "全てダンプ"
+
+msgctxt "PEWidget|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "PEWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "PEWidget|"
+msgid "Exceptions"
+msgstr "例外"
+
+msgctxt "PEWidget|"
+msgid "Metadata"
+msgstr "メタデータ"
+
+msgctxt "PEWidget|"
+msgid "Version"
+msgstr "バージョン"
+
+msgctxt "PEWidget|"
+msgid "String table"
+msgstr "文字列テーブル"
+
+msgctxt "PEWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "PEWidget|"
+msgid "Signature"
+msgstr "署名"
+
+msgctxt "PEWidget|"
+msgid "Certificate"
+msgstr "証明書"
+
+msgctxt "PEWidget|"
+msgid "Dump to file"
+msgstr "ファイルにダンプ"
+
+msgctxt "PEWidget|"
+msgid "Metadata table"
+msgstr "メタデータ テーブル"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "File"
+msgstr "ファイル"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Follow in"
+msgstr "追跡"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Signature"
+msgstr "署名"
+
+msgctxt "SearchSignaturesWidget|"
+msgid "Endianness"
+msgstr "エンディアン"
+
+msgctxt "SearchStringsWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "SearchStringsWidget|"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "SearchStringsWidget|"
+msgid "Mask"
+msgstr "マスク"
+
+msgctxt "SearchStringsWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "SearchStringsWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "SearchStringsWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "SearchStringsWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "SearchStringsWidget|"
+msgid "Links"
+msgstr "リンク"
+
+msgctxt "SearchStringsWidget|"
+msgid "Null-terminated"
+msgstr "NULL-終端"
+
+msgctxt "SearchStringsWidget|"
+msgid "Follow in"
+msgstr "追跡"
+
+msgctxt "SearchStringsWidget|"
+msgid "Regular expression"
+msgstr "正規表現"
+
+msgctxt "SearchStringsWidget|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "SearchStringsWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "SearchStringsWidget|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "SearchStringsWidget|"
+msgid "Min length"
+msgstr "最小の長さ"
+
+msgctxt "SearchStringsWidget|"
+msgid "Cannot save file"
+msgstr "ファイルを保存できませんでした"
+
+msgctxt "SearchStringsWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "SearchStringsWidget|"
+msgid "Demangle"
+msgstr "デマングル"
+
+msgctxt "XDynStructsWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "XDynStructsWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XDynStructsWidget|"
+msgid "Array"
+msgstr "配列"
+
+msgctxt "XDynStructsWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XDynStructsWidget|"
+msgid "Files"
+msgstr "ファイル"
+
+msgctxt "XDynStructsWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "XDynStructsWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "XDynStructsWidget|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "XDynStructsWidget|"
+msgid "Prototype"
+msgstr "プロトタイプ"
+
+msgctxt "XDynStructsWidget|"
+msgid "Pointer"
+msgstr "ポインタ"
+
+msgctxt "XDynStructsWidget|"
+msgid "Variable"
+msgstr "変数"
+
+msgctxt "XDynStructsWidget|"
+msgid "Cannot read memory at address"
+msgstr "アドレスのメモリを読み取れませんでした"
+
+msgctxt "XDynStructsWidget|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "XHexEdit|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "XHexEdit|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XHexView|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "XHexView|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XHexView|"
+msgid "Width"
+msgstr "幅"
+
+msgctxt "XHexView|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XHexView|"
+msgid "Location"
+msgstr "位置"
+
+msgctxt "XHexView|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XHexView|"
+msgid "Symbols"
+msgstr "シンボル"
+
+msgctxt "XHexViewWidget|"
+msgid "Hex"
+msgstr "16 進数"
+
+msgctxt "XHexViewWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XHexViewWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XHexViewWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XHexViewWidget|"
+msgid "Data inspector"
+msgstr "データ インスペクター"
+
+msgctxt "XHexViewWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "XHexViewWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "DIE_Widget|"
+msgid "Log"
+msgstr "ログ"
+
+msgctxt "DIE_Widget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DIE_Widget|"
+msgid "Stop"
+msgstr "停止"
+
+msgctxt "DIE_Widget|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "DIE_Widget|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "DIE_Widget|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "DIE_Widget|"
+msgid "Database"
+msgstr "データベース"
+
+msgctxt "DIE_Widget|"
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgctxt "DIE_Widget|"
+msgid "Copy as"
+msgstr "形式を指定してコピー"
+
+msgctxt "XLE|"
+msgid "Map"
+msgstr "マップ"
+
+msgctxt "XLE|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XLE|"
+msgid "Object"
+msgstr "オブジェクト"
+
+msgctxt "XLE|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XLE|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "DialogDIESignatures|"
+msgid "Run"
+msgstr "実行"
+
+msgctxt "DialogDIESignatures|"
+msgid "Find"
+msgstr "検索"
+
+msgctxt "DialogDIESignatures|"
+msgid "Next"
+msgstr "次"
+
+msgctxt "DialogDIESignatures|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DialogDIESignatures|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "DialogDIESignatures|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogDIESignatures|"
+msgid "Debug"
+msgstr "デバッグ"
+
+msgctxt "DialogDIESignatures|"
+msgid "Clear result"
+msgstr "結果の消去"
+
+msgctxt "DialogDIESignatures|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "DialogDIESignatures|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "DialogDIESignatures|"
+msgid "Detect"
+msgstr "検知"
+
+msgctxt "DialogDIESignatures|"
+msgid "Profiling"
+msgstr "プロファイリング"
+
+msgctxt "DialogDIESignatures|"
+msgid "Show info"
+msgstr "情報を表示"
+
+msgctxt "DialogDIESignatures|"
+msgid "Show type"
+msgstr "型を表示"
+
+msgctxt "DialogDIESignatures|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "DialogDIESignatures|"
+msgid "Database"
+msgstr "データベース"
+
+msgctxt "DialogDIESignatures|"
+msgid "Show version"
+msgstr "バージョンを表示"
+
+msgctxt "DialogDIESignatures|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "DialogDIESignatures|"
+msgid "Debugger"
+msgstr "デバッガ"
+
+msgctxt "DialogDIESignatures|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "DialogDIESignatures|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "ELFProcessData|"
+msgid "Bind"
+msgstr "バインド"
+
+msgctxt "ELFProcessData|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "ELFProcessData|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XLineEditHEX|"
+msgid "Bits"
+msgstr "Bits"
+
+msgctxt "XLineEditHEX|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "XLineEditHEX|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "XEntropyWidget|"
+msgid "Byte"
+msgstr "バイト"
+
+msgctxt "XEntropyWidget|"
+msgid "Grid"
+msgstr "グリッド"
+
+msgctxt "XEntropyWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XEntropyWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "XEntropyWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XEntropyWidget|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XEntropyWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XEntropyWidget|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "XEntropyWidget|"
+msgid "Count"
+msgstr "個数"
+
+msgctxt "XEntropyWidget|"
+msgid "Total"
+msgstr "合計"
+
+msgctxt "XEntropyWidget|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XEntropyWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "XEntropyWidget|"
+msgid "Status"
+msgstr "状態"
+
+msgctxt "XEntropyWidget|"
+msgid "Regions"
+msgstr "領域"
+
+msgctxt "XEntropyWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "XEntropyWidget|"
+msgid "Diagram"
+msgstr "グラフ"
+
+msgctxt "XEntropyWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "XEntropyWidget|"
+msgid "Save diagram"
+msgstr "グラフを保存"
+
+msgctxt "XSymbolsWidget|"
+msgid "Code"
+msgstr "コード"
+
+msgctxt "XSymbolsWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XSymbolsWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "XSymbolsWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XSymbolsWidget|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XSymbolsWidget|"
+msgid "Symbol"
+msgstr "シンボル"
+
+msgctxt "XSymbolsWidget|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XSymbolsWidget|"
+msgid "Symbols"
+msgstr "シンボル"
+
+msgctxt "XDisasmWidget|"
+msgid "Copy"
+msgstr "コピー"
+
+msgctxt "XDisasmWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XDisasmWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XDisasmWidget|"
+msgid "Go to"
+msgstr "移動"
+
+msgctxt "XDisasmWidget|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "XDisasmWidget|"
+msgid "Labels"
+msgstr "ラベル"
+
+msgctxt "XDisasmWidget|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XDisasmWidget|"
+msgid "File offset"
+msgstr "オフセット値"
+
+msgctxt "XDisasmWidget|"
+msgid "Analyze"
+msgstr "分析"
+
+msgctxt "XDisasmWidget|"
+msgid "Raw data"
+msgstr "Raw データ"
+
+msgctxt "XDisasmWidget|"
+msgid "To data"
+msgstr "データへ"
+
+msgctxt "XDisasmWidget|"
+msgid "Entry point"
+msgstr "エントリ ポイント"
+
+msgctxt "XDisasmWidget|"
+msgid "Relative virtual address"
+msgstr "相対仮想アドレス"
+
+msgctxt "XDisasmWidget|"
+msgid "Save dump"
+msgstr "ダンプを保存"
+
+msgctxt "XDisasmWidget|"
+msgid "Virtual address"
+msgstr "仮想アドレス"
+
+msgctxt "XDisasmWidget|"
+msgid "Signature"
+msgstr "署名"
+
+msgctxt "XDisasmWidget|"
+msgid "Dump to file"
+msgstr "ファイルにダンプ"
+
+msgctxt "XDOS16|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XDOS16|"
+msgid "Loader"
+msgstr "ローダー"
+
+msgctxt "XDOS16|"
+msgid "Payload"
+msgstr "ペイロード"
+
+msgctxt "XJpeg|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XRar|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XRar|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XScanEngine|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XScanEngine|"
+msgid "Main"
+msgstr "メイン"
+
+msgctxt "XScanEngine|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XScanEngine|"
+msgid "Stub"
+msgstr "スタブ"
+
+msgctxt "XScanEngine|"
+msgid "Tool"
+msgstr "ツール"
+
+msgctxt "XScanEngine|"
+msgid "data"
+msgstr "データ"
+
+msgctxt "XScanEngine|"
+msgid "Extra"
+msgstr "追加"
+
+msgctxt "XScanEngine|"
+msgid "Image"
+msgstr "イメージ"
+
+msgctxt "XScanEngine|"
+msgid "Virus"
+msgstr "ウイルス"
+
+msgctxt "XScanEngine|"
+msgid "File scan"
+msgstr "ファイル スキャン"
+
+msgctxt "XScanEngine|"
+msgid "Platform"
+msgstr "プラットフォーム"
+
+msgctxt "XScanEngine|"
+msgid "Library"
+msgstr "ライブラリ"
+
+msgctxt "XScanEngine|"
+msgid "Aggressive scan"
+msgstr "アグレッシブスキャン"
+
+msgctxt "XScanEngine|"
+msgid "Malware"
+msgstr "マルウェア"
+
+msgctxt "XScanEngine|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "XScanEngine|"
+msgid "Custom"
+msgstr "カスタム"
+
+msgctxt "XScanEngine|"
+msgid "Format"
+msgstr "書式"
+
+msgctxt "XScanEngine|"
+msgid "Joiner"
+msgstr "結合ツール"
+
+msgctxt "XScanEngine|"
+msgid "Linker"
+msgstr "リンカ"
+
+msgctxt "XScanEngine|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XScanEngine|"
+msgid "Packer"
+msgstr "パッカー"
+
+msgctxt "XScanEngine|"
+msgid "Player"
+msgstr "プレイヤー"
+
+msgctxt "XScanEngine|"
+msgid "Trojan"
+msgstr "トロイの木馬"
+
+msgctxt "XScanEngine|"
+msgid "Converter"
+msgstr "コンバータ"
+
+msgctxt "XScanEngine|"
+msgid "Compiler"
+msgstr "コンパイラ"
+
+msgctxt "XScanEngine|"
+msgid "Package"
+msgstr "パッケージ"
+
+msgctxt "XScanEngine|"
+msgid "Protector"
+msgstr "プロテクタ"
+
+msgctxt "XScanEngine|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XScanEngine|"
+msgid "compressor"
+msgstr "コンプレッサ"
+
+msgctxt "XScanEngine|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "XScanEngine|"
+msgid "Language"
+msgstr "言語"
+
+msgctxt "XScanEngine|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "XScanEngine|"
+msgid "Database"
+msgstr "データベース"
+
+msgctxt "XScanEngine|"
+msgid "Source code"
+msgstr "ソース コード"
+
+msgctxt "XScanEngine|"
+msgid "Directory scan"
+msgstr "ディレクトリのスキャン"
+
+msgctxt "XScanEngine|"
+msgid "Device scan"
+msgstr "デバイスのスキャン"
+
+msgctxt "XScanEngine|"
+msgid "Licensing"
+msgstr "ライセンス"
+
+msgctxt "XScanEngine|"
+msgid "Memory scan"
+msgstr "メモリスキャン"
+
+msgctxt "XScanEngine|"
+msgid "Installer data"
+msgstr "インストーラ データ"
+
+msgctxt "XScanEngine|"
+msgid "Crypter"
+msgstr "暗号化ツール"
+
+msgctxt "XScanEngine|"
+msgid "Cryptor"
+msgstr "Cryptor"
+
+msgctxt "XScanEngine|"
+msgid "Installer"
+msgstr "インストーラ"
+
+msgctxt "XScanEngine|"
+msgid "protection"
+msgstr "保護"
+
+msgctxt "XScanEngine|"
+msgid "Protection"
+msgstr "保護"
+
+msgctxt "XScanEngine|"
+msgid "Virtual machine"
+msgstr "仮想マシン"
+
+msgctxt "XScanEngine|"
+msgid "Debug data"
+msgstr "デバッグ データ"
+
+msgctxt "XScanEngine|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "XScanEngine|"
+msgid "obfuscator"
+msgstr "難読化ツール"
+
+msgctxt "XScanEngine|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "XScanEngine|"
+msgid "Generic"
+msgstr "汎用"
+
+msgctxt "XScanEngine|"
+msgid "Sign tool"
+msgstr "署名ツール"
+
+msgctxt "XScanEngine|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "XScanEngine|"
+msgid "Protector data"
+msgstr "プロテクタ データ"
+
+msgctxt "XScanEngine|"
+msgid "Operation system"
+msgstr "オペレーション システム"
+
+msgctxt "XScanEngine|"
+msgid "Certificate"
+msgstr "証明書"
+
+msgctxt "XScanEngine|"
+msgid "extender"
+msgstr "エクステンダ"
+
+msgctxt "XZlib|"
+msgid "Data"
+msgstr "データ"
+
+msgctxt "XZlib|"
+msgid "Footer"
+msgstr "フッタ"
+
+msgctxt "XZlib|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Date"
+msgstr "日付"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Last"
+msgstr "末尾"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XVirusTotalWidget|"
+msgid "First"
+msgstr "先頭"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Upload the file for analyze?"
+msgstr "分析のためにファイルをアップロードしますか?"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Online tools"
+msgstr "オンラインツール"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Rescan"
+msgstr "再スキャン"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Options"
+msgstr "設定"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Please use valid API key"
+msgstr "有効なAPIキーを使用してください"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Information"
+msgstr "情報"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Version"
+msgstr "バージョン"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Website"
+msgstr "Webサイト"
+
+msgctxt "XVirusTotalWidget|"
+msgid "Show detects"
+msgstr "検出結果を表示"
+
+msgctxt "DialogHexEdit|"
+msgid "Edit"
+msgstr "編集"
+
+msgctxt "DialogHexEdit|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogDump|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "DialogDump|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogDumpProcess|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "FormatWidget|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "FormatWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "FormatWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "FormatWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "FormatWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "FormatWidget|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "FormatWidget|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "FormatWidget|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "FormatWidget|"
+msgid "Text files"
+msgstr "テキスト ファイル"
+
+msgctxt "FormatWidget|"
+msgid "Raw data"
+msgstr "Raw データ"
+
+msgctxt "FormatWidget|"
+msgid "Cannot save file"
+msgstr "ファイルを保存できませんでした"
+
+msgctxt "FormatWidget|"
+msgid "Dump all"
+msgstr "全てダンプ"
+
+msgctxt "FormatWidget|"
+msgid "Save dump"
+msgstr "ダンプを保存"
+
+msgctxt "FormatWidget|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Input"
+msgstr "入力"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Decode"
+msgstr "デコード"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Encode"
+msgstr "エンコード"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Method"
+msgstr "方式"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Output"
+msgstr "出力"
+
+msgctxt "XDataConvertorWidget|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "XDeviceTableView|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "XDeviceTableView|"
+msgid "Raw data"
+msgstr "Raw データ"
+
+msgctxt "XDeviceTableView|"
+msgid "Nothing found"
+msgstr "見つかりません"
+
+msgctxt "XDeviceTableView|"
+msgid "Save dump"
+msgstr "ダンプを保存"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Dump"
+msgstr "ダンプ"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Find"
+msgstr "検索"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "XMemoryMapWidget|"
+msgid "File offset"
+msgstr "オフセット値"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Raw data"
+msgstr "Raw データ"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Information"
+msgstr "情報"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Relative virtual address"
+msgstr "相対仮想アドレス"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Dump all"
+msgstr "全てダンプ"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Save dump"
+msgstr "ダンプを保存"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Virtual address"
+msgstr "仮想アドレス"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Architecture"
+msgstr "アーキテクチャ"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Show all"
+msgstr "すべて表示"
+
+msgctxt "XMemoryMapWidget|"
+msgid "Endianness"
+msgstr "エンディアン"
+
+msgctxt "GuiMainWindow|"
+msgid "Exit"
+msgstr "終了"
+
+msgctxt "GuiMainWindow|"
+msgid "About"
+msgstr "DIE について"
+
+msgctxt "GuiMainWindow|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "GuiMainWindow|"
+msgid "File name"
+msgstr "ファイル名"
+
+msgctxt "GuiMainWindow|"
+msgid "Recent files"
+msgstr "最近使ったファイル"
+
+msgctxt "GuiMainWindow|"
+msgid "Options"
+msgstr "設定"
+
+msgctxt "GuiMainWindow|"
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgctxt "GuiMainWindow|"
+msgid "Advanced"
+msgstr "拡張"
+
+msgctxt "GuiMainWindow|"
+msgid "Open file"
+msgstr "ファイルを開く"
+
+msgctxt "GuiMainWindow|"
+msgid "Demangle"
+msgstr "デマングル"
+
+msgctxt "GuiMainWindow|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "LiteMainWindow|"
+msgid "Exit"
+msgstr "終了"
+
+msgctxt "LiteMainWindow|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "LiteMainWindow|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "LiteMainWindow|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "LiteMainWindow|"
+msgid "File name"
+msgstr "ファイル名"
+
+msgctxt "LiteMainWindow|"
+msgid "Open file"
+msgstr "ファイルを開く"
+
+msgctxt "LiteMainWindow|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "CreateViewModelProcess|"
+msgid "File"
+msgstr "ファイル"
+
+msgctxt "CreateViewModelProcess|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Signatures"
+msgstr "シグネチャ"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Text files"
+msgstr "テキスト ファイル"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Signature name"
+msgstr "シグネチャ名"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Database"
+msgstr "データベース"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Cannot save file"
+msgstr "ファイルを保存できませんでした"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "DIEWidgetAdvanced|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "MACHOFATWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "SearchSignaturesOptionsWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "SearchSignaturesOptionsWidget|"
+msgid "Search signatures"
+msgstr "シグネチャを検索"
+
+msgctxt "SearchSignaturesOptionsWidget|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "XFileInfoWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XFileInfoWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "XFileInfoWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XFileInfoWidget|"
+msgid "Text"
+msgstr "テキスト"
+
+msgctxt "XFileInfoWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XFileInfoWidget|"
+msgid "Method"
+msgstr "方式"
+
+msgctxt "XFileInfoWidget|"
+msgid "Output"
+msgstr "出力"
+
+msgctxt "XFileInfoWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "XFileInfoWidget|"
+msgid "Text files"
+msgstr "テキスト ファイル"
+
+msgctxt "XFileInfoWidget|"
+msgid "Comment"
+msgstr "コメント"
+
+msgctxt "XFileInfoWidget|"
+msgid "Save file"
+msgstr "保存"
+
+msgctxt "XFileInfoWidget|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "XMultiDisasmWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XMultiDisasmWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XMultiDisasmWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XMultiDisasmWidget|"
+msgid "Previous visited"
+msgstr "前の参照項目"
+
+msgctxt "XMultiDisasmWidget|"
+msgid "Next visited"
+msgstr "次の参照項目"
+
+msgctxt "XMultiDisasmWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "XVisualizationWidget|"
+msgid "Form"
+msgstr "フォーム"
+
+msgctxt "XVisualizationWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XVisualizationWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XVisualizationWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XVisualizationWidget|"
+msgid "Zoom"
+msgstr "ズーム"
+
+msgctxt "XVisualizationWidget|"
+msgid "Image"
+msgstr "イメージ"
+
+msgctxt "XVisualizationWidget|"
+msgid "Width"
+msgstr "幅"
+
+msgctxt "XVisualizationWidget|"
+msgid "Methods"
+msgstr "方式"
+
+msgctxt "XVisualizationWidget|"
+msgid "Height"
+msgstr "高さ"
+
+msgctxt "XVisualizationWidget|"
+msgid "Method"
+msgstr "方式"
+
+msgctxt "XVisualizationWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "XVisualizationWidget|"
+msgid "Schema"
+msgstr "スキーマ"
+
+msgctxt "XVisualizationWidget|"
+msgid "Regions"
+msgstr "領域"
+
+msgctxt "XVisualizationWidget|"
+msgid "Block size"
+msgstr "ブロックサイズ"
+
+msgctxt "XVisualizationWidget|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "XVisualizationWidget|"
+msgid "Highlights"
+msgstr "ハイライト"
+
+msgctxt "DialogHash|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "DialogHash|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "PEProcessData|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "PEProcessData|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "PEProcessData|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "PEProcessData|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "PEProcessData|"
+msgid "Tags"
+msgstr "タグ"
+
+msgctxt "PEProcessData|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "PEProcessData|"
+msgid "Count"
+msgstr "個数"
+
+msgctxt "PEProcessData|"
+msgid "Debug"
+msgstr "デバッグ"
+
+msgctxt "PEProcessData|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "PEProcessData|"
+msgid "Serial number"
+msgstr "シリアルナンバー"
+
+msgctxt "PEProcessData|"
+msgid "Virtual size"
+msgstr "仮想サイズ"
+
+msgctxt "PEProcessData|"
+msgid "Delay import"
+msgstr "遅延インポート"
+
+msgctxt "PEProcessData|"
+msgid "Bound import"
+msgstr "バインド済みインポート"
+
+msgctxt "PEProcessData|"
+msgid "Program name"
+msgstr "プログラム名"
+
+msgctxt "PEProcessData|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "PEProcessData|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "PEProcessData|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "PEProcessData|"
+msgid "Issuer"
+msgstr "発行者"
+
+msgctxt "PEProcessData|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "PEProcessData|"
+msgid "Relocs"
+msgstr "再配置"
+
+msgctxt "PEProcessData|"
+msgid "Sorted"
+msgstr "並び替え済み"
+
+msgctxt "PEProcessData|"
+msgid "Status"
+msgstr "状態"
+
+msgctxt "PEProcessData|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "PEProcessData|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "PEProcessData|"
+msgid "Load config"
+msgstr "構成を読み込み"
+
+msgctxt "PEProcessData|"
+msgid "File offset"
+msgstr "オフセット値"
+
+msgctxt "PEProcessData|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "PEProcessData|"
+msgid "Language"
+msgstr "言語"
+
+msgctxt "PEProcessData|"
+msgid "More info"
+msgstr "詳細情報"
+
+msgctxt "PEProcessData|"
+msgid "Publisher"
+msgstr "発行者"
+
+msgctxt "PEProcessData|"
+msgid "Description"
+msgstr "説明"
+
+msgctxt "PEProcessData|"
+msgid "Section"
+msgstr "セクション"
+
+msgctxt "PEProcessData|"
+msgid "Resources"
+msgstr "リソース"
+
+msgctxt "PEProcessData|"
+msgid "Subject"
+msgstr "主体名"
+
+msgctxt "PEProcessData|"
+msgid "Entry point"
+msgstr "エントリ ポイント"
+
+msgctxt "PEProcessData|"
+msgid "Exceptions"
+msgstr "例外"
+
+msgctxt "PEProcessData|"
+msgid "Version"
+msgstr "バージョン"
+
+msgctxt "PEProcessData|"
+msgid "Algorithm"
+msgstr "アルゴリズム"
+
+msgctxt "PEProcessData|"
+msgid "Relative address"
+msgstr "相対アドレス"
+
+msgctxt "PEProcessData|"
+msgid "Certificate"
+msgstr "証明書"
+
+msgctxt "XHashWidget|"
+msgid "Hash"
+msgstr "ハッシュ"
+
+msgctxt "XHashWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XHashWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "XHashWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XHashWidget|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XHashWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XHashWidget|"
+msgid "Method"
+msgstr "方式"
+
+msgctxt "XHashWidget|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XHashWidget|"
+msgid "Reload"
+msgstr "再読み込み"
+
+msgctxt "XHashWidget|"
+msgid "Regions"
+msgstr "領域"
+
+msgctxt "DialogTextInfo|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "DialogTextInfo|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "DialogTextInfo|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogTextInfo|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "DialogTextInfo|"
+msgid "Text documents"
+msgstr "テキスト文書"
+
+msgctxt "DialogTextInfo|"
+msgid "Save result"
+msgstr "結果を保存"
+
+msgctxt "DialogXFileInfo|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "DialogXFileInfo|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "NFD_Widget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "NFD_Widget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "NFD_Widget|"
+msgid "Stop"
+msgstr "停止"
+
+msgctxt "NFD_Widget|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "NFD_Widget|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "NFD_Widget|"
+msgid "Directory"
+msgstr "ディレクトリ"
+
+msgctxt "XAboutWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "XAboutWidget|"
+msgid "New version available"
+msgstr "新バージョンが利用可能です"
+
+msgctxt "XAboutWidget|"
+msgid "Go to download page?"
+msgstr "ダウンロードページに移動しますか？"
+
+msgctxt "XAboutWidget|"
+msgid "The value copied to clipboard"
+msgstr "クリップボードに値をコピーしました"
+
+msgctxt "XAboutWidget|"
+msgid "Follow me"
+msgstr "追跡する"
+
+msgctxt "XAboutWidget|"
+msgid "Check updates"
+msgstr "更新の確認"
+
+msgctxt "XAboutWidget|"
+msgid "Thanks"
+msgstr "謝辞"
+
+msgctxt "XAboutWidget|"
+msgid "Information"
+msgstr "情報"
+
+msgctxt "XAboutWidget|"
+msgid "Libraries"
+msgstr "ライブラリ"
+
+msgctxt "XAboutWidget|"
+msgid "Network error"
+msgstr "ネットワークエラー"
+
+msgctxt "XAboutWidget|"
+msgid "No update available"
+msgstr "更新はありません"
+
+msgctxt "XAboutWidget|"
+msgid "Update information"
+msgstr "更新情報"
+
+msgctxt "XDialogProcess|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "XDialogProcess|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XDialogProcess|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "XDialogProcess|"
+msgid "Process"
+msgstr "プロセス"
+
+msgctxt "XDialogProcess|"
+msgid "Advanced"
+msgstr "拡張"
+
+msgctxt "XInfoDBOptionsWidget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "XInfoDBOptionsWidget|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "YARA_Widget|"
+msgid "Info"
+msgstr "情報"
+
+msgctxt "YARA_Widget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "YARA_Widget|"
+msgid "Stop"
+msgstr "停止"
+
+msgctxt "YARA_Widget|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "YARA_Widget|"
+msgid "Rules"
+msgstr "ルール"
+
+msgctxt "XInfoMenu|"
+msgid "Load"
+msgstr "読み込み"
+
+msgctxt "XInfoMenu|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XInfoMenu|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "XInfoMenu|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "XInfoMenu|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "XInfoMenu|"
+msgid "Database"
+msgstr "データベース"
+
+msgctxt "XInfoMenu|"
+msgid "Open file"
+msgstr "ファイルを開く"
+
+msgctxt "XInfoMenu|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "XInfoMenu|"
+msgid "Are you sure?"
+msgstr "よろしいですか？"
+
+msgctxt "SearchValuesWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "SearchValuesWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "SearchValuesWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "SearchValuesWidget|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "SearchValuesWidget|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "SearchValuesWidget|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "SearchValuesWidget|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "SearchValuesWidget|"
+msgid "Values"
+msgstr "値"
+
+msgctxt "SearchValuesWidget|"
+msgid "Search signature"
+msgstr "シグネチャを検索"
+
+msgctxt "SearchValuesWidget|"
+msgid "Search string"
+msgstr "文字列を検索"
+
+msgctxt "SearchValuesWidget|"
+msgid "Signature"
+msgstr "シグネチャ"
+
+msgctxt "SearchValuesWidget|"
+msgid "Search value"
+msgstr "値を検索"
+
+msgctxt "XDemangleWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XExtractorWidget|"
+msgid "Mode"
+msgstr "モード"
+
+msgctxt "XExtractorWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XExtractorWidget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "XExtractorWidget|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "XExtractorWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "XExtractorWidget|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "XExtractorWidget|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XExtractorWidget|"
+msgid "Options"
+msgstr "設定"
+
+msgctxt "XExtractorWidget|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XExtractorWidget|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "XExtractorWidget|"
+msgid "Dump all"
+msgstr "全てダンプ"
+
+msgctxt "XExtractorWidget|"
+msgid "Save dump"
+msgstr "ダンプを保存"
+
+msgctxt "XExtractorWidget|"
+msgid "Extract"
+msgstr "抽出"
+
+msgctxt "DialogDataInspector|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "DialogDataInspector|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "DialogDataInspector|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogDataInspector|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "DialogDataInspector|"
+msgid "Data inspector"
+msgstr "データ インスペクター"
+
+msgctxt "DialogDataInspector|"
+msgid "Binary"
+msgstr "バイナリ"
+
+msgctxt "DialogDataInspector|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "DialogDataInspector|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "DialogDataInspector|"
+msgid "Unicode"
+msgstr "ユニコード"
+
+msgctxt "DialogDataInspector|"
+msgid "Endianness"
+msgstr "エンディアン"
+
+msgctxt "DialogDisasmLabels|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "DialogDisasmLabels|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogDisasmLabels|"
+msgid "Go to"
+msgstr "移動"
+
+msgctxt "DialogDisasmLabels|"
+msgid "Labels"
+msgstr "ラベル"
+
+msgctxt "DialogDisasmLabels|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "DialogShortcuts|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "DialogShortcuts|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "DialogShortcuts|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogShortcuts|"
+msgid "Cannot set shortcut"
+msgstr "ショートカットの設定に失敗しました"
+
+msgctxt "DialogShortcuts|"
+msgid "Filter"
+msgstr "フィルター"
+
+msgctxt "DialogShortcuts|"
+msgid "Shortcuts"
+msgstr "ショートカット"
+
+msgctxt "DialogShortcuts|"
+msgid "Default"
+msgstr "既定"
+
+msgctxt "DialogShortcuts|"
+msgid "Shortcut"
+msgstr "ショートカット"
+
+msgctxt "HeurWidget|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "HeurWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "HeurWidget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "HeurWidget|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "HeurWidget|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "HeurWidget|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "HeurWidget|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "HeurWidget|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "HeurWidget|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "HeurWidget|"
+msgid "Heuristic"
+msgstr "ヒューリスティック"
+
+msgctxt "HeurWidget|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "HeurWidget|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "MACHProcessData|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "MACHProcessData|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "MACHProcessData|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "MACHProcessData|"
+msgid "Opcode"
+msgstr "オペコード"
+
+msgctxt "MACHProcessData|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "MultiSearch|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "MultiSearch|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "MultiSearch|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "MultiSearch|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "MultiSearch|"
+msgid "Number"
+msgstr "数値"
+
+msgctxt "MultiSearch|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "MultiSearch|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "MultiSearch|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Heuristics"
+msgstr "ヒューリスティック"
+
+msgctxt "NFDWidgetAdvanced|"
+msgid "Heuristic"
+msgstr "ヒューリスティック"
+
+msgctxt "QObject|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "QObject|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "QObject|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "QObject|"
+msgid "Count"
+msgstr "個数"
+
+msgctxt "QObject|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "QObject|"
+msgid "Length"
+msgstr "長さ"
+
+msgctxt "QObject|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "QObject|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "QObject|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "QObject|"
+msgid "Interpreter"
+msgstr "インタープリター"
+
+msgctxt "QObject|"
+msgid "Library name"
+msgstr "ライブラリ名"
+
+msgctxt "QObject|"
+msgid "Version"
+msgstr "バージョン"
+
+msgctxt "QObject|"
+msgid "Cannot open file"
+msgstr "ファイルを開けませんでした"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Name"
+msgstr "名前"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Size"
+msgstr "サイズ"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Rules"
+msgstr "ルール"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Rule name"
+msgstr "ルール名"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Matches"
+msgstr "一致"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Text files"
+msgstr "テキスト ファイル"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "Cannot save file"
+msgstr "ファイルを保存できませんでした"
+
+msgctxt "YARAWidgetAdvanced|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "XVisualization|"
+msgid "None"
+msgstr "なし"
+
+msgctxt "XVisualization|"
+msgid "Text"
+msgstr "テキスト"
+
+msgctxt "XVisualization|"
+msgid "Zeros"
+msgstr "ゼロ"
+
+msgctxt "XVisualization|"
+msgid "Gradient"
+msgstr "グラデーション"
+
+msgctxt "XVisualization|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XVisualization|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "DialogArchive|"
+msgid "Open"
+msgstr "開く"
+
+msgctxt "DialogArchive|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogArchive|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "ELFSectionHeaderWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "ELFSectionHeaderWidget|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "ELFSectionHeaderWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "FormResult|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "FormResult|"
+msgid "msec"
+msgstr "ミリ秒"
+
+msgctxt "FormResult|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "XShortcutsWidget|"
+msgid "Save"
+msgstr "保存"
+
+msgctxt "XShortcutsWidget|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XShortcutsWidget|"
+msgid "Text files"
+msgstr "テキスト ファイル"
+
+msgctxt "XShortcutsWidget|"
+msgid "Cannot save file"
+msgstr "ファイルを保存できませんでした"
+
+msgctxt "XShortcutsWidget|"
+msgid "Open file"
+msgstr "ファイルを開く"
+
+msgctxt "XShortcutsWidget|"
+msgid "All files"
+msgstr "すべてのファイル"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Sort"
+msgstr "並び替え"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Hide unknown"
+msgstr "不明項目を隠す"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Custom database"
+msgstr "カスタム データベース"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Aggressive scan"
+msgstr "アグレッシブスキャン"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Scan after open"
+msgstr "開いたらすぐスキャン開始"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Profiling"
+msgstr "プロファイリング"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Extra database"
+msgstr "追加データベース"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Database"
+msgstr "データベース"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Buffer size"
+msgstr "バッファーサイズ"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Highlight"
+msgstr "ハイライト"
+
+msgctxt "DIEOptionsWidget|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "DIEOptionsWidget|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "DialogNFDScan|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogNFDScan|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogStaticScan|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "DialogStaticScan|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogStaticScan|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "DialogStaticScan|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "DialogStaticScan|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "DialogStaticScan|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "DialogStaticScan|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "DialogStaticScan|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "FormStaticScan|"
+msgid "Scan"
+msgstr "スキャン"
+
+msgctxt "FormStaticScan|"
+msgid "Recursive"
+msgstr "再帰的"
+
+msgctxt "FormStaticScan|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "DialogShowText|"
+msgid "Text"
+msgstr "テキスト"
+
+msgctxt "DialogShowText|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "SpecAbstract|"
+msgid "Type"
+msgstr "種類"
+
+msgctxt "SpecAbstract|"
+msgid "Section name"
+msgstr "セクション名"
+
+msgctxt "SpecAbstract|"
+msgid "Entry point section"
+msgstr "エントリ ポイントセクション"
+
+msgctxt "SpecAbstract|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "SpecAbstract|"
+msgid "String"
+msgstr "文字列"
+
+msgctxt "SpecAbstract|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "SpecAbstract|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "SpecAbstract|"
+msgid "Import hash"
+msgstr "ハッシュをインポート"
+
+msgctxt "SpecAbstract|"
+msgid "Resources"
+msgstr "リソース"
+
+msgctxt "SpecAbstract|"
+msgid "Entry point"
+msgstr "エントリ ポイント"
+
+msgctxt "SpecAbstract|"
+msgid "Debug data"
+msgstr "デバッグ データ"
+
+msgctxt "SpecAbstract|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "SpecAbstract|"
+msgid "Code section"
+msgstr "コード セクション"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Calls"
+msgstr "コール"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Jumps"
+msgstr "ジャンプ"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Ref to"
+msgstr "参照先"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Opcodes"
+msgstr "オペコード"
+
+msgctxt "DialogDisasmProcess|"
+msgid "Ref from"
+msgstr "参照元"
+
+msgctxt "XDisasmModel|"
+msgid "Bytes"
+msgstr "バイト"
+
+msgctxt "XDisasmModel|"
+msgid "Label"
+msgstr "ラベル"
+
+msgctxt "XDisasmModel|"
+msgid "Offset"
+msgstr "オフセット"
+
+msgctxt "XDisasmModel|"
+msgid "Opcode"
+msgstr "オペコード"
+
+msgctxt "XDisasmModel|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Remove"
+msgstr "削除"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Analyze"
+msgstr "分析"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Scan for IAT"
+msgstr "IAT をスキャン"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Symbols"
+msgstr "シンボル"
+
+msgctxt "DialogXInfoDBTransferProcess|"
+msgid "Get IAT"
+msgstr "IAT を取得"
+
+msgctxt "XOptions|"
+msgid "Clear"
+msgstr "消去"
+
+msgctxt "XOptions|"
+msgid "Cannot find file"
+msgstr "ファイルを見つけられませんでした"
+
+msgctxt "XOptions|"
+msgid "Recent files"
+msgstr "最近使ったファイル"
+
+msgctxt "XOptions|"
+msgid "Images"
+msgstr "イメージ"
+
+msgctxt "XOptions|"
+msgid "Code pages"
+msgstr "コードページ"
+
+msgctxt "XOptions|"
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgctxt "XOptions|"
+msgid "Automatic"
+msgstr "自動"
+
+msgctxt "DialogDisasm|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogDisasm|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "DialogEntropy|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogEntropy|"
+msgid "Entropy"
+msgstr "エントロピー"
+
+msgctxt "DialogHexView|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogMIME|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogMemoryMap|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogMemoryMap|"
+msgid "Memory map"
+msgstr "メモリ マップ"
+
+msgctxt "DialogMultiDisasm|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogMultiDisasm|"
+msgid "Disasm"
+msgstr "逆アセンブル"
+
+msgctxt "DialogNFDWidgetAdvanced|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogSearchSignatures|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogSearchSignatures|"
+msgid "Signatures"
+msgstr "署名"
+
+msgctxt "DialogSearchStrings|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogSearchStrings|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "DialogSearchValues|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogSearchValues|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "DialogShowImage|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogShowImage|"
+msgid "Image"
+msgstr "イメージ"
+
+msgctxt "DialogVisualization|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogVisualization|"
+msgid "Visualization"
+msgstr "構造を可視化"
+
+msgctxt "DialogXDynStructs|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogXExtractor|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogXExtractor|"
+msgid "Extractor"
+msgstr "抽出"
+
+msgctxt "DialogXSymbols|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogXSymbols|"
+msgid "Functions"
+msgstr "関数"
+
+msgctxt "DialogXSymbols|"
+msgid "Symbols"
+msgstr "シンボル"
+
+msgctxt "DialogXSymbols|"
+msgid "References"
+msgstr "参照"
+
+msgctxt "DialogXVirusTotal|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "DialogYARAWidgetAdvanced|"
+msgid "Close"
+msgstr "閉じる"
+
+msgctxt "XPE|"
+msgid "Error"
+msgstr "エラー"
+
+msgctxt "XPE|"
+msgid "Invalid"
+msgstr "無効"
+
+msgctxt "XPE|"
+msgid "The file is not signed"
+msgstr "ファイルは署名されていません"
+
+msgctxt "XPE|"
+msgid "Invalid address of entry point"
+msgstr "エントリポイントのアドレスが無効です"
+
+msgctxt "XPE|"
+msgid "Boot service driver"
+msgstr "ブートサービスドライバー"
+
+msgctxt "XPE|"
+msgid "Driver"
+msgstr "ドライバー"
+
+msgctxt "XPE|"
+msgid "Export"
+msgstr "エクスポート"
+
+msgctxt "XPE|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XPE|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "XPE|"
+msgid "Relocs"
+msgstr "再配置"
+
+msgctxt "XPE|"
+msgid "The file is signed and the signature was verified"
+msgstr "ファイルが署名され、署名が検証されました"
+
+msgctxt "XPE|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XPE|"
+msgid "Section"
+msgstr "セクション"
+
+msgctxt "XPE|"
+msgid "Boot application"
+msgstr "ブートアプリケーション"
+
+msgctxt "XPE|"
+msgid "Console"
+msgstr "コンソール"
+
+msgctxt "XPE|"
+msgid "Resources"
+msgstr "リソース"
+
+msgctxt "XPE|"
+msgid "Runtime driver"
+msgstr "ランタイムドライバー"
+
+msgctxt "XPE|"
+msgid "The signature is present, but not trusted"
+msgstr "署名は存在しますが、信頼されていません"
+
+msgctxt "XPE|"
+msgid "The signature is present, but specifically disallowed"
+msgstr "署名は存在しますが、特に許可されていません"
+
+msgctxt "XPE|"
+msgid "Entry point"
+msgstr "エントリ ポイント"
+
+msgctxt "XPE|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XPE|"
+msgid "Cannot open file"
+msgstr "ファイルを開けませんでした"
+
+msgctxt "XPE|"
+msgid "Certificate"
+msgstr "証明書"
+
+msgctxt "XPE|"
+msgid "The signature error"
+msgstr "署名エラー"
+
+msgctxt "XPE|"
+msgid "Application"
+msgstr "アプリケーション"
+
+msgctxt "XComboBoxEx|"
+msgid "Flags"
+msgstr "フラグ"
+
+msgctxt "XDeviceTableEditView|"
+msgid "Patch"
+msgstr "パッチ"
+
+msgctxt "XDeviceTableEditView|"
+msgid "Open file"
+msgstr "ファイルを開く"
+
+msgctxt "XDeviceTableEditView|"
+msgid "Cannot resize"
+msgstr "リサイズできません"
+
+msgctxt "XTiff|"
+msgid "Table"
+msgstr "テーブル"
+
+msgctxt "XTiff|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XYara|"
+msgid "Start"
+msgstr "開始"
+
+msgctxt "DialogSelectStyle|"
+msgid "Style"
+msgstr "スタイル"
+
+msgctxt "XDynStructsEngine|"
+msgid "Value"
+msgstr "値"
+
+msgctxt "XDynStructsEngine|"
+msgid "Cannot load file"
+msgstr "ファイルを読み込めません"
+
+msgctxt "XHexViewOptionsWidget|"
+msgid "Show colons in addresses"
+msgstr "アドレスにコロンを表示"
+
+msgctxt "XAPK|"
+msgid "Universal"
+msgstr "ユニバーサル"
+
+msgctxt "XAPK|"
+msgid "Package"
+msgstr "パッケージ"
+
+msgctxt "XAPK|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XJAR|"
+msgid "Universal"
+msgstr "ユニバーサル"
+
+msgctxt "XJAR|"
+msgid "Package"
+msgstr "パッケージ"
+
+msgctxt "XJAR|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XMACHOFat|"
+msgid "Universal"
+msgstr "ユニバーサル"
+
+msgctxt "XMACHOFat|"
+msgid "Bundle"
+msgstr "ハンドル"
+
+msgctxt "XMACHOFat|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XMACHOFat|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XNPM|"
+msgid "Universal"
+msgstr "ユニバーサル"
+
+msgctxt "XNPM|"
+msgid "Package"
+msgstr "パッケージ"
+
+msgctxt "XNPM|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "DialogMultiSearchProcess|"
+msgid "Search strings"
+msgstr "文字列を検索"
+
+msgctxt "DialogMultiSearchProcess|"
+msgid "Create view model"
+msgstr "ビューモデル作成"
+
+msgctxt "DialogMultiSearchProcess|"
+msgid "Search signatures"
+msgstr "署名を検索"
+
+msgctxt "DialogMultiSearchProcess|"
+msgid "Search values"
+msgstr "値を検索"
+
+msgctxt "DumpProcess|"
+msgid "Cannot fix dump file"
+msgstr "ダンプを修正できませんでした"
+
+msgctxt "DumpProcess|"
+msgid "Cannot read file"
+msgstr "ファイルの読み込みに失敗しました"
+
+msgctxt "DumpProcess|"
+msgid "Cannot write data to file"
+msgstr "ファイルへのデータ書き込みに失敗しました"
+
+msgctxt "DumpProcess|"
+msgid "Invalid offset"
+msgstr "無効なオフセット"
+
+msgctxt "DumpProcess|"
+msgid "Cannot open dump file"
+msgstr "ダンプファイルを開けませんでした"
+
+msgctxt "DumpProcess|"
+msgid "Invalid size"
+msgstr "無効なサイズ"
+
+msgctxt "StaticScan|"
+msgid "File scan"
+msgstr "ファイル スキャン"
+
+msgctxt "StaticScan|"
+msgid "Directory scan"
+msgstr "ディレクトリのスキャン"
+
+msgctxt "StaticScan|"
+msgid "Device scan"
+msgstr "デバイスのスキャン"
+
+msgctxt "StaticScan|"
+msgid "Memory scan"
+msgstr "メモリスキャン"
+
+msgctxt "Binary_Script|"
+msgid "Invalid handle"
+msgstr "無効なハンドル"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Scan after open"
+msgstr "開いたらすぐスキャン開始"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Buffer size"
+msgstr "バッファサイズ"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "NFDOptionsWidget|"
+msgid "Highlight"
+msgstr "ハイライト"
+
+msgctxt "NFDOptionsWidget|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "StaticScanOptionsWidget|"
+msgid "Heuristic scan"
+msgstr "ヒューリスティック スキャン"
+
+msgctxt "StaticScanOptionsWidget|"
+msgid "Scan after open"
+msgstr "開いたらすぐスキャン開始"
+
+msgctxt "StaticScanOptionsWidget|"
+msgid "Recursive scan"
+msgstr "再帰的スキャン"
+
+msgctxt "StaticScanOptionsWidget|"
+msgid "Deep scan"
+msgstr "ディープスキャン"
+
+msgctxt "StaticScanOptionsWidget|"
+msgid "Verbose"
+msgstr "詳細"
+
+msgctxt "StaticScanOptionsWidget|"
+msgid "All types"
+msgstr "すべての種類"
+
+msgctxt "DiE_Script|"
+msgid "Cannot load database"
+msgstr "データベースを読み込めません"
+
+msgctxt "DiE_Script|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "DialogSearchProcess|"
+msgid "Cancel"
+msgstr "キャンセル"
+
+msgctxt "DialogSearchProcess|"
+msgid "Search"
+msgstr "検索"
+
+msgctxt "XCapstone|"
+msgid "Invalid opcode"
+msgstr "無効なオペコード"
+
+msgctxt "XHeaderView|"
+msgid "Filter"
+msgstr "フィルター"
+
+msgctxt "XGzip|"
+msgid "Footer"
+msgstr "フッタ"
+
+msgctxt "XGzip|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XPDF|"
+msgid "Footer"
+msgstr "フッタ"
+
+msgctxt "XPDF|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XPDF|"
+msgid "Object"
+msgstr "オブジェクト"
+
+msgctxt "QwtPlotRenderer|"
+msgid "Export File Name"
+msgstr "ファイル名のエクスポート"
+
+msgctxt "QwtPlotRenderer|"
+msgid "Images"
+msgstr "イメージ"
+
+msgctxt "QwtPlotRenderer|"
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgctxt "QwtPolarRenderer|"
+msgid "Export File Name"
+msgstr "ファイル名のエクスポート"
+
+msgctxt "QwtPolarRenderer|"
+msgid "Images"
+msgstr "イメージ"
+
+msgctxt "QwtPolarRenderer|"
+msgid "Documents"
+msgstr "ドキュメント"
+
+msgctxt "XDEX|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XDEX|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XDEX|"
+msgid "Main module"
+msgstr "メインモジュール"
+
+msgctxt "XDEX|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XIcon|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XLHA|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XMP3|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XMSDOS|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XMSDOS|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XMSDOS|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XPNG|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XSevenZip|"
+msgid "Header"
+msgstr "ヘッダ"
+
+msgctxt "XSevenZip|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "HashProcess|"
+msgid "Import"
+msgstr "インポート"
+
+msgctxt "XAmigaHunk|"
+msgid "Object"
+msgstr "オブジェクト"
+
+msgctxt "XAmigaHunk|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XInfoDB|"
+msgid "Paused"
+msgstr "一時停止"
+
+msgctxt "XInfoDB|"
+msgid "Address"
+msgstr "アドレス"
+
+msgctxt "XInfoDB|"
+msgid "Trace into"
+msgstr "トレースイン"
+
+msgctxt "XInfoDB|"
+msgid "Trace over"
+msgstr "トレースオーバー"
+
+msgctxt "XInfoDB|"
+msgid "Running"
+msgstr "実行中"
+
+msgctxt "XInfoDB|"
+msgid "Function enter"
+msgstr "関数開始"
+
+msgctxt "XInfoDB|"
+msgid "Step into"
+msgstr "ステップ イン"
+
+msgctxt "XInfoDB|"
+msgid "Step over"
+msgstr "ステップ オーバー"
+
+msgctxt "XInfoDB|"
+msgid "Function leave"
+msgstr "関数終了"
+
+msgctxt "XInfoDB|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "ScanItemModel|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "StaticScanItemModel|"
+msgid "Result"
+msgstr "結果"
+
+msgctxt "DiE_ScriptEngine|"
+msgid "Cannot find"
+msgstr "見つかりません"
+
+msgctxt "DialogNFDScanProcess|"
+msgid "Text documents"
+msgstr "テキスト文書"
+
+msgctxt "DialogNFDScanProcess|"
+msgid "Save result"
+msgstr "結果を保存"
+
+msgctxt "DialogStaticScanProcess|"
+msgid "Text documents"
+msgstr "テキスト文書"
+
+msgctxt "DialogStaticScanProcess|"
+msgid "Save result"
+msgstr "結果を保存"
+
+msgctxt "XDataConvertor|"
+msgid "Read error"
+msgstr "読み取りエラー"
+
+msgctxt "XDataConvertor|"
+msgid "Write error"
+msgstr "書き込みエラー"
+
+msgctxt "XDataConvertor|"
+msgid "Invalid size"
+msgstr "無効なサイズ"
+
+msgctxt "XDataConvertor|"
+msgid "Cannot resize"
+msgstr "リサイズができませんでした"
+
+msgctxt "XELF|"
+msgid "Overlay"
+msgstr "オーバーレイ"
+
+msgctxt "XELF|"
+msgid "Libraries"
+msgstr "ライブラリ"
+
+msgctxt "XELF|"
+msgid "Section"
+msgstr "セクション"
+
+msgctxt "XELF|"
+msgid "Symbol table"
+msgstr "シンボル テーブル"
+
+msgctxt "XELF|"
+msgid "Run path"
+msgstr "実行パス"
+
+msgctxt "XELF|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XELF|"
+msgid "String table"
+msgstr "文字列テーブル"
+
+msgctxt "EntropyProcess|"
 msgid "not packed"
 msgstr "パックなし"
 
+msgctxt "EntropyProcess|"
 msgid "packed"
 msgstr "パック済み"
 
-msgid "true"
-msgstr "true"
+msgctxt "XArchive|"
+msgid "Archive"
+msgstr "アーカイブ"
+
+msgctxt "XArchive|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XArchive|"
+msgid "extender"
+msgstr "エクステンダ"
+
+msgctxt "DialogSectionHeader|"
+msgid "Section"
+msgstr "セクション"
+
+msgctxt "XMACH|"
+msgid "Section"
+msgstr "セクション"
+
+msgctxt "XMACH|"
+msgid "Segment"
+msgstr "セグメント"
+
+msgctxt "XMACH|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XAbstractTableView|"
+msgid "Invalid font"
+msgstr "無効なフォント"
+
+msgctxt "ToolsWidget|"
+msgid "Strings"
+msgstr "文字列"
+
+msgctxt "XDynStructsOptionsWidget|"
+msgid "Structs"
+msgstr "構造体"
+
+msgctxt "XDynStructsOptionsWidget|"
+msgid "Open directory"
+msgstr "ディレクトリを開く"
+
+msgctxt "XDemangle|"
+msgid "Automatic"
+msgstr "自動"
+
+msgctxt "XDemangle|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "DEXSectionHeaderWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "LESectionHeaderWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "MACHSectionHeaderWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "NESectionHeaderWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "PESectionHeaderWidget|"
+msgid "Readonly"
+msgstr "読み取り専用"
+
+msgctxt "XCOM|"
+msgid "Unknown"
+msgstr "不明"
+
+msgctxt "XNE|"
+msgid "Unknown"
+msgstr "不明"
