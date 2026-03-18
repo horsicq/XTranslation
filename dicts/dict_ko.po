@@ -67,7 +67,7 @@ msgid "Analyze"
 msgstr "분석"
 
 msgid "Analyzed"
-msgstr ""
+msgstr "분석됨"
 
 msgid "Animate"
 msgstr "애니메이트"
@@ -88,7 +88,7 @@ msgid "Archive record"
 msgstr "아카이브 레코드"
 
 msgid "Array"
-msgstr ""
+msgstr "배열"
 
 msgid "Arrows"
 msgstr "화살표"
@@ -100,16 +100,16 @@ msgid "Audio"
 msgstr "오디오"
 
 msgid "Author"
-msgstr ""
+msgstr "작성자"
 
 msgid "Automatic"
-msgstr "자동적인"
+msgstr "자동"
 
 msgid "Background"
 msgstr "배경"
 
 msgid "Base"
-msgstr ""
+msgstr "베이스"
 
 msgid "Base address"
 msgstr "기준 주소"
@@ -121,13 +121,13 @@ msgid "Binary"
 msgstr "바이너리"
 
 msgid "Bind"
-msgstr "묶다"
+msgstr "묶기"
 
 msgid "Binding"
-msgstr "제본"
+msgstr "바인딩"
 
 msgid "Bits"
-msgstr "Bits"
+msgstr "비트"
 
 msgid "Block size"
 msgstr "블록 크기"
@@ -160,16 +160,16 @@ msgid "Bugreports"
 msgstr "버그 신고"
 
 msgid "Bundle"
-msgstr "묶음"
+msgstr "번들"
 
 msgid "Byte"
-msgstr "Byte"
+msgstr "바이트"
 
 msgid "Bytes"
-msgstr "Bytes"
+msgstr "바이트"
 
 msgid "Bytes available"
-msgstr "Bytes 존재함"
+msgstr "사용 가능한 바이트"
 
 msgid "CPU"
 msgstr "CPU"
@@ -229,7 +229,7 @@ msgid "Cannot read memory at address"
 msgstr "주소에서 메모리를 읽을 수 없음"
 
 msgid "Cannot resize"
-msgstr "리사이즈를 할 수 없음"
+msgstr "크기를 조정할 수 없음"
 
 msgid "Cannot save file"
 msgstr "파일을 저장할 수 없음"
@@ -271,13 +271,13 @@ msgid "Colors"
 msgstr "색상"
 
 msgid "Commands"
-msgstr "주석"
+msgstr "명령어"
 
 msgid "Comment"
 msgstr "주석"
 
 msgid "Compact"
-msgstr ""
+msgstr "컴팩트"
 
 msgid "Compiler"
 msgstr "컴파일러"
@@ -286,13 +286,13 @@ msgid "Compressor"
 msgstr "압축기"
 
 msgid "Conditional"
-msgstr "조건부의"
+msgstr "조건부"
 
 msgid "Console"
 msgstr "콘솔"
 
 msgid "Controls"
-msgstr ""
+msgstr "컨트롤"
 
 msgid "Converter"
 msgstr "변환기"
@@ -310,7 +310,7 @@ msgid "Corrupted data"
 msgstr "손상된 데이터"
 
 msgid "Count"
-msgstr "카운트"
+msgstr "개수"
 
 msgid "Creator"
 msgstr "제작자"
@@ -325,10 +325,10 @@ msgid "Cursor"
 msgstr "커서"
 
 msgid "Custom"
-msgstr "커스텀"
+msgstr "사용자 정의"
 
 msgid "Custom database"
-msgstr "커스텀 데이터베이스"
+msgstr "사용자 정의 데이터베이스"
 
 msgid "Data"
 msgstr "데이터"
@@ -337,7 +337,7 @@ msgid "Data convertor"
 msgstr "데이터 변환기"
 
 msgid "Data in code"
-msgstr "코드의 데이터"
+msgstr "코드 내 데이터"
 
 msgid "Database"
 msgstr "데이터베이스"
@@ -361,16 +361,16 @@ msgid "Debugger"
 msgstr "디버거"
 
 msgid "Decode"
-msgstr "복호화"
+msgstr "디코드"
 
 msgid "Deep scan"
 msgstr "정밀 검사"
 
 msgid "Default"
-msgstr "기본"
+msgstr "기본값"
 
 msgid "Delay import"
-msgstr "가져오기 지연"
+msgstr "지연 가져오기"
 
 msgid "Demangle"
 msgstr "디맹글"
@@ -394,7 +394,7 @@ msgid "Diagram"
 msgstr "다이어그램"
 
 msgid "Dialog"
-msgstr ""
+msgstr "대화 상자"
 
 msgid "Directory"
 msgstr "디렉토리"
@@ -403,7 +403,7 @@ msgid "Directory scan"
 msgstr "디렉토리 검색"
 
 msgid "Disasm"
-msgstr "디스어셈"
+msgstr "디스어셈블"
 
 msgid "Document"
 msgstr "문서"
@@ -433,13 +433,13 @@ msgid "Editor"
 msgstr "편집기"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "경과 시간"
 
 msgid "Encode"
-msgstr "부호화"
+msgstr "인코드"
 
 msgid "End"
-msgstr ""
+msgstr "종료"
 
 msgid "Endianness"
 msgstr "엔디언"
@@ -460,31 +460,31 @@ msgid "Exceptions"
 msgstr "예외"
 
 msgid "Exit"
-msgstr "끝내기"
+msgstr "종료"
 
 msgid "Export"
 msgstr "내보내기"
 
 msgid "Export File Name"
-msgstr "파일 이름으로 내보내기"
+msgstr "내보낼 파일 이름"
 
 msgid "Export type"
-msgstr "타입 내보내기"
+msgstr "내보내기 유형"
 
 msgid "Extender"
-msgstr ""
+msgstr "익스텐더"
 
 msgid "External references"
 msgstr "외부 참조"
 
 msgid "Extra"
-msgstr ""
+msgstr "추가"
 
 msgid "Extra database"
-msgstr ""
+msgstr "추가 데이터베이스"
 
 msgid "Extract"
-msgstr "추출하기"
+msgstr "추출"
 
 msgid "Extract all cursors"
 msgstr "모든 커서 추출"
@@ -508,7 +508,7 @@ msgid "File offset"
 msgstr "파일 오프셋"
 
 msgid "File saved"
-msgstr "파일이 저장됨"
+msgstr "파일 저장됨"
 
 msgid "File scan"
 msgstr "파일 검색"
@@ -517,7 +517,7 @@ msgid "File size"
 msgstr "파일 크기"
 
 msgid "File type"
-msgstr "파일 타입"
+msgstr "파일 유형"
 
 msgid "Files"
 msgstr "파일"
@@ -529,28 +529,28 @@ msgid "Find"
 msgstr "찾기"
 
 msgid "First"
-msgstr ""
+msgstr "첫 번째"
 
 msgid "Fix offsets"
 msgstr "오프셋 수정"
 
 msgid "Fix types"
-msgstr "타입 수정"
+msgstr "유형 수정"
 
 msgid "Flags"
 msgstr "플래그"
 
 msgid "Flags register"
-msgstr ""
+msgstr "플래그 레지스터"
 
 msgid "Folder"
 msgstr "폴더"
 
 msgid "Follow in"
-msgstr ""
+msgstr "다음에서 추적"
 
 msgid "Follow me"
-msgstr ""
+msgstr "나를 팔로우"
 
 msgid "Fonts"
 msgstr "글꼴"
@@ -559,25 +559,25 @@ msgid "Footer"
 msgstr "푸터"
 
 msgid "Form"
-msgstr "형태"
+msgstr "폼"
 
 msgid "Format"
 msgstr "형식"
 
 msgid "Format result"
-msgstr ""
+msgstr "결과 형식"
 
 msgid "Full"
-msgstr ""
+msgstr "전체"
 
 msgid "Full screen"
-msgstr "전체화면"
+msgstr "전체 화면"
 
 msgid "Function enter"
-msgstr ""
+msgstr "함수 진입"
 
 msgid "Function leave"
-msgstr ""
+msgstr "함수 종료"
 
 msgid "Functions"
 msgstr "함수"
@@ -586,7 +586,7 @@ msgid "GB"
 msgstr "GB"
 
 msgid "General registers"
-msgstr ""
+msgstr "범용 레지스터"
 
 msgid "Generic"
 msgstr "일반"
@@ -607,10 +607,10 @@ msgid "Go to address"
 msgstr "주소로 이동"
 
 msgid "Go to download page?"
-msgstr "다운로드 페이지로 이동할까요?"
+msgstr "다운로드 페이지로 이동하시겠습니까?"
 
 msgid "Gradient"
-msgstr "기울기"
+msgstr "그라데이션"
 
 msgid "Grid"
 msgstr "그리드"
@@ -646,10 +646,10 @@ msgid "Heuristics"
 msgstr "휴리스틱"
 
 msgid "Hex"
-msgstr "헥스"
+msgstr "Hex"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "알 수 없는 항목 숨기기"
 
 msgid "Highlight"
 msgstr "하이라이트"
@@ -682,7 +682,7 @@ msgid "Input"
 msgstr "입력"
 
 msgid "Inspector"
-msgstr ""
+msgstr "인스펙터"
 
 msgid "Installer"
 msgstr "인스톨러"
@@ -691,7 +691,7 @@ msgid "Installer data"
 msgstr "인스톨러 데이터"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "명령 포인터 레지스터"
 
 msgid "Interpreter"
 msgstr "인터프리터"
@@ -718,10 +718,10 @@ msgid "Invalid size"
 msgstr "유효하지 않은 크기"
 
 msgid "Issuer"
-msgstr "발급사"
+msgstr "발급자"
 
 msgid "Joiner"
-msgstr "병합기"
+msgstr "조이너"
 
 msgid "Keep size"
 msgstr "크기 유지"
@@ -733,7 +733,7 @@ msgid "Language"
 msgstr "언어"
 
 msgid "Last"
-msgstr ""
+msgstr "마지막"
 
 msgid "Lazy binding"
 msgstr "지연 바인딩"
@@ -751,7 +751,7 @@ msgid "Library name"
 msgstr "라이브러리 이름"
 
 msgid "Licensing"
-msgstr "라이센싱"
+msgstr "라이선싱"
 
 msgid "Linker"
 msgstr "링커"
@@ -760,19 +760,19 @@ msgid "Links"
 msgstr "링크"
 
 msgid "List"
-msgstr "리스트"
+msgstr "목록"
 
 msgid "Load"
-msgstr ""
+msgstr "로드"
 
 msgid "Load config"
 msgstr "구성 로드"
 
 msgid "Loader"
-msgstr ""
+msgstr "로더"
 
 msgid "Local relocation"
-msgstr "지역 이전"
+msgstr "지역 재배치"
 
 msgid "Location"
 msgstr "위치"
@@ -784,7 +784,7 @@ msgid "MB"
 msgstr "MB"
 
 msgid "Main"
-msgstr ""
+msgstr "메인"
 
 msgid "Main module"
 msgstr "메인 모듈"
@@ -796,22 +796,22 @@ msgid "Malware"
 msgstr "멀웨어"
 
 msgid "Manifest"
-msgstr ""
+msgstr "매니페스트"
 
 msgid "Map"
-msgstr ""
+msgstr "맵"
 
 msgid "Maps"
-msgstr ""
+msgstr "맵"
 
 msgid "Mask"
-msgstr ""
+msgstr "마스크"
 
 msgid "Match case"
 msgstr "대소문자 구분"
 
 msgid "Matches"
-msgstr ""
+msgstr "일치 항목"
 
 msgid "Maximum"
 msgstr "최대"
@@ -823,7 +823,7 @@ msgid "Memory map"
 msgstr "메모리 맵"
 
 msgid "Memory scan"
-msgstr "메모리 스캔"
+msgstr "메모리 검색"
 
 msgid "Metadata"
 msgstr "메타데이터"
@@ -832,10 +832,10 @@ msgid "Metadata table"
 msgstr "메타데이터 테이블"
 
 msgid "Method"
-msgstr "방법"
+msgstr "메서드"
 
 msgid "Methods"
-msgstr "방법"
+msgstr "메서드"
 
 msgid "MiB"
 msgstr "MiB"
@@ -850,10 +850,10 @@ msgid "Modules"
 msgstr "모듈"
 
 msgid "More info"
-msgstr "더 많은 정보"
+msgstr "추가 정보"
 
 msgid "Multiplatform"
-msgstr "다중 플랫폼"
+msgstr "멀티플랫폼"
 
 msgid "Multisearch"
 msgstr "다중 검색"
@@ -865,34 +865,34 @@ msgid "Network error"
 msgstr "네트워크 오류"
 
 msgid "New"
-msgstr ""
+msgstr "새로 만들기"
 
 msgid "New version available"
-msgstr "새로운 버전 이용 가능"
+msgstr "새 버전 사용 가능"
 
 msgid "Next"
 msgstr "다음"
 
 msgid "Next visited"
-msgstr ""
+msgstr "다음 방문"
 
 msgid "No"
 msgstr "아니요"
 
 msgid "No update available"
-msgstr "이용가능한 업데이트 없음"
+msgstr "업데이트 없음"
 
 msgid "None"
-msgstr ""
+msgstr "없음"
 
 msgid "Nothing found"
-msgstr "아무것도 찾을 수 없음"
+msgstr "검색 결과 없음"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "Null 종료"
 
 msgid "Numbers"
-msgstr ""
+msgstr "숫자"
 
 msgid "OK"
 msgstr "확인"
@@ -901,16 +901,16 @@ msgid "Obfuscator"
 msgstr "난독기"
 
 msgid "Object"
-msgstr "오브젝트"
+msgstr "개체"
 
 msgid "Objects"
-msgstr "오브젝트"
+msgstr "개체"
 
 msgid "Offset"
 msgstr "오프셋"
 
 msgid "One operand"
-msgstr ""
+msgstr "단일 피연산자"
 
 msgid "Online tools"
 msgstr "온라인 도구"
@@ -928,19 +928,19 @@ msgid "Open"
 msgstr "열기"
 
 msgid "Open directory"
-msgstr "디렉터리 열기"
+msgstr "디렉토리 열기"
 
 msgid "Open file"
 msgstr "파일 열기"
 
 msgid "Operation system"
-msgstr "운영 시스템"
+msgstr "운영 체제"
 
 msgid "Options"
 msgstr "옵션"
 
 msgid "Output"
-msgstr ""
+msgstr "출력"
 
 msgid "Overlay"
 msgstr "오버레이"
@@ -958,13 +958,13 @@ msgid "Pause"
 msgstr "일시정지"
 
 msgid "Paused"
-msgstr ""
+msgstr "일시정지됨"
 
 msgid "Payload"
-msgstr ""
+msgstr "페이로드"
 
 msgid "Personal data"
-msgstr "개인정보"
+msgstr "개인 데이터"
 
 msgid "Plain Text"
 msgstr "일반 텍스트"
@@ -976,13 +976,13 @@ msgid "Player"
 msgstr "플레이어"
 
 msgid "Please restart the application"
-msgstr "프로그램을 재시작하세요"
+msgstr "애플리케이션을 재시작해 주세요"
 
 msgid "Please run the program as an administrator"
-msgstr "프로그램을 관리자로 실행해주세요"
+msgstr "프로그램을 관리자 권한으로 실행해 주세요"
 
 msgid "Please use valid API key"
-msgstr "올바른 API키를 입력해 주세요"
+msgstr "유효한 API 키를 사용해 주세요"
 
 msgid "Pointer"
 msgstr "포인터"
@@ -991,25 +991,25 @@ msgid "Position"
 msgstr "위치"
 
 msgid "Previous visited"
-msgstr "이전에 방문함"
+msgstr "이전 방문"
 
 msgid "Print"
-msgstr "프린트"
+msgstr "인쇄"
 
 msgid "Process"
 msgstr "프로세스"
 
 msgid "Producer"
-msgstr ""
+msgstr "제작자"
 
 msgid "Profiling"
-msgstr ""
+msgstr "프로파일링"
 
 msgid "Program name"
 msgstr "프로그램 이름"
 
 msgid "Programs"
-msgstr "프로그램들"
+msgstr "프로그램"
 
 msgid "Protection"
 msgstr "보호"
@@ -1024,10 +1024,10 @@ msgid "Prototype"
 msgstr "프로토타입"
 
 msgid "Publisher"
-msgstr "발행자"
+msgstr "게시자"
 
 msgid "Raw data"
-msgstr "로우 데이터"
+msgstr "원시 데이터"
 
 msgid "Read error"
 msgstr "읽기 오류"
@@ -1042,7 +1042,7 @@ msgid "Recent files"
 msgstr "최근 파일"
 
 msgid "Recursive"
-msgstr "재귀적"
+msgstr "재귀"
 
 msgid "Recursive scan"
 msgstr "재귀적 검색"
@@ -1051,10 +1051,10 @@ msgid "References"
 msgstr "참조"
 
 msgid "Region"
-msgstr "지역"
+msgstr "영역"
 
 msgid "Regions"
-msgstr "지역"
+msgstr "영역"
 
 msgid "Register"
 msgstr "레지스터"
@@ -1063,31 +1063,31 @@ msgid "Registers"
 msgstr "레지스터"
 
 msgid "Regular expression"
-msgstr "정규표현식"
+msgstr "정규 표현식"
 
 msgid "Relative address"
 msgstr "상대 주소"
 
 msgid "Relative virtual address"
-msgstr "상대적 가상 주소(RVA)"
+msgstr "상대 가상 주소 (RVA)"
 
 msgid "Reload"
-msgstr "다시 불러오기"
+msgstr "다시 로드"
 
 msgid "Relocs"
-msgstr "다시 할당하기"
+msgstr "재배치"
 
 msgid "Remove"
-msgstr "삭제"
+msgstr "제거"
 
 msgid "Rescan"
-msgstr "다시 스캔"
+msgstr "다시 검색"
 
 msgid "Resize"
-msgstr "리사이즈"
+msgstr "크기 조정"
 
 msgid "Resource"
-msgstr "자원"
+msgstr "리소스"
 
 msgid "Resources"
 msgstr "리소스"
@@ -1111,7 +1111,7 @@ msgid "Run path"
 msgstr "실행 경로"
 
 msgid "Running"
-msgstr "실행중"
+msgstr "실행 중"
 
 msgid "Runtime driver"
 msgstr "런타임 드라이버"
@@ -1138,7 +1138,7 @@ msgid "Save history"
 msgstr "히스토리 저장"
 
 msgid "Save last directory"
-msgstr "마지막 디렉터리 저장"
+msgstr "마지막 디렉토리 저장"
 
 msgid "Save result"
 msgstr "결과 저장"
@@ -1198,7 +1198,7 @@ msgid "Segment"
 msgstr "세그먼트"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "세그먼트 레지스터"
 
 msgid "Segments"
 msgstr "세그먼트"
@@ -1207,49 +1207,49 @@ msgid "Select"
 msgstr "선택"
 
 msgid "Selected"
-msgstr ""
+msgstr "선택됨"
 
 msgid "Selection"
-msgstr "선택"
+msgstr "선택 영역"
 
 msgid "Serial number"
 msgstr "일련 번호"
 
 msgid "Shortcut"
-msgstr "Shortcut"
+msgstr "바로가기"
 
 msgid "Shortcuts"
 msgstr "바로가기"
 
 msgid "Show"
-msgstr "보여주기"
+msgstr "표시"
 
 msgid "Show all"
-msgstr "모두 보여주기"
+msgstr "모두 표시"
 
 msgid "Show colons in addresses"
-msgstr "주소의 콜론 보이기"
+msgstr "주소에 콜론 표시"
 
 msgid "Show comments"
 msgstr "주석 표시"
 
 msgid "Show detects"
-msgstr "탐지 보이기"
+msgstr "탐지 결과 표시"
 
 msgid "Show in"
-msgstr ""
+msgstr "다음에서 보기"
 
 msgid "Show info"
-msgstr ""
+msgstr "정보 표시"
 
 msgid "Show logo"
 msgstr "로고 표시"
 
 msgid "Show type"
-msgstr "타입 표시"
+msgstr "유형 표시"
 
 msgid "Show valid"
-msgstr "유효한 표시"
+msgstr "유효한 항목 표시"
 
 msgid "Show version"
 msgstr "버전 표시"
@@ -1267,7 +1267,7 @@ msgid "Signatures"
 msgstr "서명"
 
 msgid "Signed"
-msgstr ""
+msgstr "서명됨"
 
 msgid "Single application"
 msgstr "단일 애플리케이션"
@@ -1288,7 +1288,7 @@ msgid "Sort type"
 msgstr "정렬 유형"
 
 msgid "Sorted"
-msgstr ""
+msgstr "정렬됨"
 
 msgid "Source code"
 msgstr "소스 코드"
@@ -1300,7 +1300,7 @@ msgid "Stack"
 msgstr "스택"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "스택 레지스터"
 
 msgid "Start"
 msgstr "시작"
@@ -1309,13 +1309,13 @@ msgid "Status"
 msgstr "상태"
 
 msgid "Stay on top"
-msgstr "항상 위에 놓기"
+msgstr "항상 위"
 
 msgid "Step into"
-msgstr "들어가다"
+msgstr "한 단계씩 실행(Step into)"
 
 msgid "Step over"
-msgstr "넘어가다"
+msgstr "프로시저 단위 실행(Step over)"
 
 msgid "Stop"
 msgstr "중지"
@@ -1333,7 +1333,7 @@ msgid "Struct"
 msgstr "구조체"
 
 msgid "Struct and unions"
-msgstr "구조체와 공용체"
+msgstr "구조체 및 공용체"
 
 msgid "Structs"
 msgstr "구조체"
@@ -1348,7 +1348,7 @@ msgid "Subdirectories"
 msgstr "하위 디렉토리"
 
 msgid "Subject"
-msgstr "주제"
+msgstr "제목"
 
 msgid "Symbol"
 msgstr "심볼"
@@ -1360,10 +1360,10 @@ msgid "Symbols"
 msgstr "심볼"
 
 msgid "Sync"
-msgstr ""
+msgstr "동기화"
 
 msgid "Syntax"
-msgstr "문법"
+msgstr "구문"
 
 msgid "TB"
 msgstr "TB"
@@ -1375,10 +1375,10 @@ msgid "Table of contents"
 msgstr "목차"
 
 msgid "Table views"
-msgstr ""
+msgstr "테이블 뷰"
 
 msgid "Tags"
-msgstr ""
+msgstr "태그"
 
 msgid "Text"
 msgstr "텍스트"
@@ -1393,25 +1393,25 @@ msgid "Text files"
 msgstr "텍스트 파일"
 
 msgid "Thanks"
-msgstr "감사"
+msgstr "도움 주신 분들"
 
 msgid "The file is not signed"
-msgstr "파일이 서명되지 않음"
+msgstr "서명되지 않은 파일입니다"
 
 msgid "The file is signed and the signature was verified"
-msgstr "파일이 서명되고 서명이 확인됨"
+msgstr "파일이 서명되었으며 서명이 확인되었습니다"
 
 msgid "The signature error"
 msgstr "서명 오류"
 
 msgid "The signature is present, but not trusted"
-msgstr "서명이 있지만 신뢰할 수 없음"
+msgstr "서명이 존재하지만 신뢰할 수 없습니다"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "서명이 있지만 특별히 허용되지 않음"
+msgstr "서명이 존재하지만 명시적으로 거부되었습니다"
 
 msgid "The value copied to clipboard"
-msgstr "클립보드에 값이 복사됨"
+msgstr "값이 클립보드에 복사되었습니다"
 
 msgid "Threads"
 msgstr "스레드"
@@ -1420,7 +1420,7 @@ msgid "TiB"
 msgstr "TiB"
 
 msgid "Time"
-msgstr ""
+msgstr "시간"
 
 msgid "Time date stamp"
 msgstr "시간 날짜 스탬프"
@@ -1438,25 +1438,25 @@ msgid "Total"
 msgstr "전체"
 
 msgid "Trace"
-msgstr "트레이스"
+msgstr "추적"
 
 msgid "Trace into"
-msgstr ""
+msgstr "안으로 추적(Trace into)"
 
 msgid "Trace over"
-msgstr ""
+msgstr "건너뛰어 추적(Trace over)"
 
 msgid "Tree"
 msgstr "트리"
 
 msgid "Tree views"
-msgstr ""
+msgstr "트리 뷰"
 
 msgid "Trojan"
 msgstr "트로이 목마"
 
 msgid "Two operands"
-msgstr ""
+msgstr "두 개의 피연산자"
 
 msgid "Type"
 msgstr "유형"
@@ -1465,22 +1465,22 @@ msgid "Unicode"
 msgstr "유니코드"
 
 msgid "Universal"
-msgstr ""
+msgstr "유니버설"
 
 msgid "Unknown"
 msgstr "알 수 없음"
 
 msgid "Unpack"
-msgstr ""
+msgstr "언팩"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "서명되지 않음/Unsigned"
 
 msgid "Update information"
 msgstr "업데이트 정보"
 
 msgid "Upload the file for analyze?"
-msgstr "분석을 위해 파일을 업로드 하시겠습니까?"
+msgstr "분석을 위해 파일을 업로드하시겠습니까?"
 
 msgid "Upper"
 msgstr "위쪽"
@@ -1498,7 +1498,7 @@ msgid "Variable"
 msgstr "변수"
 
 msgid "Verbose"
-msgstr ""
+msgstr "상세 정보"
 
 msgid "Version"
 msgstr "버전"
@@ -1507,7 +1507,7 @@ msgid "Video"
 msgstr "비디오"
 
 msgid "View"
-msgstr "보다"
+msgstr "보기"
 
 msgid "Viewer"
 msgstr "뷰어"
@@ -1516,7 +1516,7 @@ msgid "Virtual address"
 msgstr "가상 주소"
 
 msgid "Virtual machine"
-msgstr "가상 기기"
+msgstr "가상 머신"
 
 msgid "Virtual size"
 msgstr "가상 크기"
@@ -1537,7 +1537,7 @@ msgid "Website"
 msgstr "웹사이트"
 
 msgid "Width"
-msgstr "길이"
+msgstr "너비"
 
 msgid "Wildcard"
 msgstr "와일드카드"
@@ -1546,19 +1546,19 @@ msgid "Write error"
 msgstr "쓰기 오류"
 
 msgid "Zeros"
-msgstr ""
+msgstr "0 채우기"
 
 msgid "Zoom"
-msgstr "확대"
+msgstr "확대/축소"
 
 msgid "data"
 msgstr "데이터"
 
 msgid "extender"
-msgstr "확장기"
+msgstr "익스텐더"
 
 msgid "false"
-msgstr "false"
+msgstr "거짓(false)"
 
 msgid "kB"
 msgstr "kB"
@@ -1567,10 +1567,10 @@ msgid "msec"
 msgstr "msec"
 
 msgid "not packed"
-msgstr "패킹 안됨"
+msgstr "패킹되지 않음"
 
 msgid "packed"
 msgstr "패킹됨"
 
 msgid "true"
-msgstr "true"
+msgstr "참(true)"
