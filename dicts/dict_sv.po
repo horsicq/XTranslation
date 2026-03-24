@@ -7,52 +7,52 @@ msgstr ""
 "X-Language: sv\n"
 
 msgid "128-bit"
-msgstr "128-bit"
+msgstr "128-bitars"
 
 msgid "16-bit"
-msgstr "16-bit"
+msgstr "16-bitars"
 
 msgid "256-bit"
-msgstr "256-bit"
+msgstr "256-bitars"
 
 msgid "32-bit"
-msgstr "32-bit"
+msgstr "32-bitars"
 
 msgid "64-bit"
-msgstr "64-bit"
+msgstr "64-bitars"
 
 msgid "8-bit"
-msgstr "8-bit"
+msgstr "8-bitars"
 
 msgid "API key"
-msgstr "API Nyckel"
+msgstr "API-nyckel"
 
 msgid "About"
 msgstr "Om"
 
 msgid "Action"
-msgstr "Verkan"
+msgstr "Åtgärd"
 
 msgid "Add"
-msgstr "Addera"
+msgstr "Lägg till"
 
 msgid "Add alignment"
 msgstr "Lägg till justering"
 
 msgid "Add to context menu"
-msgstr "Lägg till, till kontext menyn"
+msgstr "Lägg till i snabbmenyn"
 
 msgid "Address"
-msgstr "Address"
+msgstr "Adress"
 
 msgid "Advanced"
-msgstr "Avancerad"
+msgstr "Avancerat"
 
 msgid "Aggressive scan"
-msgstr ""
+msgstr "Aggressiv skanning"
 
 msgid "Algorithm"
-msgstr "algoritm"
+msgstr "Algoritm"
 
 msgid "All"
 msgstr "Alla"
@@ -67,7 +67,7 @@ msgid "Analyze"
 msgstr "Analysera"
 
 msgid "Analyzed"
-msgstr ""
+msgstr "Analyserad"
 
 msgid "Animate"
 msgstr "Animera"
@@ -82,10 +82,10 @@ msgid "Architecture"
 msgstr "Arkitektur"
 
 msgid "Archive"
-msgstr "Arkivera"
+msgstr "Arkiv"
 
 msgid "Archive record"
-msgstr "Arkiverings rekord"
+msgstr "Arkivpost"
 
 msgid "Array"
 msgstr "Array"
@@ -100,7 +100,7 @@ msgid "Audio"
 msgstr "Ljud"
 
 msgid "Author"
-msgstr ""
+msgstr "Författare"
 
 msgid "Automatic"
 msgstr "Automatisk"
@@ -109,10 +109,10 @@ msgid "Background"
 msgstr "Bakgrund"
 
 msgid "Base"
-msgstr ""
+msgstr "Bas"
 
 msgid "Base address"
-msgstr "Bas address"
+msgstr "Basadress"
 
 msgid "Begin"
 msgstr "Börja"
@@ -121,7 +121,7 @@ msgid "Binary"
 msgstr "Binär"
 
 msgid "Bind"
-msgstr "Binda"
+msgstr "Bind"
 
 msgid "Binding"
 msgstr "Bindning"
@@ -130,7 +130,7 @@ msgid "Bits"
 msgstr "Bitar"
 
 msgid "Block size"
-msgstr "Block Storlek"
+msgstr "Blockstorlek"
 
 msgid "Bookmark"
 msgstr "Bokmärke"
@@ -139,28 +139,28 @@ msgid "Bookmarks"
 msgstr "Bokmärken"
 
 msgid "Boot application"
-msgstr "Boot applikation"
+msgstr "Boot-applikation"
 
 msgid "Boot service driver"
-msgstr "Boot service drivrutin"
+msgstr "Drivrutin för boot-tjänst"
 
 msgid "Bound import"
-msgstr "bindnings Import"
+msgstr "Bunden import"
 
 msgid "Breakpoint"
-msgstr "Breakpoint"
+msgstr "Brytpunkt"
 
 msgid "Breakpoints"
-msgstr "Breakpoints"
+msgstr "Brytpunkter"
 
 msgid "Buffer size"
-msgstr "Buffer storlek"
+msgstr "Bufferstorlek"
 
 msgid "Bugreports"
-msgstr "Bugrapporter"
+msgstr "Felrapporter"
 
 msgid "Bundle"
-msgstr ""
+msgstr "Bunt"
 
 msgid "Byte"
 msgstr "Byte"
@@ -169,16 +169,16 @@ msgid "Bytes"
 msgstr "Bytes"
 
 msgid "Bytes available"
-msgstr "Bytes kvar"
+msgstr "Tillgängliga bytes"
 
 msgid "CPU"
 msgstr "CPU"
 
 msgid "Calculate"
-msgstr "Räkna ut"
+msgstr "Beräkna"
 
 msgid "Callbacks"
-msgstr "Tillbakaringningar"
+msgstr "Callbacks"
 
 msgid "Callstack"
 msgstr "Anropsstack"
@@ -187,58 +187,58 @@ msgid "Cancel"
 msgstr "Avbryt"
 
 msgid "Cannot find"
-msgstr "Kunde inte hitta"
+msgstr "Kan inte hitta"
 
 msgid "Cannot find file"
-msgstr "Kunde inte hitta fil"
+msgstr "Kan inte hitta fil"
 
 msgid "Cannot fix dump file"
-msgstr "Kunde inte fixa dump-fil"
+msgstr "Kan inte laga dumpfil"
 
 msgid "Cannot get PDB age"
-msgstr "Kunde inte få ålder av PDB"
+msgstr "Kan inte hämta PDB-ålder"
 
 msgid "Cannot get PDB name"
-msgstr "Kunde inte få PDB namn"
+msgstr "Kan inte hämta PDB-namn"
 
 msgid "Cannot load MSDIA library"
-msgstr "Kunde inte ladda MSDIA bibliotek"
+msgstr "Kan inte ladda MSDIA-bibliotek"
 
 msgid "Cannot load data from PDB"
-msgstr "Kunde inte ladda från PDB"
+msgstr "Kan inte ladda data från PDB"
 
 msgid "Cannot load database"
-msgstr "Kunde inte ladda databas"
+msgstr "Kan inte ladda databas"
 
 msgid "Cannot load file"
-msgstr "Kunde inte ladda fil"
+msgstr "Kan inte ladda fil"
 
 msgid "Cannot open dump file"
-msgstr "Kunde inte öppna dump-fil"
+msgstr "Kan inte öppna dumpfil"
 
 msgid "Cannot open file"
-msgstr "Kunde inte öppna fil"
+msgstr "Kan inte öppna fil"
 
 msgid "Cannot open session"
-msgstr "Kunde inte öppna session"
+msgstr "Kan inte öppna session"
 
 msgid "Cannot read file"
-msgstr "Kunde inte läsa fil"
+msgstr "Kan inte läsa fil"
 
 msgid "Cannot read memory at address"
-msgstr "Kunde inte läsa minne på adress"
+msgstr "Kan inte läsa minne på adress"
 
 msgid "Cannot resize"
-msgstr "Kunde inte ändra storleken"
+msgstr "Kan inte ändra storlek"
 
 msgid "Cannot save file"
-msgstr "Kunde inte spara filen"
+msgstr "Kan inte spara fil"
 
 msgid "Cannot set shortcut"
-msgstr "Kunde inte sätta genväg"
+msgstr "Kan inte ange genväg"
 
 msgid "Cannot write data to file"
-msgstr "Kunde inte skriva data till fil"
+msgstr "Kan inte skriva data till fil"
 
 msgid "Certificate"
 msgstr "Certifikat"
@@ -247,22 +247,22 @@ msgid "Check"
 msgstr "Kontrollera"
 
 msgid "Check for updates"
-msgstr "Kontrollera Uppdateringar"
+msgstr "Sök efter uppdateringar"
 
 msgid "Clear"
 msgstr "Rensa"
 
 msgid "Clear result"
-msgstr "Rensa Resultat"
+msgstr "Rensa resultat"
 
 msgid "Close"
 msgstr "Stäng"
 
 msgid "Code pages"
-msgstr "Kod sidor"
+msgstr "Kodsidor"
 
 msgid "Code section"
-msgstr "Kod sektion"
+msgstr "Kodsektion"
 
 msgid "Color"
 msgstr "Färg"
@@ -271,22 +271,22 @@ msgid "Colors"
 msgstr "Färger"
 
 msgid "Commands"
-msgstr "Kommando"
+msgstr "Kommandon"
 
 msgid "Comment"
 msgstr "Kommentar"
 
 msgid "Compact"
-msgstr ""
+msgstr "Kompakt"
 
 msgid "Compiler"
 msgstr "Kompilator"
 
 msgid "Compressor"
-msgstr ""
+msgstr "Kompressor"
 
 msgid "Conditional"
-msgstr "Om"
+msgstr "Villkorlig"
 
 msgid "Console"
 msgstr "Konsol"
@@ -298,7 +298,7 @@ msgid "Converter"
 msgstr "Konverterare"
 
 msgid "Convertor"
-msgstr ""
+msgstr "Konverterare"
 
 msgid "Copy"
 msgstr "Kopiera"
@@ -307,13 +307,13 @@ msgid "Copy as"
 msgstr "Kopiera som"
 
 msgid "Corrupted data"
-msgstr ""
+msgstr "Skadad data"
 
 msgid "Count"
-msgstr "Räkna"
+msgstr "Antal"
 
 msgid "Creator"
-msgstr ""
+msgstr "Skapare"
 
 msgid "Crypter"
 msgstr "Krypterare"
@@ -322,19 +322,19 @@ msgid "Cryptor"
 msgstr "Krypterare"
 
 msgid "Cursor"
-msgstr "Pekare"
+msgstr "Markör"
 
 msgid "Custom"
-msgstr ""
+msgstr "Anpassad"
 
 msgid "Custom database"
-msgstr "Skräddarsydd databas"
+msgstr "Anpassad databas"
 
 msgid "Data"
 msgstr "Data"
 
 msgid "Data convertor"
-msgstr "Data konverterare"
+msgstr "Datakonverterare"
 
 msgid "Data in code"
 msgstr "Data i kod"
@@ -343,22 +343,22 @@ msgid "Database"
 msgstr "Databas"
 
 msgid "Databases"
-msgstr ""
+msgstr "Databaser"
 
 msgid "Date"
 msgstr "Datum"
 
 msgid "Debug"
-msgstr "Avlusa"
+msgstr "Debugga"
 
 msgid "Debug data"
-msgstr "Avlusa data"
+msgstr "Debug-data"
 
 msgid "Debug registers"
-msgstr "Avlusa register"
+msgstr "Debug-register"
 
 msgid "Debugger"
-msgstr "Avlusare"
+msgstr "Debugger"
 
 msgid "Decode"
 msgstr "Avkoda"
@@ -370,40 +370,40 @@ msgid "Default"
 msgstr "Standard"
 
 msgid "Delay import"
-msgstr "imports-Fördröjning"
+msgstr "Fördröjd import"
 
 msgid "Demangle"
-msgstr "Avmanglera"
+msgstr "Avmangla"
 
 msgid "Dependencies"
 msgstr "Beroenden"
 
 msgid "Description"
-msgstr "Beksrivning"
+msgstr "Beskrivning"
 
 msgid "Detach"
-msgstr "Koopla loss"
+msgstr "Koppla loss"
 
 msgid "Detect"
-msgstr "Upptäcka"
+msgstr "Detektera"
 
 msgid "Device scan"
-msgstr "Skanna enhet"
+msgstr "Enhetsskanning"
 
 msgid "Diagram"
 msgstr "Diagram"
 
 msgid "Dialog"
-msgstr ""
+msgstr "Dialog"
 
 msgid "Directory"
-msgstr "Mapp"
+msgstr "Katalog"
 
 msgid "Directory scan"
-msgstr "Mapp skann"
+msgstr "Katalogskanning"
 
 msgid "Disasm"
-msgstr "Ta-isär"
+msgstr "Disasm"
 
 msgid "Document"
 msgstr "Dokument"
@@ -421,37 +421,37 @@ msgid "Dump"
 msgstr "Dumpa"
 
 msgid "Dump all"
-msgstr "Dumpa alltihop"
+msgstr "Dumpa allt"
 
 msgid "Dump to file"
 msgstr "Dumpa till fil"
 
 msgid "Edit"
-msgstr "Ändra"
+msgstr "Redigera"
 
 msgid "Editor"
 msgstr "Redigerare"
 
 msgid "Elapsed"
-msgstr "Kvar"
+msgstr "Förfluten tid"
 
 msgid "Encode"
-msgstr "Enkoda"
+msgstr "Koda"
 
 msgid "End"
 msgstr "Slut"
 
 msgid "Endianness"
-msgstr "Endianess"
+msgstr "Endianness"
 
 msgid "Entropy"
 msgstr "Entropi"
 
 msgid "Entry point"
-msgstr "Startnings punkt"
+msgstr "Startpunkt"
 
 msgid "Entry point section"
-msgstr "Sektion av startnings punkt"
+msgstr "Sektion för startpunkt"
 
 msgid "Error"
 msgstr "Fel"
@@ -466,28 +466,28 @@ msgid "Export"
 msgstr "Exportera"
 
 msgid "Export File Name"
-msgstr "Exportera Fil Namn"
+msgstr "Exportfilnamn"
 
 msgid "Export type"
-msgstr "Exportera typ"
+msgstr "Exporttyp"
 
 msgid "Extender"
-msgstr ""
+msgstr "Extender"
 
 msgid "External references"
-msgstr "External"
+msgstr "Externa referenser"
 
 msgid "Extra"
-msgstr ""
+msgstr "Extra"
 
 msgid "Extra database"
-msgstr ""
+msgstr "Extra databas"
 
 msgid "Extract"
 msgstr "Extrahera"
 
 msgid "Extract all cursors"
-msgstr "Extrahera alla pekare"
+msgstr "Extrahera alla markörer"
 
 msgid "Extract all icons"
 msgstr "Extrahera alla ikoner"
@@ -499,25 +499,25 @@ msgid "File"
 msgstr "Fil"
 
 msgid "File info"
-msgstr "Fil information"
+msgstr "Filinfo"
 
 msgid "File name"
-msgstr "filnamn"
+msgstr "Filnamn"
 
 msgid "File offset"
-msgstr "Filen's position"
+msgstr "Fil-offset"
 
 msgid "File saved"
-msgstr "Fil Sparad"
+msgstr "Fil sparad"
 
 msgid "File scan"
-msgstr "Fil skanning"
+msgstr "Filskanning"
 
 msgid "File size"
-msgstr "Storlek av fil"
+msgstr "Filstorlek"
 
 msgid "File type"
-msgstr "Typ av fil"
+msgstr "Filtyp"
 
 msgid "Files"
 msgstr "Filer"
@@ -526,58 +526,58 @@ msgid "Filter"
 msgstr "Filter"
 
 msgid "Find"
-msgstr "Hitta"
+msgstr "Sök"
 
 msgid "First"
-msgstr ""
+msgstr "Första"
 
 msgid "Fix offsets"
-msgstr "Ordna positionerna"
+msgstr "Korrigera offsets"
 
 msgid "Fix types"
-msgstr "Ordna typerna"
+msgstr "Korrigera typer"
 
 msgid "Flags"
 msgstr "Flaggor"
 
 msgid "Flags register"
-msgstr "Flaggs registrer"
+msgstr "Flagg-register"
 
 msgid "Folder"
 msgstr "Mapp"
 
 msgid "Follow in"
-msgstr "Föj inuti"
+msgstr "Följ i"
 
 msgid "Follow me"
 msgstr "Följ mig"
 
 msgid "Fonts"
-msgstr "Fonter"
+msgstr "Typsnitt"
 
 msgid "Footer"
-msgstr "Sid-o-fot"
+msgstr "Sidfot"
 
 msgid "Form"
-msgstr "Form"
+msgstr "Formulär"
 
 msgid "Format"
 msgstr "Format"
 
 msgid "Format result"
-msgstr ""
+msgstr "Formatera resultat"
 
 msgid "Full"
-msgstr ""
+msgstr "Fullständig"
 
 msgid "Full screen"
-msgstr "Fullskärm"
+msgstr "Helskärm"
 
 msgid "Function enter"
-msgstr "Funktionens inträdes-punkt"
+msgstr "Funktion start"
 
 msgid "Function leave"
-msgstr "Funktionens lämnings-punkt"
+msgstr "Funktion slut"
 
 msgid "Functions"
 msgstr "Funktioner"
@@ -586,16 +586,16 @@ msgid "GB"
 msgstr "GB"
 
 msgid "General registers"
-msgstr "Generiska registrer"
+msgstr "Allmänna register"
 
 msgid "Generic"
 msgstr "Generisk"
 
 msgid "Get"
-msgstr "Få"
+msgstr "Hämta"
 
 msgid "Get element"
-msgstr "Ta element"
+msgstr "Hämta element"
 
 msgid "GiB"
 msgstr "GiB"
@@ -604,16 +604,16 @@ msgid "Go to"
 msgstr "Gå till"
 
 msgid "Go to address"
-msgstr "Gå till addess"
+msgstr "Gå till adress"
 
 msgid "Go to download page?"
-msgstr "Vill du gå till nerladdnings sidan?"
+msgstr "Gå till nedladdningssidan?"
 
 msgid "Gradient"
 msgstr "Gradient"
 
 msgid "Grid"
-msgstr "lattis"
+msgstr "Rutnät"
 
 msgid "Group"
 msgstr "Grupp"
@@ -622,7 +622,7 @@ msgid "Handles"
 msgstr "Handles"
 
 msgid "Hardware"
-msgstr "Hårdvaru"
+msgstr "Hårdvara"
 
 msgid "Hash"
 msgstr "Hash"
@@ -643,13 +643,13 @@ msgid "Heuristic scan"
 msgstr "Heuristisk skanning"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "Heuristik"
 
 msgid "Hex"
 msgstr "Hex"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "Dölj okända"
 
 msgid "Highlight"
 msgstr "Markera"
@@ -658,16 +658,16 @@ msgid "Highlights"
 msgstr "Markeringar"
 
 msgid "Image"
-msgstr "Image"
+msgstr "Bild"
 
 msgid "Images"
-msgstr "Images"
+msgstr "Bilder"
 
 msgid "Import"
 msgstr "Importera"
 
 msgid "Import hash"
-msgstr "Importera hash"
+msgstr "Import-hash"
 
 msgid "Indirect symbols"
 msgstr "Indirekta symboler"
@@ -679,19 +679,19 @@ msgid "Information"
 msgstr "Information"
 
 msgid "Input"
-msgstr "Input"
+msgstr "Indata"
 
 msgid "Inspector"
-msgstr ""
+msgstr "Inspektör"
 
 msgid "Installer"
 msgstr "Installerare"
 
 msgid "Installer data"
-msgstr "Installerarens data"
+msgstr "Installationsdata"
 
 msgid "Instruction pointer register"
-msgstr "Instruktionspekare till registret"
+msgstr "Instruktionspekarregister"
 
 msgid "Interpreter"
 msgstr "Tolk"
@@ -700,13 +700,13 @@ msgid "Invalid"
 msgstr "Ogiltig"
 
 msgid "Invalid font"
-msgstr "Ogiltig font"
+msgstr "Ogiltigt typsnitt"
 
 msgid "Invalid handle"
 msgstr "Ogiltig handle"
 
 msgid "Invalid offset"
-msgstr "Ogiltig plats"
+msgstr "Ogiltig offset"
 
 msgid "Invalid opcode"
 msgstr "Ogiltig opkod"
@@ -718,10 +718,10 @@ msgid "Invalid size"
 msgstr "Ogiltig storlek"
 
 msgid "Issuer"
-msgstr "Issuer"
+msgstr "Utfärdare"
 
 msgid "Joiner"
-msgstr "Tilläggare"
+msgstr "Joiner"
 
 msgid "Keep size"
 msgstr "Behåll storlek"
@@ -733,10 +733,10 @@ msgid "Language"
 msgstr "Språk"
 
 msgid "Last"
-msgstr ""
+msgstr "Sista"
 
 msgid "Lazy binding"
-msgstr "Lat bindning"
+msgstr "Lazy binding"
 
 msgid "Length"
 msgstr "Längd"
@@ -748,31 +748,31 @@ msgid "Library"
 msgstr "Bibliotek"
 
 msgid "Library name"
-msgstr "Biblioteks namn"
+msgstr "Biblioteksnamn"
 
 msgid "Licensing"
-msgstr ""
+msgstr "Licensiering"
 
 msgid "Linker"
-msgstr "Linkare"
+msgstr "Länkare"
 
 msgid "Links"
-msgstr "Links"
+msgstr "Länkar"
 
 msgid "List"
 msgstr "Lista"
 
 msgid "Load"
-msgstr ""
+msgstr "Ladda"
 
 msgid "Load config"
 msgstr "Ladda konfig"
 
 msgid "Loader"
-msgstr ""
+msgstr "Laddare"
 
 msgid "Local relocation"
-msgstr "Plats för relokation"
+msgstr "Lokal relokering"
 
 msgid "Location"
 msgstr "Plats"
@@ -784,34 +784,34 @@ msgid "MB"
 msgstr "MB"
 
 msgid "Main"
-msgstr ""
+msgstr "Huvud"
 
 msgid "Main module"
-msgstr ""
+msgstr "Huvudmodul"
 
 msgid "MainWindow"
-msgstr "MainWindow"
+msgstr "Huvudfönster"
 
 msgid "Malware"
-msgstr "Malware"
+msgstr "Skadlig kod"
 
 msgid "Manifest"
 msgstr "Manifest"
 
 msgid "Map"
-msgstr ""
+msgstr "Karta"
 
 msgid "Maps"
-msgstr ""
+msgstr "Kartor"
 
 msgid "Mask"
-msgstr ""
+msgstr "Mask"
 
 msgid "Match case"
-msgstr "Matcha stor/liten bokstav"
+msgstr "Matcha versaler/gemener"
 
 msgid "Matches"
-msgstr ""
+msgstr "Matchningar"
 
 msgid "Maximum"
 msgstr "Maximum"
@@ -820,10 +820,10 @@ msgid "Memory"
 msgstr "Minne"
 
 msgid "Memory map"
-msgstr "Minnesmapp"
+msgstr "Minneskarta"
 
 msgid "Memory scan"
-msgstr "Minnes-skan"
+msgstr "Minnesskanning"
 
 msgid "Metadata"
 msgstr "Metadata"
@@ -835,25 +835,25 @@ msgid "Method"
 msgstr "Metod"
 
 msgid "Methods"
-msgstr ""
+msgstr "Metoder"
 
 msgid "MiB"
 msgstr "MiB"
 
 msgid "Min length"
-msgstr ""
+msgstr "Minsta längd"
 
 msgid "Mode"
-msgstr "Module"
+msgstr "Läge"
 
 msgid "Modules"
 msgstr "Moduler"
 
 msgid "More info"
-msgstr "Mer information"
+msgstr "Mer info"
 
 msgid "Multiplatform"
-msgstr "Multiplatform"
+msgstr "Multiplattform"
 
 msgid "Multisearch"
 msgstr "Multisök"
@@ -862,7 +862,7 @@ msgid "Name"
 msgstr "Namn"
 
 msgid "Network error"
-msgstr "Nätverks-fel"
+msgstr "Nätverksfel"
 
 msgid "New"
 msgstr "Ny"
@@ -874,19 +874,19 @@ msgid "Next"
 msgstr "Nästa"
 
 msgid "Next visited"
-msgstr ""
+msgstr "Nästa besökta"
 
 msgid "No"
 msgstr "Nej"
 
 msgid "No update available"
-msgstr "Inga uppdatering"
+msgstr "Ingen uppdatering tillgänglig"
 
 msgid "None"
-msgstr ""
+msgstr "Ingen"
 
 msgid "Nothing found"
-msgstr "Ingenting hittat"
+msgstr "Inget hittades"
 
 msgid "Null-terminated"
 msgstr "Null-terminerad"
@@ -898,28 +898,28 @@ msgid "OK"
 msgstr "OK"
 
 msgid "Obfuscator"
-msgstr ""
+msgstr "Obfuskator"
 
 msgid "Object"
 msgstr "Objekt"
 
 msgid "Objects"
-msgstr ""
+msgstr "Objekt"
 
 msgid "Offset"
-msgstr "Plats"
+msgstr "Offset"
 
 msgid "One operand"
 msgstr "En operand"
 
 msgid "Online tools"
-msgstr "Verktyg online"
+msgstr "Online-verktyg"
 
 msgid "Opcode"
 msgstr "Opkod"
 
 msgid "Opcode group"
-msgstr "Opkods grupp"
+msgstr "Opkodsgrupp"
 
 msgid "Opcodes"
 msgstr "Opkoder"
@@ -928,7 +928,7 @@ msgid "Open"
 msgstr "Öppna"
 
 msgid "Open directory"
-msgstr "Öppna mapp"
+msgstr "Öppna katalog"
 
 msgid "Open file"
 msgstr "Öppna fil"
@@ -937,19 +937,19 @@ msgid "Operation system"
 msgstr "Operativsystem"
 
 msgid "Options"
-msgstr "Inställningar"
+msgstr "Alternativ"
 
 msgid "Output"
-msgstr "Resultat"
+msgstr "Utdata"
 
 msgid "Overlay"
-msgstr "Över-lager"
+msgstr "Overlay"
 
 msgid "Package"
-msgstr "Packet"
+msgstr "Paket"
 
 msgid "Packer"
-msgstr "In-packare"
+msgstr "Packare"
 
 msgid "Patch"
 msgstr "Patch"
@@ -961,49 +961,49 @@ msgid "Paused"
 msgstr "Pausad"
 
 msgid "Payload"
-msgstr ""
+msgstr "Payload"
 
 msgid "Personal data"
-msgstr ""
+msgstr "Personlig data"
 
 msgid "Plain Text"
-msgstr "Plain Text"
+msgstr "Vanlig text"
 
 msgid "Platform"
-msgstr "Platform"
+msgstr "Plattform"
 
 msgid "Player"
 msgstr "Spelare"
 
 msgid "Please restart the application"
-msgstr "Var vänlig och starta om applikationen"
+msgstr "Vänligen starta om applikationen"
 
 msgid "Please run the program as an administrator"
-msgstr "Var vänlig och kör programmet som administratör"
+msgstr "Vänligen kör programmet som administratör"
 
 msgid "Please use valid API key"
-msgstr "Var vänlig och ange en giltig API-nyckel"
+msgstr "Vänligen använd en giltig API-nyckel"
 
 msgid "Pointer"
 msgstr "Pekare"
 
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 msgid "Previous visited"
-msgstr ""
+msgstr "Föregående besökta"
 
 msgid "Print"
-msgstr "Printa ut"
+msgstr "Skriv ut"
 
 msgid "Process"
 msgstr "Process"
 
 msgid "Producer"
-msgstr ""
+msgstr "Producent"
 
 msgid "Profiling"
-msgstr "Profilera"
+msgstr "Profilering"
 
 msgid "Program name"
 msgstr "Programnamn"
@@ -1018,34 +1018,34 @@ msgid "Protector"
 msgstr "Skyddare"
 
 msgid "Protector data"
-msgstr "Skyddningsdata"
+msgstr "Skyddsdata"
 
 msgid "Prototype"
 msgstr "Prototyp"
 
 msgid "Publisher"
-msgstr "Publicerare"
+msgstr "Utgivare"
 
 msgid "Raw data"
-msgstr "Rå data"
+msgstr "Rådata"
 
 msgid "Read error"
-msgstr "Läs-fel"
+msgstr "Läsfel"
 
 msgid "Readonly"
-msgstr "Enbart-Läs"
+msgstr "Skrivskyddad"
 
 msgid "Rebase"
-msgstr "Ändra bas"
+msgstr "Rebase"
 
 msgid "Recent files"
-msgstr "Senaste använda filer"
+msgstr "Senaste filer"
 
 msgid "Recursive"
 msgstr "Rekursiv"
 
 msgid "Recursive scan"
-msgstr "Rekursiv skan"
+msgstr "Rekursiv skanning"
 
 msgid "References"
 msgstr "Referenser"
@@ -1060,16 +1060,16 @@ msgid "Register"
 msgstr "Register"
 
 msgid "Registers"
-msgstr "Registrer"
+msgstr "Register"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "Reguljärt uttryck"
 
 msgid "Relative address"
-msgstr "Relativ address"
+msgstr "Relativ adress"
 
 msgid "Relative virtual address"
-msgstr "Relativ virtual address"
+msgstr "Relativ virtuell adress"
 
 msgid "Reload"
 msgstr "Ladda om"
@@ -1099,7 +1099,7 @@ msgid "Result"
 msgstr "Resultat"
 
 msgid "Rule name"
-msgstr ""
+msgstr "Regelnamn"
 
 msgid "Rules"
 msgstr "Regler"
@@ -1108,13 +1108,13 @@ msgid "Run"
 msgstr "Kör"
 
 msgid "Run path"
-msgstr ""
+msgstr "Körningssökväg"
 
 msgid "Running"
 msgstr "Körs"
 
 msgid "Runtime driver"
-msgstr "Startsdrivrutin"
+msgstr "Runtime-drivrutin"
 
 msgid "Save"
 msgstr "Spara"
@@ -1138,7 +1138,7 @@ msgid "Save history"
 msgstr "Spara historik"
 
 msgid "Save last directory"
-msgstr "Spara senaste mappen"
+msgstr "Spara senaste katalogen"
 
 msgid "Save result"
 msgstr "Spara resultat"
@@ -1147,10 +1147,10 @@ msgid "Scan"
 msgstr "Skanna"
 
 msgid "Scan after open"
-msgstr "Skanna för öppna"
+msgstr "Skanna efter öppning"
 
 msgid "Scan engine"
-msgstr ""
+msgstr "Skanningsmotor"
 
 msgid "Schema"
 msgstr "Schema"
@@ -1162,25 +1162,25 @@ msgid "Scripts"
 msgstr "Skript"
 
 msgid "Search"
-msgstr "Söka"
+msgstr "Sök"
 
 msgid "Search from"
 msgstr "Sök från"
 
 msgid "Search signature"
-msgstr ""
+msgstr "Sök signatur"
 
 msgid "Search signatures"
 msgstr "Sök signaturer"
 
 msgid "Search string"
-msgstr ""
+msgstr "Sök sträng"
 
 msgid "Search strings"
 msgstr "Sök strängar"
 
 msgid "Search value"
-msgstr ""
+msgstr "Sök värde"
 
 msgid "Search values"
 msgstr "Sök värden"
@@ -1189,31 +1189,31 @@ msgid "Section"
 msgstr "Sektion"
 
 msgid "Section name"
-msgstr "Sektions namn"
+msgstr "Sektionsnamn"
 
 msgid "Sections"
-msgstr "Sektions"
+msgstr "Sektioner"
 
 msgid "Segment"
 msgstr "Segment"
 
 msgid "Segment registers"
-msgstr "Segmentets registrer"
+msgstr "Segmentregister"
 
 msgid "Segments"
 msgstr "Segment"
 
 msgid "Select"
-msgstr "Markera"
+msgstr "Välj"
 
 msgid "Selected"
-msgstr "Markerade"
+msgstr "Valda"
 
 msgid "Selection"
-msgstr "Selektion"
+msgstr "Markering"
 
 msgid "Serial number"
-msgstr "Serial nummer"
+msgstr "Serienummer"
 
 msgid "Shortcut"
 msgstr "Genväg"
@@ -1225,22 +1225,22 @@ msgid "Show"
 msgstr "Visa"
 
 msgid "Show all"
-msgstr "Visa allt"
+msgstr "Visa alla"
 
 msgid "Show colons in addresses"
-msgstr "Visa kolonner i addresser"
+msgstr "Visa kolon i adresser"
 
 msgid "Show comments"
 msgstr "Visa kommentarer"
 
 msgid "Show detects"
-msgstr "Visa upphittade resultat"
+msgstr "Visa detekteringar"
 
 msgid "Show in"
 msgstr "Visa i"
 
 msgid "Show info"
-msgstr ""
+msgstr "Visa info"
 
 msgid "Show logo"
 msgstr "Visa logotyp"
@@ -1249,19 +1249,19 @@ msgid "Show type"
 msgstr "Visa typ"
 
 msgid "Show valid"
-msgstr "Visa enbart giltiga"
+msgstr "Visa giltiga"
 
 msgid "Show version"
-msgstr "Visa versionen"
+msgstr "Visa version"
 
 msgid "Sign tool"
-msgstr "Signerings-verktyg"
+msgstr "Signeringsverktyg"
 
 msgid "Signature"
 msgstr "Signatur"
 
 msgid "Signature name"
-msgstr ""
+msgstr "Signaturnamn"
 
 msgid "Signatures"
 msgstr "Signaturer"
@@ -1270,22 +1270,22 @@ msgid "Signed"
 msgstr "Signerad"
 
 msgid "Single application"
-msgstr "Enbart en applikation"
+msgstr "Enskild applikation"
 
 msgid "Size"
 msgstr "Storlek"
 
 msgid "Size of image"
-msgstr "Storlek av image"
+msgstr "Bildstorlek"
 
 msgid "Sort"
-msgstr ""
+msgstr "Sortera"
 
 msgid "Sort elements"
 msgstr "Sortera element"
 
 msgid "Sort type"
-msgstr "Sortera typ"
+msgstr "Sorteringstyp"
 
 msgid "Sorted"
 msgstr "Sorterad"
@@ -1300,7 +1300,7 @@ msgid "Stack"
 msgstr "Stack"
 
 msgid "Stack registers"
-msgstr "Stack registrer"
+msgstr "Stackregister"
 
 msgid "Start"
 msgstr "Starta"
@@ -1309,22 +1309,22 @@ msgid "Status"
 msgstr "Status"
 
 msgid "Stay on top"
-msgstr "Alltid-överst"
+msgstr "Alltid överst"
 
 msgid "Step into"
-msgstr "Ta ett steg in i"
+msgstr "Stega in i"
 
 msgid "Step over"
-msgstr "Ta ett steg över"
+msgstr "Stega över"
 
 msgid "Stop"
-msgstr "Stop"
+msgstr "Stoppa"
 
 msgid "String"
 msgstr "Sträng"
 
 msgid "String table"
-msgstr "Strängstabell"
+msgstr "Strängtabell"
 
 msgid "Strings"
 msgstr "Strängar"
@@ -1333,7 +1333,7 @@ msgid "Struct"
 msgstr "Strukt"
 
 msgid "Struct and unions"
-msgstr "Struktur och intersektioner"
+msgstr "Strukturer och unioner"
 
 msgid "Structs"
 msgstr "Strukturer"
@@ -1345,22 +1345,22 @@ msgid "Style"
 msgstr "Stil"
 
 msgid "Subdirectories"
-msgstr "Undermappar"
+msgstr "Underkataloger"
 
 msgid "Subject"
-msgstr "Subjekt"
+msgstr "Ämne"
 
 msgid "Symbol"
 msgstr "Symbol"
 
 msgid "Symbol table"
-msgstr "Symbolstabell"
+msgstr "Symboltabell"
 
 msgid "Symbols"
 msgstr "Symboler"
 
 msgid "Sync"
-msgstr ""
+msgstr "Synka"
 
 msgid "Syntax"
 msgstr "Syntax"
@@ -1375,22 +1375,22 @@ msgid "Table of contents"
 msgstr "Innehållsförteckning"
 
 msgid "Table views"
-msgstr "Tabell-vy"
+msgstr "Tabellvyer"
 
 msgid "Tags"
-msgstr "Nyckelord"
+msgstr "Taggar"
 
 msgid "Text"
 msgstr "Text"
 
 msgid "Text documents"
-msgstr "Text dokument"
+msgstr "Textdokument"
 
 msgid "Text editors"
-msgstr "Text redigerare"
+msgstr "Textredigerare"
 
 msgid "Text files"
-msgstr "Text filer"
+msgstr "Textfiler"
 
 msgid "Thanks"
 msgstr "Tack"
@@ -1399,19 +1399,19 @@ msgid "The file is not signed"
 msgstr "Filen är inte signerad"
 
 msgid "The file is signed and the signature was verified"
-msgstr "Filen är signerad, och verifierad"
+msgstr "Filen är signerad och signaturen har verifierats"
 
 msgid "The signature error"
-msgstr "Signaturs-fel"
+msgstr "Signaturfel"
 
 msgid "The signature is present, but not trusted"
-msgstr "Signaturen existerar, men är inte betrodd"
+msgstr "Signaturen finns, men är inte betrodd"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr "Signaturen existerar, dock är den inte tillåten"
+msgstr "Signaturen finns, men är specifikt spärrad"
 
 msgid "The value copied to clipboard"
-msgstr "Kopierade värdet till urklipp"
+msgstr "Värdet kopierat till urklipp"
 
 msgid "Threads"
 msgstr "Trådar"
@@ -1423,7 +1423,7 @@ msgid "Time"
 msgstr "Tid"
 
 msgid "Time date stamp"
-msgstr "stämpel: Tid datum"
+msgstr "Tidsstämpel"
 
 msgid "Toggle"
 msgstr "Växla"
@@ -1435,25 +1435,25 @@ msgid "Tools"
 msgstr "Verktyg"
 
 msgid "Total"
-msgstr "Sammanlagt"
+msgstr "Totalt"
 
 msgid "Trace"
-msgstr "Spåra"
+msgstr "Trace"
 
 msgid "Trace into"
-msgstr "Spåra in"
+msgstr "Trace in i"
 
 msgid "Trace over"
-msgstr "Spåra över"
+msgstr "Trace över"
 
 msgid "Tree"
 msgstr "Träd"
 
 msgid "Tree views"
-msgstr "Träd-vy"
+msgstr "Trädvyer"
 
 msgid "Trojan"
-msgstr "Trojansk-Häst"
+msgstr "Trojan"
 
 msgid "Two operands"
 msgstr "Två operander"
@@ -1465,7 +1465,7 @@ msgid "Unicode"
 msgstr "Unicode"
 
 msgid "Universal"
-msgstr "Universal"
+msgstr "Universell"
 
 msgid "Unknown"
 msgstr "Okänd"
@@ -1474,19 +1474,19 @@ msgid "Unpack"
 msgstr "Packa upp"
 
 msgid "Unsigned"
-msgstr "O-signerad"
+msgstr "Osignerad"
 
 msgid "Update information"
-msgstr "Uppdatera information"
+msgstr "Uppdateringsinformation"
 
 msgid "Upload the file for analyze?"
-msgstr "Vill du ladda upp filen för analys?"
+msgstr "Ladda upp filen för analys?"
 
 msgid "Upper"
-msgstr "Större"
+msgstr "Övre"
 
 msgid "Uppercase"
-msgstr "Versal"
+msgstr "Versaler"
 
 msgid "Value"
 msgstr "Värde"
@@ -1498,7 +1498,7 @@ msgid "Variable"
 msgstr "Variabel"
 
 msgid "Verbose"
-msgstr "Extra detailjerad"
+msgstr "Utförlig"
 
 msgid "Version"
 msgstr "Version"
@@ -1507,55 +1507,55 @@ msgid "Video"
 msgstr "Video"
 
 msgid "View"
-msgstr "vy"
+msgstr "Visa"
 
 msgid "Viewer"
-msgstr "Vy-visare"
+msgstr "Visare"
 
 msgid "Virtual address"
-msgstr "Virtuell address"
+msgstr "Virtuell adress"
 
 msgid "Virtual machine"
 msgstr "Virtuell maskin"
 
 msgid "Virtual size"
-msgstr "Virtuell storklek"
+msgstr "Virtuell storlek"
 
 msgid "Virus"
 msgstr "Virus"
 
 msgid "Visualization"
-msgstr "Visualization"
+msgstr "Visualisering"
 
 msgid "Warning"
-msgstr ""
+msgstr "Varning"
 
 msgid "Weak binding"
-msgstr "Svag Bindning"
+msgstr "Svag bindning"
 
 msgid "Website"
-msgstr "Websajt"
+msgstr "Webbplats"
 
 msgid "Width"
 msgstr "Bredd"
 
 msgid "Wildcard"
-msgstr "Jokertecken"
+msgstr "Wildcard"
 
 msgid "Write error"
-msgstr "Skriv-fel"
+msgstr "Skrivfel"
 
 msgid "Zeros"
 msgstr "Nollor"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
 
 msgid "data"
 msgstr "data"
 
 msgid "extender"
-msgstr "förlängare"
+msgstr "extender"
 
 msgid "false"
 msgstr "falskt"
@@ -1564,7 +1564,7 @@ msgid "kB"
 msgstr "kB"
 
 msgid "msec"
-msgstr "msec"
+msgstr "ms"
 
 msgid "not packed"
 msgstr "inte packad"
@@ -1574,28 +1574,3 @@ msgstr "packad"
 
 msgid "true"
 msgstr "sant"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
