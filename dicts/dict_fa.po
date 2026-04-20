@@ -28,11 +28,17 @@ msgstr "8-بیت"
 msgid "API key"
 msgstr "api کلید"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "درباره"
 
 msgid "Action"
 msgstr "عمل"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "اضافه کردن"
@@ -46,6 +52,9 @@ msgstr "اضافه کردن به منوی راست کلیک"
 msgid "Address"
 msgstr "ادرس حافظه"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "پیشرفته"
 
@@ -57,6 +66,9 @@ msgstr "الگوریتم"
 
 msgid "All"
 msgstr "همه"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "همه فایل ها"
@@ -70,6 +82,9 @@ msgstr "انالیز"
 msgid "Analyzed"
 msgstr "آنالیز شده"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "متحرک‌سازی"
 
@@ -79,14 +94,26 @@ msgstr "ظاهر"
 msgid "Application"
 msgstr "اپلیکیشن"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "معماری"
 
 msgid "Archive"
 msgstr "ارشیو"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "ارشیو رکورد"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "ارایه"
@@ -97,17 +124,26 @@ msgstr "فلش‌ها"
 msgid "Attach"
 msgstr "ضمیمه کردن"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "صدا"
 
 msgid "Author"
 msgstr "نویسنده"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "خودکار"
 
 msgid "Background"
 msgstr "پس‌زمینه"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "پایه"
@@ -126,6 +162,9 @@ msgstr "سرهم سازی"
 
 msgid "Binding"
 msgstr "در حال سر هم سازی"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "بیت‌ها"
@@ -147,6 +186,12 @@ msgstr "درایور سرویس بوت"
 
 msgid "Bound import"
 msgstr "ایمپورت محدود شده"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "بریک پوینت"
@@ -187,8 +232,29 @@ msgstr "پشته فراخوانی"
 msgid "Cancel"
 msgstr "لغو"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "یافت نشد"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "فایل پیدا نشد"
@@ -214,17 +280,29 @@ msgstr "نمیتوان دیتابیس را لود کرد"
 msgid "Cannot load file"
 msgstr "نمیتوان فایل را لود کرد"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "نمی‌توان فایل دامپ را باز کرد"
 
 msgid "Cannot open file"
 msgstr "نمیتوان فایل را باز کرد"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "نمیتوان جلسه را باز کرد"
 
 msgid "Cannot read file"
 msgstr "نمی‌توان فایل را خواند"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "نمیتوان حافظه را در این ادرس خواند"
@@ -238,8 +316,17 @@ msgstr "نمیتوان فایل را ذخیره کرد"
 msgid "Cannot set shortcut"
 msgstr "نمیتوان شورت کات اعمال کرد"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "نمی‌توان داده‌ها را در فایل نوشت"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "مدرک"
@@ -250,6 +337,15 @@ msgstr "چک کردن"
 msgid "Check for updates"
 msgstr "چک کردن به روز رسانی"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "پاک کردن"
 
@@ -259,11 +355,17 @@ msgstr "پاک کردن نتیجه"
 msgid "Close"
 msgstr "بستن"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "صفحات کد"
 
 msgid "Code section"
 msgstr "بخش کد"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "رنگ"
@@ -277,11 +379,26 @@ msgstr "کامند ها"
 msgid "Comment"
 msgstr "کامنت"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "فشرده"
 
 msgid "Compiler"
 msgstr "کامپایلر"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "فشرده‌ساز"
@@ -291,6 +408,9 @@ msgstr "شرطی"
 
 msgid "Console"
 msgstr "کنسول"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "کنترل‌ها"
@@ -330,6 +450,9 @@ msgstr "سفارشی"
 
 msgid "Custom database"
 msgstr "دیتابیس سفارشی"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "دیتا"
@@ -415,6 +538,12 @@ msgstr "اسناد"
 msgid "Donate"
 msgstr "حمایت کردن"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "درایور"
 
@@ -430,6 +559,18 @@ msgstr "دامپ در فایل"
 msgid "Edit"
 msgstr "ویرایش"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "ادیتور"
 
@@ -439,14 +580,23 @@ msgstr "سپری شده"
 msgid "Encode"
 msgstr "کدگذاری"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "پایان"
 
 msgid "Endianness"
 msgstr "اندیان‌نس"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "انتروپی"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "نقطه شروع"
@@ -475,6 +625,9 @@ msgstr "نوع اکسپورت"
 msgid "Extender"
 msgstr "افزونه"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "ارجاعات خارجی"
 
@@ -483,6 +636,9 @@ msgstr "اضافی"
 
 msgid "Extra database"
 msgstr "دیتابیس اضافی"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "استخراج"
@@ -496,14 +652,47 @@ msgstr "استخراج تمامی ایکون ها"
 msgid "Extractor"
 msgstr "استخراج کننده"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "فایل"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "اطلاعات فایل"
 
 msgid "File name"
 msgstr "اسم فایل"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "آفست فایل"
@@ -531,6 +720,9 @@ msgstr "پیدا کردن"
 
 msgid "First"
 msgstr "اولین"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "تصحیح آفست‌ها"
@@ -586,6 +778,9 @@ msgstr "فانکشن‌ها"
 msgid "GB"
 msgstr "گیگابایت"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "رجیسترهای عمومی"
 
@@ -601,6 +796,9 @@ msgstr "برو به عنصر"
 msgid "GiB"
 msgstr "گیبی‌بایت"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "رفتن به"
 
@@ -612,6 +810,9 @@ msgstr "رفتن به صفحه دانلود؟"
 
 msgid "Gradient"
 msgstr "گرادیان"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "شبکه"
@@ -627,6 +828,9 @@ msgstr "سخت‌افزار"
 
 msgid "Hash"
 msgstr "هش"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "هدر"
@@ -649,6 +853,9 @@ msgstr "روش‌های اکتشافی"
 msgid "Hex"
 msgstr "هگز"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "مخفی کردن ناشناخته‌ها"
 
@@ -658,8 +865,14 @@ msgstr "های لایت"
 msgid "Highlights"
 msgstr "های‌لایت‌ها"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "عکس"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "عکس ها"
@@ -675,6 +888,9 @@ msgstr "سمبل‌های غیرمستقیم"
 
 msgid "Info"
 msgstr "اطلاعات"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "اطلاعات"
@@ -694,14 +910,29 @@ msgstr "نصب کنندخ اطلاعات"
 msgid "Instruction pointer register"
 msgstr "رجیستر اشاره‌گر دستورالعمل"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "مفسر"
 
 msgid "Invalid"
 msgstr "نامعتبر"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "فونت نامعتبر"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "هندل نامعتبر"
@@ -711,6 +942,12 @@ msgstr "آفست نامعتبر"
 
 msgid "Invalid opcode"
 msgstr "اپکد نامعتبر"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "خطای امضا کننده"
@@ -735,6 +972,9 @@ msgstr "زبان"
 
 msgid "Last"
 msgstr "آخرین"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "اتصال تنبل"
@@ -781,11 +1021,17 @@ msgstr "مکان"
 msgid "Log"
 msgstr "لاگ"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "مگابایت"
 
 msgid "Main"
 msgstr "اصلی"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "ماژول اصلی"
@@ -844,8 +1090,14 @@ msgstr "میبی‌بایت"
 msgid "Min length"
 msgstr "حداقل طول"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "حالت"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "ماژول ها"
@@ -862,8 +1114,14 @@ msgstr "جستجوی چندگانه"
 msgid "Name"
 msgstr "نام"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "خطای اینترنت"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "جدید"
@@ -879,6 +1137,15 @@ msgstr "مشاهده بعدی"
 
 msgid "No"
 msgstr "نه"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "ورژن جدیدی موجود نیست"
@@ -928,6 +1195,9 @@ msgstr "اپکدها"
 msgid "Open"
 msgstr "باز کردن"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "باز کردن پوشه"
 
@@ -946,14 +1216,29 @@ msgstr "خروجی"
 msgid "Overlay"
 msgstr "اورلی"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "بسته"
 
 msgid "Packer"
 msgstr "پک کننده"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "پچ"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "توقف"
@@ -969,6 +1254,9 @@ msgstr "داده‌های شخصی"
 
 msgid "Plain Text"
 msgstr "متن ساده"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "پلتفرم"
@@ -993,6 +1281,9 @@ msgstr "موقعیت"
 
 msgid "Previous visited"
 msgstr "مشاهده قبلی"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "چاپ"
@@ -1027,8 +1318,20 @@ msgstr "نمونه اولیه"
 msgid "Publisher"
 msgstr "انتشار دهنده"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "داده خام"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "خطای خواندن"
@@ -1041,6 +1344,9 @@ msgstr "ری‌بیس"
 
 msgid "Recent files"
 msgstr "فایل های جاری"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "بازگشتی"
@@ -1078,17 +1384,26 @@ msgstr "لود دوباره"
 msgid "Relocs"
 msgstr "جابجایی‌ها"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "حذف"
 
 msgid "Rescan"
 msgstr "اسکن مجدد"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "تغییر سایز"
 
 msgid "Resource"
 msgstr "منبع"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "منابع"
@@ -1117,8 +1432,20 @@ msgstr "در حال اجرا"
 msgid "Runtime driver"
 msgstr "درایور زمان اجرا"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "ذخیره"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "ذخیره به عنوان"
@@ -1198,6 +1525,9 @@ msgstr "بخش ها"
 msgid "Segment"
 msgstr "سگمنت"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "رجیسترهای سگمنت"
 
@@ -1206,6 +1536,9 @@ msgstr "سگمنت ها"
 
 msgid "Select"
 msgstr "انتخاب"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "انتخاب شده"
@@ -1216,6 +1549,9 @@ msgstr "انتخاب"
 msgid "Serial number"
 msgstr "سریال نامبر"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "میانبر"
 
@@ -1224,6 +1560,12 @@ msgstr "میانبر ها"
 
 msgid "Show"
 msgstr "دیدن"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "دیدن همه"
@@ -1279,6 +1621,9 @@ msgstr "سایز"
 msgid "Size of image"
 msgstr "حجم عکس"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "مرتب‌سازی"
 
@@ -1321,6 +1666,24 @@ msgstr "عبور از مرحله"
 msgid "Stop"
 msgstr "توقف"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "رشته"
 
@@ -1329,6 +1692,9 @@ msgstr "جدول رشته"
 
 msgid "Strings"
 msgstr "رشته"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "ساختار"
@@ -1366,11 +1732,17 @@ msgstr "همگام‌سازی"
 msgid "Syntax"
 msgstr "سینتکس"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "ترابایت"
 
 msgid "Table"
 msgstr "فهرست"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "فهرست مطالب"
@@ -1378,11 +1750,20 @@ msgstr "فهرست مطالب"
 msgid "Table views"
 msgstr "نمای جدول"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "تگ‌ها"
 
 msgid "Text"
 msgstr "متن"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "سند متنی"
@@ -1447,6 +1828,9 @@ msgstr "ردیابی به داخل"
 msgid "Trace over"
 msgstr "ردیابی از روی"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "نمایش درختی"
 
@@ -1462,6 +1846,15 @@ msgstr "دو عملوندی"
 msgid "Type"
 msgstr "نوع"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "یونیکد"
 
@@ -1471,11 +1864,17 @@ msgstr "جهانی"
 msgid "Unknown"
 msgstr "ناشناخته"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "انپک"
 
 msgid "Unsigned"
 msgstr "بدون علامت"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "به روزرسانی اطلاعات"
@@ -1488,6 +1887,12 @@ msgstr "بالایی"
 
 msgid "Uppercase"
 msgstr "حروف بزرگ"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "مقدار"
@@ -1543,14 +1948,29 @@ msgstr "طول"
 msgid "Wildcard"
 msgstr "عام"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "خطا در نوشتن"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "صفرها"
 
 msgid "Zoom"
 msgstr "بزرگنمایی"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "دیتا"
@@ -1575,3 +1995,4 @@ msgstr "پک شده"
 
 msgid "true"
 msgstr "صحیح"
+

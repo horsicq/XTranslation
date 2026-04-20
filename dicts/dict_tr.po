@@ -27,11 +27,17 @@ msgstr "8 bit"
 msgid "API key"
 msgstr "API Anahtarı"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "Hakkında"
 
 msgid "Action"
 msgstr "Eylem"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "Ekle"
@@ -45,6 +51,9 @@ msgstr "Bağlam menüsüne ekle"
 msgid "Address"
 msgstr "Adres"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "İleri düzey"
 
@@ -56,6 +65,9 @@ msgstr "Algoritma"
 
 msgid "All"
 msgstr "Tümü"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "Bütün Dosyalar"
@@ -69,6 +81,9 @@ msgstr "Analiz Et"
 msgid "Analyzed"
 msgstr "Analiz edildi"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "Canlandır"
 
@@ -78,14 +93,26 @@ msgstr "Görünüm"
 msgid "Application"
 msgstr "Uygulama"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "Mimari"
 
 msgid "Archive"
 msgstr "Arşiv"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "Arşiv kayıtları"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "Dizi"
@@ -96,17 +123,26 @@ msgstr "Oklar"
 msgid "Attach"
 msgstr "Ekle"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "Ses"
 
 msgid "Author"
 msgstr "Yazar"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "Otomatik"
 
 msgid "Background"
 msgstr "Arkaplan"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "Taban"
@@ -125,6 +161,9 @@ msgstr "Bağla"
 
 msgid "Binding"
 msgstr "Bağlama"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "Bitler"
@@ -146,6 +185,12 @@ msgstr "Önyükleme hizmeti sürücüsü"
 
 msgid "Bound import"
 msgstr "Bağlı içe aktarma"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "Durma noktası"
@@ -186,8 +231,29 @@ msgstr "Çağrı yığını"
 msgid "Cancel"
 msgstr "İptal"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "Bulunamıyor"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "Dosya bulunamıyor"
@@ -213,17 +279,29 @@ msgstr "Veritabanı yüklenemiyor"
 msgid "Cannot load file"
 msgstr "Dosya yüklenemiyor"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "Döküm dosyası açılamıyor"
 
 msgid "Cannot open file"
 msgstr "Dosya açılmıyor"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "Oturum açılamıyor"
 
 msgid "Cannot read file"
 msgstr "Dosya okunamıyor"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "Adresteki bellek okunamıyor"
@@ -237,8 +315,17 @@ msgstr "Dosya kayıt edilemiyor"
 msgid "Cannot set shortcut"
 msgstr "Kısayol ayarlanamıyor"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "Dosyaya veri yazılamıyor"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "Sertifika"
@@ -249,6 +336,15 @@ msgstr "Denetle"
 msgid "Check for updates"
 msgstr "Güncellemeleri denetle"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "Temizle"
 
@@ -258,11 +354,17 @@ msgstr "Sonucu temizle"
 msgid "Close"
 msgstr "Kapat"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "Kod sayfaları"
 
 msgid "Code section"
 msgstr "Kod bölümü"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "Renk"
@@ -276,11 +378,26 @@ msgstr "Komutlar"
 msgid "Comment"
 msgstr "Yorum"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "Kompakt"
 
 msgid "Compiler"
 msgstr "Derleyici"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "Sıkıştırıcı"
@@ -290,6 +407,9 @@ msgstr "Koşullu"
 
 msgid "Console"
 msgstr "Konsol"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "Kontroller"
@@ -329,6 +449,9 @@ msgstr "Özel"
 
 msgid "Custom database"
 msgstr "Özel veritabanı"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "Veri"
@@ -414,6 +537,12 @@ msgstr "Belgeler"
 msgid "Donate"
 msgstr "Bağış yap"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "Sürücü"
 
@@ -429,6 +558,18 @@ msgstr "Dosyaya dök"
 msgid "Edit"
 msgstr "Düzenle"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "Düzenleyici"
 
@@ -438,14 +579,23 @@ msgstr "Geçen"
 msgid "Encode"
 msgstr "Encode"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "Son"
 
 msgid "Endianness"
 msgstr "Endianness"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "Entropi"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "Entry point"
@@ -474,6 +624,9 @@ msgstr "Dışa aktarma türü"
 msgid "Extender"
 msgstr "Genişletici"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "Dış referanslar"
 
@@ -482,6 +635,9 @@ msgstr "Ekstra"
 
 msgid "Extra database"
 msgstr "Ekstra veritabanı"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "Ayıkla"
@@ -495,14 +651,47 @@ msgstr "Tüm ikonları ayıkla"
 msgid "Extractor"
 msgstr "Ayıklayıcı"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "Dosya"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "Dosya bilgisi"
 
 msgid "File name"
 msgstr "Dosya adı"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "Dosya ofseti"
@@ -530,6 +719,9 @@ msgstr "Bul"
 
 msgid "First"
 msgstr "İlk"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "Ofsetleri düzelt"
@@ -585,6 +777,9 @@ msgstr "Fonksiyonlar"
 msgid "GB"
 msgstr "GB"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "Genel amaçlı kayıtlar"
 
@@ -600,6 +795,9 @@ msgstr "Öğeyi al"
 msgid "GiB"
 msgstr "GiB"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "Git"
 
@@ -611,6 +809,9 @@ msgstr "İndirme sayfasına git?"
 
 msgid "Gradient"
 msgstr "Meyil"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "Izgara"
@@ -626,6 +827,9 @@ msgstr "Donanım"
 
 msgid "Hash"
 msgstr "Özet"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "Başlık"
@@ -648,6 +852,9 @@ msgstr "Sezgisel Yöntem"
 msgid "Hex"
 msgstr "Onaltılık"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "Bilinmeyeni sakla"
 
@@ -657,8 +864,14 @@ msgstr "Vurgula"
 msgid "Highlights"
 msgstr "Öne çıkanlar"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "Görüntü"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "Görüntüler"
@@ -674,6 +887,9 @@ msgstr "Dolaylı semboller"
 
 msgid "Info"
 msgstr "Bilgi"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "Bilgilendirme"
@@ -693,14 +909,29 @@ msgstr "Yükleyici verileri"
 msgid "Instruction pointer register"
 msgstr "Komut göstergeç yazmacı"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "Yorumlayıcı"
 
 msgid "Invalid"
 msgstr "Geçersiz"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "Geçersiz yazı tipi"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "Geçersiz handle"
@@ -710,6 +941,12 @@ msgstr "Geçersiz ofset"
 
 msgid "Invalid opcode"
 msgstr "Geçersiz işlem kodu"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "Geçersiz imza"
@@ -734,6 +971,9 @@ msgstr "Dil"
 
 msgid "Last"
 msgstr "Son"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "Tembel bağlama"
@@ -780,11 +1020,17 @@ msgstr "Konum"
 msgid "Log"
 msgstr "Log"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "MB"
 
 msgid "Main"
 msgstr "Ana"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "Ana modül"
@@ -843,8 +1089,14 @@ msgstr "MiB"
 msgid "Min length"
 msgstr "Min uzunluk"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "Mod"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "Modüller"
@@ -861,8 +1113,14 @@ msgstr "Çoklu arama"
 msgid "Name"
 msgstr "Ad"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "Ağ hatası"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "Yeni"
@@ -878,6 +1136,15 @@ msgstr "Sonraki görülen"
 
 msgid "No"
 msgstr "Hayır"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "Güncelleme yok"
@@ -927,6 +1194,9 @@ msgstr "Opcodes"
 msgid "Open"
 msgstr "Aç"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "Dizin aç"
 
@@ -945,14 +1215,29 @@ msgstr "Çıktı"
 msgid "Overlay"
 msgstr "Kaplama"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "Paket"
 
 msgid "Packer"
 msgstr "Paketleyici"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "Yama"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "Duraklat"
@@ -968,6 +1253,9 @@ msgstr "Kişisel veri"
 
 msgid "Plain Text"
 msgstr "Düz Metin"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "Platform"
@@ -992,6 +1280,9 @@ msgstr "Pozisyon"
 
 msgid "Previous visited"
 msgstr "Önceki görülen"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "Yazdır"
@@ -1026,8 +1317,20 @@ msgstr "Prototip"
 msgid "Publisher"
 msgstr "Yayımcı"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "Ham veri"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "Okuma hatası"
@@ -1040,6 +1343,9 @@ msgstr "Yeniden temellendir"
 
 msgid "Recent files"
 msgstr "Son kullanılan dosyalar"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "Özyinelemeli"
@@ -1077,17 +1383,26 @@ msgstr "Tekrar yükle"
 msgid "Relocs"
 msgstr "Relocs"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "Kaldır"
 
 msgid "Rescan"
 msgstr "Yeniden tara"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "Yeniden boyutlandır"
 
 msgid "Resource"
 msgstr "Kaynak"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "Kaynaklar"
@@ -1116,8 +1431,20 @@ msgstr "Yürütülüyor"
 msgid "Runtime driver"
 msgstr "Çalışma zamanı sürücüsü"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "Kaydet"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "Farklı kaydet"
@@ -1197,6 +1524,9 @@ msgstr "Bölümler"
 msgid "Segment"
 msgstr "Segment"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "Segment yazmaçları"
 
@@ -1205,6 +1535,9 @@ msgstr "Segmentler"
 
 msgid "Select"
 msgstr "Seç"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "Seçili"
@@ -1215,6 +1548,9 @@ msgstr "Seçim"
 msgid "Serial number"
 msgstr "Seri numarası"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "Kısayol"
 
@@ -1223,6 +1559,12 @@ msgstr "Kısayollar"
 
 msgid "Show"
 msgstr "Göster"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "Hepsini göster"
@@ -1278,6 +1620,9 @@ msgstr "Boy"
 msgid "Size of image"
 msgstr "İmajın boyu"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "Sırala"
 
@@ -1320,6 +1665,24 @@ msgstr "İlerle"
 msgid "Stop"
 msgstr "Dur"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "Dizge"
 
@@ -1328,6 +1691,9 @@ msgstr "Dizge tablosu"
 
 msgid "Strings"
 msgstr "Dizgeler"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "Yapı"
@@ -1365,11 +1731,17 @@ msgstr "Senkron"
 msgid "Syntax"
 msgstr "Sözdizimi"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "TB"
 
 msgid "Table"
 msgstr "Tablo"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "İçindekiler"
@@ -1377,11 +1749,20 @@ msgstr "İçindekiler"
 msgid "Table views"
 msgstr "Tablo görünümleri"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "Etiketler"
 
 msgid "Text"
 msgstr "Metin"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "Metin belgeleri"
@@ -1446,6 +1827,9 @@ msgstr "Dallanarak izinden git"
 msgid "Trace over"
 msgstr "Dallanmadan izinden git"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "Ağaç"
 
@@ -1461,6 +1845,15 @@ msgstr "İki işlenen"
 msgid "Type"
 msgstr "Tür"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "Unicode"
 
@@ -1470,11 +1863,17 @@ msgstr "Evrensel"
 msgid "Unknown"
 msgstr "Bilinmeyen"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "Unpack et"
 
 msgid "Unsigned"
 msgstr "İşaretsiz"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "Güncelleme bilgisi"
@@ -1487,6 +1886,12 @@ msgstr "Üst"
 
 msgid "Uppercase"
 msgstr "Büyük harf"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "Değer"
@@ -1542,14 +1947,29 @@ msgstr "En"
 msgid "Wildcard"
 msgstr "Genel arama karakteri"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "Yazma hatası"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "Sıfırlar"
 
 msgid "Zoom"
 msgstr "Yaklaştır"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "veri"
@@ -1574,21 +1994,4 @@ msgstr "paketlenmiş"
 
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

@@ -27,11 +27,17 @@ msgstr "8位元"
 msgid "API key"
 msgstr "API金鑰"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "關於"
 
 msgid "Action"
 msgstr "動作"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "新增"
@@ -45,6 +51,9 @@ msgstr "新增到上下文菜單"
 msgid "Address"
 msgstr "位址"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "進階"
 
@@ -56,6 +65,9 @@ msgstr "演算法"
 
 msgid "All"
 msgstr "所有"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "所有檔案"
@@ -69,6 +81,9 @@ msgstr "分析"
 msgid "Analyzed"
 msgstr "已分析"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "動畫"
 
@@ -78,14 +93,26 @@ msgstr "外觀"
 msgid "Application"
 msgstr "應用"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "架構"
 
 msgid "Archive"
 msgstr "存檔記錄"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "存檔記錄"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "陣列"
@@ -96,17 +123,26 @@ msgstr "箭頭"
 msgid "Attach"
 msgstr "附"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "音檔"
 
 msgid "Author"
 msgstr "作者"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "自動"
 
 msgid "Background"
 msgstr "背景"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "基底"
@@ -125,6 +161,9 @@ msgstr "綁定"
 
 msgid "Binding"
 msgstr "捆綁"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "位元"
@@ -146,6 +185,12 @@ msgstr "引導服務驅動程式"
 
 msgid "Bound import"
 msgstr "綁定導入"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "斷點"
@@ -186,8 +231,29 @@ msgstr "呼叫堆疊"
 msgid "Cancel"
 msgstr "取消"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "找不到"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "找不到檔案"
@@ -213,17 +279,29 @@ msgstr "無法加載數據庫"
 msgid "Cannot load file"
 msgstr "無法加載檔案"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "無法打開轉存檔案"
 
 msgid "Cannot open file"
 msgstr "無法打開檔案"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "無法打開工作階段"
 
 msgid "Cannot read file"
 msgstr "無法讀取檔案"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "無法讀取位址處的記憶體"
@@ -237,8 +315,17 @@ msgstr "無法保存檔案"
 msgid "Cannot set shortcut"
 msgstr "無法設置快捷鍵"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "無法將資料寫入檔案"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "證書"
@@ -249,6 +336,15 @@ msgstr "查看"
 msgid "Check for updates"
 msgstr "檢查更新"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "清除"
 
@@ -258,11 +354,17 @@ msgstr "清除結果"
 msgid "Close"
 msgstr "關閉"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "頁碼"
 
 msgid "Code section"
 msgstr "代碼段"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "顏色"
@@ -276,11 +378,26 @@ msgstr "指令"
 msgid "Comment"
 msgstr "註解"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "緊湊"
 
 msgid "Compiler"
 msgstr "編譯器"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "壓縮器"
@@ -290,6 +407,9 @@ msgstr "條件化"
 
 msgid "Console"
 msgstr "系統控制臺"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "控制項"
@@ -329,6 +449,9 @@ msgstr "自定義"
 
 msgid "Custom database"
 msgstr "自訂數據庫"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "資料"
@@ -414,6 +537,12 @@ msgstr "文檔"
 msgid "Donate"
 msgstr "捐贈"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "驅動程式"
 
@@ -429,6 +558,18 @@ msgstr "轉存到檔案"
 msgid "Edit"
 msgstr "編輯"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "編輯器"
 
@@ -438,14 +579,23 @@ msgstr "經過時間"
 msgid "Encode"
 msgstr "編碼"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "結束"
 
 msgid "Endianness"
 msgstr "位元組順序"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "熵值"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "入口點"
@@ -474,6 +624,9 @@ msgstr "導出類型"
 msgid "Extender"
 msgstr "擴展器"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "外部參考"
 
@@ -482,6 +635,9 @@ msgstr "附加"
 
 msgid "Extra database"
 msgstr "附加數據庫"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "擷取"
@@ -495,14 +651,47 @@ msgstr "擷取所有圖標"
 msgid "Extractor"
 msgstr "擷取器"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "檔案"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "檔案內容"
 
 msgid "File name"
 msgstr "檔名"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "檔案偏移量"
@@ -530,6 +719,9 @@ msgstr "尋找"
 
 msgid "First"
 msgstr "第一個"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "修復偏移"
@@ -585,6 +777,9 @@ msgstr "函式"
 msgid "GB"
 msgstr "GB"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "通用暫存器"
 
@@ -600,6 +795,9 @@ msgstr "獲取元素"
 msgid "GiB"
 msgstr "GiB"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "跳至"
 
@@ -611,6 +809,9 @@ msgstr "要跳轉至下載頁面嗎？"
 
 msgid "Gradient"
 msgstr "梯度"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "網格"
@@ -626,6 +827,9 @@ msgstr "硬體"
 
 msgid "Hash"
 msgstr "雜湊值"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "標頭"
@@ -648,6 +852,9 @@ msgstr "啟發式"
 msgid "Hex"
 msgstr "十六進制"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "隱藏未知"
 
@@ -657,8 +864,14 @@ msgstr "標記"
 msgid "Highlights"
 msgstr "標記"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "映像"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "映像"
@@ -674,6 +887,9 @@ msgstr "間接符號"
 
 msgid "Info"
 msgstr "資訊"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "資訊"
@@ -693,14 +909,29 @@ msgstr "安裝程式資料"
 msgid "Instruction pointer register"
 msgstr "指令指標暫存器"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "直譯器"
 
 msgid "Invalid"
 msgstr "無效"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "無效的字體"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "無效的控制代碼"
@@ -710,6 +941,12 @@ msgstr "無效的偏移"
 
 msgid "Invalid opcode"
 msgstr "無效的操作碼"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "無效的簽證"
@@ -734,6 +971,9 @@ msgstr "語言"
 
 msgid "Last"
 msgstr "最後"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "延遲綁定"
@@ -763,7 +1003,7 @@ msgid "List"
 msgstr "列表"
 
 msgid "Load"
-msgstr ""
+msgstr "Load"
 
 msgid "Load config"
 msgstr "加載設定"
@@ -780,11 +1020,17 @@ msgstr "位置"
 msgid "Log"
 msgstr "日誌"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "MB"
 
 msgid "Main"
 msgstr "主要"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "主模組"
@@ -843,8 +1089,14 @@ msgstr "MiB"
 msgid "Min length"
 msgstr "最小長度"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "模式"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "模組"
@@ -861,8 +1113,14 @@ msgstr "多重搜尋"
 msgid "Name"
 msgstr "名稱"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "網路錯誤"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "新"
@@ -878,6 +1136,15 @@ msgstr "下一個訪問的"
 
 msgid "No"
 msgstr "不"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "沒有可用的更新"
@@ -927,6 +1194,9 @@ msgstr "操作碼"
 msgid "Open"
 msgstr "開啟"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "打開目錄"
 
@@ -945,14 +1215,29 @@ msgstr "輸出"
 msgid "Overlay"
 msgstr "覆蓋"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "套件"
 
 msgid "Packer"
 msgstr "包裝器"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "修補"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "暫停"
@@ -968,6 +1253,9 @@ msgstr "個人資料"
 
 msgid "Plain Text"
 msgstr "明文"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "平台"
@@ -992,6 +1280,9 @@ msgstr "位置"
 
 msgid "Previous visited"
 msgstr "上次造訪過的"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "列印"
@@ -1026,8 +1317,20 @@ msgstr "原型"
 msgid "Publisher"
 msgstr "發行者"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "原始資料"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "讀取錯誤"
@@ -1040,6 +1343,9 @@ msgstr "變更基底位址"
 
 msgid "Recent files"
 msgstr "最近用過的檔案"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "遞迴"
@@ -1077,17 +1383,26 @@ msgstr "重新載入"
 msgid "Relocs"
 msgstr "重定位"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "移除"
 
 msgid "Rescan"
 msgstr "重新掃描"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "變更大小"
 
 msgid "Resource"
 msgstr "資源"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "資源"
@@ -1116,8 +1431,20 @@ msgstr "正在執行"
 msgid "Runtime driver"
 msgstr "執行時期驅動程式"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "存檔"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "另存新檔"
@@ -1197,6 +1524,9 @@ msgstr "節"
 msgid "Segment"
 msgstr "段"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "段暫存器"
 
@@ -1205,6 +1535,9 @@ msgstr "段"
 
 msgid "Select"
 msgstr "選擇"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "已選擇"
@@ -1215,6 +1548,9 @@ msgstr "選擇"
 msgid "Serial number"
 msgstr "序列號"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "捷徑"
 
@@ -1223,6 +1559,12 @@ msgstr "捷徑"
 
 msgid "Show"
 msgstr "顯示"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "顯示全部"
@@ -1278,6 +1620,9 @@ msgstr "大小"
 msgid "Size of image"
 msgstr "圖片尺寸"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "排序"
 
@@ -1320,6 +1665,24 @@ msgstr "步出"
 msgid "Stop"
 msgstr "停止"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "字串"
 
@@ -1328,6 +1691,9 @@ msgstr "字串表"
 
 msgid "Strings"
 msgstr "字串"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "結構"
@@ -1365,11 +1731,17 @@ msgstr "同步"
 msgid "Syntax"
 msgstr "句法"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "TB"
 
 msgid "Table"
 msgstr "表格"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "目錄"
@@ -1377,11 +1749,20 @@ msgstr "目錄"
 msgid "Table views"
 msgstr "表格視圖"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "標籤"
 
 msgid "Text"
 msgstr "文字"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "文字檔"
@@ -1446,6 +1827,9 @@ msgstr "跟蹤進入"
 msgid "Trace over"
 msgstr "跟蹤步過"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "樹狀圖"
 
@@ -1461,6 +1845,15 @@ msgstr "兩個操作數"
 msgid "Type"
 msgstr "類型"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "Unicode"
 
@@ -1470,11 +1863,17 @@ msgstr "通用的"
 msgid "Unknown"
 msgstr "未知"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "解包"
 
 msgid "Unsigned"
 msgstr "取消簽章"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "更新資訊"
@@ -1487,6 +1886,12 @@ msgstr "大寫"
 
 msgid "Uppercase"
 msgstr "大寫"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "值"
@@ -1542,14 +1947,29 @@ msgstr "寬度"
 msgid "Wildcard"
 msgstr "任意符號"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "寫入錯誤"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "零"
 
 msgid "Zoom"
 msgstr "縮放"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "資料"
@@ -1574,21 +1994,4 @@ msgstr "已打包"
 
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

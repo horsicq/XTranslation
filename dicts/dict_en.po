@@ -7,1570 +7,1994 @@ msgstr ""
 "X-Language: en_US\n"
 
 msgid "128-bit"
-msgstr ""
+msgstr "128-bit"
 
 msgid "16-bit"
-msgstr ""
+msgstr "16-bit"
 
 msgid "256-bit"
-msgstr ""
+msgstr "256-bit"
 
 msgid "32-bit"
-msgstr ""
+msgstr "32-bit"
 
 msgid "64-bit"
-msgstr ""
+msgstr "64-bit"
 
 msgid "8-bit"
-msgstr ""
+msgstr "8-bit"
 
 msgid "API key"
-msgstr ""
+msgstr "API key"
+
+msgid "APK tool"
+msgstr "APK tool"
 
 msgid "About"
-msgstr ""
+msgstr "About"
 
 msgid "Action"
-msgstr ""
+msgstr "Action"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
-msgstr ""
+msgstr "Add"
 
 msgid "Add alignment"
-msgstr ""
+msgstr "Add alignment"
 
 msgid "Add to context menu"
-msgstr ""
+msgstr "Add to context menu"
 
 msgid "Address"
-msgstr ""
+msgstr "Address"
+
+msgid "Adler32"
+msgstr "Adler32"
 
 msgid "Advanced"
-msgstr ""
+msgstr "Advanced"
 
 msgid "Aggressive scan"
-msgstr ""
+msgstr "Aggressive scan"
 
 msgid "Algorithm"
-msgstr ""
+msgstr "Algorithm"
 
 msgid "All"
-msgstr ""
+msgstr "All"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
-msgstr ""
+msgstr "All files"
 
 msgid "All types"
-msgstr ""
+msgstr "All types"
 
 msgid "Analyze"
-msgstr ""
+msgstr "Analyze"
 
 msgid "Analyzed"
-msgstr ""
+msgstr "Analyzed"
+
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
 
 msgid "Animate"
-msgstr ""
+msgstr "Animate"
 
 msgid "Appearance"
-msgstr ""
+msgstr "Appearance"
 
 msgid "Application"
-msgstr ""
+msgstr "Application"
+
+msgid "Application Extension"
+msgstr "Application Extension"
 
 msgid "Architecture"
-msgstr ""
+msgstr "Architecture"
 
 msgid "Archive"
-msgstr ""
+msgstr "Archive"
+
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
 
 msgid "Archive record"
-msgstr ""
+msgstr "Archive record"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
-msgstr ""
+msgstr "Array"
 
 msgid "Arrows"
-msgstr ""
+msgstr "Arrows"
 
 msgid "Attach"
-msgstr ""
+msgstr "Attach"
+
+msgid "Attributes"
+msgstr "Attributes"
 
 msgid "Audio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Author"
-msgstr ""
+msgstr "Author"
+
+msgid "Auto"
+msgstr "Auto"
 
 msgid "Automatic"
-msgstr ""
+msgstr "Automatic"
 
 msgid "Background"
-msgstr ""
+msgstr "Background"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
-msgstr ""
+msgstr "Base"
 
 msgid "Base address"
-msgstr ""
+msgstr "Base address"
 
 msgid "Begin"
-msgstr ""
+msgstr "Begin"
 
 msgid "Binary"
-msgstr ""
+msgstr "Binary"
 
 msgid "Bind"
-msgstr ""
+msgstr "Bind"
 
 msgid "Binding"
-msgstr ""
+msgstr "Binding"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
-msgstr ""
+msgstr "Bits"
 
 msgid "Block size"
-msgstr ""
+msgstr "Block size"
 
 msgid "Bookmark"
-msgstr ""
+msgstr "Bookmark"
 
 msgid "Bookmarks"
-msgstr ""
+msgstr "Bookmarks"
 
 msgid "Boot application"
-msgstr ""
+msgstr "Boot application"
 
 msgid "Boot service driver"
-msgstr ""
+msgstr "Boot service driver"
 
 msgid "Bound import"
-msgstr ""
+msgstr "Bound import"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
-msgstr ""
+msgstr "Breakpoint"
 
 msgid "Breakpoints"
-msgstr ""
+msgstr "Breakpoints"
 
 msgid "Buffer size"
-msgstr ""
+msgstr "Buffer size"
 
 msgid "Bugreports"
-msgstr ""
+msgstr "Bugreports"
 
 msgid "Bundle"
-msgstr ""
+msgstr "Bundle"
 
 msgid "Byte"
-msgstr ""
+msgstr "Byte"
 
 msgid "Bytes"
-msgstr ""
+msgstr "Bytes"
 
 msgid "Bytes available"
-msgstr ""
+msgstr "Bytes available"
 
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 msgid "Calculate"
-msgstr ""
+msgstr "Calculate"
 
 msgid "Callbacks"
-msgstr ""
+msgstr "Callbacks"
 
 msgid "Callstack"
-msgstr ""
+msgstr "Callstack"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Cancel"
+
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
 
 msgid "Cannot find"
-msgstr ""
+msgstr "Cannot find"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
-msgstr ""
+msgstr "Cannot find file"
 
 msgid "Cannot fix dump file"
-msgstr ""
+msgstr "Cannot fix dump file"
 
 msgid "Cannot get PDB age"
-msgstr ""
+msgstr "Cannot get PDB age"
 
 msgid "Cannot get PDB name"
-msgstr ""
+msgstr "Cannot get PDB name"
 
 msgid "Cannot load MSDIA library"
-msgstr ""
+msgstr "Cannot load MSDIA library"
 
 msgid "Cannot load data from PDB"
-msgstr ""
+msgstr "Cannot load data from PDB"
 
 msgid "Cannot load database"
-msgstr ""
+msgstr "Cannot load database"
 
 msgid "Cannot load file"
-msgstr ""
+msgstr "Cannot load file"
+
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
 
 msgid "Cannot open dump file"
-msgstr ""
+msgstr "Cannot open dump file"
 
 msgid "Cannot open file"
-msgstr ""
+msgstr "Cannot open file"
+
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
 
 msgid "Cannot open session"
-msgstr ""
+msgstr "Cannot open session"
 
 msgid "Cannot read file"
-msgstr ""
+msgstr "Cannot read file"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
-msgstr ""
+msgstr "Cannot read memory at address"
 
 msgid "Cannot resize"
-msgstr ""
+msgstr "Cannot resize"
 
 msgid "Cannot save file"
-msgstr ""
+msgstr "Cannot save file"
 
 msgid "Cannot set shortcut"
-msgstr ""
+msgstr "Cannot set shortcut"
+
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
 
 msgid "Cannot write data to file"
-msgstr ""
+msgstr "Cannot write data to file"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
-msgstr ""
+msgstr "Certificate"
 
 msgid "Check"
-msgstr ""
+msgstr "Check"
+
+msgid "Check for updates"
+msgstr "Check for updates"
 
 msgid "Check updates"
-msgstr ""
+msgstr "Check updates"
+
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
 
 msgid "Clear"
-msgstr ""
+msgstr "Clear"
 
 msgid "Clear result"
-msgstr ""
+msgstr "Clear result"
 
 msgid "Close"
-msgstr ""
+msgstr "Close"
+
+msgid "Code Object"
+msgstr "Code Object"
 
 msgid "Code pages"
-msgstr ""
+msgstr "Code pages"
 
 msgid "Code section"
-msgstr ""
+msgstr "Code section"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
-msgstr ""
+msgstr "Color"
 
 msgid "Colors"
-msgstr ""
+msgstr "Colors"
 
 msgid "Commands"
-msgstr ""
+msgstr "Commands"
 
 msgid "Comment"
-msgstr ""
+msgstr "Comment"
+
+msgid "Comment Extension"
+msgstr "Comment Extension"
 
 msgid "Compact"
-msgstr ""
+msgstr "Compact"
 
 msgid "Compiler"
-msgstr ""
+msgstr "Compiler"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
-msgstr ""
+msgstr "Compressor"
 
 msgid "Conditional"
-msgstr ""
+msgstr "Conditional"
 
 msgid "Console"
-msgstr ""
+msgstr "Console"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
-msgstr ""
+msgstr "Controls"
 
 msgid "Converter"
-msgstr ""
+msgstr "Converter"
 
 msgid "Convertor"
-msgstr ""
+msgstr "Convertor"
 
 msgid "Copy"
-msgstr ""
+msgstr "Copy"
 
 msgid "Copy as"
-msgstr ""
+msgstr "Copy as"
 
 msgid "Corrupted data"
-msgstr ""
+msgstr "Corrupted data"
 
 msgid "Count"
-msgstr ""
+msgstr "Count"
 
 msgid "Creator"
-msgstr ""
+msgstr "Creator"
 
 msgid "Crypter"
-msgstr ""
+msgstr "Crypter"
 
 msgid "Cryptor"
-msgstr ""
+msgstr "Cryptor"
 
 msgid "Cursor"
-msgstr ""
+msgstr "Cursor"
 
 msgid "Custom"
-msgstr ""
+msgstr "Custom"
 
 msgid "Custom database"
-msgstr ""
+msgstr "Custom database"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgid "Data convertor"
-msgstr ""
+msgstr "Data convertor"
 
 msgid "Data in code"
-msgstr ""
+msgstr "Data in code"
 
 msgid "Database"
-msgstr ""
+msgstr "Database"
 
 msgid "Databases"
-msgstr ""
+msgstr "Databases"
 
 msgid "Date"
-msgstr ""
+msgstr "Date"
 
 msgid "Debug"
-msgstr ""
+msgstr "Debug"
 
 msgid "Debug data"
-msgstr ""
+msgstr "Debug data"
 
 msgid "Debug registers"
-msgstr ""
+msgstr "Debug registers"
 
 msgid "Debugger"
-msgstr ""
+msgstr "Debugger"
 
 msgid "Decode"
-msgstr ""
+msgstr "Decode"
 
 msgid "Deep scan"
-msgstr ""
+msgstr "Deep scan"
 
 msgid "Default"
-msgstr ""
+msgstr "Default"
 
 msgid "Delay import"
-msgstr ""
+msgstr "Delay import"
 
 msgid "Demangle"
-msgstr ""
+msgstr "Demangle"
 
 msgid "Dependencies"
-msgstr ""
+msgstr "Dependencies"
 
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 msgid "Detach"
-msgstr ""
+msgstr "Detach"
 
 msgid "Detect"
-msgstr ""
+msgstr "Detect"
 
 msgid "Device scan"
-msgstr ""
+msgstr "Device scan"
 
 msgid "Diagram"
-msgstr ""
+msgstr "Diagram"
 
 msgid "Dialog"
-msgstr ""
+msgstr "Dialog"
 
 msgid "Directory"
-msgstr ""
+msgstr "Directory"
 
 msgid "Directory scan"
-msgstr ""
+msgstr "Directory scan"
 
 msgid "Disasm"
-msgstr ""
+msgstr "Disasm"
 
 msgid "Document"
-msgstr ""
+msgstr "Document"
 
 msgid "Documents"
-msgstr ""
+msgstr "Documents"
 
 msgid "Donate"
-msgstr ""
+msgstr "Donate"
+
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
 
 msgid "Driver"
-msgstr ""
+msgstr "Driver"
 
 msgid "Dump"
-msgstr ""
+msgstr "Dump"
 
 msgid "Dump all"
-msgstr ""
+msgstr "Dump all"
 
 msgid "Dump to file"
-msgstr ""
+msgstr "Dump to file"
 
 msgid "Edit"
-msgstr ""
+msgstr "Edit"
+
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
 
 msgid "Editor"
-msgstr ""
+msgstr "Editor"
 
 msgid "Elapsed"
-msgstr ""
+msgstr "Elapsed"
 
 msgid "Encode"
-msgstr ""
+msgstr "Encode"
+
+msgid "Encrypted"
+msgstr "Encrypted"
 
 msgid "End"
-msgstr ""
+msgstr "End"
 
 msgid "Endianness"
-msgstr ""
+msgstr "Endianness"
+
+msgid "Entries"
+msgstr "Entries"
 
 msgid "Entropy"
-msgstr ""
+msgstr "Entropy"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
-msgstr ""
+msgstr "Entry point"
 
 msgid "Entry point section"
-msgstr ""
+msgstr "Entry point section"
 
 msgid "Error"
-msgstr ""
+msgstr "Error"
 
 msgid "Exceptions"
-msgstr ""
+msgstr "Exceptions"
 
 msgid "Exit"
-msgstr ""
+msgstr "Exit"
 
 msgid "Export"
-msgstr ""
+msgstr "Export"
 
 msgid "Export File Name"
-msgstr ""
+msgstr "Export File Name"
 
 msgid "Export type"
-msgstr ""
+msgstr "Export type"
 
 msgid "Extender"
-msgstr ""
+msgstr "Extender"
+
+msgid "Extension"
+msgstr "Extension"
 
 msgid "External references"
-msgstr ""
+msgstr "External references"
 
 msgid "Extra"
-msgstr ""
+msgstr "Extra"
 
 msgid "Extra database"
-msgstr ""
+msgstr "Extra database"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
-msgstr ""
+msgstr "Extract"
 
 msgid "Extract all cursors"
-msgstr ""
+msgstr "Extract all cursors"
 
 msgid "Extract all icons"
-msgstr ""
+msgstr "Extract all icons"
 
 msgid "Extractor"
-msgstr ""
+msgstr "Extractor"
+
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
 
 msgid "File"
-msgstr ""
+msgstr "File"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
-msgstr ""
+msgstr "File info"
 
 msgid "File name"
-msgstr ""
+msgstr "File name"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
-msgstr ""
+msgstr "File offset"
 
 msgid "File saved"
-msgstr ""
+msgstr "File saved"
 
 msgid "File scan"
-msgstr ""
+msgstr "File scan"
 
 msgid "File size"
-msgstr ""
+msgstr "File size"
 
 msgid "File type"
-msgstr ""
+msgstr "File type"
 
 msgid "Files"
-msgstr ""
+msgstr "Files"
 
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 msgid "Find"
-msgstr ""
+msgstr "Find"
 
 msgid "First"
-msgstr ""
+msgstr "First"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
-msgstr ""
+msgstr "Fix offsets"
 
 msgid "Fix types"
-msgstr ""
+msgstr "Fix types"
 
 msgid "Flags"
-msgstr ""
+msgstr "Flags"
 
 msgid "Flags register"
-msgstr ""
+msgstr "Flags register"
 
 msgid "Folder"
-msgstr ""
+msgstr "Folder"
 
 msgid "Follow in"
-msgstr ""
+msgstr "Follow in"
 
 msgid "Follow me"
-msgstr ""
+msgstr "Follow me"
 
 msgid "Fonts"
-msgstr ""
+msgstr "Fonts"
 
 msgid "Footer"
-msgstr ""
+msgstr "Footer"
 
 msgid "Form"
-msgstr ""
+msgstr "Form"
 
 msgid "Format"
-msgstr ""
+msgstr "Format"
 
 msgid "Format result"
-msgstr ""
+msgstr "Format result"
 
 msgid "Full"
-msgstr ""
+msgstr "Full"
 
 msgid "Full screen"
-msgstr ""
+msgstr "Full screen"
 
 msgid "Function enter"
-msgstr ""
+msgstr "Function enter"
 
 msgid "Function leave"
-msgstr ""
+msgstr "Function leave"
 
 msgid "Functions"
-msgstr ""
+msgstr "Functions"
 
 msgid "GB"
-msgstr ""
+msgstr "GB"
+
+msgid "Game engine"
+msgstr "Game engine"
 
 msgid "General registers"
-msgstr ""
+msgstr "General registers"
 
 msgid "Generic"
-msgstr ""
+msgstr "Generic"
 
 msgid "Get"
-msgstr ""
+msgstr "Get"
 
 msgid "Get element"
-msgstr ""
+msgstr "Get element"
 
 msgid "GiB"
-msgstr ""
+msgstr "GiB"
+
+msgid "Global Color Table"
+msgstr "Global Color Table"
 
 msgid "Go to"
-msgstr ""
+msgstr "Go to"
 
 msgid "Go to address"
-msgstr ""
+msgstr "Go to address"
 
 msgid "Go to download page?"
-msgstr ""
+msgstr "Go to download page?"
 
 msgid "Gradient"
-msgstr ""
+msgstr "Gradient"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
-msgstr ""
+msgstr "Grid"
 
 msgid "Group"
-msgstr ""
+msgstr "Group"
 
 msgid "Handles"
-msgstr ""
+msgstr "Handles"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 msgid "Hash"
-msgstr ""
+msgstr "Hash"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
-msgstr ""
+msgstr "Header"
 
 msgid "Height"
-msgstr ""
+msgstr "Height"
 
 msgid "Help"
-msgstr ""
+msgstr "Help"
 
 msgid "Heuristic"
-msgstr ""
+msgstr "Heuristic"
 
 msgid "Heuristic scan"
-msgstr ""
+msgstr "Heuristic scan"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "Heuristics"
 
 msgid "Hex"
-msgstr ""
+msgstr "Hex"
+
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
 
 msgid "Hide unknown"
-msgstr ""
+msgstr "Hide unknown"
 
 msgid "Highlight"
-msgstr ""
+msgstr "Highlight"
 
 msgid "Highlights"
-msgstr ""
+msgstr "Highlights"
+
+msgid "Icon"
+msgstr "Icon"
 
 msgid "Image"
-msgstr ""
+msgstr "Image"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
-msgstr ""
+msgstr "Images"
 
 msgid "Import"
-msgstr ""
+msgstr "Import"
 
 msgid "Import hash"
-msgstr ""
+msgstr "Import hash"
 
 msgid "Indirect symbols"
-msgstr ""
+msgstr "Indirect symbols"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 msgid "Input"
-msgstr ""
+msgstr "Input"
 
 msgid "Inspector"
-msgstr ""
+msgstr "Inspector"
 
 msgid "Installer"
-msgstr ""
+msgstr "Installer"
 
 msgid "Installer data"
-msgstr ""
+msgstr "Installer data"
 
 msgid "Instruction pointer register"
-msgstr ""
+msgstr "Instruction pointer register"
+
+msgid "Interfaces"
+msgstr "Interfaces"
 
 msgid "Interpreter"
-msgstr ""
+msgstr "Interpreter"
 
 msgid "Invalid"
-msgstr ""
+msgstr "Invalid"
+
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
 
 msgid "Invalid font"
-msgstr ""
+msgstr "Invalid font"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
-msgstr ""
+msgstr "Invalid handle"
 
 msgid "Invalid offset"
-msgstr ""
+msgstr "Invalid offset"
 
 msgid "Invalid opcode"
-msgstr ""
+msgstr "Invalid opcode"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
-msgstr ""
+msgstr "Invalid signature"
 
 msgid "Invalid size"
-msgstr ""
+msgstr "Invalid size"
 
 msgid "Issuer"
-msgstr ""
+msgstr "Issuer"
 
 msgid "Joiner"
-msgstr ""
+msgstr "Joiner"
 
 msgid "Keep size"
-msgstr ""
+msgstr "Keep size"
 
 msgid "KiB"
-msgstr ""
+msgstr "KiB"
 
 msgid "Language"
-msgstr ""
+msgstr "Language"
 
 msgid "Last"
-msgstr ""
+msgstr "Last"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
-msgstr ""
+msgstr "Lazy binding"
 
 msgid "Length"
-msgstr ""
+msgstr "Length"
 
 msgid "Libraries"
-msgstr ""
+msgstr "Libraries"
 
 msgid "Library"
-msgstr ""
+msgstr "Library"
 
 msgid "Library name"
-msgstr ""
+msgstr "Library name"
 
 msgid "Licensing"
-msgstr ""
+msgstr "Licensing"
 
 msgid "Linker"
-msgstr ""
+msgstr "Linker"
 
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 msgid "List"
-msgstr ""
+msgstr "List"
 
 msgid "Load"
-msgstr ""
+msgstr "Load"
 
 msgid "Load config"
-msgstr ""
+msgstr "Load config"
 
 msgid "Loader"
-msgstr ""
+msgstr "Loader"
 
 msgid "Local relocation"
-msgstr ""
+msgstr "Local relocation"
 
 msgid "Location"
-msgstr ""
+msgstr "Location"
 
 msgid "Log"
-msgstr ""
+msgstr "Log"
+
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
 
 msgid "MB"
-msgstr ""
+msgstr "MB"
 
 msgid "Main"
-msgstr ""
+msgstr "Main"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
-msgstr ""
+msgstr "Main module"
 
 msgid "MainWindow"
-msgstr ""
+msgstr "MainWindow"
 
 msgid "Malware"
-msgstr ""
+msgstr "Malware"
 
 msgid "Manifest"
-msgstr ""
+msgstr "Manifest"
 
 msgid "Map"
-msgstr ""
+msgstr "Map"
 
 msgid "Maps"
-msgstr ""
+msgstr "Maps"
 
 msgid "Mask"
-msgstr ""
+msgstr "Mask"
 
 msgid "Match case"
-msgstr ""
+msgstr "Match case"
 
 msgid "Matches"
-msgstr ""
+msgstr "Matches"
 
 msgid "Maximum"
-msgstr ""
+msgstr "Maximum"
 
 msgid "Memory"
-msgstr ""
+msgstr "Memory"
 
 msgid "Memory map"
-msgstr ""
+msgstr "Memory map"
 
 msgid "Memory scan"
-msgstr ""
+msgstr "Memory scan"
 
 msgid "Metadata"
-msgstr ""
+msgstr "Metadata"
 
 msgid "Metadata table"
-msgstr ""
+msgstr "Metadata table"
 
 msgid "Method"
-msgstr ""
+msgstr "Method"
 
 msgid "Methods"
-msgstr ""
+msgstr "Methods"
 
 msgid "MiB"
-msgstr ""
+msgstr "MiB"
 
 msgid "Min length"
-msgstr ""
+msgstr "Min length"
+
+msgid "Missing Resources"
+msgstr "Missing Resources"
 
 msgid "Mode"
-msgstr ""
+msgstr "Mode"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
-msgstr ""
+msgstr "Modules"
 
 msgid "More info"
-msgstr ""
+msgstr "More info"
 
 msgid "Multiplatform"
-msgstr ""
+msgstr "Multiplatform"
 
 msgid "Multisearch"
-msgstr ""
+msgstr "Multisearch"
 
 msgid "Name"
-msgstr ""
+msgstr "Name"
+
+msgid "Native"
+msgstr "Native"
 
 msgid "Network error"
-msgstr ""
+msgstr "Network error"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
-msgstr ""
+msgstr "New"
 
 msgid "New version available"
-msgstr ""
+msgstr "New version available"
 
 msgid "Next"
-msgstr ""
+msgstr "Next"
 
 msgid "Next visited"
-msgstr ""
+msgstr "Next visited"
 
 msgid "No"
-msgstr ""
+msgstr "No"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
-msgstr ""
+msgstr "No update available"
 
 msgid "None"
-msgstr ""
+msgstr "None"
 
 msgid "Nothing found"
-msgstr ""
+msgstr "Nothing found"
 
 msgid "Null-terminated"
-msgstr ""
+msgstr "Null-terminated"
 
 msgid "Numbers"
-msgstr ""
+msgstr "Numbers"
 
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 msgid "Obfuscator"
-msgstr ""
+msgstr "Obfuscator"
 
 msgid "Object"
-msgstr ""
+msgstr "Object"
 
 msgid "Objects"
-msgstr ""
+msgstr "Objects"
 
 msgid "Offset"
-msgstr ""
+msgstr "Offset"
 
 msgid "One operand"
-msgstr ""
+msgstr "One operand"
 
 msgid "Online tools"
-msgstr ""
+msgstr "Online tools"
 
 msgid "Opcode"
-msgstr ""
+msgstr "Opcode"
 
 msgid "Opcode group"
-msgstr ""
+msgstr "Opcode group"
 
 msgid "Opcodes"
-msgstr ""
+msgstr "Opcodes"
 
 msgid "Open"
-msgstr ""
+msgstr "Open"
+
+msgid "Open Directory"
+msgstr "Open Directory"
 
 msgid "Open directory"
-msgstr ""
+msgstr "Open directory"
 
 msgid "Open file"
-msgstr ""
+msgstr "Open file"
 
 msgid "Operation system"
-msgstr ""
+msgstr "Operation system"
 
 msgid "Options"
-msgstr ""
+msgstr "Options"
 
 msgid "Output"
-msgstr ""
+msgstr "Output"
 
 msgid "Overlay"
-msgstr ""
+msgstr "Overlay"
+
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
 
 msgid "Package"
-msgstr ""
+msgstr "Package"
 
 msgid "Packer"
-msgstr ""
+msgstr "Packer"
+
+msgid "Part"
+msgstr "Part"
 
 msgid "Patch"
-msgstr ""
+msgstr "Patch"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
-msgstr ""
+msgstr "Pause"
 
 msgid "Paused"
-msgstr ""
+msgstr "Paused"
 
 msgid "Payload"
-msgstr ""
+msgstr "Payload"
 
 msgid "Personal data"
-msgstr ""
+msgstr "Personal data"
 
 msgid "Plain Text"
-msgstr ""
+msgstr "Plain Text"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
-msgstr ""
+msgstr "Platform"
 
 msgid "Player"
-msgstr ""
+msgstr "Player"
 
 msgid "Please restart the application"
-msgstr ""
+msgstr "Please restart the application"
 
 msgid "Please run the program as an administrator"
-msgstr ""
+msgstr "Please run the program as an administrator"
 
 msgid "Please use valid API key"
-msgstr ""
+msgstr "Please use valid API key"
 
 msgid "Pointer"
-msgstr ""
+msgstr "Pointer"
 
 msgid "Position"
-msgstr ""
+msgstr "Position"
 
 msgid "Previous visited"
-msgstr ""
+msgstr "Previous visited"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
-msgstr ""
+msgstr "Print"
 
 msgid "Process"
-msgstr ""
+msgstr "Process"
 
 msgid "Producer"
-msgstr ""
+msgstr "Producer"
 
 msgid "Profiling"
-msgstr ""
+msgstr "Profiling"
 
 msgid "Program name"
-msgstr ""
+msgstr "Program name"
 
 msgid "Programs"
-msgstr ""
+msgstr "Programs"
 
 msgid "Protection"
-msgstr ""
+msgstr "Protection"
 
 msgid "Protector"
-msgstr ""
+msgstr "Protector"
 
 msgid "Protector data"
-msgstr ""
+msgstr "Protector data"
 
 msgid "Prototype"
-msgstr ""
+msgstr "Prototype"
 
 msgid "Publisher"
-msgstr ""
+msgstr "Publisher"
+
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
 
 msgid "Raw data"
-msgstr ""
+msgstr "Raw data"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
-msgstr ""
+msgstr "Read error"
 
 msgid "Readonly"
-msgstr ""
+msgstr "Readonly"
 
 msgid "Rebase"
-msgstr ""
+msgstr "Rebase"
 
 msgid "Recent files"
-msgstr ""
+msgstr "Recent files"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
-msgstr ""
+msgstr "Recursive"
 
 msgid "Recursive scan"
-msgstr ""
+msgstr "Recursive scan"
 
 msgid "References"
-msgstr ""
+msgstr "References"
 
 msgid "Region"
-msgstr ""
+msgstr "Region"
 
 msgid "Regions"
-msgstr ""
+msgstr "Regions"
 
 msgid "Register"
-msgstr ""
+msgstr "Register"
 
 msgid "Registers"
-msgstr ""
+msgstr "Registers"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "Regular expression"
 
 msgid "Relative address"
-msgstr ""
+msgstr "Relative address"
 
 msgid "Relative virtual address"
-msgstr ""
+msgstr "Relative virtual address"
 
 msgid "Reload"
-msgstr ""
+msgstr "Reload"
 
 msgid "Relocs"
-msgstr ""
+msgstr "Relocs"
+
+msgid "Remaining:"
+msgstr "Remaining:"
 
 msgid "Remove"
-msgstr ""
+msgstr "Remove"
 
 msgid "Rescan"
-msgstr ""
+msgstr "Rescan"
+
+msgid "Reserved"
+msgstr "Reserved"
 
 msgid "Resize"
-msgstr ""
+msgstr "Resize"
 
 msgid "Resource"
-msgstr ""
+msgstr "Resource"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
-msgstr ""
+msgstr "Resources"
 
 msgid "Restart"
-msgstr ""
+msgstr "Restart"
 
 msgid "Result"
-msgstr ""
+msgstr "Result"
 
 msgid "Rule name"
-msgstr ""
+msgstr "Rule name"
 
 msgid "Rules"
-msgstr ""
+msgstr "Rules"
 
 msgid "Run"
-msgstr ""
+msgstr "Run"
 
 msgid "Run path"
-msgstr ""
+msgstr "Run path"
 
 msgid "Running"
-msgstr ""
+msgstr "Running"
 
 msgid "Runtime driver"
-msgstr ""
+msgstr "Runtime driver"
+
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
 
 msgid "Save"
-msgstr ""
+msgstr "Save"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
-msgstr ""
+msgstr "Save as"
 
 msgid "Save backup"
-msgstr ""
+msgstr "Save backup"
 
 msgid "Save diagram"
-msgstr ""
+msgstr "Save diagram"
 
 msgid "Save dump"
-msgstr ""
+msgstr "Save dump"
 
 msgid "Save file"
-msgstr ""
+msgstr "Save file"
 
 msgid "Save history"
-msgstr ""
+msgstr "Save history"
 
 msgid "Save last directory"
-msgstr ""
+msgstr "Save last directory"
 
 msgid "Save result"
-msgstr ""
+msgstr "Save result"
 
 msgid "Scan"
-msgstr ""
+msgstr "Scan"
 
 msgid "Scan after open"
-msgstr ""
+msgstr "Scan after open"
 
 msgid "Scan engine"
-msgstr ""
+msgstr "Scan engine"
 
 msgid "Schema"
-msgstr ""
+msgstr "Schema"
 
 msgid "Script"
-msgstr ""
+msgstr "Script"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Scripts"
 
 msgid "Search"
-msgstr ""
+msgstr "Search"
 
 msgid "Search from"
-msgstr ""
+msgstr "Search from"
 
 msgid "Search signature"
-msgstr ""
+msgstr "Search signature"
 
 msgid "Search signatures"
-msgstr ""
+msgstr "Search signatures"
 
 msgid "Search string"
-msgstr ""
+msgstr "Search string"
 
 msgid "Search strings"
-msgstr ""
+msgstr "Search strings"
 
 msgid "Search value"
-msgstr ""
+msgstr "Search value"
 
 msgid "Search values"
-msgstr ""
+msgstr "Search values"
 
 msgid "Section"
-msgstr ""
+msgstr "Section"
 
 msgid "Section name"
-msgstr ""
+msgstr "Section name"
 
 msgid "Sections"
-msgstr ""
+msgstr "Sections"
 
 msgid "Segment"
-msgstr ""
+msgstr "Segment"
+
+msgid "Segment %1"
+msgstr "Segment %1"
 
 msgid "Segment registers"
-msgstr ""
+msgstr "Segment registers"
 
 msgid "Segments"
-msgstr ""
+msgstr "Segments"
 
 msgid "Select"
-msgstr ""
+msgstr "Select"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
-msgstr ""
+msgstr "Selected"
 
 msgid "Selection"
-msgstr ""
+msgstr "Selection"
 
 msgid "Serial number"
-msgstr ""
+msgstr "Serial number"
+
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
 
 msgid "Shortcut"
-msgstr ""
+msgstr "Shortcut"
 
 msgid "Shortcuts"
-msgstr ""
+msgstr "Shortcuts"
 
 msgid "Show"
-msgstr ""
+msgstr "Show"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
-msgstr ""
+msgstr "Show all"
 
 msgid "Show colons in addresses"
-msgstr ""
+msgstr "Show colons in addresses"
 
 msgid "Show comments"
-msgstr ""
+msgstr "Show comments"
 
 msgid "Show detects"
-msgstr ""
+msgstr "Show detects"
 
 msgid "Show in"
-msgstr ""
+msgstr "Show in"
 
 msgid "Show info"
-msgstr ""
+msgstr "Show info"
 
 msgid "Show logo"
-msgstr ""
+msgstr "Show logo"
 
 msgid "Show type"
-msgstr ""
+msgstr "Show type"
 
 msgid "Show valid"
-msgstr ""
+msgstr "Show valid"
 
 msgid "Show version"
-msgstr ""
+msgstr "Show version"
 
 msgid "Sign tool"
-msgstr ""
+msgstr "Sign tool"
 
 msgid "Signature"
-msgstr ""
+msgstr "Signature"
 
 msgid "Signature name"
-msgstr ""
+msgstr "Signature name"
 
 msgid "Signatures"
-msgstr ""
+msgstr "Signatures"
 
 msgid "Signed"
-msgstr ""
+msgstr "Signed"
 
 msgid "Single application"
-msgstr ""
+msgstr "Single application"
 
 msgid "Size"
-msgstr ""
+msgstr "Size"
 
 msgid "Size of image"
-msgstr ""
+msgstr "Size of image"
+
+msgid "Social Media"
+msgstr "Social Media"
 
 msgid "Sort"
-msgstr ""
+msgstr "Sort"
 
 msgid "Sort elements"
-msgstr ""
+msgstr "Sort elements"
 
 msgid "Sort type"
-msgstr ""
+msgstr "Sort type"
 
 msgid "Sorted"
-msgstr ""
+msgstr "Sorted"
 
 msgid "Source code"
-msgstr ""
+msgstr "Source code"
 
 msgid "Spaces"
-msgstr ""
+msgstr "Spaces"
 
 msgid "Stack"
-msgstr ""
+msgstr "Stack"
 
 msgid "Stack registers"
-msgstr ""
+msgstr "Stack registers"
 
 msgid "Start"
-msgstr ""
+msgstr "Start"
 
 msgid "Status"
-msgstr ""
+msgstr "Status"
 
 msgid "Stay on top"
-msgstr ""
+msgstr "Stay on top"
 
 msgid "Step into"
-msgstr ""
+msgstr "Step into"
 
 msgid "Step over"
-msgstr ""
+msgstr "Step over"
 
 msgid "Stop"
-msgstr ""
+msgstr "Stop"
+
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
 
 msgid "String"
-msgstr ""
+msgstr "String"
 
 msgid "String table"
-msgstr ""
+msgstr "String table"
 
 msgid "Strings"
-msgstr ""
+msgstr "Strings"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
-msgstr ""
+msgstr "Struct"
 
 msgid "Struct and unions"
-msgstr ""
+msgstr "Struct and unions"
 
 msgid "Structs"
-msgstr ""
+msgstr "Structs"
 
 msgid "Stub"
-msgstr ""
+msgstr "Stub"
 
 msgid "Style"
-msgstr ""
+msgstr "Style"
 
 msgid "Subdirectories"
-msgstr ""
+msgstr "Subdirectories"
 
 msgid "Subject"
-msgstr ""
+msgstr "Subject"
 
 msgid "Symbol"
-msgstr ""
+msgstr "Symbol"
 
 msgid "Symbol table"
-msgstr ""
+msgstr "Symbol table"
 
 msgid "Symbols"
-msgstr ""
+msgstr "Symbols"
 
 msgid "Sync"
-msgstr ""
+msgstr "Sync"
 
 msgid "Syntax"
-msgstr ""
+msgstr "Syntax"
+
+msgid "TABLE"
+msgstr "TABLE"
 
 msgid "TB"
-msgstr ""
+msgstr "TB"
 
 msgid "Table"
-msgstr ""
+msgstr "Table"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
-msgstr ""
+msgstr "Table of contents"
 
 msgid "Table views"
-msgstr ""
+msgstr "Table views"
+
+msgid "Tag"
+msgstr "Tag"
 
 msgid "Tags"
-msgstr ""
+msgstr "Tags"
 
 msgid "Text"
-msgstr ""
+msgstr "Text"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
-msgstr ""
+msgstr "Text documents"
 
 msgid "Text editors"
-msgstr ""
+msgstr "Text editors"
 
 msgid "Text files"
-msgstr ""
+msgstr "Text files"
 
 msgid "Thanks"
-msgstr ""
+msgstr "Thanks"
 
 msgid "The file is not signed"
-msgstr ""
+msgstr "The file is not signed"
 
 msgid "The file is signed and the signature was verified"
-msgstr ""
+msgstr "The file is signed and the signature was verified"
 
 msgid "The signature error"
-msgstr ""
+msgstr "The signature error"
 
 msgid "The signature is present, but not trusted"
-msgstr ""
+msgstr "The signature is present, but not trusted"
 
 msgid "The signature is present, but specifically disallowed"
-msgstr ""
+msgstr "The signature is present, but specifically disallowed"
 
 msgid "The value copied to clipboard"
-msgstr ""
+msgstr "The value copied to clipboard"
 
 msgid "Threads"
-msgstr ""
+msgstr "Threads"
 
 msgid "TiB"
-msgstr ""
+msgstr "TiB"
 
 msgid "Time"
-msgstr ""
+msgstr "Time"
 
 msgid "Time date stamp"
-msgstr ""
+msgstr "Time date stamp"
 
 msgid "Toggle"
-msgstr ""
+msgstr "Toggle"
 
 msgid "Tool"
-msgstr ""
+msgstr "Tool"
 
 msgid "Tools"
-msgstr ""
+msgstr "Tools"
 
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 msgid "Trace"
-msgstr ""
+msgstr "Trace"
 
 msgid "Trace into"
-msgstr ""
+msgstr "Trace into"
 
 msgid "Trace over"
-msgstr ""
+msgstr "Trace over"
+
+msgid "Trailer"
+msgstr "Trailer"
 
 msgid "Tree"
-msgstr ""
+msgstr "Tree"
 
 msgid "Tree views"
-msgstr ""
+msgstr "Tree views"
 
 msgid "Trojan"
-msgstr ""
+msgstr "Trojan"
 
 msgid "Two operands"
-msgstr ""
+msgstr "Two operands"
 
 msgid "Type"
-msgstr ""
+msgstr "Type"
+
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
 
 msgid "Unicode"
-msgstr ""
+msgstr "Unicode"
 
 msgid "Universal"
-msgstr ""
+msgstr "Universal"
 
 msgid "Unknown"
-msgstr ""
+msgstr "Unknown"
+
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
 
 msgid "Unpack"
-msgstr ""
+msgstr "Unpack"
 
 msgid "Unsigned"
-msgstr ""
+msgstr "Unsigned"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
-msgstr ""
+msgstr "Update information"
 
 msgid "Upload the file for analyze?"
-msgstr ""
+msgstr "Upload the file for analyze?"
 
 msgid "Upper"
-msgstr ""
+msgstr "Upper"
 
 msgid "Uppercase"
-msgstr ""
+msgstr "Uppercase"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
-msgstr ""
+msgstr "Value"
 
 msgid "Values"
-msgstr ""
+msgstr "Values"
 
 msgid "Variable"
-msgstr ""
+msgstr "Variable"
 
 msgid "Verbose"
-msgstr ""
+msgstr "Verbose"
 
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 msgid "Video"
-msgstr ""
+msgstr "Video"
 
 msgid "View"
-msgstr ""
+msgstr "View"
 
 msgid "Viewer"
-msgstr ""
+msgstr "Viewer"
 
 msgid "Virtual address"
-msgstr ""
+msgstr "Virtual address"
 
 msgid "Virtual machine"
-msgstr ""
+msgstr "Virtual machine"
 
 msgid "Virtual size"
-msgstr ""
+msgstr "Virtual size"
 
 msgid "Virus"
-msgstr ""
+msgstr "Virus"
 
 msgid "Visualization"
-msgstr ""
+msgstr "Visualization"
 
 msgid "Warning"
-msgstr ""
+msgstr "Warning"
 
 msgid "Weak binding"
-msgstr ""
+msgstr "Weak binding"
 
 msgid "Website"
-msgstr ""
+msgstr "Website"
 
 msgid "Width"
-msgstr ""
+msgstr "Width"
 
 msgid "Wildcard"
-msgstr ""
+msgstr "Wildcard"
+
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
 
 msgid "Write error"
-msgstr ""
+msgstr "Write error"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
-msgstr ""
+msgstr "Zeros"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
-msgstr ""
+msgstr "data"
 
 msgid "extender"
-msgstr ""
+msgstr "extender"
 
 msgid "false"
-msgstr ""
+msgstr "false"
 
 msgid "kB"
-msgstr ""
+msgstr "kB"
 
 msgid "msec"
-msgstr ""
+msgstr "msec"
 
 msgid "not packed"
-msgstr ""
+msgstr "not packed"
 
 msgid "packed"
-msgstr ""
+msgstr "packed"
 
 msgid "true"
-msgstr ""
+msgstr "true"
+

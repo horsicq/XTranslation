@@ -27,11 +27,17 @@ msgstr "8-bit"
 msgid "API key"
 msgstr "Kunci API"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "Tentang"
 
 msgid "Action"
 msgstr "Tindakan"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "Tambah"
@@ -45,6 +51,9 @@ msgstr "Tambahkan ke menu konteks"
 msgid "Address"
 msgstr "Alamat"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "Lanjutan"
 
@@ -56,6 +65,9 @@ msgstr "algoritma"
 
 msgid "All"
 msgstr "Semua"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "Semua file"
@@ -69,6 +81,9 @@ msgstr "Analisa"
 msgid "Analyzed"
 msgstr "Teranalisis"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "Animasi"
 
@@ -78,14 +93,26 @@ msgstr "Penampilan"
 msgid "Application"
 msgstr "Aplikasi"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "Arsitektur"
 
 msgid "Archive"
 msgstr "Arsip"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "Catatan arsip"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "Himpunan"
@@ -96,17 +123,26 @@ msgstr "Panah"
 msgid "Attach"
 msgstr "Menempel"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "Audio"
 
 msgid "Author"
 msgstr "Penulis"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "Otomatis"
 
 msgid "Background"
 msgstr "Latar belakang"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "Basis"
@@ -125,6 +161,9 @@ msgstr "Mengikat"
 
 msgid "Binding"
 msgstr "Mengikat"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "Bit"
@@ -146,6 +185,12 @@ msgstr "Driver layanan boot"
 
 msgid "Bound import"
 msgstr "Impor terikat"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "Titik henti"
@@ -186,8 +231,29 @@ msgstr "Tumpukan panggilan"
 msgid "Cancel"
 msgstr "Batal"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "Tidak dapat menemukan"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "Tidak dapat menemukan berkas"
@@ -213,17 +279,29 @@ msgstr "Tidak dapat memuat basis data"
 msgid "Cannot load file"
 msgstr "Tidak dapat memuat file"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "Tidak dapat membuka file dump"
 
 msgid "Cannot open file"
 msgstr "Tidak dapat membuka file"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "Tidak dapat membuka sesi"
 
 msgid "Cannot read file"
 msgstr "Tidak dapat membaca file"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "Tidak dapat membaca memori di alamat"
@@ -237,8 +315,17 @@ msgstr "Tidak dapat menyimpan file"
 msgid "Cannot set shortcut"
 msgstr "Tidak dapat mengatur pintasan"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "Tidak dapat menulis data ke file"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "Sertifikat"
@@ -246,8 +333,17 @@ msgstr "Sertifikat"
 msgid "Check"
 msgstr "Memeriksa"
 
-msgid "for updates"
-msgstr "Periksa pembaruan"
+msgid "Check for updates"
+msgstr "Check for updates"
+
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
 
 msgid "Clear"
 msgstr "Bersihkan"
@@ -258,11 +354,17 @@ msgstr "Bersihkan hasil"
 msgid "Close"
 msgstr "Tutup"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "Halaman kode"
 
 msgid "Code section"
 msgstr "Bagian Kode"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "Warna"
@@ -276,11 +378,26 @@ msgstr "Perintah"
 msgid "Comment"
 msgstr "Komentar"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "Padat"
 
 msgid "Compiler"
 msgstr "Penyusun"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "Kompresor"
@@ -290,6 +407,9 @@ msgstr "Kondisional"
 
 msgid "Console"
 msgstr "Konsol"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "Kontrol"
@@ -329,6 +449,9 @@ msgstr "Kustom"
 
 msgid "Custom database"
 msgstr "Basis data khusus"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "Data"
@@ -414,6 +537,12 @@ msgstr "Dokumen"
 msgid "Donate"
 msgstr "Donasi"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "Driver"
 
@@ -429,6 +558,18 @@ msgstr "Buang ke file"
 msgid "Edit"
 msgstr "Edit"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "Editor"
 
@@ -438,14 +579,23 @@ msgstr "Berlalu"
 msgid "Encode"
 msgstr "Enkode"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "Akhir"
 
 msgid "Endianness"
 msgstr "Endianness"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "Entropi"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "Titik masuk"
@@ -474,6 +624,9 @@ msgstr "Jenis ekspor"
 msgid "Extender"
 msgstr "Perpanjangan"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "Referensi eksternal"
 
@@ -482,6 +635,9 @@ msgstr "Ekstra"
 
 msgid "Extra database"
 msgstr "Basis data ekstra"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "Ekstrak"
@@ -495,14 +651,47 @@ msgstr "Ekstrak semua ikon"
 msgid "Extractor"
 msgstr "Ekstraktor"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "File"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "Info file"
 
 msgid "File name"
 msgstr "Nama file"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "Offset file"
@@ -530,6 +719,9 @@ msgstr "Temukan"
 
 msgid "First"
 msgstr "Pertama"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "Perbaiki offset"
@@ -585,6 +777,9 @@ msgstr "Fungsi"
 msgid "GB"
 msgstr "GB"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "Register umum"
 
@@ -600,6 +795,9 @@ msgstr "Dapatkan elemen"
 msgid "GiB"
 msgstr "GiB"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "Pergi ke"
 
@@ -611,6 +809,9 @@ msgstr "Pergi ke halaman unduhan?"
 
 msgid "Gradient"
 msgstr "Gradien"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "Kisi"
@@ -626,6 +827,9 @@ msgstr "Perangkat keras"
 
 msgid "Hash"
 msgstr "Hash"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "Tajuk"
@@ -648,6 +852,9 @@ msgstr "Heuristik"
 msgid "Hex"
 msgstr "Hex"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "Sembunyikan yang tidak diketahui"
 
@@ -657,8 +864,14 @@ msgstr "Sorotan"
 msgid "Highlights"
 msgstr "Sorotan"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "Gambar"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "Gambar"
@@ -674,6 +887,9 @@ msgstr "Simbol tidak langsung"
 
 msgid "Info"
 msgstr "Info"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "Informasi"
@@ -693,14 +909,29 @@ msgstr "Data penginstal"
 msgid "Instruction pointer register"
 msgstr "Register penunjuk instruksi"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "Penerjemah"
 
 msgid "Invalid"
 msgstr "Tidak valid"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "Font tidak valid"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "Handle tidak valid"
@@ -710,6 +941,12 @@ msgstr "Offset tidak valid"
 
 msgid "Invalid opcode"
 msgstr "Opcode tidak valid"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "Tanda tangan tidak valid"
@@ -734,6 +971,9 @@ msgstr "Bahasa"
 
 msgid "Last"
 msgstr "Terakhir"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "Pengikatan malas"
@@ -780,11 +1020,17 @@ msgstr "Lokasi"
 msgid "Log"
 msgstr "Log"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "MB"
 
 msgid "Main"
 msgstr "Utama"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "Modul utama"
@@ -843,8 +1089,14 @@ msgstr "MiB"
 msgid "Min length"
 msgstr "Panjang minimal"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "Mode"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "Modul"
@@ -861,8 +1113,14 @@ msgstr "Pencarian ganda"
 msgid "Name"
 msgstr "Nama"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "Kesalahan jaringan"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "Baru"
@@ -878,6 +1136,15 @@ msgstr "Kunjungan berikutnya"
 
 msgid "No"
 msgstr "Tidak"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "Tidak ada pembaruan yang tersedia"
@@ -927,6 +1194,9 @@ msgstr "Kode operasi"
 msgid "Open"
 msgstr "Buka"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "Buka direktori"
 
@@ -945,14 +1215,29 @@ msgstr "Keluaran"
 msgid "Overlay"
 msgstr "Overlay"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "Paket"
 
 msgid "Packer"
 msgstr "Pengepak"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "Patch"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "Berhenti sebentar"
@@ -968,6 +1253,9 @@ msgstr "Data pribadi"
 
 msgid "Plain Text"
 msgstr "Teks Biasa"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "Platform"
@@ -992,6 +1280,9 @@ msgstr "Posisi"
 
 msgid "Previous visited"
 msgstr "Kunjungan sebelumnya"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "Mencetak"
@@ -1026,8 +1317,20 @@ msgstr "Prototipe"
 msgid "Publisher"
 msgstr "Penerbit"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "Data mentah"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "Kesalahan baca"
@@ -1040,6 +1343,9 @@ msgstr "rebase"
 
 msgid "Recent files"
 msgstr "File terbaru"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "Rekursif"
@@ -1077,17 +1383,26 @@ msgstr "Muat ulang"
 msgid "Relocs"
 msgstr "relokasi"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "Hapus"
 
 msgid "Rescan"
 msgstr "Pindai ulang"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "Ubah ukuran"
 
 msgid "Resource"
 msgstr "Sumber"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "Sumber"
@@ -1116,8 +1431,20 @@ msgstr "Berjalan"
 msgid "Runtime driver"
 msgstr "Pengemudi runtime"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "Simpan"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "Simpan sebagai"
@@ -1197,6 +1524,9 @@ msgstr "Bagian"
 msgid "Segment"
 msgstr "Segmen"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "Register segmen"
 
@@ -1205,6 +1535,9 @@ msgstr "Segmen"
 
 msgid "Select"
 msgstr "Pilih"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "Terpilih"
@@ -1215,6 +1548,9 @@ msgstr "Pilihan"
 msgid "Serial number"
 msgstr "Nomor seri"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "Jalan pintas"
 
@@ -1223,6 +1559,12 @@ msgstr "Jalan pintas"
 
 msgid "Show"
 msgstr "Tampilkan"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "Tampilkan semua"
@@ -1278,6 +1620,9 @@ msgstr "Ukuran"
 msgid "Size of image"
 msgstr "Ukuran gambar"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "Urutkan"
 
@@ -1320,6 +1665,24 @@ msgstr "Langkah selesai"
 msgid "Stop"
 msgstr "Berhenti"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "String"
 
@@ -1328,6 +1691,9 @@ msgstr "tabel string"
 
 msgid "Strings"
 msgstr "String"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "Struktur"
@@ -1365,11 +1731,17 @@ msgstr "Sinkronisasi"
 msgid "Syntax"
 msgstr "Sintaksis"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "TB"
 
 msgid "Table"
 msgstr "Meja"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "Daftar Isi"
@@ -1377,11 +1749,20 @@ msgstr "Daftar Isi"
 msgid "Table views"
 msgstr "Tampilan tabel"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "Tag"
 
 msgid "Text"
 msgstr "Teks"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "Dokumen teks"
@@ -1446,6 +1827,9 @@ msgstr "Trace ke dalam"
 msgid "Trace over"
 msgstr "Trace melompati"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "Pohon"
 
@@ -1461,6 +1845,15 @@ msgstr "Dua operan"
 msgid "Type"
 msgstr "Jenis"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "Unicode"
 
@@ -1470,11 +1863,17 @@ msgstr "Universal"
 msgid "Unknown"
 msgstr "Tidak diketahui"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "Buka kemasan"
 
 msgid "Unsigned"
 msgstr "Tidak bertanda"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "Perbarui informasi"
@@ -1487,6 +1886,12 @@ msgstr "Atas"
 
 msgid "Uppercase"
 msgstr "Huruf besar"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "Nilai"
@@ -1542,14 +1947,29 @@ msgstr "Lebar"
 msgid "Wildcard"
 msgstr "Wildcard"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "Kesalahan penulisan"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "Nol"
 
 msgid "Zoom"
 msgstr "Zoom"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "data"
@@ -1559,6 +1979,9 @@ msgstr "pemanjang"
 
 msgid "false"
 msgstr "salah"
+
+msgid "for updates"
+msgstr "Periksa pembaruan"
 
 msgid "kB"
 msgstr "kB"
@@ -1574,3 +1997,4 @@ msgstr "dikemas"
 
 msgid "true"
 msgstr "benar"
+

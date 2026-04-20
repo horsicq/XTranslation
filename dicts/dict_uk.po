@@ -28,11 +28,17 @@ msgstr "8-бітний"
 msgid "API key"
 msgstr "API ключ"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "Про програму"
 
 msgid "Action"
 msgstr "Дія"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "Додати"
@@ -46,6 +52,9 @@ msgstr "Додати в контекстне меню"
 msgid "Address"
 msgstr "Адреса"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "Просунутий"
 
@@ -57,6 +66,9 @@ msgstr "Алгоритм"
 
 msgid "All"
 msgstr "Всі"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "Всі файли"
@@ -70,6 +82,9 @@ msgstr "Аналізувати"
 msgid "Analyzed"
 msgstr "Проаналізовано"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "Анімувати"
 
@@ -79,14 +94,26 @@ msgstr "Вигляд"
 msgid "Application"
 msgstr "Програма"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "Архітектура"
 
 msgid "Archive"
 msgstr "Архів"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "Архів запису"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "Масив"
@@ -97,17 +124,26 @@ msgstr "Стрілки"
 msgid "Attach"
 msgstr "Приєднати"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "Аудіо"
 
 msgid "Author"
 msgstr "Автор"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "Автоматично"
 
 msgid "Background"
 msgstr "Фон"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "База"
@@ -126,6 +162,9 @@ msgstr "Зв'язувати"
 
 msgid "Binding"
 msgstr "Прив'язка"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "Біти"
@@ -147,6 +186,12 @@ msgstr "Драйвер служби завантаження"
 
 msgid "Bound import"
 msgstr "Зв'язаний імпорт"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "Точка зупину"
@@ -187,8 +232,29 @@ msgstr "Стек викликів"
 msgid "Cancel"
 msgstr "Скасувати"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "Не вдалось знайти"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "Не вдалося знайти файл"
@@ -214,17 +280,29 @@ msgstr "Не вдалося завантажити базу даних"
 msgid "Cannot load file"
 msgstr "Не вдалося завантажити файл"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "Не вдалося завантажити дамп файл"
 
 msgid "Cannot open file"
 msgstr "Не вдалося відкрити файл"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "Не вдалося відкрити сесію"
 
 msgid "Cannot read file"
 msgstr "Не вдалося прочитати файл"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "Не вдалося прочитати пам'ять по адресі"
@@ -238,8 +316,17 @@ msgstr "Не вдалося зберегти файл"
 msgid "Cannot set shortcut"
 msgstr "Не вдалося створити ярлик"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "Не вдалося записати дані в файл"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "Сертифікат"
@@ -250,6 +337,15 @@ msgstr "Перевірити"
 msgid "Check for updates"
 msgstr "Перевірити оновлення"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "Очистити"
 
@@ -259,11 +355,17 @@ msgstr "Очистити результат"
 msgid "Close"
 msgstr "Закрити"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "Кодові сторінки"
 
 msgid "Code section"
 msgstr "Секція коду"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "Колір"
@@ -277,11 +379,26 @@ msgstr "Команди"
 msgid "Comment"
 msgstr "Коментар"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "Компактний"
 
 msgid "Compiler"
 msgstr "Компілятор"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "Компресор"
@@ -291,6 +408,9 @@ msgstr "Умовний"
 
 msgid "Console"
 msgstr "Консоль"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "Керування"
@@ -330,6 +450,9 @@ msgstr "Користувацький"
 
 msgid "Custom database"
 msgstr "Користувацька БД"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "Дані"
@@ -415,6 +538,12 @@ msgstr "Документи"
 msgid "Donate"
 msgstr "Пожертвування"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "Драйвер"
 
@@ -430,6 +559,18 @@ msgstr "Здампити до файлу"
 msgid "Edit"
 msgstr "Редагувати"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "Редактор"
 
@@ -439,14 +580,23 @@ msgstr "Пройшло"
 msgid "Encode"
 msgstr "Закодувати"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "Кінець"
 
 msgid "Endianness"
 msgstr "Порядок байтів"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "Ентропія"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "Точка входу"
@@ -475,6 +625,9 @@ msgstr "Тип експорту"
 msgid "Extender"
 msgstr "Розширювач"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "Зовнішні посилання"
 
@@ -483,6 +636,9 @@ msgstr "Екстра"
 
 msgid "Extra database"
 msgstr "Екстра база даних"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "Витягнути"
@@ -496,14 +652,47 @@ msgstr "Витягнути всі іконки"
 msgid "Extractor"
 msgstr "Екстрактор"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "Файл"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "Дані файлу"
 
 msgid "File name"
 msgstr "Ім'я файлу"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "Зміщення файлу"
@@ -531,6 +720,9 @@ msgstr "Пошук"
 
 msgid "First"
 msgstr "Перший"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "Виправити зміщення"
@@ -586,6 +778,9 @@ msgstr "Функції"
 msgid "GB"
 msgstr "ГБ"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "Загальні регістри"
 
@@ -601,6 +796,9 @@ msgstr "Отримати елемент"
 msgid "GiB"
 msgstr "ГіБ"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "Перейти до"
 
@@ -612,6 +810,9 @@ msgstr "Перейти на сторінку завантаження?"
 
 msgid "Gradient"
 msgstr "Градієнт"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "Сітка"
@@ -627,6 +828,9 @@ msgstr "Апаратне забезпечення"
 
 msgid "Hash"
 msgstr "Хеш"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "Заголовок"
@@ -649,6 +853,9 @@ msgstr "Евристика"
 msgid "Hex"
 msgstr "Hex"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "Приховати невідомі"
 
@@ -658,8 +865,14 @@ msgstr "Виділяти"
 msgid "Highlights"
 msgstr "Головні моменти"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "Малюнок"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "Малюнки"
@@ -675,6 +888,9 @@ msgstr "Непрямі символи"
 
 msgid "Info"
 msgstr "Інфо"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "Інформація"
@@ -694,14 +910,29 @@ msgstr "Дані інсталятора"
 msgid "Instruction pointer register"
 msgstr "Регістр інструкції"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "Інтерпретатор"
 
 msgid "Invalid"
 msgstr "Невірний"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "Невірний шрифт"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "Невірний хендл"
@@ -711,6 +942,12 @@ msgstr "Невірний офсет"
 
 msgid "Invalid opcode"
 msgstr "Невірний опкод"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "Невірний підпис"
@@ -735,6 +972,9 @@ msgstr "Мова"
 
 msgid "Last"
 msgstr "Останній"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "Лінива прив'язка"
@@ -781,11 +1021,17 @@ msgstr "Розташування"
 msgid "Log"
 msgstr "Журнал"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "МБ"
 
 msgid "Main"
 msgstr "Головний"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "Головний модуль"
@@ -844,8 +1090,14 @@ msgstr "МіБ"
 msgid "Min length"
 msgstr "Мінімальна довжина"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "Режим"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "Модулі"
@@ -862,8 +1114,14 @@ msgstr "Мультипошук"
 msgid "Name"
 msgstr "Ім'я"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "Помилка мережі"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "Новий"
@@ -879,6 +1137,15 @@ msgstr "Наступний відвіданий"
 
 msgid "No"
 msgstr "Ні"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "Немає оновлень"
@@ -928,6 +1195,9 @@ msgstr "Опкоди"
 msgid "Open"
 msgstr "Відкрити"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "Відкрити каталог"
 
@@ -946,14 +1216,29 @@ msgstr "Вивід"
 msgid "Overlay"
 msgstr "Оверлей"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "Пакет"
 
 msgid "Packer"
 msgstr "Пакувальник"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "Патч"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "Пауза"
@@ -969,6 +1254,9 @@ msgstr "Персональні дані"
 
 msgid "Plain Text"
 msgstr "Простий Текст"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "Платформа"
@@ -993,6 +1281,9 @@ msgstr "Позиція"
 
 msgid "Previous visited"
 msgstr "Попередній відвіданий"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "Друкувати"
@@ -1027,8 +1318,20 @@ msgstr "Прототип"
 msgid "Publisher"
 msgstr "Видавець"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "Сирі дані"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "Помилка читання"
@@ -1041,6 +1344,9 @@ msgstr "Перебазувати"
 
 msgid "Recent files"
 msgstr "Останні файли"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -1078,17 +1384,26 @@ msgstr "Перезавантажити"
 msgid "Relocs"
 msgstr "Релоки"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "Видалити"
 
 msgid "Rescan"
 msgstr "Пересканувати"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "Змінити розмір"
 
 msgid "Resource"
 msgstr "Ресурс"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "Ресурси"
@@ -1117,8 +1432,20 @@ msgstr "Запущено"
 msgid "Runtime driver"
 msgstr "Драйвер часу виконання"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "Зберегти"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "Збереги як"
@@ -1198,6 +1525,9 @@ msgstr "Секції"
 msgid "Segment"
 msgstr "Сегмент"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "Сегментні регістри"
 
@@ -1206,6 +1536,9 @@ msgstr "Сегменти"
 
 msgid "Select"
 msgstr "Вибрати"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "Виділено"
@@ -1216,6 +1549,9 @@ msgstr "Виділення"
 msgid "Serial number"
 msgstr "Серійний номер"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "Гаряча клавіша"
 
@@ -1224,6 +1560,12 @@ msgstr "Гарячі клавіші"
 
 msgid "Show"
 msgstr "Показати"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "Показати усе"
@@ -1279,6 +1621,9 @@ msgstr "Розмір"
 msgid "Size of image"
 msgstr "Розмір образу"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "Сортування"
 
@@ -1321,6 +1666,24 @@ msgstr "Крок через"
 msgid "Stop"
 msgstr "Стоп"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "Рядок"
 
@@ -1329,6 +1692,9 @@ msgstr "Таблиця рядків"
 
 msgid "Strings"
 msgstr "Рядки"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "Структура"
@@ -1366,11 +1732,17 @@ msgstr "Синхронізувати"
 msgid "Syntax"
 msgstr "Синтаксис"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "ТБ"
 
 msgid "Table"
 msgstr "Таблиця"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "Зміст"
@@ -1378,11 +1750,20 @@ msgstr "Зміст"
 msgid "Table views"
 msgstr "Табличний вигляд"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "Таги"
 
 msgid "Text"
 msgstr "Текст"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "Текстові документи"
@@ -1447,6 +1828,9 @@ msgstr "Трасувати із заходом всередину"
 msgid "Trace over"
 msgstr "Трасувати поверх"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "Дерево"
 
@@ -1462,6 +1846,15 @@ msgstr "Два операнди"
 msgid "Type"
 msgstr "Тип"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "Юнікод"
 
@@ -1471,11 +1864,17 @@ msgstr "Універсальний"
 msgid "Unknown"
 msgstr "Невідомо"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "Розпакувати"
 
 msgid "Unsigned"
 msgstr "Без знаку"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "Оновити інформацію"
@@ -1488,6 +1887,12 @@ msgstr "Верхній регістр"
 
 msgid "Uppercase"
 msgstr "Великі літери"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "Значення"
@@ -1543,14 +1948,29 @@ msgstr "Ширина"
 msgid "Wildcard"
 msgstr "Маска"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "Помилка запису"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "Нулі"
 
 msgid "Zoom"
 msgstr "Збільшити"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "дані"
@@ -1575,21 +1995,4 @@ msgstr "запакований"
 
 msgid "true"
 msgstr "true"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

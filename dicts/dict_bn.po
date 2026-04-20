@@ -27,11 +27,17 @@ msgstr "৮-বিট"
 msgid "API key"
 msgstr "এপিআই কী"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "সম্পর্কিত"
 
 msgid "Action"
 msgstr "কাজ"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "যোগ করুন"
@@ -45,6 +51,9 @@ msgstr "কনটেক্সট মেনুতে যোগ করুন"
 msgid "Address"
 msgstr "ঠিকানা"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "উন্নত"
 
@@ -56,6 +65,9 @@ msgstr "অ্যালগরিদম"
 
 msgid "All"
 msgstr "সব"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "সব ফাইল"
@@ -69,6 +81,9 @@ msgstr "বিশ্লেষণ করুন"
 msgid "Analyzed"
 msgstr "বিশ্লেষণ করা হয়েছে"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "অ্যানিমেট"
 
@@ -78,14 +93,26 @@ msgstr "চেহারা"
 msgid "Application"
 msgstr "অ্যাপ্লিকেশন"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "আর্কিটেকচার"
 
 msgid "Archive"
 msgstr "আর্কাইভ"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "আর্কাইভ রেকর্ড"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "অ্যারে"
@@ -96,17 +123,26 @@ msgstr "তীরচিহ্ন"
 msgid "Attach"
 msgstr "সংযুক্ত করুন"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "অডিও"
 
 msgid "Author"
 msgstr "লেখক"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "স্বয়ংক্রিয়"
 
 msgid "Background"
 msgstr "পটভূমি"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "বেস"
@@ -125,6 +161,9 @@ msgstr "বাইন্ড"
 
 msgid "Binding"
 msgstr "বাইন্ডিং"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "বিট"
@@ -146,6 +185,12 @@ msgstr "বুট সার্ভিস ড্রাইভার"
 
 msgid "Bound import"
 msgstr "বাউন্ড ইম্পোর্ট"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "ব্রেকপয়েন্ট"
@@ -186,8 +231,29 @@ msgstr "কলস্ট্যাক"
 msgid "Cancel"
 msgstr "বাতিল"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "খুঁজে পাওয়া যাচ্ছে না"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "ফাইল খুঁজে পাওয়া যাচ্ছে না"
@@ -213,17 +279,29 @@ msgstr "ডাটাবেস লোড করা যাচ্ছে না"
 msgid "Cannot load file"
 msgstr "ফাইল লোড করা যাচ্ছে না"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "ডাম্প ফাইল খোলা যাচ্ছে না"
 
 msgid "Cannot open file"
 msgstr "ফাইল খোলা যাচ্ছে না"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "সেশন খোলা যাচ্ছে না"
 
 msgid "Cannot read file"
 msgstr "ফাইল পড়া যাচ্ছে না"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "ঠিকানায় মেমরি পড়া যাচ্ছে না"
@@ -237,8 +315,17 @@ msgstr "ফাইল সংরক্ষণ করা যাচ্ছে না"
 msgid "Cannot set shortcut"
 msgstr "শর্টকাট সেট করা যাচ্ছে না"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "ফাইলে ডাটা লেখা যাচ্ছে না"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "সার্টিফিকেট"
@@ -249,6 +336,15 @@ msgstr "চেক করুন"
 msgid "Check for updates"
 msgstr "আপডেট চেক করুন"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "পরিষ্কার করুন"
 
@@ -258,11 +354,17 @@ msgstr "ফলাফল পরিষ্কার করুন"
 msgid "Close"
 msgstr "বন্ধ"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "কোড পেজ"
 
 msgid "Code section"
 msgstr "কোড সেকশন"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "রঙ"
@@ -276,11 +378,26 @@ msgstr "কমান্ড"
 msgid "Comment"
 msgstr "মন্তব্য"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "কমপ্যাক্ট"
 
 msgid "Compiler"
 msgstr "কম্পাইলার"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "কম্প্রেসর"
@@ -290,6 +407,9 @@ msgstr "শর্তসাপেক্ষ"
 
 msgid "Console"
 msgstr "কনসোল"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "নিয়ন্ত্রণ"
@@ -330,6 +450,9 @@ msgstr "কাস্টম"
 msgid "Custom database"
 msgstr "কাস্টম ডাটাবেস"
 
+msgid "DOS extender"
+msgstr "DOS extender"
+
 msgid "Data"
 msgstr "উপাত্ত"
 
@@ -356,6 +479,9 @@ msgstr "ডিবাগ ডাটা"
 
 msgid "Debug registers"
 msgstr "ডিবাগ রেজিস্টার"
+
+msgid "Debugger"
+msgstr "Debugger"
 
 msgid "Decode"
 msgstr "ডিকোড"
@@ -411,6 +537,12 @@ msgstr "নথিপত্র"
 msgid "Donate"
 msgstr "দান করুন"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "ড্রাইভার"
 
@@ -426,6 +558,18 @@ msgstr "ফাইলে ডাম্প করুন"
 msgid "Edit"
 msgstr "সম্পাদনা"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "সম্পাদক"
 
@@ -435,14 +579,23 @@ msgstr "অতিবাহিত"
 msgid "Encode"
 msgstr "এনকোড"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "শেষ"
 
 msgid "Endianness"
 msgstr "এন্ডিয়াননেস"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "এনট্রপি"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "এন্ট্রি পয়েন্ট"
@@ -471,6 +624,9 @@ msgstr "রপ্তানি ধরন"
 msgid "Extender"
 msgstr "এক্সটেন্ডার"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "বাহ্যিক রেফারেন্স"
 
@@ -479,6 +635,9 @@ msgstr "অতিরিক্ত"
 
 msgid "Extra database"
 msgstr "অতিরিক্ত ডাটাবেস"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "নিষ্কাশন"
@@ -492,14 +651,47 @@ msgstr "সব আইকন নিষ্কাশন করুন"
 msgid "Extractor"
 msgstr "এক্সট্রাক্টর"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "ফাইল"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "ফাইলের তথ্য"
 
 msgid "File name"
 msgstr "ফাইলের নাম"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "ফাইল অফসেট"
@@ -527,6 +719,9 @@ msgstr "খুঁজুন"
 
 msgid "First"
 msgstr "প্রথম"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "অফসেট ঠিক করুন"
@@ -582,6 +777,9 @@ msgstr "ফাংশনসমূহ"
 msgid "GB"
 msgstr "জিবি"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "সাধারণ রেজিস্টার"
 
@@ -597,6 +795,9 @@ msgstr "উপাদান নিন"
 msgid "GiB"
 msgstr "জিআইবি"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "যান"
 
@@ -608,6 +809,9 @@ msgstr "ডাউনলোড পেজে যাবেন?"
 
 msgid "Gradient"
 msgstr "গ্রেডিয়েন্ট"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "গ্রিড"
@@ -623,6 +827,9 @@ msgstr "হার্ডওয়্যার"
 
 msgid "Hash"
 msgstr "হ্যাশ"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "হেডার"
@@ -645,6 +852,9 @@ msgstr "হিউরিস্টিকস"
 msgid "Hex"
 msgstr "হেক্স"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "অজানা লুকান"
 
@@ -654,8 +864,14 @@ msgstr "হাইলাইট"
 msgid "Highlights"
 msgstr "হাইলাইটসমূহ"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "ছবি"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "ছবিসমূহ"
@@ -671,6 +887,9 @@ msgstr "পরোক্ষ প্রতীক"
 
 msgid "Info"
 msgstr "তথ্য"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "তথ্য"
@@ -690,14 +909,29 @@ msgstr "ইনস্টলার ডাটা"
 msgid "Instruction pointer register"
 msgstr "ইন্সট্রাকশন পয়েন্টার রেজিস্টার"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "ইন্টারপ্রেটার"
 
 msgid "Invalid"
 msgstr "অকার্যকর"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "অকার্যকর ফন্ট"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "অকার্যকর হ্যান্ডেল"
@@ -707,6 +941,12 @@ msgstr "অকার্যকর অফসেট"
 
 msgid "Invalid opcode"
 msgstr "অকার্যকর অপকোড"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "অকার্যকর স্বাক্ষর"
@@ -731,6 +971,9 @@ msgstr "ভাষা"
 
 msgid "Last"
 msgstr "শেষ"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "লেজি বাইন্ডিং"
@@ -777,11 +1020,17 @@ msgstr "অবস্থান"
 msgid "Log"
 msgstr "লগ"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "এমবি"
 
 msgid "Main"
 msgstr "প্রধান"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "প্রধান মডিউল"
@@ -840,8 +1089,14 @@ msgstr "এমআইবি"
 msgid "Min length"
 msgstr "সর্বনিম্ন দৈর্ঘ্য"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "মোড"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "মডিউলসমূহ"
@@ -858,8 +1113,14 @@ msgstr "মাল্টি-সার্চ"
 msgid "Name"
 msgstr "নাম"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "নেটওয়ার্ক ত্রুটি"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "নতুন"
@@ -875,6 +1136,15 @@ msgstr "পরবর্তী পরিদর্শিত"
 
 msgid "No"
 msgstr "না"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "কোন আপডেট নেই"
@@ -924,6 +1194,9 @@ msgstr "অপকোডসমূহ"
 msgid "Open"
 msgstr "খুলুন"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "ডাইরেক্টরি খুলুন"
 
@@ -942,14 +1215,29 @@ msgstr "আউটপুট"
 msgid "Overlay"
 msgstr "ওভারলে"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "প্যাকেজ"
 
 msgid "Packer"
 msgstr "প্যাকার"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "প্যাচ"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "বিরতি"
@@ -965,6 +1253,9 @@ msgstr "ব্যক্তিগত উপাত্ত"
 
 msgid "Plain Text"
 msgstr "প্লেইন টেক্সট"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "প্ল্যাটফর্ম"
@@ -989,6 +1280,9 @@ msgstr "অবস্থান"
 
 msgid "Previous visited"
 msgstr "পূর্ববর্তী পরিদর্শিত"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "প্রিন্ট"
@@ -1023,8 +1317,20 @@ msgstr "প্রোটোটাইপ"
 msgid "Publisher"
 msgstr "প্রকাশক"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "র ডাটা"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "পঠন ত্রুটি"
@@ -1037,6 +1343,9 @@ msgstr "রিবেস"
 
 msgid "Recent files"
 msgstr "সাম্প্রতিক ফাইল"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "রিকার্সিভ"
@@ -1074,17 +1383,26 @@ msgstr "পুনরায় লোড করুন"
 msgid "Relocs"
 msgstr "রিলোকস"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "সরিয়ে ফেলুন"
 
 msgid "Rescan"
 msgstr "পুনরায় স্ক্যান"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "রিসাইজ"
 
 msgid "Resource"
 msgstr "রিসোর্স"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "রিসোর্সসমূহ"
@@ -1113,8 +1431,20 @@ msgstr "চলছে"
 msgid "Runtime driver"
 msgstr "রানটাইম ড্রাইভার"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "সংরক্ষণ করুন"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "হিসাবে সংরক্ষণ করুন"
@@ -1173,6 +1503,9 @@ msgstr "স্বাক্ষরসমূহ খুঁজুন"
 msgid "Search string"
 msgstr "স্ট্রিং খুঁজুন"
 
+msgid "Search strings"
+msgstr "Search strings"
+
 msgid "Search value"
 msgstr "মান খুঁজুন"
 
@@ -1191,6 +1524,9 @@ msgstr "সেকশনসমূহ"
 msgid "Segment"
 msgstr "সেগমেন্ট"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "সেগমেন্ট রেজিস্টারসমূহ"
 
@@ -1199,6 +1535,9 @@ msgstr "সেগমেন্টসমূহ"
 
 msgid "Select"
 msgstr "নির্বাচন করুন"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "নির্বাচিত"
@@ -1209,6 +1548,9 @@ msgstr "নির্বাচন"
 msgid "Serial number"
 msgstr "সিরিয়াল নম্বর"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "শর্টকাট"
 
@@ -1217,6 +1559,12 @@ msgstr "শর্টকাটসমূহ"
 
 msgid "Show"
 msgstr "দেখান"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "সব দেখান"
@@ -1272,6 +1620,9 @@ msgstr "আকার"
 msgid "Size of image"
 msgstr "ছবির আকার"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "সাজান"
 
@@ -1314,6 +1665,24 @@ msgstr "স্টেপ ওভার"
 msgid "Stop"
 msgstr "থামুন"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "স্ট্রিং"
 
@@ -1322,6 +1691,9 @@ msgstr "স্ট্রিং টেবিল"
 
 msgid "Strings"
 msgstr "স্ট্রিংসমূহ"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "স্ট্রাক্ট"
@@ -1359,11 +1731,17 @@ msgstr "সিঙ্ক"
 msgid "Syntax"
 msgstr "সিনট্যাক্স"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "টিবি"
 
 msgid "Table"
 msgstr "টেবিল"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "সূচিপত্র"
@@ -1371,11 +1749,20 @@ msgstr "সূচিপত্র"
 msgid "Table views"
 msgstr "টেবিল ভিউ"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "ট্যাগ"
 
 msgid "Text"
 msgstr "টেক্সট"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "টেক্সট নথি"
@@ -1440,6 +1827,9 @@ msgstr "ট্রেস ইনটু"
 msgid "Trace over"
 msgstr "ট্রেস ওভার"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "ট্রি"
 
@@ -1455,6 +1845,15 @@ msgstr "দুটি অপারেন্ড"
 msgid "Type"
 msgstr "ধরন"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "ইউনিকোড"
 
@@ -1464,11 +1863,17 @@ msgstr "সার্বজনীন"
 msgid "Unknown"
 msgstr "অজানা"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "আনপ্যাক"
 
 msgid "Unsigned"
 msgstr "আন-স্বাক্ষরিত"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "আপডেট তথ্য"
@@ -1481,6 +1886,12 @@ msgstr "আপার"
 
 msgid "Uppercase"
 msgstr "বড় হাতের অক্ষর"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "মান"
@@ -1536,14 +1947,29 @@ msgstr "প্রস্থ"
 msgid "Wildcard"
 msgstr "ওয়াইল্ডকার্ড"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "লেখন ত্রুটি"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "শূন্যসমূহ"
 
 msgid "Zoom"
 msgstr "জুম"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "উপাত্ত"
@@ -1568,3 +1994,4 @@ msgstr "প্যাক করা"
 
 msgid "true"
 msgstr "সত্য"
+

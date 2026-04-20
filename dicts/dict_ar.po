@@ -28,11 +28,17 @@ msgstr "8 بت"
 msgid "API key"
 msgstr "مفتاح ال API"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "عن"
 
 msgid "Action"
 msgstr "إجراء"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "أضف"
@@ -46,6 +52,9 @@ msgstr "أضف إلى قائمة السياق"
 msgid "Address"
 msgstr "عنوان"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "متقدم"
 
@@ -57,6 +66,9 @@ msgstr "الخوارزمية"
 
 msgid "All"
 msgstr "الجميع"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "كل الملفات"
@@ -70,6 +82,9 @@ msgstr "تحليل"
 msgid "Analyzed"
 msgstr "تم التحليل"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "تحريك"
 
@@ -79,14 +94,26 @@ msgstr "المظهر"
 msgid "Application"
 msgstr "تطبيق"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "معمارية"
 
 msgid "Archive"
 msgstr "أرشيف"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "سجل الأرشيف"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "مصفوفة"
@@ -97,17 +124,26 @@ msgstr "أسهم"
 msgid "Attach"
 msgstr "ربط"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "صوت"
 
 msgid "Author"
 msgstr "المؤلف"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "تلقائي"
 
 msgid "Background"
 msgstr "خلفية"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "الأساس"
@@ -126,6 +162,9 @@ msgstr "ربط"
 
 msgid "Binding"
 msgstr "ربط"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "بتات"
@@ -147,6 +186,12 @@ msgstr "تعريف خدمة التمهيد"
 
 msgid "Bound import"
 msgstr "استيراد مقيد"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "نقطة توقف"
@@ -187,8 +232,29 @@ msgstr "Callstack"
 msgid "Cancel"
 msgstr "إلغاء"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "لا يمكن العثور"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "لا يمكن ايجاد الملف"
@@ -214,17 +280,29 @@ msgstr "لا يمكن تحميل قاعدة البيانات"
 msgid "Cannot load file"
 msgstr "لا يمكنني تحميل الملف"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "لا يمكن فتح ملف التفريغ"
 
 msgid "Cannot open file"
 msgstr "لا يمكن فتح ملف"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "لا يمكن فتح الجلسة"
 
 msgid "Cannot read file"
 msgstr "لا يمكن قراءة الملف"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "لا يمكن قراءة الذاكرة عند العنوان"
@@ -238,8 +316,17 @@ msgstr "لا يمكن حفظ الملف"
 msgid "Cannot set shortcut"
 msgstr "لا يمكن تعيين الاختصار"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "لا يمكن كتابة البيانات في الملف"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "شهادة"
@@ -250,6 +337,15 @@ msgstr "التحقق من"
 msgid "Check for updates"
 msgstr "تفقد التحديث"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "حذف"
 
@@ -259,11 +355,17 @@ msgstr "حذف النتيجة"
 msgid "Close"
 msgstr "إغلاق"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "صفحات الشفرة"
 
 msgid "Code section"
 msgstr "قسم الشفرة"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "لون"
@@ -277,11 +379,26 @@ msgstr "أوامر"
 msgid "Comment"
 msgstr "تعليق"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "مضغوط"
 
 msgid "Compiler"
 msgstr "مترجم"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "ضاغط"
@@ -291,6 +408,9 @@ msgstr "شرطي"
 
 msgid "Console"
 msgstr "وحدة التحكم"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "عناصر التحكم"
@@ -330,6 +450,9 @@ msgstr "مخصص"
 
 msgid "Custom database"
 msgstr "قاعدة بيانات مخصصة"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "بيانات"
@@ -415,6 +538,12 @@ msgstr "وثائق"
 msgid "Donate"
 msgstr "تبرع"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "تعريف"
 
@@ -430,6 +559,18 @@ msgstr "تفريغ إلى ملف"
 msgid "Edit"
 msgstr "تعديل"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "محرر"
 
@@ -439,14 +580,23 @@ msgstr "انقضى"
 msgid "Encode"
 msgstr "ترميز"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "النهاية"
 
 msgid "Endianness"
 msgstr "Endianness"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "مقياس العشوائية"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "نقطة الدخول"
@@ -475,6 +625,9 @@ msgstr "نوع التصدير"
 msgid "Extender"
 msgstr "موسع"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "المراجع الخارجية"
 
@@ -483,6 +636,9 @@ msgstr "إضافي"
 
 msgid "Extra database"
 msgstr "قاعدة بيانات إضافية"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "أستخراج"
@@ -496,14 +652,47 @@ msgstr "أستخراج كل الايقونات"
 msgid "Extractor"
 msgstr "مستخرج"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "ملف"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "معلومات الملف"
 
 msgid "File name"
 msgstr "اسم الملف"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "إزاحة الملف"
@@ -531,6 +720,9 @@ msgstr "ايجاد"
 
 msgid "First"
 msgstr "الأول"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "إصلاح الإزاحة"
@@ -586,6 +778,9 @@ msgstr "دالة"
 msgid "GB"
 msgstr "قيقابايت"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "سجلات"
 
@@ -601,6 +796,9 @@ msgstr "احصل على العنصر"
 msgid "GiB"
 msgstr "غيغابت"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "اذهب إلى"
 
@@ -612,6 +810,9 @@ msgstr "الذهاب إلى صفحة التحميل؟"
 
 msgid "Gradient"
 msgstr "تدرج"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "شبكة"
@@ -627,6 +828,9 @@ msgstr "الأجهزة"
 
 msgid "Hash"
 msgstr "التجزئة"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "رأس"
@@ -649,6 +853,9 @@ msgstr "الاستدلال"
 msgid "Hex"
 msgstr "Hex"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "إخفاء المجهول"
 
@@ -658,8 +865,14 @@ msgstr "إبراز"
 msgid "Highlights"
 msgstr "الإبرازات"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "صورة"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "الصور"
@@ -675,6 +888,9 @@ msgstr "الرموز غير المباشرة"
 
 msgid "Info"
 msgstr "معلومات"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "معلومة"
@@ -694,14 +910,29 @@ msgstr "بيانات المثبت"
 msgid "Instruction pointer register"
 msgstr "سجل مؤشر التعليمات"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "مفسر"
 
 msgid "Invalid"
 msgstr "غير صالح"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "خط غير صالح"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "مقبض غير صالح"
@@ -711,6 +942,12 @@ msgstr "إزاحة غير صالحة"
 
 msgid "Invalid opcode"
 msgstr "رمز التشغيل غير صالح"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "توقيع غير صالح"
@@ -735,6 +972,9 @@ msgstr "لغة"
 
 msgid "Last"
 msgstr "الأخير"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "ربط كسول"
@@ -781,11 +1021,17 @@ msgstr "موقع"
 msgid "Log"
 msgstr "سجل"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "ميقابايت"
 
 msgid "Main"
 msgstr "الرئيسي"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "الوحدة الرئيسية"
@@ -844,8 +1090,14 @@ msgstr "ميقابت"
 msgid "Min length"
 msgstr "الحد الأدنى للطول"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "الوضع"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "الوحدات"
@@ -862,8 +1114,14 @@ msgstr "بحث متعدد"
 msgid "Name"
 msgstr "اسم"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "خطأ في الشبكة"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "جديد"
@@ -879,6 +1137,15 @@ msgstr "التالي الذي تمت زيارته"
 
 msgid "No"
 msgstr "لا"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "لا يوجد تحديثات متوفره"
@@ -928,6 +1195,9 @@ msgstr "رموز التشغيل"
 msgid "Open"
 msgstr "فتح"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "فتح الدليل"
 
@@ -946,14 +1216,29 @@ msgstr "الناتج"
 msgid "Overlay"
 msgstr "طبقة"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "حزمة"
 
 msgid "Packer"
 msgstr "رازم"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "تصحيح"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "ايقاف مؤقت"
@@ -969,6 +1254,9 @@ msgstr "بيانات شخصية"
 
 msgid "Plain Text"
 msgstr "نص عادي"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "منصة"
@@ -993,6 +1281,9 @@ msgstr "موضع"
 
 msgid "Previous visited"
 msgstr "السابق الذي تمت زيارته"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "طباعة"
@@ -1027,8 +1318,20 @@ msgstr "النموذج المبدئي"
 msgid "Publisher"
 msgstr "الناشر"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "بيانات خام"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "خطأ في القراءة"
@@ -1041,6 +1344,9 @@ msgstr "إعادة القاعدة"
 
 msgid "Recent files"
 msgstr "الملفات الأخيرة"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "تكراري"
@@ -1078,17 +1384,26 @@ msgstr "إعادة تحميل"
 msgid "Relocs"
 msgstr "إعادة التمركز"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "أزالة"
 
 msgid "Rescan"
 msgstr "اعادة الفحص"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "تغيير الحجم"
 
 msgid "Resource"
 msgstr "مصدر"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "المصادر"
@@ -1117,8 +1432,20 @@ msgstr "يعمل"
 msgid "Runtime driver"
 msgstr "وقت تشغيل التعريف"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "حفظ"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "حفظ بإسم"
@@ -1198,6 +1525,9 @@ msgstr "الأقسام"
 msgid "Segment"
 msgstr "شريحة"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "سجلات الشرائح"
 
@@ -1206,6 +1536,9 @@ msgstr "شرائح"
 
 msgid "Select"
 msgstr "اختيار"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "محدد"
@@ -1216,6 +1549,9 @@ msgstr "اختيار"
 msgid "Serial number"
 msgstr "رقم تسلسلي"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "الاختصار"
 
@@ -1224,6 +1560,12 @@ msgstr "الاختصارات"
 
 msgid "Show"
 msgstr "إظهار"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "إظهار الكل"
@@ -1279,6 +1621,9 @@ msgstr "الحجم"
 msgid "Size of image"
 msgstr "حجم الصورة"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "ترتيب"
 
@@ -1321,6 +1666,24 @@ msgstr "تخطي"
 msgid "Stop"
 msgstr "توقف"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "نص"
 
@@ -1329,6 +1692,9 @@ msgstr "جدول السلاسل"
 
 msgid "Strings"
 msgstr "السلاسل"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "هيكل"
@@ -1366,11 +1732,17 @@ msgstr "مزامنة"
 msgid "Syntax"
 msgstr "بناء الجملة"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "تيرابايت"
 
 msgid "Table"
 msgstr "جدول"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "جدول المحتويات"
@@ -1378,11 +1750,20 @@ msgstr "جدول المحتويات"
 msgid "Table views"
 msgstr "طرق عرض الجدول"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "وسوم"
 
 msgid "Text"
 msgstr "نص"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "مستندات نصية"
@@ -1447,6 +1828,9 @@ msgstr "تتبع خلال"
 msgid "Trace over"
 msgstr "تتبع"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "شجرة"
 
@@ -1462,6 +1846,15 @@ msgstr "معاملين"
 msgid "Type"
 msgstr "نوع"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "يونيكود"
 
@@ -1471,11 +1864,17 @@ msgstr "عالمي"
 msgid "Unknown"
 msgstr "مجهول"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "فك حزم"
 
 msgid "Unsigned"
 msgstr "غير موقع"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "تحديث المعلومات"
@@ -1488,6 +1887,12 @@ msgstr "أعلى"
 
 msgid "Uppercase"
 msgstr "أحرف كبيرة"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "قيمة"
@@ -1543,14 +1948,29 @@ msgstr "عرض"
 msgid "Wildcard"
 msgstr "حرف البدل"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "خطأ في الكتابة"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "أصفار"
 
 msgid "Zoom"
 msgstr "تكبير"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "البيانات"
@@ -1575,19 +1995,4 @@ msgstr "محزوم"
 
 msgid "true"
 msgstr "صح"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 

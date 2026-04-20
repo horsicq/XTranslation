@@ -27,11 +27,17 @@ msgstr "8-bit"
 msgid "API key"
 msgstr "Chiave API"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "Informazioni"
 
 msgid "Action"
 msgstr "Azione"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "Aggiungi"
@@ -45,6 +51,9 @@ msgstr "Aggiungi al menu contestuale"
 msgid "Address"
 msgstr "Indirizzo"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "Avanzate"
 
@@ -56,6 +65,9 @@ msgstr "Algoritmo"
 
 msgid "All"
 msgstr "Tutti"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "Tutti i file"
@@ -69,6 +81,9 @@ msgstr "Analizza"
 msgid "Analyzed"
 msgstr "Analizzato"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "Anima"
 
@@ -78,14 +93,26 @@ msgstr "Aspetto"
 msgid "Application"
 msgstr "Applicazione"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "Architettura"
 
 msgid "Archive"
 msgstr "Archivio"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "Record d'archivio"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "Array"
@@ -96,17 +123,26 @@ msgstr "Frecce"
 msgid "Attach"
 msgstr "Collega"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "Audio"
 
 msgid "Author"
 msgstr "Autore"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "Automatico"
 
 msgid "Background"
 msgstr "Sfondo"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "Base"
@@ -125,6 +161,9 @@ msgstr "Associa"
 
 msgid "Binding"
 msgstr "Binding"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "Bit"
@@ -146,6 +185,12 @@ msgstr "Driver servizio di avvio"
 
 msgid "Bound import"
 msgstr "Importazione vincolata"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "Punto di interruzione"
@@ -186,8 +231,29 @@ msgstr "Callstack"
 msgid "Cancel"
 msgstr "Annulla"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "Impossibile trovare"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "Impossibile trovare il file"
@@ -213,17 +279,29 @@ msgstr "Impossibile caricare il database"
 msgid "Cannot load file"
 msgstr "Impossibile caricare il file"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "Impossibile aprire il file dump"
 
 msgid "Cannot open file"
 msgstr "Impossibile aprire il file"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "Impossibile aprire la sessione"
 
 msgid "Cannot read file"
 msgstr "Impossibile leggere il file"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "Impossibile leggere la memoria all'indirizzo"
@@ -237,8 +315,17 @@ msgstr "Impossibile salvare il file"
 msgid "Cannot set shortcut"
 msgstr "Impossibile impostare la scorciatoia"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "Impossibile scrivere i dati nel file"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "Certificato"
@@ -249,6 +336,15 @@ msgstr "Verifica"
 msgid "Check for updates"
 msgstr "Controlla aggiornamenti"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "Pulisci"
 
@@ -258,11 +354,17 @@ msgstr "Pulisci risultato"
 msgid "Close"
 msgstr "Chiudi"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "Pagine di codice"
 
 msgid "Code section"
 msgstr "Sezione codice"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "Colore"
@@ -276,11 +378,26 @@ msgstr "Comandi"
 msgid "Comment"
 msgstr "Commento"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "Compatto"
 
 msgid "Compiler"
 msgstr "Compilatore"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "Compressore"
@@ -290,6 +407,9 @@ msgstr "Condizionale"
 
 msgid "Console"
 msgstr "Console"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "Controlli"
@@ -329,6 +449,9 @@ msgstr "Personalizzato"
 
 msgid "Custom database"
 msgstr "Database personalizzato"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "Dati"
@@ -414,6 +537,12 @@ msgstr "Documenti"
 msgid "Donate"
 msgstr "Dona"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "Driver"
 
@@ -429,6 +558,18 @@ msgstr "Esegui dump su file"
 msgid "Edit"
 msgstr "Modifica"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "Editor"
 
@@ -438,14 +579,23 @@ msgstr "Trascorso"
 msgid "Encode"
 msgstr "Codifica"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "Fine"
 
 msgid "Endianness"
 msgstr "Endianness"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "Entropia"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "Punto di ingresso"
@@ -474,6 +624,9 @@ msgstr "Tipo di esportazione"
 msgid "Extender"
 msgstr "Extender"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "Riferimenti esterni"
 
@@ -482,6 +635,9 @@ msgstr "Extra"
 
 msgid "Extra database"
 msgstr "Database extra"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "Estrai"
@@ -495,14 +651,47 @@ msgstr "Estrai tutte le icone"
 msgid "Extractor"
 msgstr "Estrattore"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "File"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "Info file"
 
 msgid "File name"
 msgstr "Nome file"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "Offset file"
@@ -530,6 +719,9 @@ msgstr "Trova"
 
 msgid "First"
 msgstr "Primo"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "Correggi offset"
@@ -585,6 +777,9 @@ msgstr "Funzioni"
 msgid "GB"
 msgstr "GB"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "Registri generali"
 
@@ -600,6 +795,9 @@ msgstr "Ottieni elemento"
 msgid "GiB"
 msgstr "GiB"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "Vai a"
 
@@ -611,6 +809,9 @@ msgstr "Andare alla pagina di download?"
 
 msgid "Gradient"
 msgstr "Gradiente"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "Griglia"
@@ -626,6 +827,9 @@ msgstr "Hardware"
 
 msgid "Hash"
 msgstr "Hash"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "Intestazione"
@@ -648,6 +852,9 @@ msgstr "Euristica"
 msgid "Hex"
 msgstr "Hex"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "Nascondi sconosciuti"
 
@@ -657,8 +864,14 @@ msgstr "Evidenzia"
 msgid "Highlights"
 msgstr "Evidenziazioni"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "Immagine"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "Immagini"
@@ -674,6 +887,9 @@ msgstr "Simboli indiretti"
 
 msgid "Info"
 msgstr "Info"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "Informazione"
@@ -693,14 +909,29 @@ msgstr "Dati installer"
 msgid "Instruction pointer register"
 msgstr "Registro Instruction Pointer"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "Interprete"
 
 msgid "Invalid"
 msgstr "Non valido"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "Carattere non valido"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "Handle non valido"
@@ -710,6 +941,12 @@ msgstr "Offset non valido"
 
 msgid "Invalid opcode"
 msgstr "Opcode non valido"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "Firma non valida"
@@ -734,6 +971,9 @@ msgstr "Lingua"
 
 msgid "Last"
 msgstr "Ultimo"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "Lazy binding"
@@ -780,11 +1020,17 @@ msgstr "Posizione"
 msgid "Log"
 msgstr "Log"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "MB"
 
 msgid "Main"
 msgstr "Principale"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "Modulo principale"
@@ -843,8 +1089,14 @@ msgstr "MiB"
 msgid "Min length"
 msgstr "Lunghezza minima"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "Modalità"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "Moduli"
@@ -861,8 +1113,14 @@ msgstr "Ricerca multipla"
 msgid "Name"
 msgstr "Nome"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "Errore di rete"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "Nuovo"
@@ -878,6 +1136,15 @@ msgstr "Successivo visitato"
 
 msgid "No"
 msgstr "No"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "Nessun aggiornamento disponibile"
@@ -927,6 +1194,9 @@ msgstr "Opcode"
 msgid "Open"
 msgstr "Apri"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "Apri directory"
 
@@ -945,14 +1215,29 @@ msgstr "Output"
 msgid "Overlay"
 msgstr "Overlay"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "Pacchetto"
 
 msgid "Packer"
 msgstr "Packer"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "Patch"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "Pausa"
@@ -968,6 +1253,9 @@ msgstr "Dati personali"
 
 msgid "Plain Text"
 msgstr "Testo semplice"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "Piattaforma"
@@ -992,6 +1280,9 @@ msgstr "Posizione"
 
 msgid "Previous visited"
 msgstr "Precedente visitato"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "Stampa"
@@ -1026,8 +1317,20 @@ msgstr "Prototipo"
 msgid "Publisher"
 msgstr "Editore"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "Dati grezzi"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "Errore di lettura"
@@ -1040,6 +1343,9 @@ msgstr "Rebase"
 
 msgid "Recent files"
 msgstr "File recenti"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "Ricorsivo"
@@ -1077,17 +1383,26 @@ msgstr "Ricarica"
 msgid "Relocs"
 msgstr "Rilocazioni"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "Rimuovi"
 
 msgid "Rescan"
 msgstr "Riscansiona"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "Ridimensiona"
 
 msgid "Resource"
 msgstr "Risorsa"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "Risorse"
@@ -1116,8 +1431,20 @@ msgstr "In esecuzione"
 msgid "Runtime driver"
 msgstr "Driver runtime"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "Salva"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "Salva come"
@@ -1197,6 +1524,9 @@ msgstr "Sezioni"
 msgid "Segment"
 msgstr "Segmento"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "Registri di segmento"
 
@@ -1205,6 +1535,9 @@ msgstr "Segmenti"
 
 msgid "Select"
 msgstr "Seleziona"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "Selezionato"
@@ -1215,6 +1548,9 @@ msgstr "Selezione"
 msgid "Serial number"
 msgstr "Numero di serie"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "Scorciatoia"
 
@@ -1223,6 +1559,12 @@ msgstr "Scorciatoie"
 
 msgid "Show"
 msgstr "Mostra"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "Mostra tutto"
@@ -1278,6 +1620,9 @@ msgstr "Dimensione"
 msgid "Size of image"
 msgstr "Dimensione dell'immagine"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "Ordina"
 
@@ -1320,6 +1665,24 @@ msgstr "Salta (Step over)"
 msgid "Stop"
 msgstr "Ferma"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "Stringa"
 
@@ -1328,6 +1691,9 @@ msgstr "Tabella stringhe"
 
 msgid "Strings"
 msgstr "Stringhe"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "Struttura"
@@ -1365,11 +1731,17 @@ msgstr "Sincronizza"
 msgid "Syntax"
 msgstr "Sintassi"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "TB"
 
 msgid "Table"
 msgstr "Tabella"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "Sommario"
@@ -1377,11 +1749,20 @@ msgstr "Sommario"
 msgid "Table views"
 msgstr "Viste tabella"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "Tag"
 
 msgid "Text"
 msgstr "Testo"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "Documenti di testo"
@@ -1446,6 +1827,9 @@ msgstr "Traccia dentro"
 msgid "Trace over"
 msgstr "Traccia sopra"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "Albero"
 
@@ -1461,6 +1845,15 @@ msgstr "Due operandi"
 msgid "Type"
 msgstr "Tipo"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "Unicode"
 
@@ -1470,11 +1863,17 @@ msgstr "Universale"
 msgid "Unknown"
 msgstr "Sconosciuto"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "Scompatta"
 
 msgid "Unsigned"
 msgstr "Senza segno"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "Informazioni aggiornamento"
@@ -1487,6 +1886,12 @@ msgstr "Superiore"
 
 msgid "Uppercase"
 msgstr "Maiuscolo"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "Valore"
@@ -1542,14 +1947,29 @@ msgstr "Larghezza"
 msgid "Wildcard"
 msgstr "Carattere jolly"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "Errore di scrittura"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "Zeri"
 
 msgid "Zoom"
 msgstr "Zoom"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "dati"
@@ -1574,3 +1994,4 @@ msgstr "compresso"
 
 msgid "true"
 msgstr "vero"
+

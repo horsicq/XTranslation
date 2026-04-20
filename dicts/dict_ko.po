@@ -27,11 +27,17 @@ msgstr "8비트"
 msgid "API key"
 msgstr "API 키"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "정보"
 
 msgid "Action"
 msgstr "액션"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "추가"
@@ -45,6 +51,9 @@ msgstr "컨텍스트 메뉴에 추가"
 msgid "Address"
 msgstr "주소"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "고급"
 
@@ -56,6 +65,9 @@ msgstr "알고리즘"
 
 msgid "All"
 msgstr "모두"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "모든 파일"
@@ -69,6 +81,9 @@ msgstr "분석"
 msgid "Analyzed"
 msgstr "분석됨"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "애니메이트"
 
@@ -78,14 +93,26 @@ msgstr "모양"
 msgid "Application"
 msgstr "애플리케이션"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "아키텍처"
 
 msgid "Archive"
 msgstr "아카이브"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "아카이브 레코드"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "배열"
@@ -96,17 +123,26 @@ msgstr "화살표"
 msgid "Attach"
 msgstr "붙이기"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "오디오"
 
 msgid "Author"
 msgstr "작성자"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "자동"
 
 msgid "Background"
 msgstr "배경"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "베이스"
@@ -125,6 +161,9 @@ msgstr "묶기"
 
 msgid "Binding"
 msgstr "바인딩"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "비트"
@@ -146,6 +185,12 @@ msgstr "부팅 서비스 드라이버"
 
 msgid "Bound import"
 msgstr "바인딩된 가져오기"
+
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
 
 msgid "Breakpoint"
 msgstr "중단점"
@@ -186,8 +231,29 @@ msgstr "콜 스택"
 msgid "Cancel"
 msgstr "취소"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "찾을 수 없음"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "파일을 찾을 수 없음"
@@ -213,17 +279,29 @@ msgstr "데이터베이스를 로드할 수 없음"
 msgid "Cannot load file"
 msgstr "파일을 로드할 수 없음"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "덤프 파일을 열 수 없음"
 
 msgid "Cannot open file"
 msgstr "파일을 열 수 없음"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "세션을 열 수 없음"
 
 msgid "Cannot read file"
 msgstr "파일을 읽을 수 없음"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "주소에서 메모리를 읽을 수 없음"
@@ -237,8 +315,17 @@ msgstr "파일을 저장할 수 없음"
 msgid "Cannot set shortcut"
 msgstr "바로가기를 설정할 수 없음"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "파일에 데이터를 쓸 수 없음"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "인증서"
@@ -249,6 +336,15 @@ msgstr "확인"
 msgid "Check for updates"
 msgstr "업데이트 확인"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "지우기"
 
@@ -258,11 +354,17 @@ msgstr "결과 지우기"
 msgid "Close"
 msgstr "닫기"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "코드 페이지"
 
 msgid "Code section"
 msgstr "코드 섹션"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "색상"
@@ -276,11 +378,26 @@ msgstr "명령어"
 msgid "Comment"
 msgstr "주석"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
 msgstr "컴팩트"
 
 msgid "Compiler"
 msgstr "컴파일러"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "압축기"
@@ -290,6 +407,9 @@ msgstr "조건부"
 
 msgid "Console"
 msgstr "콘솔"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "컨트롤"
@@ -329,6 +449,9 @@ msgstr "사용자 정의"
 
 msgid "Custom database"
 msgstr "사용자 정의 데이터베이스"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "데이터"
@@ -414,6 +537,12 @@ msgstr "문서"
 msgid "Donate"
 msgstr "기부"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "드라이버"
 
@@ -429,6 +558,18 @@ msgstr "파일로 덤프"
 msgid "Edit"
 msgstr "편집"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "편집기"
 
@@ -438,14 +579,23 @@ msgstr "경과 시간"
 msgid "Encode"
 msgstr "인코드"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "종료"
 
 msgid "Endianness"
 msgstr "엔디언"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "엔트로피"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "진입 지점"
@@ -474,6 +624,9 @@ msgstr "내보내기 유형"
 msgid "Extender"
 msgstr "익스텐더"
 
+msgid "Extension"
+msgstr "Extension"
+
 msgid "External references"
 msgstr "외부 참조"
 
@@ -482,6 +635,9 @@ msgstr "추가"
 
 msgid "Extra database"
 msgstr "추가 데이터베이스"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "추출"
@@ -495,14 +651,47 @@ msgstr "모든 아이콘 추출"
 msgid "Extractor"
 msgstr "추출기"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "파일"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "파일 정보"
 
 msgid "File name"
 msgstr "파일 이름"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "파일 오프셋"
@@ -530,6 +719,9 @@ msgstr "찾기"
 
 msgid "First"
 msgstr "첫 번째"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "오프셋 수정"
@@ -585,6 +777,9 @@ msgstr "함수"
 msgid "GB"
 msgstr "GB"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
 msgstr "범용 레지스터"
 
@@ -600,6 +795,9 @@ msgstr "요소 가져오기"
 msgid "GiB"
 msgstr "GiB"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "이동"
 
@@ -611,6 +809,9 @@ msgstr "다운로드 페이지로 이동하시겠습니까?"
 
 msgid "Gradient"
 msgstr "그라데이션"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "그리드"
@@ -626,6 +827,9 @@ msgstr "하드웨어"
 
 msgid "Hash"
 msgstr "해시"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "헤더"
@@ -648,6 +852,9 @@ msgstr "휴리스틱"
 msgid "Hex"
 msgstr "Hex"
 
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
+
 msgid "Hide unknown"
 msgstr "알 수 없는 항목 숨기기"
 
@@ -657,8 +864,14 @@ msgstr "하이라이트"
 msgid "Highlights"
 msgstr "하이라이트"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "이미지"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "이미지"
@@ -674,6 +887,9 @@ msgstr "간접 심볼"
 
 msgid "Info"
 msgstr "정보"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "정보"
@@ -693,14 +909,29 @@ msgstr "인스톨러 데이터"
 msgid "Instruction pointer register"
 msgstr "명령 포인터 레지스터"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "인터프리터"
 
 msgid "Invalid"
 msgstr "유효하지 않음"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "유효하지 않은 글꼴"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "유효하지 않은 핸들"
@@ -710,6 +941,12 @@ msgstr "유효하지 않은 오프셋"
 
 msgid "Invalid opcode"
 msgstr "유효하지 않은 옵코드"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "유효하지 않은 서명"
@@ -734,6 +971,9 @@ msgstr "언어"
 
 msgid "Last"
 msgstr "마지막"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "지연 바인딩"
@@ -780,11 +1020,17 @@ msgstr "위치"
 msgid "Log"
 msgstr "로그"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "MB"
 
 msgid "Main"
 msgstr "메인"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "메인 모듈"
@@ -843,8 +1089,14 @@ msgstr "MiB"
 msgid "Min length"
 msgstr "최소 길이"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "모드"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "모듈"
@@ -861,8 +1113,14 @@ msgstr "다중 검색"
 msgid "Name"
 msgstr "이름"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "네트워크 오류"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "새로 만들기"
@@ -878,6 +1136,15 @@ msgstr "다음 방문"
 
 msgid "No"
 msgstr "아니요"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "업데이트 없음"
@@ -927,6 +1194,9 @@ msgstr "옵코드"
 msgid "Open"
 msgstr "열기"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "디렉토리 열기"
 
@@ -945,14 +1215,29 @@ msgstr "출력"
 msgid "Overlay"
 msgstr "오버레이"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "패키지"
 
 msgid "Packer"
 msgstr "패커"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "패치"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "일시정지"
@@ -968,6 +1253,9 @@ msgstr "개인 데이터"
 
 msgid "Plain Text"
 msgstr "일반 텍스트"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "플랫폼"
@@ -992,6 +1280,9 @@ msgstr "위치"
 
 msgid "Previous visited"
 msgstr "이전 방문"
+
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
 
 msgid "Print"
 msgstr "인쇄"
@@ -1026,8 +1317,20 @@ msgstr "프로토타입"
 msgid "Publisher"
 msgstr "게시자"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "원시 데이터"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "읽기 오류"
@@ -1040,6 +1343,9 @@ msgstr "리베이스"
 
 msgid "Recent files"
 msgstr "최근 파일"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "재귀"
@@ -1077,17 +1383,26 @@ msgstr "다시 로드"
 msgid "Relocs"
 msgstr "재배치"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "제거"
 
 msgid "Rescan"
 msgstr "다시 검색"
 
+msgid "Reserved"
+msgstr "Reserved"
+
 msgid "Resize"
 msgstr "크기 조정"
 
 msgid "Resource"
 msgstr "리소스"
+
+msgid "Resource scan"
+msgstr "Resource scan"
 
 msgid "Resources"
 msgstr "리소스"
@@ -1116,8 +1431,20 @@ msgstr "실행 중"
 msgid "Runtime driver"
 msgstr "런타임 드라이버"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "저장"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "다른 이름으로 저장"
@@ -1197,6 +1524,9 @@ msgstr "섹션"
 msgid "Segment"
 msgstr "세그먼트"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "세그먼트 레지스터"
 
@@ -1205,6 +1535,9 @@ msgstr "세그먼트"
 
 msgid "Select"
 msgstr "선택"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "선택됨"
@@ -1215,6 +1548,9 @@ msgstr "선택 영역"
 msgid "Serial number"
 msgstr "일련 번호"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "바로가기"
 
@@ -1223,6 +1559,12 @@ msgstr "바로가기"
 
 msgid "Show"
 msgstr "표시"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "모두 표시"
@@ -1278,6 +1620,9 @@ msgstr "크기"
 msgid "Size of image"
 msgstr "이미지 크기"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "정렬"
 
@@ -1320,6 +1665,24 @@ msgstr "프로시저 단위 실행(Step over)"
 msgid "Stop"
 msgstr "중지"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "문자열"
 
@@ -1328,6 +1691,9 @@ msgstr "문자열 테이블"
 
 msgid "Strings"
 msgstr "문자열"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "구조체"
@@ -1365,11 +1731,17 @@ msgstr "동기화"
 msgid "Syntax"
 msgstr "구문"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "TB"
 
 msgid "Table"
 msgstr "테이블"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "목차"
@@ -1377,11 +1749,20 @@ msgstr "목차"
 msgid "Table views"
 msgstr "테이블 뷰"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "태그"
 
 msgid "Text"
 msgstr "텍스트"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "텍스트 문서"
@@ -1446,6 +1827,9 @@ msgstr "안으로 추적(Trace into)"
 msgid "Trace over"
 msgstr "건너뛰어 추적(Trace over)"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "트리"
 
@@ -1461,6 +1845,15 @@ msgstr "두 개의 피연산자"
 msgid "Type"
 msgstr "유형"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "유니코드"
 
@@ -1470,11 +1863,17 @@ msgstr "유니버설"
 msgid "Unknown"
 msgstr "알 수 없음"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "언팩"
 
 msgid "Unsigned"
 msgstr "서명되지 않음/Unsigned"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "업데이트 정보"
@@ -1487,6 +1886,12 @@ msgstr "위쪽"
 
 msgid "Uppercase"
 msgstr "대문자"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "값"
@@ -1542,14 +1947,29 @@ msgstr "너비"
 msgid "Wildcard"
 msgstr "와일드카드"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "쓰기 오류"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "0 채우기"
 
 msgid "Zoom"
 msgstr "확대/축소"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "데이터"
@@ -1574,3 +1994,4 @@ msgstr "패킹됨"
 
 msgid "true"
 msgstr "참(true)"
+

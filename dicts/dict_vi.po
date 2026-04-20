@@ -27,11 +27,17 @@ msgstr "8 bit"
 msgid "API key"
 msgstr "Khóa API"
 
+msgid "APK tool"
+msgstr "APK tool"
+
 msgid "About"
 msgstr "Giới thiệu"
 
 msgid "Action"
 msgstr "Hoạt động"
+
+msgid "Actual Size"
+msgstr "Actual Size"
 
 msgid "Add"
 msgstr "Thêm"
@@ -45,6 +51,9 @@ msgstr "Thêm vào context menu"
 msgid "Address"
 msgstr "Địa chỉ"
 
+msgid "Adler32"
+msgstr "Adler32"
+
 msgid "Advanced"
 msgstr "Nâng cao"
 
@@ -56,6 +65,9 @@ msgstr "Thuật toán"
 
 msgid "All"
 msgstr "Tất cả"
+
+msgid "All file types"
+msgstr "All file types"
 
 msgid "All files"
 msgstr "Tất cả tập tin"
@@ -69,6 +81,9 @@ msgstr "Phân tích"
 msgid "Analyzed"
 msgstr "Đã phân tích"
 
+msgid "Anchor Volume Descriptor"
+msgstr "Anchor Volume Descriptor"
+
 msgid "Animate"
 msgstr "Hoạt ảnh"
 
@@ -78,14 +93,26 @@ msgstr "Giao diện"
 msgid "Application"
 msgstr "Ứng dụng"
 
+msgid "Application Extension"
+msgstr "Application Extension"
+
 msgid "Architecture"
 msgstr "Kiến trúc"
 
 msgid "Archive"
 msgstr "Lưu trữ"
 
+msgid "Archive Explorer"
+msgstr "Archive Explorer"
+
 msgid "Archive record"
 msgstr "Bản ghi lưu trữ"
+
+msgid "Archive scan"
+msgstr "Archive scan"
+
+msgid "Archives"
+msgstr "Archives"
 
 msgid "Array"
 msgstr "Mảng"
@@ -96,17 +123,26 @@ msgstr "Mũi tên"
 msgid "Attach"
 msgstr "Gắn"
 
+msgid "Attributes"
+msgstr "Attributes"
+
 msgid "Audio"
 msgstr "Âm thanh"
 
 msgid "Author"
 msgstr "Tác giả"
 
+msgid "Auto"
+msgstr "Auto"
+
 msgid "Automatic"
 msgstr "Tự động"
 
 msgid "Background"
 msgstr "Nền"
+
+msgid "Background color"
+msgstr "Background color"
 
 msgid "Base"
 msgstr "Base"
@@ -125,6 +161,9 @@ msgstr "Bind"
 
 msgid "Binding"
 msgstr "Binding"
+
+msgid "Bitmap Data"
+msgstr "Bitmap Data"
 
 msgid "Bits"
 msgstr "Bit"
@@ -147,6 +186,12 @@ msgstr "Chạy service driver"
 msgid "Bound import"
 msgstr "Bound import"
 
+msgid "Box"
+msgstr "Box"
+
+msgid "Boxes"
+msgstr "Boxes"
+
 msgid "Breakpoint"
 msgstr "Điểm ngắt"
 
@@ -160,7 +205,7 @@ msgid "Bugreports"
 msgstr "Báo cáo lỗi"
 
 msgid "Bundle"
-msgstr ""
+msgstr "Bundle"
 
 msgid "Byte"
 msgstr "Byte"
@@ -186,8 +231,29 @@ msgstr "Stack thực thi"
 msgid "Cancel"
 msgstr "Hủy"
 
+msgid "Cannot build YARA rules"
+msgstr "Cannot build YARA rules"
+
+msgid "Cannot create"
+msgstr "Cannot create"
+
+msgid "Cannot create YARA compiler"
+msgstr "Cannot create YARA compiler"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Cannot create temporary unpack directory."
+
+msgid "Cannot decompress"
+msgstr "Cannot decompress"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Cannot fetch release metadata for %1."
+
 msgid "Cannot find"
 msgstr "Không tìm thấy"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Cannot find ZIP asset %1 in release %2."
 
 msgid "Cannot find file"
 msgstr "Không tìm thấy tệp"
@@ -213,17 +279,29 @@ msgstr "Không thu nạp được dữ liệu định danh"
 msgid "Cannot load file"
 msgstr "Không thu nạp được tệp"
 
+msgid "Cannot open archive"
+msgstr "Cannot open archive"
+
 msgid "Cannot open dump file"
 msgstr "Không mở được tệp dump"
 
 msgid "Cannot open file"
 msgstr "Không mở được tệp"
 
+msgid "Cannot open rules file"
+msgstr "Cannot open rules file"
+
+msgid "Cannot open scan target"
+msgstr "Cannot open scan target"
+
 msgid "Cannot open session"
 msgstr "Không mở được phiên"
 
 msgid "Cannot read file"
 msgstr "Không đọc được tệp"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Cannot read local info.ini for %1, skipping."
 
 msgid "Cannot read memory at address"
 msgstr "Không đọc được bộ nhớ tại địa chỉ"
@@ -237,8 +315,17 @@ msgstr "Không lưu được tập tin"
 msgid "Cannot set shortcut"
 msgstr "Không đặt được phím tắt"
 
+msgid "Cannot unpack"
+msgstr "Cannot unpack"
+
+msgid "Cannot unpack data"
+msgstr "Cannot unpack data"
+
 msgid "Cannot write data to file"
 msgstr "Không ghi được dữ liệu vào tập tin"
+
+msgid "Catalog"
+msgstr "Catalog"
 
 msgid "Certificate"
 msgstr "Chứng nhận"
@@ -249,6 +336,15 @@ msgstr "Đánh dấu"
 msgid "Check for updates"
 msgstr "Kiểm tra cập nhật"
 
+msgid "Chunk"
+msgstr "Chunk"
+
+msgid "Chunks"
+msgstr "Chunks"
+
+msgid "Class info"
+msgstr "Class info"
+
 msgid "Clear"
 msgstr "Xóa"
 
@@ -258,11 +354,17 @@ msgstr "Xóa kết quả"
 msgid "Close"
 msgstr "Đóng"
 
+msgid "Code Object"
+msgstr "Code Object"
+
 msgid "Code pages"
 msgstr "Codepage"
 
 msgid "Code section"
 msgstr "Vùng code"
+
+msgid "Collection"
+msgstr "Collection"
 
 msgid "Color"
 msgstr "Màu sắc"
@@ -276,11 +378,26 @@ msgstr "Lệnh"
 msgid "Comment"
 msgstr "Bình luận"
 
+msgid "Comment Extension"
+msgstr "Comment Extension"
+
 msgid "Compact"
-msgstr ""
+msgstr "Compact"
 
 msgid "Compiler"
 msgstr "Trình biên dịch mã"
+
+msgid "Compress"
+msgstr "Compress"
+
+msgid "Compressed"
+msgstr "Compressed"
+
+msgid "Compressed Data"
+msgstr "Compressed Data"
+
+msgid "Compressed size"
+msgstr "Compressed size"
 
 msgid "Compressor"
 msgstr "Trình nén dữ liệu"
@@ -290,6 +407,9 @@ msgstr "Điều kiện"
 
 msgid "Console"
 msgstr "Bảng điều khiển"
+
+msgid "Constant pool"
+msgstr "Constant pool"
 
 msgid "Controls"
 msgstr "Điều khiển"
@@ -329,6 +449,9 @@ msgstr "Tùy chỉnh"
 
 msgid "Custom database"
 msgstr "Dữ liệu tùy chỉnh"
+
+msgid "DOS extender"
+msgstr "DOS extender"
 
 msgid "Data"
 msgstr "Dữ liệu"
@@ -414,6 +537,12 @@ msgstr "Tài liệu"
 msgid "Donate"
 msgstr "Quyên tặng"
 
+msgid "Downloaded file is empty"
+msgstr "Downloaded file is empty"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Downloaded file is not a valid ZIP archive"
+
 msgid "Driver"
 msgstr "Driver"
 
@@ -429,6 +558,18 @@ msgstr "Kết xuất ra một tệp"
 msgid "Edit"
 msgstr "Chỉnh sửa"
 
+msgid "Edit Flags"
+msgstr "Edit Flags"
+
+msgid "Edit Size"
+msgstr "Edit Size"
+
+msgid "Edit String"
+msgstr "Edit String"
+
+msgid "Edit Value"
+msgstr "Edit Value"
+
 msgid "Editor"
 msgstr "Trình chỉnh sửa"
 
@@ -438,14 +579,23 @@ msgstr "Đã trôi qua"
 msgid "Encode"
 msgstr "Mã hóa"
 
+msgid "Encrypted"
+msgstr "Encrypted"
+
 msgid "End"
 msgstr "Kết thúc"
 
 msgid "Endianness"
 msgstr "Endian"
 
+msgid "Entries"
+msgstr "Entries"
+
 msgid "Entropy"
 msgstr "Entropy"
+
+msgid "Entropy view not implemented yet"
+msgstr "Entropy view not implemented yet"
 
 msgid "Entry point"
 msgstr "Điểm nhập"
@@ -472,7 +622,10 @@ msgid "Export type"
 msgstr "Loại xuất khẩu"
 
 msgid "Extender"
-msgstr ""
+msgstr "Extender"
+
+msgid "Extension"
+msgstr "Extension"
 
 msgid "External references"
 msgstr "Tài liệu tham khảo bên ngoài"
@@ -482,6 +635,9 @@ msgstr "Thêm"
 
 msgid "Extra database"
 msgstr "Dữ liệu thêm"
+
+msgid "Extra database updated successfully"
+msgstr "Extra database updated successfully"
 
 msgid "Extract"
 msgstr "Trích xuất"
@@ -495,14 +651,47 @@ msgstr "Xuất tất cả biểu tượng"
 msgid "Extractor"
 msgstr "Xuất dữ liệu lưu trữ"
 
+msgid "Failed to create temporary directory"
+msgstr "Failed to create temporary directory"
+
+msgid "Failed to extract %1."
+msgstr "Failed to extract %1."
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Failed to extract archive: no files extracted"
+
+msgid "Failed to get remote database info"
+msgstr "Failed to get remote database info"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Failed to initialize ZIP unpacking"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Failed to open downloaded zip file"
+
+msgid "Failed to save image to %1"
+msgstr "Failed to save image to %1"
+
+msgid "Features"
+msgstr "Features"
+
+msgid "Fields"
+msgstr "Fields"
+
 msgid "File"
 msgstr "Tập tin"
+
+msgid "File buffer size"
+msgstr "File buffer size"
 
 msgid "File info"
 msgstr "Cơ bản"
 
 msgid "File name"
 msgstr "Tệp chương trình"
+
+msgid "File name cannot be empty"
+msgstr "File name cannot be empty"
 
 msgid "File offset"
 msgstr "Khoảng cách đến đầu tệp tin"
@@ -529,7 +718,10 @@ msgid "Find"
 msgstr "Tìm kiếm"
 
 msgid "First"
-msgstr ""
+msgstr "First"
+
+msgid "Fit to Window"
+msgstr "Fit to Window"
 
 msgid "Fix offsets"
 msgstr "Sửa lỗi"
@@ -585,8 +777,11 @@ msgstr "Hàm"
 msgid "GB"
 msgstr "GB"
 
+msgid "Game engine"
+msgstr "Game engine"
+
 msgid "General registers"
-msgstr ""
+msgstr "General registers"
 
 msgid "Generic"
 msgstr "Chung"
@@ -600,6 +795,9 @@ msgstr "Nhận phần tử"
 msgid "GiB"
 msgstr "GiB"
 
+msgid "Global Color Table"
+msgstr "Global Color Table"
+
 msgid "Go to"
 msgstr "Đi tới"
 
@@ -611,6 +809,9 @@ msgstr "Tới trang tài xuống?"
 
 msgid "Gradient"
 msgstr "Khuynh độ"
+
+msgid "Graphic Control Extension"
+msgstr "Graphic Control Extension"
 
 msgid "Grid"
 msgstr "Lưới"
@@ -626,6 +827,9 @@ msgstr "Phần cứng"
 
 msgid "Hash"
 msgstr "Hash"
+
+msgid "Hash view not implemented yet"
+msgstr "Hash view not implemented yet"
 
 msgid "Header"
 msgstr "Header"
@@ -643,10 +847,13 @@ msgid "Heuristic scan"
 msgstr "Quét heuristic"
 
 msgid "Heuristics"
-msgstr ""
+msgstr "Heuristics"
 
 msgid "Hex"
 msgstr "Hex"
+
+msgid "Hex view not implemented yet"
+msgstr "Hex view not implemented yet"
 
 msgid "Hide unknown"
 msgstr "Ẩn thông tin chưa rõ"
@@ -657,8 +864,14 @@ msgstr "Điểm nhấn"
 msgid "Highlights"
 msgstr "Điểm nhấn"
 
+msgid "Icon"
+msgstr "Icon"
+
 msgid "Image"
 msgstr "Hình ảnh"
+
+msgid "Image information"
+msgstr "Image information"
 
 msgid "Images"
 msgstr "Hình ảnh"
@@ -674,6 +887,9 @@ msgstr "Ký hiệu gián tiếp"
 
 msgid "Info"
 msgstr "Thông tin"
+
+msgid "Info database update URL"
+msgstr "Info database update URL"
 
 msgid "Information"
 msgstr "Thông tin"
@@ -693,14 +909,29 @@ msgstr "Dữ liệu trình cài đặt"
 msgid "Instruction pointer register"
 msgstr "Thanh ghi con trỏ lệnh"
 
+msgid "Interfaces"
+msgstr "Interfaces"
+
 msgid "Interpreter"
 msgstr "Trình thông dịch"
 
 msgid "Invalid"
 msgstr "Không hợp lệ"
 
+msgid "Invalid CRC"
+msgstr "Invalid CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Invalid YARA compiler"
+
+msgid "Invalid data"
+msgstr "Invalid data"
+
 msgid "Invalid font"
 msgstr "Phông chữ không hợp lệ"
+
+msgid "Invalid format data"
+msgstr "Invalid format data"
 
 msgid "Invalid handle"
 msgstr "Tiếp nhận không hợp lệ"
@@ -710,6 +941,12 @@ msgstr "Offset không hợp lệ"
 
 msgid "Invalid opcode"
 msgstr "Opcode không hợp lệ"
+
+msgid "Invalid parameters provided"
+msgstr "Invalid parameters provided"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
 
 msgid "Invalid signature"
 msgstr "Chữ ký không hợp lệ"
@@ -734,6 +971,9 @@ msgstr "Ngôn ngữ"
 
 msgid "Last"
 msgstr "Cuối cùng"
+
+msgid "Last error"
+msgstr "Last error"
 
 msgid "Lazy binding"
 msgstr "Lazy binding"
@@ -780,11 +1020,17 @@ msgstr "Địa điểm"
 msgid "Log"
 msgstr "Nhật trình"
 
+msgid "Logical Screen Descriptor"
+msgstr "Logical Screen Descriptor"
+
 msgid "MB"
 msgstr "MB"
 
 msgid "Main"
 msgstr "Chính"
+
+msgid "Main database updated successfully"
+msgstr "Main database updated successfully"
 
 msgid "Main module"
 msgstr "Mô-đun chính"
@@ -843,8 +1089,14 @@ msgstr "MiB"
 msgid "Min length"
 msgstr "Độ dài ngắn nhất"
 
+msgid "Missing Resources"
+msgstr "Missing Resources"
+
 msgid "Mode"
 msgstr "Chế độ"
+
+msgid "Mode is not available for this file type"
+msgstr "Mode is not available for this file type"
 
 msgid "Modules"
 msgstr "Mô-đun"
@@ -861,8 +1113,14 @@ msgstr "Tìm kiếm đa dạng"
 msgid "Name"
 msgstr "Tên"
 
+msgid "Native"
+msgstr "Native"
+
 msgid "Network error"
 msgstr "Lỗi kết nối mạng"
+
+msgid "Network error while checking for database updates"
+msgstr "Network error while checking for database updates"
 
 msgid "New"
 msgstr "Mới"
@@ -878,6 +1136,15 @@ msgstr "Đã tới tiếp theo"
 
 msgid "No"
 msgstr "Không"
+
+msgid "No YARA rules were loaded"
+msgstr "No YARA rules were loaded"
+
+msgid "No image loaded"
+msgstr "No image loaded"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
 
 msgid "No update available"
 msgstr "Không có cập nhật mới"
@@ -927,6 +1194,9 @@ msgstr "Opcode"
 msgid "Open"
 msgstr "Chọn"
 
+msgid "Open Directory"
+msgstr "Open Directory"
+
 msgid "Open directory"
 msgstr "Chọn thư mục"
 
@@ -945,14 +1215,29 @@ msgstr "Đầu ra"
 msgid "Overlay"
 msgstr "Overlay"
 
+msgid "Overlay scan"
+msgstr "Overlay scan"
+
+msgid "PE tool"
+msgstr "PE tool"
+
 msgid "Package"
 msgstr "Gói"
 
 msgid "Packer"
 msgstr "Trình đóng gói"
 
+msgid "Part"
+msgstr "Part"
+
 msgid "Patch"
 msgstr "Bản vá"
+
+msgid "Path traversal detected"
+msgstr "Path traversal detected"
+
+msgid "Path"
+msgstr "Path"
 
 msgid "Pause"
 msgstr "Tạm dừng"
@@ -961,13 +1246,16 @@ msgid "Paused"
 msgstr "Đã tạm dừng"
 
 msgid "Payload"
-msgstr ""
+msgstr "Payload"
 
 msgid "Personal data"
 msgstr "Thông tin cá nhân"
 
 msgid "Plain Text"
 msgstr "Văn bản thuần túy"
+
+msgid "Plain Text Extension"
+msgstr "Plain Text Extension"
 
 msgid "Platform"
 msgstr "Nền tảng"
@@ -993,6 +1281,9 @@ msgstr "Vị trí"
 msgid "Previous visited"
 msgstr "Đã tới trước đó"
 
+msgid "Primary Volume Descriptor"
+msgstr "Primary Volume Descriptor"
+
 msgid "Print"
 msgstr "In"
 
@@ -1000,7 +1291,7 @@ msgid "Process"
 msgstr "Xử lý"
 
 msgid "Producer"
-msgstr ""
+msgstr "Producer"
 
 msgid "Profiling"
 msgstr "Profile"
@@ -1026,8 +1317,20 @@ msgstr "Nguyên mẫu"
 msgid "Publisher"
 msgstr "Nhà phát hành"
 
+msgid "RIFF Header"
+msgstr "RIFF Header"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Raw"
+
 msgid "Raw data"
 msgstr "Dữ liệu thô"
+
+msgid "Read buffer size"
+msgstr "Read buffer size"
 
 msgid "Read error"
 msgstr "Lỗi đọc"
@@ -1036,10 +1339,13 @@ msgid "Readonly"
 msgstr "Chỉ đọc"
 
 msgid "Rebase"
-msgstr ""
+msgstr "Rebase"
 
 msgid "Recent files"
 msgstr "Tệp gần đây"
+
+msgid "Record"
+msgstr "Record"
 
 msgid "Recursive"
 msgstr "Đệ quy"
@@ -1063,7 +1369,7 @@ msgid "Registers"
 msgstr "Register"
 
 msgid "Regular expression"
-msgstr ""
+msgstr "Regular expression"
 
 msgid "Relative address"
 msgstr "Địa chỉ tương đối"
@@ -1077,11 +1383,17 @@ msgstr "Tải lại"
 msgid "Relocs"
 msgstr "Relocs"
 
+msgid "Remaining:"
+msgstr "Remaining:"
+
 msgid "Remove"
 msgstr "Xóa bỏ"
 
 msgid "Rescan"
 msgstr "Quét lại"
+
+msgid "Reserved"
+msgstr "Reserved"
 
 msgid "Resize"
 msgstr "Điều chỉnh kích thước"
@@ -1091,6 +1403,12 @@ msgstr "Nguồn"
 
 msgid "Resource"
 msgstr "Tài nguyên"
+
+msgid "Resource scan"
+msgstr "Resource scan"
+
+msgid "Resources"
+msgstr "Resources"
 
 msgid "Restart"
 msgstr "Khởi động lại"
@@ -1116,8 +1434,20 @@ msgstr "Đang chạy"
 msgid "Runtime driver"
 msgstr "Trình điều khiển thời gian chạy"
 
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX data"
+
+msgid "SZDD Header"
+msgstr "SZDD Header"
+
 msgid "Save"
 msgstr "Lưu"
+
+msgid "Save Image"
+msgstr "Save Image"
 
 msgid "Save as"
 msgstr "Lu7 dưới dạng"
@@ -1197,6 +1527,9 @@ msgstr "Số section"
 msgid "Segment"
 msgstr "Đoạn"
 
+msgid "Segment %1"
+msgstr "Segment %1"
+
 msgid "Segment registers"
 msgstr "Thanh ghi phân đoạn"
 
@@ -1205,6 +1538,9 @@ msgstr "Đoạn"
 
 msgid "Select"
 msgstr "Chọn"
+
+msgid "Select Value"
+msgstr "Select Value"
 
 msgid "Selected"
 msgstr "Đã chọn"
@@ -1215,6 +1551,9 @@ msgstr "Lựa chọn"
 msgid "Serial number"
 msgstr "Số xê-ri"
 
+msgid "Set system environment variable"
+msgstr "Set system environment variable"
+
 msgid "Shortcut"
 msgstr "Đường tắt"
 
@@ -1223,6 +1562,12 @@ msgstr "Phím tắt"
 
 msgid "Show"
 msgstr "Hiển thị"
+
+msgid "Show Offsets"
+msgstr "Show Offsets"
+
+msgid "Show Presentation"
+msgstr "Show Presentation"
 
 msgid "Show all"
 msgstr "Hiển thị tất cả"
@@ -1278,6 +1623,9 @@ msgstr "Kích thước"
 msgid "Size of image"
 msgstr "Header SizeOfImage"
 
+msgid "Social Media"
+msgstr "Social Media"
+
 msgid "Sort"
 msgstr "Sắp xếp"
 
@@ -1320,6 +1668,24 @@ msgstr "Bước qua"
 msgid "Stop"
 msgstr "Dừng"
 
+msgid "Stream"
+msgstr "Stream"
+
+msgid "Stream Footer"
+msgstr "Stream Footer"
+
+msgid "Stream Header"
+msgstr "Stream Header"
+
+msgid "Stream offset"
+msgstr "Stream offset"
+
+msgid "Stream size"
+msgstr "Stream size"
+
+msgid "Streams"
+msgstr "Streams"
+
 msgid "String"
 msgstr "Xâu"
 
@@ -1328,6 +1694,9 @@ msgstr "Bảng các xâu ký tự"
 
 msgid "Strings"
 msgstr "Xâu ký tự"
+
+msgid "Strings view not implemented yet"
+msgstr "Strings view not implemented yet"
 
 msgid "Struct"
 msgstr "Cấu trúc"
@@ -1365,11 +1734,17 @@ msgstr "Đồng bộ hóa"
 msgid "Syntax"
 msgstr "Cú pháp"
 
+msgid "TABLE"
+msgstr "TABLE"
+
 msgid "TB"
 msgstr "TB"
 
 msgid "Table"
 msgstr "Bảng"
+
+msgid "Table Directory"
+msgstr "Table Directory"
 
 msgid "Table of contents"
 msgstr "Mục lục"
@@ -1377,11 +1752,20 @@ msgstr "Mục lục"
 msgid "Table views"
 msgstr "Cách biểu diễn bảng"
 
+msgid "Tag"
+msgstr "Tag"
+
 msgid "Tags"
 msgstr "Gắn thẻ"
 
 msgid "Text"
 msgstr "Chữ"
+
+msgid "Text color"
+msgstr "Text color"
+
+msgid "Text content"
+msgstr "Text content"
 
 msgid "Text documents"
 msgstr "Tài liệu văn bản"
@@ -1446,6 +1830,9 @@ msgstr "Truy vết vào"
 msgid "Trace over"
 msgstr "Truy vết thông qua"
 
+msgid "Trailer"
+msgstr "Trailer"
+
 msgid "Tree"
 msgstr "Cây"
 
@@ -1461,6 +1848,15 @@ msgstr "Hai toàn hạng"
 msgid "Type"
 msgstr "Giao diện"
 
+msgid "U.Size"
+msgstr "U.Size"
+
+msgid "UNKNOWN"
+msgstr "UNKNOWN"
+
+msgid "Unexpected end of data"
+msgstr "Unexpected end of data"
+
 msgid "Unicode"
 msgstr "Mã Unicode"
 
@@ -1470,11 +1866,17 @@ msgstr "Toàn cầu"
 msgid "Unknown"
 msgstr "không xác định"
 
+msgid "Unknown compression method"
+msgstr "Unknown compression method"
+
 msgid "Unpack"
 msgstr "Giải nén"
 
 msgid "Unsigned"
 msgstr "Chưa ký"
+
+msgid "Update"
+msgstr "Update"
 
 msgid "Update information"
 msgstr "Cập nhật thông tin"
@@ -1487,6 +1889,12 @@ msgstr "Trên"
 
 msgid "Uppercase"
 msgstr "Viết hoa"
+
+msgid "Use cache"
+msgstr "Use cache"
+
+msgid "V.Size"
+msgstr "V.Size"
 
 msgid "Value"
 msgstr "Giá trị"
@@ -1542,14 +1950,29 @@ msgstr "Chiều rộng"
 msgid "Wildcard"
 msgstr "Ký tự đại diện"
 
+msgid "Would you like to download them now?"
+msgstr "Would you like to download them now?"
+
 msgid "Write error"
 msgstr "Ghi lỗi"
+
+msgid "YARA rules path not found"
+msgstr "YARA rules path not found"
+
+msgid "YARA scan failed"
+msgstr "YARA scan failed"
 
 msgid "Zeros"
 msgstr "Những số không"
 
 msgid "Zoom"
-msgstr ""
+msgstr "Zoom"
+
+msgid "Zoom In"
+msgstr "Zoom In"
+
+msgid "Zoom Out"
+msgstr "Zoom Out"
 
 msgid "data"
 msgstr "dữ liệu"
@@ -1574,20 +1997,4 @@ msgstr "nén"
 
 msgid "true"
 msgstr "đúng"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
