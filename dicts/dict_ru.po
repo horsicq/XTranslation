@@ -38,7 +38,7 @@ msgid "Action"
 msgstr "Действие"
 
 msgid "Actual Size"
-msgstr "Actual Size"
+msgstr "Действительный размер"
 
 msgid "Add"
 msgstr "Добавить"
@@ -95,7 +95,7 @@ msgid "Application"
 msgstr "Приложение"
 
 msgid "Application Extension"
-msgstr "Application Extension"
+msgstr "Расширение приложения"
 
 msgid "Architecture"
 msgstr "Архитектура"
@@ -104,16 +104,16 @@ msgid "Archive"
 msgstr "Архив"
 
 msgid "Archive Explorer"
-msgstr "Archive Explorer"
+msgstr "Архивный проводник"
 
 msgid "Archive record"
 msgstr "Архивная запись"
 
 msgid "Archive scan"
-msgstr "Archive scan"
+msgstr "Архивное сканирование"
 
 msgid "Archives"
-msgstr "Archives"
+msgstr "Архивы"
 
 msgid "Array"
 msgstr "Массив"
@@ -125,7 +125,7 @@ msgid "Attach"
 msgstr "Прикрепить"
 
 msgid "Attributes"
-msgstr "Attributes"
+msgstr "Атрибуты"
 
 msgid "Audio"
 msgstr "Аудио"
@@ -134,7 +134,7 @@ msgid "Author"
 msgstr "Автор"
 
 msgid "Auto"
-msgstr "Auto"
+msgstr "Авто"
 
 msgid "Automatic"
 msgstr "Автоматически"
@@ -143,7 +143,7 @@ msgid "Background"
 msgstr "Фон"
 
 msgid "Background color"
-msgstr "Background color"
+msgstr "Цвет фона"
 
 msgid "Base"
 msgstr "База"
@@ -164,7 +164,7 @@ msgid "Binding"
 msgstr "Привязка"
 
 msgid "Bitmap Data"
-msgstr "Bitmap Data"
+msgstr "Растровые данные"
 
 msgid "Bits"
 msgstr "Биты"
@@ -233,28 +233,28 @@ msgid "Cancel"
 msgstr "Отмена"
 
 msgid "Cannot build YARA rules"
-msgstr "Cannot build YARA rules"
+msgstr "Не удается создать правила YARA"
 
 msgid "Cannot create"
-msgstr "Cannot create"
+msgstr "Не удается создать"
 
 msgid "Cannot create YARA compiler"
-msgstr "Cannot create YARA compiler"
+msgstr "Не удается создать компилятор YARA"
 
 msgid "Cannot create temporary unpack directory."
-msgstr "Cannot create temporary unpack directory."
+msgstr "Не удается создать временную папку распаковки."
 
 msgid "Cannot decompress"
-msgstr "Cannot decompress"
+msgstr "Не удается разжать"
 
 msgid "Cannot fetch release metadata for %1."
-msgstr "Cannot fetch release metadata for %1."
+msgstr "Не удается получить метаданные релиза для %1."
 
 msgid "Cannot find"
 msgstr "Не удается найти"
 
 msgid "Cannot find ZIP asset %1 in release %2."
-msgstr "Cannot find ZIP asset %1 in release %2."
+msgstr "Не удается найти ZIP asset %1 в релизе %2."
 
 msgid "Cannot find file"
 msgstr "Не удаётся найти файл"
@@ -278,55 +278,55 @@ msgid "Cannot load database"
 msgstr "Не удаётся загрузить базу данных"
 
 msgid "Cannot load file"
-msgstr "Невозможно загрузить файл"
+msgstr "Не удается загрузить файл"
 
 msgid "Cannot open archive"
-msgstr "Cannot open archive"
+msgstr "Не удается открыть архив"
 
 msgid "Cannot open dump file"
 msgstr "Не удается открыть файл дампа"
 
 msgid "Cannot open file"
-msgstr "Невозможно открыть файл"
+msgstr "Не удается открыть файл"
 
 msgid "Cannot open rules file"
-msgstr "Cannot open rules file"
+msgstr "Не удается открыть файл правил"
 
 msgid "Cannot open scan target"
-msgstr "Cannot open scan target"
+msgstr "Не удается открыть цель скана"
 
 msgid "Cannot open session"
-msgstr "Невозможно открыть сеанс"
+msgstr "Не удается открыть сеанс"
 
 msgid "Cannot read file"
 msgstr "Не удается прочитать файл"
 
 msgid "Cannot read local info.ini for %1, skipping."
-msgstr "Cannot read local info.ini for %1, skipping."
+msgstr "Не удается прочитать локальный info.ini для %1, пропускаем."
 
 msgid "Cannot read memory at address"
 msgstr "Невозможно прочитать память по адресу"
 
 msgid "Cannot resize"
-msgstr "Невозможно изменить размер"
+msgstr "Не удается изменить размер"
 
 msgid "Cannot save file"
-msgstr "Невозможно сохранить файл"
+msgstr "Не удается сохранить файл"
 
 msgid "Cannot set shortcut"
-msgstr "Невозможно создать ссылку"
+msgstr "Не удается создать ссылку"
 
 msgid "Cannot unpack"
-msgstr "Cannot unpack"
+msgstr "Не удается распаковать"
 
 msgid "Cannot unpack data"
-msgstr "Cannot unpack data"
+msgstr "Не удается распаковать данные"
 
 msgid "Cannot write data to file"
 msgstr "Не удается записать данные в файл"
 
 msgid "Catalog"
-msgstr "Catalog"
+msgstr "Каталог"
 
 msgid "Certificate"
 msgstr "Сертификат"
@@ -338,13 +338,13 @@ msgid "Check for updates"
 msgstr "Проверить обновления"
 
 msgid "Chunk"
-msgstr "Chunk"
+msgstr "Блок"
 
 msgid "Chunks"
-msgstr "Chunks"
+msgstr "Блоки"
 
 msgid "Class info"
-msgstr "Class info"
+msgstr "Информация о классе"
 
 msgid "Clear"
 msgstr "Очистить"
@@ -356,7 +356,7 @@ msgid "Close"
 msgstr "Закрыть"
 
 msgid "Code Object"
-msgstr "Code Object"
+msgstr "Объект кода"
 
 msgid "Code pages"
 msgstr "Кодовые страницы"
@@ -365,7 +365,7 @@ msgid "Code section"
 msgstr "Секция кода"
 
 msgid "Collection"
-msgstr "Collection"
+msgstr "Коллекция"
 
 msgid "Color"
 msgstr "Цвет"
@@ -389,16 +389,16 @@ msgid "Compiler"
 msgstr "Компилятор"
 
 msgid "Compress"
-msgstr "Compress"
+msgstr "Сжать"
 
 msgid "Compressed"
-msgstr "Compressed"
+msgstr "Сжатый"
 
 msgid "Compressed Data"
-msgstr "Compressed Data"
+msgstr "Сжатые данные"
 
 msgid "Compressed size"
-msgstr "Compressed size"
+msgstr "Сжатый размер"
 
 msgid "Compressor"
 msgstr "Компрессор"
@@ -452,7 +452,7 @@ msgid "Custom database"
 msgstr "Пользовательская база данных"
 
 msgid "DOS extender"
-msgstr "DOS extender"
+msgstr "DOS расширитель"
 
 msgid "Data"
 msgstr "Данные"
@@ -536,13 +536,13 @@ msgid "Documents"
 msgstr "Документы"
 
 msgid "Donate"
-msgstr "Донат"
+msgstr "Пожертвование"
 
 msgid "Downloaded file is empty"
-msgstr "Downloaded file is empty"
+msgstr "Загруженный файл пустой"
 
 msgid "Downloaded file is not a valid ZIP archive"
-msgstr "Downloaded file is not a valid ZIP archive"
+msgstr "Загруженный файл является недействительным ZIP архивом"
 
 msgid "Driver"
 msgstr "Драйвер"
@@ -560,16 +560,16 @@ msgid "Edit"
 msgstr "Изменить"
 
 msgid "Edit Flags"
-msgstr "Edit Flags"
+msgstr "Изменить флаги"
 
 msgid "Edit Size"
-msgstr "Edit Size"
+msgstr "Изменить размер"
 
 msgid "Edit String"
-msgstr "Edit String"
+msgstr "Изменить строку"
 
 msgid "Edit Value"
-msgstr "Edit Value"
+msgstr "Изменить значение"
 
 msgid "Editor"
 msgstr "Редактор"
@@ -581,7 +581,7 @@ msgid "Encode"
 msgstr "Кодировать"
 
 msgid "Encrypted"
-msgstr "Encrypted"
+msgstr "Зашифровано"
 
 msgid "End"
 msgstr "Конец"
@@ -590,13 +590,13 @@ msgid "Endianness"
 msgstr "Порядок байт"
 
 msgid "Entries"
-msgstr "Entries"
+msgstr "Входы"
 
 msgid "Entropy"
 msgstr "Энтропия"
 
 msgid "Entropy view not implemented yet"
-msgstr "Entropy view not implemented yet"
+msgstr "Представление энтропии пока не реализовано"
 
 msgid "Entry point"
 msgstr "Точка входа"
@@ -617,7 +617,7 @@ msgid "Export"
 msgstr "Экспорт"
 
 msgid "Export File Name"
-msgstr "Имя файла экспорта"
+msgstr "Имя экспортируемого файла"
 
 msgid "Export type"
 msgstr "Тип экспорта"
@@ -626,7 +626,7 @@ msgid "Extender"
 msgstr "Расширитель"
 
 msgid "Extension"
-msgstr "Extension"
+msgstr "Расширение"
 
 msgid "External references"
 msgstr "Внешние ссылки"
@@ -638,7 +638,7 @@ msgid "Extra database"
 msgstr "Дополнительная база данных"
 
 msgid "Extra database updated successfully"
-msgstr "Extra database updated successfully"
+msgstr "Доп. база данных успешно обновлена"
 
 msgid "Extract"
 msgstr "Извлечь"
@@ -653,37 +653,37 @@ msgid "Extractor"
 msgstr "Экстрактор"
 
 msgid "Failed to create temporary directory"
-msgstr "Failed to create temporary directory"
+msgstr "Не удалось создать временную директорию"
 
 msgid "Failed to extract %1."
-msgstr "Failed to extract %1."
+msgstr "Не удалось извлечь %1."
 
 msgid "Failed to extract archive: no files extracted"
-msgstr "Failed to extract archive: no files extracted"
+msgstr "Не удалось извлечь архив: файлы не извлечены"
 
 msgid "Failed to get remote database info"
 msgstr "Failed to get remote database info"
 
 msgid "Failed to initialize ZIP unpacking"
-msgstr "Failed to initialize ZIP unpacking"
+msgstr "Не удалось инициализировать ZIP распаковку"
 
 msgid "Failed to open downloaded zip file"
-msgstr "Failed to open downloaded zip file"
+msgstr "Не удалось открыть загруженный zip файл"
 
 msgid "Failed to save image to %1"
-msgstr "Failed to save image to %1"
+msgstr "Не удалось сохранить образ в %1"
 
 msgid "Features"
-msgstr "Features"
+msgstr "Возможности"
 
 msgid "Fields"
-msgstr "Fields"
+msgstr "Поля"
 
 msgid "File"
 msgstr "Файл"
 
 msgid "File buffer size"
-msgstr "File buffer size"
+msgstr "Размер буфера файла"
 
 msgid "File info"
 msgstr "О файле"
@@ -692,7 +692,7 @@ msgid "File name"
 msgstr "Имя файла"
 
 msgid "File name cannot be empty"
-msgstr "File name cannot be empty"
+msgstr "Имя файла не может быть пустым"
 
 msgid "File offset"
 msgstr "Смещение в файле"
@@ -722,7 +722,7 @@ msgid "First"
 msgstr "Первый"
 
 msgid "Fit to Window"
-msgstr "Fit to Window"
+msgstr "Вписать в окно"
 
 msgid "Fix offsets"
 msgstr "Исправить смещения"
@@ -779,7 +779,7 @@ msgid "GB"
 msgstr "ГБ"
 
 msgid "Game engine"
-msgstr "Game engine"
+msgstr "Игровой движок"
 
 msgid "General registers"
 msgstr "Общие регистры"
@@ -812,7 +812,7 @@ msgid "Gradient"
 msgstr "Градиент"
 
 msgid "Graphic Control Extension"
-msgstr "Graphic Control Extension"
+msgstr "Расширение графического управления"
 
 msgid "Grid"
 msgstr "Сетка"
@@ -827,10 +827,10 @@ msgid "Hardware"
 msgstr "Аппаратное обеспечение"
 
 msgid "Hash"
-msgstr "Хеш"
+msgstr "Хэш"
 
 msgid "Hash view not implemented yet"
-msgstr "Hash view not implemented yet"
+msgstr "Хэш представление пока не реализовано"
 
 msgid "Header"
 msgstr "Заголовок"
@@ -854,7 +854,7 @@ msgid "Hex"
 msgstr "Hex"
 
 msgid "Hex view not implemented yet"
-msgstr "Hex view not implemented yet"
+msgstr "Hex представление пока не реализовано"
 
 msgid "Hide unknown"
 msgstr "Скрыть неизвестное"
@@ -866,16 +866,16 @@ msgid "Highlights"
 msgstr "Основные моменты"
 
 msgid "Icon"
-msgstr "Icon"
+msgstr "Значок"
 
 msgid "Image"
-msgstr "Рисунок"
+msgstr "Изображение"
 
 msgid "Image information"
-msgstr "Image information"
+msgstr "Информация об изображении"
 
 msgid "Images"
-msgstr "Рисунки"
+msgstr "Изображения"
 
 msgid "Import"
 msgstr "Импорт"
@@ -911,7 +911,7 @@ msgid "Instruction pointer register"
 msgstr "Регистр указателя инструкций"
 
 msgid "Interfaces"
-msgstr "Interfaces"
+msgstr "Интерфейсы"
 
 msgid "Interpreter"
 msgstr "Интерпретатор"
@@ -920,13 +920,13 @@ msgid "Invalid"
 msgstr "Неверный"
 
 msgid "Invalid CRC"
-msgstr "Invalid CRC"
+msgstr "Неверный CRC"
 
 msgid "Invalid YARA compiler"
-msgstr "Invalid YARA compiler"
+msgstr "Неверный компилятор YARA"
 
 msgid "Invalid data"
-msgstr "Invalid data"
+msgstr "Неверные данные"
 
 msgid "Invalid font"
 msgstr "Неверный шрифт"
@@ -944,10 +944,10 @@ msgid "Invalid opcode"
 msgstr "Неверный опкод"
 
 msgid "Invalid parameters provided"
-msgstr "Invalid parameters provided"
+msgstr "Предоставлены недопустимые параметры"
 
 msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
-msgstr "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Неверный формат описания релиза для %1. Ожидаемая дата=гггг-ММ-дд."
 
 msgid "Invalid signature"
 msgstr "Неправильная сигнатура"
@@ -974,7 +974,7 @@ msgid "Last"
 msgstr "Последний"
 
 msgid "Last error"
-msgstr "Last error"
+msgstr "Последняя ошибка"
 
 msgid "Lazy binding"
 msgstr "Ленивая привязка"
@@ -1007,7 +1007,7 @@ msgid "Load"
 msgstr "Загрузить"
 
 msgid "Load config"
-msgstr "Загрузочный конфиг"
+msgstr "Загрузить конфиг"
 
 msgid "Loader"
 msgstr "Загрузчик"
@@ -1022,7 +1022,7 @@ msgid "Log"
 msgstr "Журнал"
 
 msgid "Logical Screen Descriptor"
-msgstr "Logical Screen Descriptor"
+msgstr "Дескриптор логического экрана"
 
 msgid "MB"
 msgstr "МБ"
@@ -1031,7 +1031,7 @@ msgid "Main"
 msgstr "Основной"
 
 msgid "Main database updated successfully"
-msgstr "Main database updated successfully"
+msgstr "Основная база данных успешно обновлена"
 
 msgid "Main module"
 msgstr "Основной модуль"
@@ -1091,13 +1091,13 @@ msgid "Min length"
 msgstr "Минимальная длина"
 
 msgid "Missing Resources"
-msgstr "Missing Resources"
+msgstr "Недостающие ресурсы"
 
 msgid "Mode"
 msgstr "Режим"
 
 msgid "Mode is not available for this file type"
-msgstr "Mode is not available for this file type"
+msgstr "Для этого типа файлов данный режим недоступен"
 
 msgid "Modules"
 msgstr "Модули"
@@ -1115,13 +1115,13 @@ msgid "Name"
 msgstr "Имя"
 
 msgid "Native"
-msgstr "Native"
+msgstr "Нативный"
 
 msgid "Network error"
 msgstr "Ошибка сети"
 
 msgid "Network error while checking for database updates"
-msgstr "Network error while checking for database updates"
+msgstr "Сетевая ошибка при проверке обновлений базы данных"
 
 msgid "New"
 msgstr "Новый"
@@ -1139,13 +1139,13 @@ msgid "No"
 msgstr "Нет"
 
 msgid "No YARA rules were loaded"
-msgstr "No YARA rules were loaded"
+msgstr "Правила YARA не были загружены"
 
 msgid "No image loaded"
-msgstr "No image loaded"
+msgstr "Образ не загружен"
 
 msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
-msgstr "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "Локальный файл info.ini для %1 не найден. Инициализация из релиза GitHub %2."
 
 msgid "No update available"
 msgstr "Нет доступных обновлений"
@@ -1196,7 +1196,7 @@ msgid "Open"
 msgstr "Открыть"
 
 msgid "Open Directory"
-msgstr "Open Directory"
+msgstr "Открыть папку"
 
 msgid "Open directory"
 msgstr "Открыть папку"
@@ -1217,7 +1217,7 @@ msgid "Overlay"
 msgstr "Оверлей"
 
 msgid "Overlay scan"
-msgstr "Overlay scan"
+msgstr "Скан оверлея"
 
 msgid "PE tool"
 msgstr "PE tool"
@@ -1229,16 +1229,16 @@ msgid "Packer"
 msgstr "Упаковщик"
 
 msgid "Part"
-msgstr "Part"
+msgstr "Часть"
 
 msgid "Patch"
 msgstr "Патч"
 
 msgid "Path traversal detected"
-msgstr "Path traversal detected"
+msgstr "Обнаружен выход за пределы директории"
 
 msgid "Path"
-msgstr "Path"
+msgstr "Путь"
 
 msgid "Pause"
 msgstr "Пауза"
@@ -1256,7 +1256,7 @@ msgid "Plain Text"
 msgstr "Простой Текст"
 
 msgid "Plain Text Extension"
-msgstr "Plain Text Extension"
+msgstr "Расширение для простого текста"
 
 msgid "Platform"
 msgstr "Платформа"
@@ -1283,7 +1283,7 @@ msgid "Previous visited"
 msgstr "Предыдущий посещённый"
 
 msgid "Primary Volume Descriptor"
-msgstr "Primary Volume Descriptor"
+msgstr "Основной дескриптор тома"
 
 msgid "Print"
 msgstr "Распечатать"
@@ -1319,7 +1319,7 @@ msgid "Publisher"
 msgstr "Издатель"
 
 msgid "RIFF Header"
-msgstr "RIFF Header"
+msgstr "Заголовок RIFF"
 
 msgid "ROM"
 msgstr "ROM"
@@ -1331,7 +1331,7 @@ msgid "Raw data"
 msgstr "Сырые данные"
 
 msgid "Read buffer size"
-msgstr "Read buffer size"
+msgstr "Размер буфера чтения"
 
 msgid "Read error"
 msgstr "Ошибка чтения"
@@ -1340,13 +1340,13 @@ msgid "Readonly"
 msgstr "Только чтение"
 
 msgid "Rebase"
-msgstr "Rebase"
+msgstr "Перебазирование"
 
 msgid "Recent files"
 msgstr "Недавние файлы"
 
 msgid "Record"
-msgstr "Record"
+msgstr "Запись"
 
 msgid "Recursive"
 msgstr "Рекурсивно"
@@ -1355,7 +1355,7 @@ msgid "Recursive scan"
 msgstr "Рекурсивный скан"
 
 msgid "References"
-msgstr "Упоминания"
+msgstr "Ссылки"
 
 msgid "Region"
 msgstr "Область"
@@ -1382,10 +1382,10 @@ msgid "Reload"
 msgstr "Обновить"
 
 msgid "Relocs"
-msgstr "Relocs"
+msgstr "Релокации"
 
 msgid "Remaining:"
-msgstr "Remaining:"
+msgstr "Осталось:"
 
 msgid "Remove"
 msgstr "Удалить"
@@ -1394,7 +1394,7 @@ msgid "Rescan"
 msgstr "Пересканировать"
 
 msgid "Reserved"
-msgstr "Reserved"
+msgstr "Зарезервировано"
 
 msgid "Resize"
 msgstr "Изменить размер"
@@ -1403,7 +1403,7 @@ msgid "Resource"
 msgstr "Ресурс"
 
 msgid "Resource scan"
-msgstr "Resource scan"
+msgstr "Сканирование ресурсов"
 
 msgid "Resources"
 msgstr "Ресурсы"
@@ -1436,16 +1436,16 @@ msgid "SFX"
 msgstr "SFX"
 
 msgid "SFX data"
-msgstr "SFX data"
+msgstr "SFX данные"
 
 msgid "SZDD Header"
-msgstr "SZDD Header"
+msgstr "Заголовок SZDD"
 
 msgid "Save"
 msgstr "Сохранить"
 
 msgid "Save Image"
-msgstr "Save Image"
+msgstr "Сохранить образ"
 
 msgid "Save as"
 msgstr "Сохранить как"
@@ -1526,7 +1526,7 @@ msgid "Segment"
 msgstr "Сегмент"
 
 msgid "Segment %1"
-msgstr "Segment %1"
+msgstr "Сегмент %1"
 
 msgid "Segment registers"
 msgstr "Сегментные регистры"
@@ -1538,7 +1538,7 @@ msgid "Select"
 msgstr "Выбрать"
 
 msgid "Select Value"
-msgstr "Select Value"
+msgstr "Выбрать значение"
 
 msgid "Selected"
 msgstr "Выбрано"
@@ -1550,7 +1550,7 @@ msgid "Serial number"
 msgstr "Серийный номер"
 
 msgid "Set system environment variable"
-msgstr "Set system environment variable"
+msgstr "Добавить системную переменную окружения"
 
 msgid "Shortcut"
 msgstr "Сочетание клавиш"
@@ -1562,10 +1562,10 @@ msgid "Show"
 msgstr "Показывать"
 
 msgid "Show Offsets"
-msgstr "Show Offsets"
+msgstr "Показать смещения"
 
 msgid "Show Presentation"
-msgstr "Show Presentation"
+msgstr "Показать представление"
 
 msgid "Show all"
 msgstr "Показать всё"
@@ -1598,7 +1598,7 @@ msgid "Show version"
 msgstr "Показать версию"
 
 msgid "Sign tool"
-msgstr "Инструмент подписания"
+msgstr "Sign tool"
 
 msgid "Signature"
 msgstr "Сигнатура"
@@ -1622,7 +1622,7 @@ msgid "Size of image"
 msgstr "Размер образа"
 
 msgid "Social Media"
-msgstr "Social Media"
+msgstr "Соц-сети"
 
 msgid "Sort"
 msgstr "Сортировка"
@@ -1667,22 +1667,22 @@ msgid "Stop"
 msgstr "Стоп"
 
 msgid "Stream"
-msgstr "Stream"
+msgstr "Поток данных"
 
 msgid "Stream Footer"
-msgstr "Stream Footer"
+msgstr "Завершение потока данных"
 
 msgid "Stream Header"
-msgstr "Stream Header"
+msgstr "Заголовок потока данных"
 
 msgid "Stream offset"
-msgstr "Stream offset"
+msgstr "Смещение потока данных"
 
 msgid "Stream size"
-msgstr "Stream size"
+msgstr "Размер потока данных"
 
 msgid "Streams"
-msgstr "Streams"
+msgstr "Потоки данных"
 
 msgid "String"
 msgstr "Строка"
@@ -1694,7 +1694,7 @@ msgid "Strings"
 msgstr "Строки"
 
 msgid "Strings view not implemented yet"
-msgstr "Strings view not implemented yet"
+msgstr "Представление строк пока не реализовано"
 
 msgid "Struct"
 msgstr "Структура"
@@ -1733,7 +1733,7 @@ msgid "Syntax"
 msgstr "Синтаксис"
 
 msgid "TABLE"
-msgstr "TABLE"
+msgstr "ТАБЛИЦА"
 
 msgid "TB"
 msgstr "ТБ"
@@ -1742,7 +1742,7 @@ msgid "Table"
 msgstr "Таблица"
 
 msgid "Table Directory"
-msgstr "Table Directory"
+msgstr "Каталог таблиц"
 
 msgid "Table of contents"
 msgstr "Таблица с содержимым"
@@ -1751,7 +1751,7 @@ msgid "Table views"
 msgstr "Виды таблиц"
 
 msgid "Tag"
-msgstr "Tag"
+msgstr "Тэг"
 
 msgid "Tags"
 msgstr "Тэги"
@@ -1760,10 +1760,10 @@ msgid "Text"
 msgstr "Текст"
 
 msgid "Text color"
-msgstr "Text color"
+msgstr "Цвет текста"
 
 msgid "Text content"
-msgstr "Text content"
+msgstr "Содержимое текста"
 
 msgid "Text documents"
 msgstr "Текстовые документы"
@@ -1808,7 +1808,7 @@ msgid "Time date stamp"
 msgstr "Отметка времени"
 
 msgid "Toggle"
-msgstr "Переключать"
+msgstr "Переключить"
 
 msgid "Tool"
 msgstr "Инструмент"
@@ -1829,7 +1829,7 @@ msgid "Trace over"
 msgstr "Проследить за"
 
 msgid "Trailer"
-msgstr "Trailer"
+msgstr "Трейлер"
 
 msgid "Tree"
 msgstr "Дерево"
@@ -1847,13 +1847,13 @@ msgid "Type"
 msgstr "Тип"
 
 msgid "U.Size"
-msgstr "U.Size"
+msgstr "Размер по U"
 
 msgid "UNKNOWN"
-msgstr "UNKNOWN"
+msgstr "НЕИЗВЕСТНО"
 
 msgid "Unexpected end of data"
-msgstr "Unexpected end of data"
+msgstr "Неожиданное окончание данных"
 
 msgid "Unicode"
 msgstr "Юникод"
@@ -1865,16 +1865,16 @@ msgid "Unknown"
 msgstr "Неизвестно"
 
 msgid "Unknown compression method"
-msgstr "Unknown compression method"
+msgstr "Неизвестный метод сжатия"
 
 msgid "Unpack"
 msgstr "Распаковать"
 
 msgid "Unsigned"
-msgstr "Без подписи"
+msgstr "Беззнаковый"
 
 msgid "Update"
-msgstr "Update"
+msgstr "Обновить"
 
 msgid "Update information"
 msgstr "Обновить информацию"
@@ -1889,10 +1889,10 @@ msgid "Uppercase"
 msgstr "Верхний регистр"
 
 msgid "Use cache"
-msgstr "Use cache"
+msgstr "Использовать кэш"
 
 msgid "V.Size"
-msgstr "V.Size"
+msgstr "Размер по V"
 
 msgid "Value"
 msgstr "Значение"
@@ -1958,7 +1958,7 @@ msgid "YARA rules path not found"
 msgstr "YARA rules path not found"
 
 msgid "YARA scan failed"
-msgstr "YARA scan failed"
+msgstr "Ошибка сканирования YARA"
 
 msgid "Zeros"
 msgstr "Нули"
@@ -1967,10 +1967,10 @@ msgid "Zoom"
 msgstr "Масштаб"
 
 msgid "Zoom In"
-msgstr "Zoom In"
+msgstr "Увеличить масштаб"
 
 msgid "Zoom Out"
-msgstr "Zoom Out"
+msgstr "Уменьшить масштаб"
 
 msgid "data"
 msgstr "данные"
