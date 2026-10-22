@@ -4,6 +4,32 @@ import re
 import os
 
 def main():
+    LANGUAGES = {
+        'ar': 'Arabic',
+        'bn': 'Bangla',
+        'de': 'German',
+        'es': 'Spanish',
+        'fa': 'Persian',
+        'fr': 'French',
+        'he_il': 'Hebrew',
+        'hi_in': 'Hindi',
+        'id': 'Indonesian',
+        'it': 'Italian',
+        'ja': 'Japanese',
+        'ko': 'Korean',
+        'pl': 'Polish',
+        'pt-br': 'Portuguese, Brazil',
+        'pt-pt': 'Portuguese',
+        'ru': 'Russian',
+        'sq': 'Albanian',
+        'sv': 'Swedish',
+        'tr': 'Turkish',
+        'uk': 'Ukrainian',
+        'vi': 'Vietnamese',
+        'zh-tw': 'Chinese, Taiwan',
+        'zh': 'Chinese'
+    }
+
     readme_path = 'README.md'
     with open(readme_path, 'r', encoding='utf-8') as f:
         readme = f.read()
@@ -16,16 +42,13 @@ def main():
     
     for file in files:
         lang_code = os.path.basename(file).replace('dict_', '').replace('.po', '')
+        
+        if lang_code.lower() == 'en':
+            continue
+            
         po = polib.pofile(file)
         
-        lang_name = lang_code
-        if 'Language-Team' in po.metadata and po.metadata['Language-Team'] != 'LANGUAGE <LL@li.org>':
-            lang_name = po.metadata['Language-Team'].split('<')[0].strip()
-        elif 'Language' in po.metadata:
-            lang_name = po.metadata['Language']
-        
-        if not lang_name or lang_name.lower() == lang_code.lower():
-            lang_name = lang_code.capitalize()
+        lang_name = LANGUAGES.get(lang_code.lower(), lang_code)
         
         valid_entries = [e for e in po if not e.obsolete]
         
@@ -49,6 +72,7 @@ def main():
     main_badge = f'![Overall](https://img.shields.io/badge/Translation_Progress-{overall_percent}%25-{overall_color})'
 
     table_text = '\n'.join(table_lines)
+    
     readme = re.sub(
         r'<!-- PO_TABLE_START -->.*<!-- PO_TABLE_END -->', 
         f'<!-- PO_TABLE_START -->\n{table_text}\n<!-- PO_TABLE_END -->', 
