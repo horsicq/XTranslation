@@ -1,0 +1,33 @@
+name: Update PO Badges
+on:
+  push:
+    paths:
+      - 'dicts/*.po'
+    branches:
+      - master
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+          
+      - name: Install dependencies
+        run: pip install polib
+        
+      - name: Calculate progress and update README
+        run: python scripts/update_badges.py
+          
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: Update translation progress badges"
+          file_pattern: README.md
