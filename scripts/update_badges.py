@@ -11,7 +11,7 @@ def main():
         'es': 'Spanish',
         'fa': 'Persian',
         'fr': 'French',
-        'he_il': 'Hebrew',
+        'he': 'Hebrew',
         'hi_in': 'Hindi',
         'id': 'Indonesian',
         'it': 'Italian',
