@@ -1,0 +1,2006 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: hy_AM\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Language: en_US\n"
+"X-Generator: Poedit 3.9\n"
+
+msgid "128-bit"
+msgstr "128-բիթ"
+
+msgid "16-bit"
+msgstr "16-բիթ"
+
+msgid "256-bit"
+msgstr "256-բիթ"
+
+msgid "32-bit"
+msgstr "32-բիթ"
+
+msgid "64-bit"
+msgstr "64-բիթ"
+
+msgid "8-bit"
+msgstr "8-բիթ"
+
+msgid "API key"
+msgstr "API բանալի"
+
+msgid "APK tool"
+msgstr "APK գործիք"
+
+msgid "About"
+msgstr "Ծրագրի մասին"
+
+msgid "Action"
+msgstr "Գործողություն"
+
+msgid "Actual Size"
+msgstr "Իրական չափս"
+
+msgid "Add"
+msgstr "Ավելացնել"
+
+msgid "Add alignment"
+msgstr "Ավելացնել հավասարեցում"
+
+msgid "Add to context menu"
+msgstr "Ավելացնել համատեքստային ընտրացանկում"
+
+msgid "Address"
+msgstr "Հասցե"
+
+msgid "Adler32"
+msgstr "Adler32"
+
+msgid "Advanced"
+msgstr "Ընդլայնված"
+
+msgid "Aggressive scan"
+msgstr "Ագրեսիվ սկանավորում"
+
+msgid "Algorithm"
+msgstr "Ալգորիթմ"
+
+msgid "All"
+msgstr "Բոլորը"
+
+msgid "All file types"
+msgstr "Ֆայլերի բոլոր տեսակները"
+
+msgid "All files"
+msgstr "Բոլոր ֆայլերը"
+
+msgid "All types"
+msgstr "Բոլոր տեսակները"
+
+msgid "Analyze"
+msgstr "Վերլուծել"
+
+msgid "Analyzed"
+msgstr "Վերլուծված է"
+
+msgid "Anchor Volume Descriptor"
+msgstr "Հենակետային հատորի նկարագրիչ"
+
+msgid "Animate"
+msgstr "Անիմացնել"
+
+msgid "Appearance"
+msgstr "Տեսք"
+
+msgid "Application"
+msgstr "Հավելված"
+
+msgid "Application Extension"
+msgstr "Հավելվածի ընդլայնում"
+
+msgid "Architecture"
+msgstr "Ճարտարապետություն"
+
+msgid "Archive"
+msgstr "Արխիվ"
+
+msgid "Archive Explorer"
+msgstr "Արխիվների զննարկիչ"
+
+msgid "Archive record"
+msgstr "Արխիվային գրառում"
+
+msgid "Archive scan"
+msgstr "Արխիվի սկանավորում"
+
+msgid "Archives"
+msgstr "Արխիվներ"
+
+msgid "Array"
+msgstr "Զանգված"
+
+msgid "Arrows"
+msgstr "Սլաքներ"
+
+msgid "Attach"
+msgstr "Կցել"
+
+msgid "Attributes"
+msgstr "Ատրիբուտներ"
+
+msgid "Audio"
+msgstr "Աուդիո"
+
+msgid "Author"
+msgstr "Հեղինակ"
+
+msgid "Auto"
+msgstr "Ավտո"
+
+msgid "Automatic"
+msgstr "Ավտոմատ"
+
+msgid "Background"
+msgstr "Ֆոն"
+
+msgid "Background color"
+msgstr "Ֆոնի գույն"
+
+msgid "Base"
+msgstr "Բազա"
+
+msgid "Base address"
+msgstr "Բազային հասցե"
+
+msgid "Begin"
+msgstr "Սկիզբ"
+
+msgid "Binary"
+msgstr "Երկուական"
+
+msgid "Bind"
+msgstr "Կապել"
+
+msgid "Binding"
+msgstr "Կապում"
+
+msgid "Bitmap Data"
+msgstr "Կետային պատկերի տվյալներ"
+
+msgid "Bits"
+msgstr "Բիթեր"
+
+msgid "Block size"
+msgstr "Բլոկի չափս"
+
+msgid "Bookmark"
+msgstr "Էջանիշ"
+
+msgid "Bookmarks"
+msgstr "Էջանիշեր"
+
+msgid "Boot application"
+msgstr "Բեռնման հավելված"
+
+msgid "Boot service driver"
+msgstr "Բեռնման ծառայության դրայվեր"
+
+msgid "Bound import"
+msgstr "Կապված ներմուծում"
+
+msgid "Box"
+msgstr "Տուփ"
+
+msgid "Boxes"
+msgstr "Տուփեր"
+
+msgid "Breakpoint"
+msgstr "Ընդհատման կետ"
+
+msgid "Breakpoints"
+msgstr "Ընդհատման կետեր"
+
+msgid "Buffer size"
+msgstr "Բուֆերի չափս"
+
+msgid "Bugreports"
+msgstr "Սխալների մասին զեկույցներ"
+
+msgid "Bundle"
+msgstr "Փաթեթ"
+
+msgid "Byte"
+msgstr "Բայթ"
+
+msgid "Bytes"
+msgstr "Բայթեր"
+
+msgid "Bytes available"
+msgstr "Հասանելի բայթեր"
+
+msgid "CPU"
+msgstr "CPU"
+
+msgid "Calculate"
+msgstr "Հաշվարկել"
+
+msgid "Callbacks"
+msgstr "Հետադարձ կանչեր"
+
+msgid "Callstack"
+msgstr "Կանչերի ստեկ"
+
+msgid "Cancel"
+msgstr "Չեղարկել"
+
+msgid "Cannot build YARA rules"
+msgstr "Հնարավոր չէ կառուցել YARA կանոնները"
+
+msgid "Cannot create"
+msgstr "Հնարավոր չէ ստեղծել"
+
+msgid "Cannot create YARA compiler"
+msgstr "Հնարավոր չէ ստեղծել YARA կոմպիլյատոր"
+
+msgid "Cannot create temporary unpack directory."
+msgstr "Հնարավոր չէ ստեղծել ժամանակավոր ապափաթեթավորման պանակ։"
+
+msgid "Cannot decompress"
+msgstr "Հնարավոր չէ ապասեղմել"
+
+msgid "Cannot fetch release metadata for %1."
+msgstr "Հնարավոր չէ ստանալ թողարկման մետատվյալները %1-ի համար։"
+
+msgid "Cannot find"
+msgstr "Հնարավոր չէ գտնել"
+
+msgid "Cannot find ZIP asset %1 in release %2."
+msgstr "Հնարավոր չէ գտնել %1 ZIP ռեսուրսը %2 թողարկման մեջ։"
+
+msgid "Cannot find file"
+msgstr "Հնարավոր չէ գտնել ֆայլը"
+
+msgid "Cannot fix dump file"
+msgstr "Հնարավոր չէ ուղղել դամփի ֆայլը"
+
+msgid "Cannot get PDB age"
+msgstr "Հնարավոր չէ ստանալ PDB-ի տարիքը"
+
+msgid "Cannot get PDB name"
+msgstr "Հնարավոր չէ ստանալ PDB-ի անունը"
+
+msgid "Cannot load MSDIA library"
+msgstr "Հնարավոր չէ բեռնել MSDIA գրադարանը"
+
+msgid "Cannot load data from PDB"
+msgstr "Հնարավոր չէ բեռնել տվյալները PDB-ից"
+
+msgid "Cannot load database"
+msgstr "Հնարավոր չէ բեռնել տվյալների բազան"
+
+msgid "Cannot load file"
+msgstr "Հնարավոր չէ բեռնել ֆայլը"
+
+msgid "Cannot open archive"
+msgstr "Հնարավոր չէ բացել արխիվը"
+
+msgid "Cannot open dump file"
+msgstr "Հնարավոր չէ բացել դամփի ֆայլը"
+
+msgid "Cannot open file"
+msgstr "Հնարավոր չէ բացել ֆայլը"
+
+msgid "Cannot open rules file"
+msgstr "Հնարավոր չէ բացել կանոնների ֆայլը"
+
+msgid "Cannot open scan target"
+msgstr "Հնարավոր չէ բացել սկանավորման թիրախը"
+
+msgid "Cannot open session"
+msgstr "Հնարավոր չէ բացել սեսիան"
+
+msgid "Cannot read file"
+msgstr "Հնարավոր չէ կարդալ ֆայլը"
+
+msgid "Cannot read local info.ini for %1, skipping."
+msgstr "Հնարավոր չէ կարդալ տեղային info.ini-ն %1-ի համար, բաց է թողնվում։"
+
+msgid "Cannot read memory at address"
+msgstr "Հնարավոր չէ կարդալ հիշողությունը նշված հասցեում"
+
+msgid "Cannot resize"
+msgstr "Հնարավոր չէ փոխել չափսը"
+
+msgid "Cannot save file"
+msgstr "Հնարավոր չէ պահպանել ֆայլը"
+
+msgid "Cannot set shortcut"
+msgstr "Հնարավոր չէ սահմանել դյուրանցումը"
+
+msgid "Cannot unpack"
+msgstr "Հնարավոր չէ ապափաթեթավորել"
+
+msgid "Cannot unpack data"
+msgstr "Հնարավոր չէ ապափաթեթավորել տվյալները"
+
+msgid "Cannot write data to file"
+msgstr "Հնարավոր չէ գրել տվյալները ֆայլում"
+
+msgid "Catalog"
+msgstr "Կատալոգ"
+
+msgid "Certificate"
+msgstr "Հավաստագիր"
+
+msgid "Check"
+msgstr "Ստուգել"
+
+msgid "Check for updates"
+msgstr "Ստուգել թարմացումները"
+
+msgid "Check updates"
+msgstr "Ստուգել թարմացումները"
+
+msgid "Chunk"
+msgstr "Հատված"
+
+msgid "Chunks"
+msgstr "Հատվածներ"
+
+msgid "Class info"
+msgstr "Դասի տեղեկություն"
+
+msgid "Clear"
+msgstr "Մաքրել"
+
+msgid "Clear result"
+msgstr "Մաքրել արդյունքը"
+
+msgid "Close"
+msgstr "Փակել"
+
+msgid "Code Object"
+msgstr "Կոդի օբյեկտ"
+
+msgid "Code pages"
+msgstr "Կոդային էջեր"
+
+msgid "Code section"
+msgstr "Կոդի բաժին"
+
+msgid "Collection"
+msgstr "Հավաքածու"
+
+msgid "Color"
+msgstr "Գույն"
+
+msgid "Colors"
+msgstr "Գույներ"
+
+msgid "Commands"
+msgstr "Հրամաններ"
+
+msgid "Comment"
+msgstr "Մեկնաբանություն"
+
+msgid "Comment Extension"
+msgstr "Մեկնաբանության ընդլայնում"
+
+msgid "Compact"
+msgstr "Կոմպակտ"
+
+msgid "Compiler"
+msgstr "Կոմպիլյատոր"
+
+msgid "Compress"
+msgstr "Սեղմել"
+
+msgid "Compressed"
+msgstr "Սեղմված"
+
+msgid "Compressed Data"
+msgstr "Սեղմված տվյալներ"
+
+msgid "Compressed size"
+msgstr "Սեղմված չափս"
+
+msgid "Compressor"
+msgstr "Սեղմիչ"
+
+msgid "Conditional"
+msgstr "Պայմանական"
+
+msgid "Console"
+msgstr "Վահանակ"
+
+msgid "Constant pool"
+msgstr "Հաստատունների պահոց"
+
+msgid "Controls"
+msgstr "Կառավարման տարրեր"
+
+msgid "Converter"
+msgstr "Փոխարկիչ"
+
+msgid "Convertor"
+msgstr "Փոխարկիչ"
+
+msgid "Copy"
+msgstr "Պատճենել"
+
+msgid "Copy as"
+msgstr "Պատճենել որպես"
+
+msgid "Corrupted data"
+msgstr "Վնասված տվյալներ"
+
+msgid "Count"
+msgstr "Քանակ"
+
+msgid "Creator"
+msgstr "Ստեղծող"
+
+msgid "Crypter"
+msgstr "Գաղտնագրիչ"
+
+msgid "Cryptor"
+msgstr "Գաղտնագրիչ"
+
+msgid "Cursor"
+msgstr "Կուրսոր"
+
+msgid "Custom"
+msgstr "Ընտրովի"
+
+msgid "Custom database"
+msgstr "Ընտրովի տվյալների բազա"
+
+msgid "DOS extender"
+msgstr "DOS ընդլայնիչ"
+
+msgid "Data"
+msgstr "Տվյալներ"
+
+msgid "Data convertor"
+msgstr "Տվյալների փոխարկիչ"
+
+msgid "Data in code"
+msgstr "Տվյալներ կոդում"
+
+msgid "Database"
+msgstr "Տվյալների բազա"
+
+msgid "Databases"
+msgstr "Տվյալների բազաներ"
+
+msgid "Date"
+msgstr "Ամսաթիվ"
+
+msgid "Debug"
+msgstr "Վրիպազերծում"
+
+msgid "Debug data"
+msgstr "Վրիպազերծման տվյալներ"
+
+msgid "Debug registers"
+msgstr "Վրիպազերծման ռեգիստրներ"
+
+msgid "Debugger"
+msgstr "Վրիպազերծիչ"
+
+msgid "Decode"
+msgstr "Ապակոդավորել"
+
+msgid "Deep scan"
+msgstr "Խորը սկանավորում"
+
+msgid "Default"
+msgstr "Լռելյայն"
+
+msgid "Delay import"
+msgstr "Հետաձգված ներմուծում"
+
+msgid "Demangle"
+msgstr "Վերականգնել անունները (Demangle)"
+
+msgid "Dependencies"
+msgstr "Կախվածություններ"
+
+msgid "Description"
+msgstr "Նկարագրություն"
+
+msgid "Detach"
+msgstr "Անջատել"
+
+msgid "Detect"
+msgstr "Հայտնաբերել"
+
+msgid "Device scan"
+msgstr "Սարքի սկանավորում"
+
+msgid "Diagram"
+msgstr "Դիագրամ"
+
+msgid "Dialog"
+msgstr "Երկխոսության պատուհան"
+
+msgid "Directory"
+msgstr "Պանակ"
+
+msgid "Directory scan"
+msgstr "Պանակի սկանավորում"
+
+msgid "Disasm"
+msgstr "Դիսասեմբլեր"
+
+msgid "Document"
+msgstr "Փաստաթուղթ"
+
+msgid "Documents"
+msgstr "Փաստաթղթեր"
+
+msgid "Donate"
+msgstr "Նվիրաբերել"
+
+msgid "Downloaded file is empty"
+msgstr "Ներբեռնված ֆայլը դատարկ է"
+
+msgid "Downloaded file is not a valid ZIP archive"
+msgstr "Ներբեռնված ֆայլը վավեր ZIP արխիվ չէ"
+
+msgid "Driver"
+msgstr "Դրայվեր"
+
+msgid "Dump"
+msgstr "Դամփ"
+
+msgid "Dump all"
+msgstr "Դամփ անել բոլորը"
+
+msgid "Dump to file"
+msgstr "Պահպանել դամփը ֆայլում"
+
+msgid "Edit"
+msgstr "Խմբագրել"
+
+msgid "Edit Flags"
+msgstr "Խմբագրել դրոշակները"
+
+msgid "Edit Size"
+msgstr "Խմբագրել չափսը"
+
+msgid "Edit String"
+msgstr "Խմբագրել տողը"
+
+msgid "Edit Value"
+msgstr "Խմբագրել արժեքը"
+
+msgid "Editor"
+msgstr "Խմբագրիչ"
+
+msgid "Elapsed"
+msgstr "Անցած ժամանակը"
+
+msgid "Encode"
+msgstr "Կոդավորել"
+
+msgid "Encrypted"
+msgstr "Գաղտնագրված"
+
+msgid "End"
+msgstr "Վերջ"
+
+msgid "Endianness"
+msgstr "Բայթերի հերթականություն"
+
+msgid "Entries"
+msgstr "Գրառումներ"
+
+msgid "Entropy"
+msgstr "Էնտրոպիա"
+
+msgid "Entropy view not implemented yet"
+msgstr "Էնտրոպիայի դիտումը դեռ իրականացված չէ"
+
+msgid "Entry point"
+msgstr "Մուտքի կետ"
+
+msgid "Entry point section"
+msgstr "Մուտքի կետի բաժին"
+
+msgid "Error"
+msgstr "Սխալ"
+
+msgid "Exceptions"
+msgstr "Բացառություններ"
+
+msgid "Exit"
+msgstr "Ելք"
+
+msgid "Export"
+msgstr "Արտահանում"
+
+msgid "Export File Name"
+msgstr "Արտահանման ֆայլի անունը"
+
+msgid "Export type"
+msgstr "Արտահանման տեսակը"
+
+msgid "Extender"
+msgstr "Ընդլայնիչ"
+
+msgid "Extension"
+msgstr "Ընդլայնում"
+
+msgid "External references"
+msgstr "Արտաքին հղումներ"
+
+msgid "Extra"
+msgstr "Լրացուցիչ"
+
+msgid "Extra database"
+msgstr "Լրացուցիչ տվյալների բազա"
+
+msgid "Extra database updated successfully"
+msgstr "Լրացուցիչ տվյալների բազան հաջողությամբ թարմացվեց"
+
+msgid "Extract"
+msgstr "Հանել"
+
+msgid "Extract all cursors"
+msgstr "Հանել բոլոր կուրսորները"
+
+msgid "Extract all icons"
+msgstr "Հանել բոլոր պատկերակները"
+
+msgid "Extractor"
+msgstr "Ապափաթեթավորիչ"
+
+msgid "Failed to create temporary directory"
+msgstr "Չհաջողվեց ստեղծել ժամանակավոր պանակ"
+
+msgid "Failed to extract %1."
+msgstr "Չհաջողվեց հանել %1-ը։"
+
+msgid "Failed to extract archive: no files extracted"
+msgstr "Չհաջողվեց հանել արխիվը. ֆայլեր չեն հանվել"
+
+msgid "Failed to get remote database info"
+msgstr "Չհաջողվեց ստանալ հեռակա տվյալների բազայի տեղեկությունները"
+
+msgid "Failed to initialize ZIP unpacking"
+msgstr "Չհաջողվեց սկզբնավորել ZIP-ի ապափաթեթավորումը"
+
+msgid "Failed to open downloaded zip file"
+msgstr "Չհաջողվեց բացել ներբեռնված zip ֆայլը"
+
+msgid "Failed to save image to %1"
+msgstr "Չհաջողվեց պահպանել պատկերը %1-ում"
+
+msgid "Features"
+msgstr "Հնարավորություններ"
+
+msgid "Fields"
+msgstr "Դաշտեր"
+
+msgid "File"
+msgstr "Ֆայլ"
+
+msgid "File buffer size"
+msgstr "Ֆայլի բուֆերի չափս"
+
+msgid "File info"
+msgstr "Ֆայլի տեղեկություն"
+
+msgid "File name"
+msgstr "Ֆայլի անուն"
+
+msgid "File name cannot be empty"
+msgstr "Ֆայլի անունը չի կարող դատարկ լինել"
+
+msgid "File offset"
+msgstr "Ֆայլի շեղում"
+
+msgid "File saved"
+msgstr "Ֆայլը պահպանված է"
+
+msgid "File scan"
+msgstr "Ֆայլի սկանավորում"
+
+msgid "File size"
+msgstr "Ֆայլի չափս"
+
+msgid "File type"
+msgstr "Ֆայլի տեսակ"
+
+msgid "Files"
+msgstr "Ֆայլեր"
+
+msgid "Filter"
+msgstr "Զտիչ"
+
+msgid "Find"
+msgstr "Գտնել"
+
+msgid "First"
+msgstr "Առաջին"
+
+msgid "Fit to Window"
+msgstr "Հարմարեցնել պատուհանին"
+
+msgid "Fix offsets"
+msgstr "Ուղղել շեղումները"
+
+msgid "Fix types"
+msgstr "Ուղղել տեսակները"
+
+msgid "Flags"
+msgstr "Դրոշակներ"
+
+msgid "Flags register"
+msgstr "Դրոշակների ռեգիստր"
+
+msgid "Folder"
+msgstr "Պանակ"
+
+msgid "Follow in"
+msgstr "Հետևել այստեղ՝"
+
+msgid "Follow me"
+msgstr "Հետևել ինձ"
+
+msgid "Fonts"
+msgstr "Տառատեսակներ"
+
+msgid "Footer"
+msgstr "Ստորին էջախորագիր"
+
+msgid "Form"
+msgstr "Ձև"
+
+msgid "Format"
+msgstr "Ձևաչափ"
+
+msgid "Format result"
+msgstr "Ձևաչափել արդյունքը"
+
+msgid "Full"
+msgstr "Լրիվ"
+
+msgid "Full screen"
+msgstr "Լիաէկրան"
+
+msgid "Function enter"
+msgstr "Մուտք ֆունկցիա"
+
+msgid "Function leave"
+msgstr "Ելք ֆունկցիայից"
+
+msgid "Functions"
+msgstr "Ֆունկցիաներ"
+
+msgid "GB"
+msgstr "ԳԲ"
+
+msgid "Game engine"
+msgstr "Խաղային շարժիչ"
+
+msgid "General registers"
+msgstr "Ընդհանուր ռեգիստրներ"
+
+msgid "Generic"
+msgstr "Ընդհանուր"
+
+msgid "Get"
+msgstr "Ստանալ"
+
+msgid "Get element"
+msgstr "Ստանալ տարրը"
+
+msgid "GiB"
+msgstr "ԳիԲ"
+
+msgid "Global Color Table"
+msgstr "Գույների գլոբալ աղյուսակ"
+
+msgid "Go to"
+msgstr "Անցնել"
+
+msgid "Go to address"
+msgstr "Անցնել հասցեին"
+
+msgid "Go to download page?"
+msgstr "Անցնե՞լ ներբեռնման էջ։"
+
+msgid "Gradient"
+msgstr "Գրադիենտ"
+
+msgid "Graphic Control Extension"
+msgstr "Գրաֆիկական կառավարման ընդլայնում"
+
+msgid "Grid"
+msgstr "Ցանց"
+
+msgid "Group"
+msgstr "Խումբ"
+
+msgid "Handles"
+msgstr "Դեսկրիպտորներ"
+
+msgid "Hardware"
+msgstr "Սարքաշար"
+
+msgid "Hash"
+msgstr "Հեշ"
+
+msgid "Hash view not implemented yet"
+msgstr "Հեշի դիտումը դեռ իրականացված չէ"
+
+msgid "Header"
+msgstr "Վերնագիր"
+
+msgid "Height"
+msgstr "Բարձրություն"
+
+msgid "Help"
+msgstr "Օգնություն"
+
+msgid "Heuristic"
+msgstr "Էվրիստիկ"
+
+msgid "Heuristic scan"
+msgstr "Էվրիստիկ սկանավորում"
+
+msgid "Heuristics"
+msgstr "Էվրիստիկա"
+
+msgid "Hex"
+msgstr "Hex"
+
+msgid "Hex view not implemented yet"
+msgstr "Hex դիտումը դեռ իրականացված չէ"
+
+msgid "Hide unknown"
+msgstr "Թաքցնել անհայտները"
+
+msgid "Highlight"
+msgstr "Գունանշել"
+
+msgid "Highlights"
+msgstr "Գունանշումներ"
+
+msgid "Icon"
+msgstr "Պատկերակ"
+
+msgid "Image"
+msgstr "Պատկեր"
+
+msgid "Image information"
+msgstr "Պատկերի տեղեկություն"
+
+msgid "Images"
+msgstr "Պատկերներ"
+
+msgid "Import"
+msgstr "Ներմուծում"
+
+msgid "Import hash"
+msgstr "Ներմուծման հեշ"
+
+msgid "Indirect symbols"
+msgstr "Անուղղակի սիմվոլներ"
+
+msgid "Info"
+msgstr "Տեղեկություն"
+
+msgid "Info database update URL"
+msgstr "Տեղեկատվական բազայի թարմացման URL"
+
+msgid "Information"
+msgstr "Տեղեկատվություն"
+
+msgid "Input"
+msgstr "Մուտքագրում"
+
+msgid "Inspector"
+msgstr "Տեսուչ"
+
+msgid "Installer"
+msgstr "Տեղադրիչ"
+
+msgid "Installer data"
+msgstr "Տեղադրիչի տվյալներ"
+
+msgid "Instruction pointer register"
+msgstr "Հրահանգների ցուցիչի ռեգիստր"
+
+msgid "Interfaces"
+msgstr "Ինտերֆեյսներ"
+
+msgid "Interpreter"
+msgstr "Ինտերպրետատոր"
+
+msgid "Invalid"
+msgstr "Անվավեր"
+
+msgid "Invalid CRC"
+msgstr "Անվավեր CRC"
+
+msgid "Invalid YARA compiler"
+msgstr "Անվավեր YARA կոմպիլյատոր"
+
+msgid "Invalid data"
+msgstr "Անվավեր տվյալներ"
+
+msgid "Invalid font"
+msgstr "Անվավեր տառատեսակ"
+
+msgid "Invalid format data"
+msgstr "Անվավեր ձևաչափի տվյալներ"
+
+msgid "Invalid handle"
+msgstr "Անվավեր դեսկրիպտոր"
+
+msgid "Invalid offset"
+msgstr "Անվավեր շեղում"
+
+msgid "Invalid opcode"
+msgstr "Անվավեր օպկոդ"
+
+msgid "Invalid parameters provided"
+msgstr "Տրամադրված են անվավեր պարամետրեր"
+
+msgid "Invalid release body for %1. Expected date=yyyy-MM-dd."
+msgstr "Անվավեր թողարկման բովանդակություն %1-ի համար։ Ակնկալվում էր date=yyyy-MM-dd։"
+
+msgid "Invalid signature"
+msgstr "Անվավեր ստորագրություն"
+
+msgid "Invalid size"
+msgstr "Անվավեր չափս"
+
+msgid "Issuer"
+msgstr "Թողարկող"
+
+msgid "Joiner"
+msgstr "Միավորիչ"
+
+msgid "Keep size"
+msgstr "Պահպանել չափսը"
+
+msgid "KiB"
+msgstr "ԿիԲ"
+
+msgid "Language"
+msgstr "Լեզու"
+
+msgid "Last"
+msgstr "Վերջին"
+
+msgid "Last error"
+msgstr "Վերջին սխալը"
+
+msgid "Lazy binding"
+msgstr "Հետաձգված կապում"
+
+msgid "Length"
+msgstr "Երկարություն"
+
+msgid "Libraries"
+msgstr "Գրադարաններ"
+
+msgid "Library"
+msgstr "Գրադարան"
+
+msgid "Library name"
+msgstr "Գրադարանի անուն"
+
+msgid "Licensing"
+msgstr "Լիցենզավորում"
+
+msgid "Linker"
+msgstr "Կապակցիչ"
+
+msgid "Links"
+msgstr "Հղումներ"
+
+msgid "List"
+msgstr "Ցանկ"
+
+msgid "Load"
+msgstr "Բեռնել"
+
+msgid "Load config"
+msgstr "Բեռնման կարգավորում"
+
+msgid "Loader"
+msgstr "Բեռնիչ"
+
+msgid "Local relocation"
+msgstr "Տեղային վերաբաշխում"
+
+msgid "Location"
+msgstr "Տեղադրություն"
+
+msgid "Log"
+msgstr "Մատյան"
+
+msgid "Logical Screen Descriptor"
+msgstr "Տրամաբանական էկրանի նկարագրիչ"
+
+msgid "MB"
+msgstr "ՄԲ"
+
+msgid "Main"
+msgstr "Գլխավոր"
+
+msgid "Main database updated successfully"
+msgstr "Գլխավոր տվյալների բազան հաջողությամբ թարմացվեց"
+
+msgid "Main module"
+msgstr "Գլխավոր մոդուլ"
+
+msgid "MainWindow"
+msgstr "Գլխավոր պատուհան"
+
+msgid "Malware"
+msgstr "Վնասաբեր ծրագիր"
+
+msgid "Manifest"
+msgstr "Մանիֆեստ"
+
+msgid "Map"
+msgstr "Քարտեզ"
+
+msgid "Maps"
+msgstr "Քարտեզներ"
+
+msgid "Mask"
+msgstr "Դիմակ"
+
+msgid "Match case"
+msgstr "Հաշվի առնել մեծատառ/փոքրատառը"
+
+msgid "Matches"
+msgstr "Համընկնումներ"
+
+msgid "Maximum"
+msgstr "Առավելագույն"
+
+msgid "Memory"
+msgstr "Հիշողություն"
+
+msgid "Memory map"
+msgstr "Հիշողության քարտեզ"
+
+msgid "Memory scan"
+msgstr "Հիշողության սկանավորում"
+
+msgid "Metadata"
+msgstr "Մետատվյալներ"
+
+msgid "Metadata table"
+msgstr "Մետատվյալների աղյուսակ"
+
+msgid "Method"
+msgstr "Մեթոդ"
+
+msgid "Methods"
+msgstr "Մեթոդներ"
+
+msgid "MiB"
+msgstr "ՄիԲ"
+
+msgid "Min length"
+msgstr "Նվազագույն երկարություն"
+
+msgid "Missing Resources"
+msgstr "Բացակայող ռեսուրսներ"
+
+msgid "Mode"
+msgstr "Ռեժիմ"
+
+msgid "Mode is not available for this file type"
+msgstr "Ռեժիմը հասանելի չէ ֆայլի այս տեսակի համար"
+
+msgid "Modules"
+msgstr "Մոդուլներ"
+
+msgid "More info"
+msgstr "Ավելի շատ տեղեկություն"
+
+msgid "Multiplatform"
+msgstr "Բազմահարթակ"
+
+msgid "Multisearch"
+msgstr "Բազմակի որոնում"
+
+msgid "Name"
+msgstr "Անուն"
+
+msgid "Native"
+msgstr "Բնօրինակ"
+
+msgid "Network error"
+msgstr "Ցանցային սխալ"
+
+msgid "Network error while checking for database updates"
+msgstr "Ցանցային սխալ՝ տվյալների բազայի թարմացումները ստուգելիս"
+
+msgid "New"
+msgstr "Նոր"
+
+msgid "New version available"
+msgstr "Հասանելի է նոր տարբերակ"
+
+msgid "Next"
+msgstr "Հաջորդը"
+
+msgid "Next visited"
+msgstr "Հաջորդ այցելած"
+
+msgid "No"
+msgstr "Ոչ"
+
+msgid "No YARA rules were loaded"
+msgstr "YARA կանոններ չեն բեռնվել"
+
+msgid "No image loaded"
+msgstr "Պատկեր չի բեռնվել"
+
+msgid "No local info.ini for %1. Bootstrapping from GitHub release %2."
+msgstr "Տեղային info.ini չկա %1-ի համար։ Սկզբնավորում GitHub-ի %2 թողարկումից։"
+
+msgid "No update available"
+msgstr "Թարմացումներ չկան"
+
+msgid "None"
+msgstr "Չկա"
+
+msgid "Nothing found"
+msgstr "Ոչինչ չի գտնվել"
+
+msgid "Null-terminated"
+msgstr "Զրոյով ավարտվող"
+
+msgid "Numbers"
+msgstr "Թվեր"
+
+msgid "OK"
+msgstr "Լավ"
+
+msgid "Obfuscator"
+msgstr "Օբֆուսկատոր"
+
+msgid "Object"
+msgstr "Օբյեկտ"
+
+msgid "Objects"
+msgstr "Օբյեկտներ"
+
+msgid "Offset"
+msgstr "Շեղում"
+
+msgid "One operand"
+msgstr "Մեկ օպերանդ"
+
+msgid "Online tools"
+msgstr "Առցանց գործիքներ"
+
+msgid "Opcode"
+msgstr "Օպկոդ"
+
+msgid "Opcode group"
+msgstr "Օպկոդի խումբ"
+
+msgid "Opcodes"
+msgstr "Օպկոդներ"
+
+msgid "Open"
+msgstr "Բացել"
+
+msgid "Open Directory"
+msgstr "Բացել պանակը"
+
+msgid "Open directory"
+msgstr "Բացել պանակը"
+
+msgid "Open file"
+msgstr "Բացել ֆայլը"
+
+msgid "Operation system"
+msgstr "Օպերացիոն համակարգ"
+
+msgid "Options"
+msgstr "Ընտրանքներ"
+
+msgid "Output"
+msgstr "Ելքային տվյալներ"
+
+msgid "Overlay"
+msgstr "Օվերլեյ"
+
+msgid "Overlay scan"
+msgstr "Օվերլեյի սկանավորում"
+
+msgid "PE tool"
+msgstr "PE գործիք"
+
+msgid "Package"
+msgstr "Փաթեթ"
+
+msgid "Packer"
+msgstr "Փաթեթավորիչ"
+
+msgid "Part"
+msgstr "Մաս"
+
+msgid "Patch"
+msgstr "Պատչ"
+
+msgid "Path traversal detected"
+msgstr "Հայտնաբերվել է ուղու շրջանցում (Path traversal)"
+
+msgid "Path"
+msgstr "Ուղի"
+
+msgid "Pause"
+msgstr "Դադար"
+
+msgid "Paused"
+msgstr "Դադարեցված է"
+
+msgid "Payload"
+msgstr "Օգտակար բեռ"
+
+msgid "Personal data"
+msgstr "Անձնական տվյալներ"
+
+msgid "Plain Text"
+msgstr "Հասարակ տեքստ"
+
+msgid "Plain Text Extension"
+msgstr "Հասարակ տեքստի ընդլայնում"
+
+msgid "Platform"
+msgstr "Հարթակ"
+
+msgid "Player"
+msgstr "Նվագարկիչ"
+
+msgid "Please restart the application"
+msgstr "Խնդրում ենք վերագործարկել հավելվածը"
+
+msgid "Please run the program as an administrator"
+msgstr "Խնդրում ենք գործարկել ծրագիրը որպես ադմինիստրատոր"
+
+msgid "Please use valid API key"
+msgstr "Խնդրում ենք օգտագործել վավեր API բանալի"
+
+msgid "Pointer"
+msgstr "Ցուցիչ"
+
+msgid "Position"
+msgstr "Դիրք"
+
+msgid "Previous visited"
+msgstr "Նախորդ այցելած"
+
+msgid "Primary Volume Descriptor"
+msgstr "Հիմնական հատորի նկարագրիչ"
+
+msgid "Print"
+msgstr "Տպել"
+
+msgid "Process"
+msgstr "Գործընթաց"
+
+msgid "Producer"
+msgstr "Արտադրող"
+
+msgid "Profiling"
+msgstr "Պրոֆիլավորում"
+
+msgid "Program name"
+msgstr "Ծրագրի անուն"
+
+msgid "Programs"
+msgstr "Ծրագրեր"
+
+msgid "Protection"
+msgstr "Պաշտպանություն"
+
+msgid "Protector"
+msgstr "Պաշտպանիչ"
+
+msgid "Protector data"
+msgstr "Պաշտպանիչի տվյալներ"
+
+msgid "Prototype"
+msgstr "Նախատիպ"
+
+msgid "Publisher"
+msgstr "Հրատարակիչ"
+
+msgid "RIFF Header"
+msgstr "RIFF վերնագիր"
+
+msgid "ROM"
+msgstr "ROM"
+
+msgid "Raw"
+msgstr "Անմշակ"
+
+msgid "Raw data"
+msgstr "Անմշակ տվյալներ"
+
+msgid "Read buffer size"
+msgstr "Ընթերցման բուֆերի չափս"
+
+msgid "Read error"
+msgstr "Ընթերցման սխալ"
+
+msgid "Readonly"
+msgstr "Միայն ընթերցման համար"
+
+msgid "Rebase"
+msgstr "Վերաբազավորում"
+
+msgid "Recent files"
+msgstr "Վերջին ֆայլերը"
+
+msgid "Record"
+msgstr "Գրառում"
+
+msgid "Recursive"
+msgstr "Ռեկուրսիվ"
+
+msgid "Recursive scan"
+msgstr "Ռեկուրսիվ սկանավորում"
+
+msgid "References"
+msgstr "Հղումներ"
+
+msgid "Region"
+msgstr "Տիրույթ"
+
+msgid "Regions"
+msgstr "Տիրույթներ"
+
+msgid "Register"
+msgstr "Ռեգիստր"
+
+msgid "Registers"
+msgstr "Ռեգիստրներ"
+
+msgid "Regular expression"
+msgstr "Կանոնավոր արտահայտություն"
+
+msgid "Relative address"
+msgstr "Հարաբերական հասցե"
+
+msgid "Relative virtual address"
+msgstr "Հարաբերական վիրտուալ հասցե"
+
+msgid "Reload"
+msgstr "Վերաբեռնել"
+
+msgid "Relocs"
+msgstr "Վերաբաշխումներ"
+
+msgid "Remaining:"
+msgstr "Մնացել է՝"
+
+msgid "Remove"
+msgstr "Հեռացնել"
+
+msgid "Rescan"
+msgstr "Կրկին սկանավորել"
+
+msgid "Reserved"
+msgstr "Պահեստավորված"
+
+msgid "Resize"
+msgstr "Փոխել չափսը"
+
+msgid "Resource"
+msgstr "Ռեսուրս"
+
+msgid "Resource scan"
+msgstr "Ռեսուրսի սկանավորում"
+
+msgid "Resources"
+msgstr "Ռեսուրսներ"
+
+msgid "Restart"
+msgstr "Վերագործարկել"
+
+msgid "Result"
+msgstr "Արդյունք"
+
+msgid "Rule name"
+msgstr "Կանոնի անուն"
+
+msgid "Rules"
+msgstr "Կանոններ"
+
+msgid "Run"
+msgstr "Գործարկել"
+
+msgid "Run path"
+msgstr "Գործարկման ուղի"
+
+msgid "Running"
+msgstr "Աշխատում է"
+
+msgid "Runtime driver"
+msgstr "Կատարման ժամանակի դրայվեր"
+
+msgid "SFX"
+msgstr "SFX"
+
+msgid "SFX data"
+msgstr "SFX տվյալներ"
+
+msgid "SZDD Header"
+msgstr "SZDD վերնագիր"
+
+msgid "Save"
+msgstr "Պահպանել"
+
+msgid "Save Image"
+msgstr "Պահպանել պատկերը"
+
+msgid "Save as"
+msgstr "Պահպանել որպես"
+
+msgid "Save backup"
+msgstr "Պահպանել պահուստային պատճենը"
+
+msgid "Save diagram"
+msgstr "Պահպանել դիագրամը"
+
+msgid "Save dump"
+msgstr "Պահպանել դամփը"
+
+msgid "Save file"
+msgstr "Պահպանել ֆայլը"
+
+msgid "Save history"
+msgstr "Պահպանել պատմությունը"
+
+msgid "Save last directory"
+msgstr "Պահպանել վերջին պանակը"
+
+msgid "Save result"
+msgstr "Պահպանել արդյունքը"
+
+msgid "Scan"
+msgstr "Սկանավորել"
+
+msgid "Scan after open"
+msgstr "Սկանավորել բացելուց հետո"
+
+msgid "Scan engine"
+msgstr "Սկանավորման շարժիչ"
+
+msgid "Schema"
+msgstr "Սխեմա"
+
+msgid "Script"
+msgstr "Սկրիպտ"
+
+msgid "Scripts"
+msgstr "Սկրիպտներ"
+
+msgid "Search"
+msgstr "Որոնում"
+
+msgid "Search from"
+msgstr "Որոնել սկսած"
+
+msgid "Search signature"
+msgstr "Որոնել ստորագրություն"
+
+msgid "Search signatures"
+msgstr "Որոնել ստորագրություններ"
+
+msgid "Search string"
+msgstr "Որոնել տող"
+
+msgid "Search strings"
+msgstr "Որոնել տողեր"
+
+msgid "Search value"
+msgstr "Որոնել արժեք"
+
+msgid "Search values"
+msgstr "Որոնել արժեքներ"
+
+msgid "Section"
+msgstr "Բաժին"
+
+msgid "Section name"
+msgstr "Բաժնի անուն"
+
+msgid "Sections"
+msgstr "Բաժիններ"
+
+msgid "Segment"
+msgstr "Սեգմենտ"
+
+msgid "Segment %1"
+msgstr "Սեգմենտ %1"
+
+msgid "Segment registers"
+msgstr "Սեգմենտային ռեգիստրներ"
+
+msgid "Segments"
+msgstr "Սեգմենտներ"
+
+msgid "Select"
+msgstr "Ընտրել"
+
+msgid "Select Value"
+msgstr "Ընտրել արժեքը"
+
+msgid "Selected"
+msgstr "Ընտրված"
+
+msgid "Selection"
+msgstr "Ընտրություն"
+
+msgid "Serial number"
+msgstr "Սերիական համար"
+
+msgid "Set system environment variable"
+msgstr "Սահմանել համակարգային միջավայրի փոփոխականը"
+
+msgid "Shortcut"
+msgstr "Դյուրանցում"
+
+msgid "Shortcuts"
+msgstr "Դյուրանցումներ"
+
+msgid "Show"
+msgstr "Ցուցադրել"
+
+msgid "Show Offsets"
+msgstr "Ցուցադրել շեղումները"
+
+msgid "Show Presentation"
+msgstr "Ցուցադրել ներկայացումը"
+
+msgid "Show all"
+msgstr "Ցուցադրել բոլորը"
+
+msgid "Show colons in addresses"
+msgstr "Ցուցադրել վերջակետերը հասցեներում"
+
+msgid "Show comments"
+msgstr "Ցուցադրել մեկնաբանությունները"
+
+msgid "Show detects"
+msgstr "Ցուցադրել հայտնաբերումները"
+
+msgid "Show in"
+msgstr "Ցուցադրել այստեղ՝"
+
+msgid "Show info"
+msgstr "Ցուցադրել տեղեկությունը"
+
+msgid "Show logo"
+msgstr "Ցուցադրել պատկերանիշը"
+
+msgid "Show type"
+msgstr "Ցուցադրել տեսակը"
+
+msgid "Show valid"
+msgstr "Ցուցադրել վավերները"
+
+msgid "Show version"
+msgstr "Ցուցադրել տարբերակը"
+
+msgid "Sign tool"
+msgstr "Ստորագրման գործիք"
+
+msgid "Signature"
+msgstr "Ստորագրություն"
+
+msgid "Signature name"
+msgstr "Ստորագրության անուն"
+
+msgid "Signatures"
+msgstr "Ստորագրություններ"
+
+msgid "Signed"
+msgstr "Ստորագրված"
+
+msgid "Single application"
+msgstr "Մեկ հավելված"
+
+msgid "Size"
+msgstr "Չափս"
+
+msgid "Size of image"
+msgstr "Պատկերի չափս"
+
+msgid "Social Media"
+msgstr "Սոցիալական մեդիա"
+
+msgid "Sort"
+msgstr "Տեսակավորել"
+
+msgid "Sort elements"
+msgstr "Տեսակավորել տարրերը"
+
+msgid "Sort type"
+msgstr "Տեսակավորման տեսակ"
+
+msgid "Sorted"
+msgstr "Տեսակավորված"
+
+msgid "Source code"
+msgstr "Ելակետային կոդ"
+
+msgid "Spaces"
+msgstr "Բացատներ"
+
+msgid "Stack"
+msgstr "Ստեկ"
+
+msgid "Stack registers"
+msgstr "Ստեկի ռեգիստրներ"
+
+msgid "Start"
+msgstr "Սկսել"
+
+msgid "Status"
+msgstr "Կարգավիճակ"
+
+msgid "Stay on top"
+msgstr "Մնալ բոլորից վերև"
+
+msgid "Step into"
+msgstr "Քայլ ներս"
+
+msgid "Step over"
+msgstr "Քայլ վրայով"
+
+msgid "Stop"
+msgstr "Կանգնեցնել"
+
+msgid "Stream"
+msgstr "Հոսք"
+
+msgid "Stream Footer"
+msgstr "Հոսքի ստորին էջախորագիր"
+
+msgid "Stream Header"
+msgstr "Հոսքի վերնագիր"
+
+msgid "Stream offset"
+msgstr "Հոսքի շեղում"
+
+msgid "Stream size"
+msgstr "Հոսքի չափս"
+
+msgid "Streams"
+msgstr "Հոսքեր"
+
+msgid "String"
+msgstr "Տող"
+
+msgid "String table"
+msgstr "Տողերի աղյուսակ"
+
+msgid "Strings"
+msgstr "Տողեր"
+
+msgid "Strings view not implemented yet"
+msgstr "Տողերի դիտումը դեռ իրականացված չէ"
+
+msgid "Struct"
+msgstr "Կառուցվածք"
+
+msgid "Struct and unions"
+msgstr "Կառուցվածքներ և միավորումներ"
+
+msgid "Structs"
+msgstr "Կառուցվածքներ"
+
+msgid "Stub"
+msgstr "Ստաբ (Stub)"
+
+msgid "Style"
+msgstr "Ոճ"
+
+msgid "Subdirectories"
+msgstr "Ենթապանակներ"
+
+msgid "Subject"
+msgstr "Սուբյեկտ"
+
+msgid "Symbol"
+msgstr "Սիմվոլ"
+
+msgid "Symbol table"
+msgstr "Սիմվոլների աղյուսակ"
+
+msgid "Symbols"
+msgstr "Սիմվոլներ"
+
+msgid "Sync"
+msgstr "Համաժամեցում"
+
+msgid "Syntax"
+msgstr "Շարահյուսություն"
+
+msgid "TABLE"
+msgstr "ԱՂՅՈՒՍԱԿ"
+
+msgid "TB"
+msgstr "ՏԲ"
+
+msgid "Table"
+msgstr "Աղյուսակ"
+
+msgid "Table Directory"
+msgstr "Աղյուսակների պանակ"
+
+msgid "Table of contents"
+msgstr "Բովանդակություն"
+
+msgid "Table views"
+msgstr "Աղյուսակային դիտումներ"
+
+msgid "Tag"
+msgstr "Պիտակ"
+
+msgid "Tags"
+msgstr "Պիտակներ"
+
+msgid "Text"
+msgstr "Տեքստ"
+
+msgid "Text color"
+msgstr "Տեքստի գույն"
+
+msgid "Text content"
+msgstr "Տեքստային բովանդակություն"
+
+msgid "Text documents"
+msgstr "Տեքստային փաստաթղթեր"
+
+msgid "Text editors"
+msgstr "Տեքստային խմբագրիչներ"
+
+msgid "Text files"
+msgstr "Տեքստային ֆայլեր"
+
+msgid "Thanks"
+msgstr "Շնորհակալություն"
+
+msgid "The file is not signed"
+msgstr "Ֆայլը ստորագրված չէ"
+
+msgid "The file is signed and the signature was verified"
+msgstr "Ֆայլը ստորագրված է, և ստորագրությունը հաստատվել է"
+
+msgid "The signature error"
+msgstr "Ստորագրության սխալ"
+
+msgid "The signature is present, but not trusted"
+msgstr "Ստորագրությունն առկա է, բայց վստահելի չէ"
+
+msgid "The signature is present, but specifically disallowed"
+msgstr "Ստորագրությունն առկա է, բայց հատուկ արգելված է"
+
+msgid "The value copied to clipboard"
+msgstr "Արժեքը պատճենվեց սեղմատախտակին"
+
+msgid "Threads"
+msgstr "Կատարման հոսքեր"
+
+msgid "TiB"
+msgstr "ՏիԲ"
+
+msgid "Time"
+msgstr "Ժամանակ"
+
+msgid "Time date stamp"
+msgstr "Ժամանակի և ամսաթվի դրոշմ"
+
+msgid "Toggle"
+msgstr "Փոխարկել"
+
+msgid "Tool"
+msgstr "Գործիք"
+
+msgid "Tools"
+msgstr "Գործիքներ"
+
+msgid "Total"
+msgstr "Ընդամենը"
+
+msgid "Trace"
+msgstr "Հետագծում"
+
+msgid "Trace into"
+msgstr "Հետագծել ներս"
+
+msgid "Trace over"
+msgstr "Հետագծել վրայով"
+
+msgid "Trailer"
+msgstr "Վերջնամաս (Trailer)"
+
+msgid "Tree"
+msgstr "Ծառ"
+
+msgid "Tree views"
+msgstr "Ծառաձև դիտումներ"
+
+msgid "Trojan"
+msgstr "Տրոյական ծրագիր"
+
+msgid "Two operands"
+msgstr "Երկու օպերանդ"
+
+msgid "Type"
+msgstr "Տեսակ"
+
+msgid "U.Size"
+msgstr "Ապասեղմ. չափս"
+
+msgid "UNKNOWN"
+msgstr "ԱՆՀԱՅՏ"
+
+msgid "Unexpected end of data"
+msgstr "Տվյալների անսպասելի ավարտ"
+
+msgid "Unicode"
+msgstr "Յունիկոդ"
+
+msgid "Universal"
+msgstr "Ունիվերսալ"
+
+msgid "Unknown"
+msgstr "Անհայտ"
+
+msgid "Unknown compression method"
+msgstr "Սեղմման անհայտ մեթոդ"
+
+msgid "Unpack"
+msgstr "Ապափաթեթավորել"
+
+msgid "Unsigned"
+msgstr "Չստորագրված"
+
+msgid "Update"
+msgstr "Թարմացնել"
+
+msgid "Update information"
+msgstr "Թարմացման տեղեկություն"
+
+msgid "Upload the file for analyze?"
+msgstr "Վերբեռնե՞լ ֆայլը վերլուծության համար։"
+
+msgid "Upper"
+msgstr "Վերին"
+
+msgid "Uppercase"
+msgstr "Մեծատառեր"
+
+msgid "Use cache"
+msgstr "Օգտագործել քեշը"
+
+msgid "V.Size"
+msgstr "Վիրտ. չափս"
+
+msgid "Value"
+msgstr "Արժեք"
+
+msgid "Values"
+msgstr "Արժեքներ"
+
+msgid "Variable"
+msgstr "Փոփոխական"
+
+msgid "Verbose"
+msgstr "Մանրամասն"
+
+msgid "Version"
+msgstr "Տարբերակ"
+
+msgid "Video"
+msgstr "Վիդեո"
+
+msgid "View"
+msgstr "Դիտում"
+
+msgid "Viewer"
+msgstr "Դիտարկիչ"
+
+msgid "Virtual address"
+msgstr "Վիրտուալ հասցե"
+
+msgid "Virtual machine"
+msgstr "Վիրտուալ մեքենա"
+
+msgid "Virtual size"
+msgstr "Վիրտուալ չափս"
+
+msgid "Virus"
+msgstr "Վիրուս"
+
+msgid "Visualization"
+msgstr "Վիզուալիզացիա"
+
+msgid "Warning"
+msgstr "Զգուշացում"
+
+msgid "Weak binding"
+msgstr "Թույլ կապում"
+
+msgid "Website"
+msgstr "Կայք"
+
+msgid "Width"
+msgstr "Լայնություն"
+
+msgid "Wildcard"
+msgstr "Փոխարինող նշան (Wildcard)"
+
+msgid "Would you like to download them now?"
+msgstr "Ցանկանո՞ւմ եք ներբեռնել դրանք հիմա։"
+
+msgid "Write error"
+msgstr "Գրելու սխալ"
+
+msgid "YARA rules path not found"
+msgstr "YARA կանոնների ուղին չի գտնվել"
+
+msgid "YARA scan failed"
+msgstr "YARA սկանավորումը ձախողվեց"
+
+msgid "Zeros"
+msgstr "Զրոներ"
+
+msgid "Zoom"
+msgstr "Մասշտաբ"
+
+msgid "Zoom In"
+msgstr "Մեծացնել"
+
+msgid "Zoom Out"
+msgstr "Փոքրացնել"
+
+msgid "data"
+msgstr "տվյալներ"
+
+msgid "extender"
+msgstr "ընդլայնիչ"
+
+msgid "false"
+msgstr "կեղծ"
+
+msgid "kB"
+msgstr "կԲ"
+
+msgid "msec"
+msgstr "մվրկ"
+
+msgid "not packed"
+msgstr "փաթեթավորված չէ"
+
+msgid "packed"
+msgstr "փաթեթավորված է"
+
+msgid "true"
+msgstr "ճիշտ"
