@@ -24,7 +24,7 @@ Translation for:
 | French               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_fr.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
 | Hebrew               | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_he.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
 | Hindi                | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_hi_IN.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
-| hy_am                | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_hy_am.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
+| Armenian             | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_hy_am.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
 | Indonesian           | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_id.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
 | Italian              | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_it.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
 | Japanese             | <a href="https://github.com/horsicq/XTranslation/blob/master/dicts/dict_ja.po"> <img src="https://img.shields.io/badge/progress-100%25-brightgreen" /> </a> |
