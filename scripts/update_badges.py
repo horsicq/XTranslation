@@ -12,6 +12,7 @@ def main():
         'fa': 'Persian',
         'fr': 'French',
         'he': 'Hebrew',
+        'hy_am': 'Armenian',
         'hi_in': 'Hindi',
         'id': 'Indonesian',
         'it': 'Italian',
